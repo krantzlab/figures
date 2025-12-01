@@ -1,35 +1,55 @@
-name: Optimize Figures for Web
+name: Generate Figures (Web & Print)
 
 on:
   push:
     paths:
-      - 'source-svg/**.svg' # Trigger when source changes
-      - 'svgo.config.js'    # Trigger when config changes
+      - 'source-svg/**.svg'
+      - 'svgo.config.js'
 
 permissions:
   contents: write
 
 jobs:
-  optimize-and-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      # --- SETUP TOOLS ---
+      - name: Install Node & SVGO
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+      - run: npm install -g svgo
 
-      - name: Install SVGO
-        run: npm install -g svgo
-
-      - name: Run Optimization Script
-        # Output to a temporary folder named 'dist'
+      - name: Install Inkscape
         run: |
-          mkdir -p dist
-          svgo -f source-svg -o dist
+          sudo apt-get update
+          sudo apt-get install -y inkscape
 
+      # --- PREPARE FOLDERS ---
+      - name: Create Web and Print Directories
+        run: |
+          mkdir -p dist/web
+          mkdir -p dist/print
+
+      # --- GENERATE WEB ASSETS (Optimized SVG) ---
+      - name: Generate Web Assets
+        # Optimizes SVGs for small size and RGB color
+        run: svgo -f source-svg -o dist/web
+
+      # --- GENERATE PRINT ASSETS (PDF) ---
+      - name: Generate Print Assets
+        # Converts SVGs to high-res PDF for manuscripts
+        run: |
+          for file in source-svg/*.svg; do
+            filename=$(basename "$file" .svg)
+            echo "Converting $filename to PDF..."
+            inkscape "$file" --export-filename="dist/print/$filename.pdf"
+          done
+
+      # --- DEPLOY ---
       - name: Deploy to 'dist' branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -38,4 +58,4 @@ jobs:
           publish_branch: dist
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: "🚀 Deploy optimized figures"
+          commit_message: "🚀 Update Web and Print assets"
