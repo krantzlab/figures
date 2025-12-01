@@ -12,10 +12,11 @@ module.exports = {
     },
     // 2. Remove width/height so the image is responsive (relies on viewBox)
     'removeDimensions',
-    // 3. Clean up the messy metadata (fixed Regex to prevent crashes)
+    // 3. Clean up the messy metadata 
     {
       name: 'removeAttrs',
       params: {
+        // distinct change: removed colons and parentheses to prevent regex crash
         attrs: 'data-name|inkscape.*|sodipodi.*',
       },
     },
