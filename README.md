@@ -4,9 +4,9 @@ This repository acts as the central source of truth for all diagrams, illustrati
 
 ## 📂 Directory Structure
 
-* **`/src`**: Native Adobe Illustrator (`.ai`) files. **Edit these.**
-* **`/dist`**: Optimized SVGs for Web/Presentations. **Link to these.**
-* **`/print`**: High-res PDFs/CMYK files for Manuscripts/Posters.
+* **`/source-svg`**: Native Inkscape SVG files files. **Edit these.**
+* **`/export/web`**: Optimized SVGs for Web/Presentations. **Link to these.**
+* **`/export/pdf`**: High-res PDFs/CMYK files for Manuscripts/Posters.
 
 ---
 
@@ -31,4 +31,4 @@ This repository acts as the central source of truth for all diagrams, illustrati
 **For Websites:**
 Use the **CDN Link**. It allows for caching and instant loading.
 ```html
-<img src="[https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/lab-logo.svg](https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/lab-logo.svg)" alt="Krantz Lab Logo">
+<img src="[https://cdn.jsdelivr.net/gh/krantzlab/figures/export/web/logo-aaaai-foundation.svg](https://cdn.jsdelivr.net/gh/krantzlab/figures/export/web/logo-aaaai-foundation.svg)" alt="AAAAI Foundation Logo">
