@@ -3,13 +3,14 @@ name: Optimize Figures for Web
 on:
   push:
     paths:
-      - 'source-svg/**.svg' # Only run if an SVG in source is changed
+      - 'source-svg/**.svg' # Trigger when source changes
+      - 'svgo.config.js'    # Trigger when config changes
 
 permissions:
   contents: write
 
 jobs:
-  optimize:
+  optimize-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
@@ -23,15 +24,18 @@ jobs:
       - name: Install SVGO
         run: npm install -g svgo
 
-      - name: Create Output Directory
-        run: mkdir -p export/web
-
       - name: Run Optimization Script
-        # This command will automatically look for svgo.config.js in your main folder
-        run: svgo -f source-svg -o export/web
+        # Output to a temporary folder named 'dist'
+        run: |
+          mkdir -p dist
+          svgo -f source-svg -o dist
 
-      - name: Commit Optimized Files
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Deploy to 'dist' branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          commit_message: "🤖 Auto-optimized SVGs for Web"
-          file_pattern: "export/web/*.svg"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: dist
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: "🚀 Deploy optimized figures"
