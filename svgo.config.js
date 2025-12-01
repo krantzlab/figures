@@ -1,22 +1,22 @@
 module.exports = {
-  multipass: true, // Runs multiple passes to squeeze out every byte
+  multipass: true,
   plugins: [
     {
       name: 'preset-default',
       params: {
         overrides: {
-          // IMPORTANT: Do not remove the viewBox, or scaling breaks!
+          // 1. Keep the viewBox so images scale correctly on the web
           removeViewBox: false,
         },
       },
     },
-    // Remove width/height attributes so the SVG expands to fit the container
-    'removeDimensions', 
-    // Remove Inkscape/Adobe metadata
+    // 2. Remove width/height so the image is responsive (relies on viewBox)
+    'removeDimensions',
+    // 3. Clean up the messy metadata (fixed Regex to prevent crashes)
     {
       name: 'removeAttrs',
       params: {
-        attrs: '(data-name|inkscape:.*|sodipodi:.*)',
+        attrs: 'data-name|inkscape.*|sodipodi.*',
       },
     },
   ],
