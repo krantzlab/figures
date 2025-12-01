@@ -31,4 +31,4 @@ This repository acts as the central source of truth for all diagrams, illustrati
 **For Websites:**
 Use the **CDN Link**. It allows for caching and instant loading.
 ```html
-<img src="[https://cdn.jsdelivr.net/gh/krantzlab/figures/export/web/logo-aaaai-foundation.svg](https://cdn.jsdelivr.net/gh/krantzlab/figures/export/web/logo-aaaai-foundation.svg)" alt="AAAAI Foundation Logo">
+<img src="[https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/logo-aaaai-foundation.svg](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/logo-aaaai-foundation.svg)" alt="AAAAI Foundation Logo">
