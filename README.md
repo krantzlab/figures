@@ -1,32 +1,35 @@
 # Krantz Lab Figures & Visuals
 
-This repository acts as the central source of truth for all diagrams, illustrations, and logos used by the Krantz Lab.
+This repository is the central source of truth for all diagrams, scientific figures, and branding assets used by the Krantz Lab.
 
-## 📂 Directory Structure
-
--   **`/source-svg`**: Native Inkscape SVG files files. **Edit these.**
--   **`/export/web`**: Optimized SVGs for Web/Presentations. **Link to these.**
--   **`/export/pdf`**: High-res PDFs/CMYK files for Manuscripts/Posters.
+> **⚠️ IMPORTANT:** Do not manually create PDF or Web versions. Just edit the **Source** file, and our automated robot will generate the Web and Print versions for you.
 
 ------------------------------------------------------------------------
 
-## 🖼️ Figure Catalog
+## 📂 Where are the files?
 
-### Brand & Logos
+This repository is split into two branches to keep things clean:
 
-| Preview | Filename | CDN Link (Web) |
-|:--------------------------:|:---------------------|:---------------------|
-| <img src="https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg" width="200"/> | `lab-logo.svg` | [Copy Link](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg) |
-
-### Scientific Diagrams
-
-| Preview | Filename | CDN Link (Web) |
-|:--------------------------:|:---------------------|:---------------------|
-| <img src="./dist/pathway-mechanism.svg" width="150"/> | `pathway-mechanism.svg` | [Copy Link](https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/pathway-mechanism.svg) |
-| <img src="./dist/experimental-setup.svg" width="150"/> | `experimental-setup.svg` | [Copy Link](https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/experimental-setup.svg) |
+1.  **`main` Branch (You are here):** Contains the **Source Code**.
+    -   📂 `source-svg/` → **EDIT THESE FILES.** Use Inkscape.
+2.  **`dist` Branch (The Output):** Contains the **Final Assets**.
+    -   📂 `web/` → Optimized SVGs (Use for Websites/Quarto).
+    -   📂 `print/` → High-Res PDFs (Use for Manuscripts/Posters).
 
 ------------------------------------------------------------------------
 
-## 👩‍🔬 How to use
+## 👩‍🔬 How to Use
 
-**For Websites:** Use the **CDN Link**. It allows for caching and instant loading. \`\`\`html <img src="[https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/logo-aaaai-foundation.svg](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/logo-aaaai-foundation.svg)" alt="AAAAI Foundation Logo"/>
+### For Websites (HTML)
+
+Use the **CDN Link**. This loads the optimized SVG directly from the `dist` branch. It is fast, cached, and always up to date.
+
+**Pattern:** `https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg`
+
+**Example (Copy/Paste into Quarto):**
+
+``` markdown
+![Krantz Lab Navbar Logo](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}
+```
+
+![](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}

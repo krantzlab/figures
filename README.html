@@ -353,92 +353,49 @@ display: none;
 
 
 <div id="krantz-lab-figures-visuals" class="section level1">
-<h1>Krantz Lab Figures &amp; Visuals</h1>
-<p>This repository acts as the central source of truth for all diagrams,
-illustrations, and logos used by the Krantz Lab.</p>
-<div id="directory-structure" class="section level2">
-<h2>📂 Directory Structure</h2>
+<h1>🔬 Krantz Lab Figures &amp; Visuals</h1>
+<p>This repository is the central source of truth for all diagrams,
+scientific figures, and branding assets used by the Krantz Lab.</p>
+<blockquote>
+<p><strong>⚠️ IMPORTANT:</strong> Do not manually create PDF or Web
+versions. Just edit the <strong>Source</strong> file, and our automated
+robot will generate the Web and Print versions for you.</p>
+</blockquote>
+<hr />
+<div id="where-are-the-files" class="section level2">
+<h2>📂 Where are the files?</h2>
+<p>This repository is split into two branches to keep things clean:</p>
+<ol style="list-style-type: decimal">
+<li><strong><code>main</code> Branch (You are here):</strong> Contains
+the <strong>Source Code</strong>.
 <ul>
-<li><strong><code>/source-svg</code></strong>: Native Inkscape SVG files
-files. <strong>Edit these.</strong></li>
-<li><strong><code>/export/web</code></strong>: Optimized SVGs for
-Web/Presentations. <strong>Link to these.</strong></li>
-<li><strong><code>/export/pdf</code></strong>: High-res PDFs/CMYK files
-for Manuscripts/Posters.</li>
-</ul>
+<li>📂 <code>source-svg/</code> → <strong>EDIT THESE FILES.</strong> Use
+Inkscape.</li>
+</ul></li>
+<li><strong><code>dist</code> Branch (The Output):</strong> Contains the
+<strong>Final Assets</strong>.
+<ul>
+<li>📂 <code>web/</code> → Optimized SVGs (Use for
+Websites/Quarto).</li>
+<li>📂 <code>print/</code> → High-Res PDFs (Use for
+Manuscripts/Posters).</li>
+</ul></li>
+</ol>
 <hr />
-</div>
-<div id="figure-catalog" class="section level2">
-<h2>🖼️ Figure Catalog</h2>
-<div id="brand-logos" class="section level3">
-<h3>Brand &amp; Logos</h3>
-<table>
-<colgroup>
-<col width="38%" />
-<col width="30%" />
-<col width="30%" />
-</colgroup>
-<thead>
-<tr>
-<th align="center">Preview</th>
-<th align="left">Filename</th>
-<th align="left">CDN Link (Web)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><img role="img" src="./dist/lab-logo.svg" width="150"></td>
-<td align="left"><code>lab-logo.svg</code></td>
-<td align="left"><a href="https://cdn.jsdelivr.net/gh/krantzlab/figures/dist/lab-logo.svg">Copy
-Link</a></td>
-</tr>
-<tr>
-<td align="center"><img role="img" src="./dist/foundation-logo.svg" width="150"></td>
-<td align="left"><code>foundation-logo.svg</code></td>
-<td align="left"><a href="https://cdn.jsdelivr.net/gh/krantzlab/figures/dist/foundation-logo.svg">Copy
-Link</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="scientific-diagrams" class="section level3">
-<h3>Scientific Diagrams</h3>
-<table>
-<colgroup>
-<col width="38%" />
-<col width="30%" />
-<col width="30%" />
-</colgroup>
-<thead>
-<tr>
-<th align="center">Preview</th>
-<th align="left">Filename</th>
-<th align="left">CDN Link (Web)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><img role="img" src="./dist/pathway-mechanism.svg" width="150"></td>
-<td align="left"><code>pathway-mechanism.svg</code></td>
-<td align="left"><a href="https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/pathway-mechanism.svg">Copy
-Link</a></td>
-</tr>
-<tr>
-<td align="center"><img role="img" src="./dist/experimental-setup.svg" width="150"></td>
-<td align="left"><code>experimental-setup.svg</code></td>
-<td align="left"><a href="https://cdn.jsdelivr.net/gh/KRANTZ-LAB-USERNAME/figures/dist/experimental-setup.svg">Copy
-Link</a></td>
-</tr>
-</tbody>
-</table>
-<hr />
-</div>
 </div>
 <div id="how-to-use" class="section level2">
-<h2>👩‍🔬 How to use</h2>
-<p><strong>For Websites:</strong> Use the <strong>CDN Link</strong>. It
-allows for caching and instant loading. ```html
-<img role="img" aria-label="AAAAI Foundation Logo" src="[https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/logo-aaaai-foundation.svg](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/logo-aaaai-foundation.svg)" alt="AAAAI Foundation Logo"></p>
+<h2>👩‍🔬 How to Use</h2>
+<div id="for-websites-html" class="section level3">
+<h3>For Websites (HTML)</h3>
+<p>Use the <strong>CDN Link</strong>. This loads the optimized SVG
+directly from the <code>dist</code> branch. It is fast, cached, and
+always up to date.</p>
+<p><strong>Pattern:</strong>
+<code>https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg</code></p>
+<p><strong>Example (Copy/Paste into Quarto):</strong></p>
+<pre class="markdown"><code>![Krantz Lab Navbar Logo](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width=&quot;200&quot;}</code></pre>
+<p><img role="img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiB2aWV3Qm94PSIwIDAgMjE4LjE3IDM5Ljk5Ij48ZGVmcz48c3R5bGU+LnN0MHtmaWxsOiM3NGEwZDF9LnN0MXtmaWxsOiM5OWJhZGR9LnN0NntmaWxsOiMzNjZkYTZ9PC9zdHlsZT48L2RlZnM+PHBhdGggZD0ibTQ5Ljc3IDE5Ljk3LjY3LjM4IDExLjM2IDYuNDIuNTYuMzEiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJtNjEuNjMgMjguMzktLjU2LS4zMS0xMi4wNC02LjggMS40OC0yLjYxIDEyLjU4IDcuMXoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJtNDkuOTYgMjAuODYuNTUtLjIzIDcuNjMtMy4wOCA3LjE3LTIuOSIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Im01MC41NCAyMi4yNC0xLjE2LTIuNzYuNTUtLjIzIDE0LjgyLTUuOTkgMS4xMiAyLjc4em0uOTEtMTEuODQuNi4xNCA3LjQgMS43NCA0LjY5IDEuMTEuMS4wMiIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Im02My45NSAxNC44OC0uMS0uMDItMTIuNzQtMyAuNjgtMi45MiAxMi43NCAzeiIgY2xhc3M9InN0MCIvPjxnIHN0eWxlPSJpc29sYXRpb246aXNvbGF0ZSI+PHRleHQgc3R5bGU9Imlzb2xhdGlvbjppc29sYXRlO2ZvbnQtZmFtaWx5OkZ1dHVyYS1Cb2xkLEZ1dHVyYTtmb250LXNpemU6MTUuOTNweDtmb250LXdlaWdodDo3MDA7bGV0dGVyLXNwYWNpbmc6LjE0ZW0iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDg2LjQzIDM0LjUxKSI+PHRzcGFuIHg9IjAiIHk9IjAiPktSQU5UWiA8L3RzcGFuPjwvdGV4dD48dGV4dCBzdHlsZT0iaXNvbGF0aW9uOmlzb2xhdGU7Zm9udC1mYW1pbHk6RnV0dXJhLUJvbGQsRnV0dXJhO2ZvbnQtc2l6ZToxNS45M3B4O2ZvbnQtd2VpZ2h0OjcwMDtsZXR0ZXItc3BhY2luZzouMThlbSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTc4Ljk5IDM0LjUxKSI+PHRzcGFuIHg9IjAiIHk9IjAiPkw8L3RzcGFuPjwvdGV4dD48dGV4dCBzdHlsZT0iaXNvbGF0aW9uOmlzb2xhdGU7bGV0dGVyLXNwYWNpbmc6LjE0ZW07Zm9udC1mYW1pbHk6RnV0dXJhLUJvbGQsRnV0dXJhO2ZvbnQtc2l6ZToxNS45M3B4O2ZvbnQtd2VpZ2h0OjcwMCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTkwLjI1IDM0LjUxKSI+PHRzcGFuIHg9IjAiIHk9IjAiPkFCPC90c3Bhbj48L3RleHQ+PC9nPjxwYXRoIGQ9Ik02OC44NSAyMy40OWMtLjQ5LS42Ny0uNzctMS40OS0uNzctMi4zOHMuMy0xLjc1LjgtMi40M2MuNzQtLjk5IDEuOTItMS42MyAzLjI1LTEuNjMgMi4yNCAwIDQuMDYgMS44MiA0LjA2IDQuMDYgMCAuNDUtLjA3Ljg4LS4yMSAxLjI4YTQuMDUgNC4wNSAwIDAgMS0zLjg1IDIuNzhjLTEuMzUgMC0yLjU1LS42Ni0zLjI4LTEuNjdaIiBjbGFzcz0ic3Q2Ii8+PHBhdGggZD0iTTcyLjEzIDI1LjY3Yy0xLjQ2IDAtMi44NC0uNy0zLjY5LTEuODhsLS4wOS0uMTRjLS41LS43NS0uNzctMS42Mi0uNzctMi41NCAwLS45Ny4zMi0xLjk0LjktMi43M2E0LjUgNC41IDAgMCAxIDMuNjUtMS44MyA0LjU3IDQuNTcgMCAwIDEgNC41NiA0LjU2YzAgLjUxLS4wOC45OS0uMjQgMS40NWE0LjUzIDQuNTMgMCAwIDEtNC4zMiAzLjExbS0yLjc4LTIuMzRjLjY3Ljg0IDEuNjkgMS4zNCAyLjc4IDEuMzQgMS41NCAwIDIuOS0uOTggMy4zOC0yLjQ0LjEyLS4zNS4xOS0uNzMuMTktMS4xMiAwLTEuOTYtMS42LTMuNTYtMy41Ni0zLjU2LTEuMTMgMC0yLjE3LjUyLTIuODUgMS40My0uNDUuNjEtLjcgMS4zNy0uNyAyLjEzcy4yMyAxLjQ4LjY3IDIuMDhsLjEuMTRabS02LjYzLS4xOWMxLjA0LjE3IDEuOTMuNzkgMi40NSAxLjY2LjMyLjU0LjUxIDEuMTYuNTEgMS44NCAwIDEuOTYtMS41OCAzLjU0LTMuNTQgMy41NGEzLjUzNCAzLjUzNCAwIDAgMS0zLjUzLTMuMzh2LS4xNmMwLTEuMS41LTIuMDggMS4yOS0yLjczYTMuNSAzLjUgMCAwIDEgMi44Mi0uNzZaIiBjbGFzcz0ic3Q2Ii8+PHBhdGggZD0iTTYyLjE0IDMwLjY4Yy0uMzUgMC0uNjctLjA0LS45Ny0uMTJhNC4wMSA0LjAxIDAgMCAxLTMuMDYtMy43NHYtLjE4YzAtMS4yMS41NC0yLjM1IDEuNDctMy4xMi43My0uNjEgMS42Ni0uOTYgMi42NC0uOTJ2LS4wNGwuNTguMDhhNCA0IDAgMCAxIDIuOCAxLjljLjM5LjY1LjU4IDEuMzYuNTggMi4xIDAgMi4yMy0xLjgxIDQuMDQtNC4wNCA0LjA0bS4wMS03LjA4Yy0uNzEgMC0xLjM5LjI1LTEuOTMuNjktLjcxLjU4LTEuMTEgMS40NC0xLjExIDIuMzV2LjE2Yy4wNiAxLjM0Ljk5IDIuNDcgMi4zMSAyLjc5LjIyLjA2LjQ2LjA4LjcyLjA4IDEuNjggMCAzLjA0LTEuMzYgMy4wNC0zLjA0IDAtLjU2LS4xNS0xLjA5LS40NC0xLjU4YTMuMDQgMy4wNCAwIDAgMC0xLjg0LTEuMzdsLS4yNy0uMDRhMi42IDIuNiAwIDAgMC0uNDktLjA0WiIgY2xhc3M9InN0NiIvPjxwYXRoIGQ9Ik01Mi41OSAxMy4yMWMtLjI5LjE0LS42Mi4yMS0uOTcuMjEtLjQzIDAtLjgzLS4xMi0xLjE3LS4zMmEyLjMxIDIuMzEgMCAwIDEtMS4xNS0yYzAtMS4yOCAxLjA0LTIuMzIgMi4zMi0yLjMyYTIuMzIyIDIuMzIyIDAgMCAxIC45NyA0LjQzIiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTUxLjYyIDE0LjkyYy0uNjggMC0xLjM0LS4xOC0xLjkzLS41M2EzLjgyIDMuODIgMCAwIDEtMS44OS0zLjI5IDMuODIgMy44MiAwIDEgMSA3LjI1IDEuNjggMy43OSAzLjc5IDAgMCAxLTMuNDMgMi4xM1ptMC00LjY0Yy0uNDUgMC0uODIuMzctLjgyLjgyIDAgLjI5LjE1LjU2LjQuNy4yNS4xNS41Ni4xNC43NC4wNmguMDNjLjE2LS4wOS4zMS0uMjMuMzktLjM5LjA2LS4xMi4wOS0uMjQuMDktLjM3IDAtLjQ1LS4zNy0uODItLjgyLS44MlpNNDEuNTMgMi45NnYuNTJsLS4wNyAxNC41M2MtLjE3LjMxLS4yNy42Ni0uMjcgMS4wM3MuMDkuNzEuMjYgMS4wMWwtLjA3IDE1LjAxdi4zNUgxOS4zOWMtOC45NiAwLTE2LjIzLTcuMjctMTYuMjMtMTYuMjNTMTAuNDMgMi45NiAxOS4zOSAyLjk2eiIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Ik00Mi44OCAzNi45MUgxOS4zOWMtOS43OCAwLTE3LjczLTcuOTUtMTcuNzMtMTcuNzNTOS42MSAxLjQ2IDE5LjM5IDEuNDZoMjMuNjR2Mi4wMmwtLjA3IDE0LjkyLS4xOC4zM2EuNjEuNjEgMCAwIDAtLjAzLjU4bC4yLjM1ek0xOS4zOSA0LjQ2Yy04LjEyIDAtMTQuNzMgNi42LTE0LjczIDE0LjcyczYuNjEgMTQuNzMgMTQuNzMgMTQuNzNoMjAuNWwuMDYtMTMuNTNhMy42IDMuNiAwIDAgMSAuMDEtMi43MWwuMDYtMTMuMjF6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTQwLjggMTcuNTh2Mi4wNGEyLjA2IDIuMDYgMCAwIDEgMC0yLjA0IiBjbGFzcz0ic3QxIi8+PHBhdGggZD0iTTE4LjczIDM0Ljk4Yy04Ljk2IDAtMTYuMjMtNy4yNy0xNi4yMy0xNi4yM1M5Ljc3IDIuNTIgMTguNzMgMi41MiIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Ik0xOC43MyAzNy40OEM4LjQgMzcuNDggMCAyOS4wOCAwIDE4Ljc1UzguNC4wMiAxOC43My4wMnY1QzExLjE2IDUuMDIgNSAxMS4xOCA1IDE4Ljc1czYuMTYgMTMuNzMgMTMuNzMgMTMuNzN6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTY0LjU3IDM3LjQ2di01YzYuMjcgMCAxMS43NC00LjIzIDEzLjMtMTAuMjkuMjktMS4xMi40My0yLjI4LjQzLTMuNDQgMC02LjUxLTQuNjMtMTIuMTctMTEuMDEtMTMuNDYtLjY3LS4xMy0xLjM5LS4yMi0yLjExLS4yNS0uMjYtLjAyLS40My0uMDItLjYxLS4wMlYwYy4zMiAwIC42MyAwIC45NC4wMy44OC4wNCAxLjg0LjE2IDIuNzcuMzQgOC43MSAxLjc2IDE1LjAzIDkuNDggMTUuMDMgMTguMzYgMCAxLjU3LS4yIDMuMTQtLjU5IDQuNjgtMi4xMyA4LjI4LTkuNTkgMTQuMDUtMTguMTQgMTQuMDVaIiBjbGFzcz0ic3Q2Ii8+PHBhdGggZD0iTTU4LjcxIDM0Ljk4SDE4LjczbTAtMi41aDM5Ljk4djVIMTguNzN6IiBjbGFzcz0ic3QwIi8+PHBhdGggZD0iTTU4LjcxIDMyLjQ4aDYuNDV2NWgtNi40NXpNNjIuMTEuMDJoMy4xOXY1aC0zLjE5eiIgY2xhc3M9InN0NiIvPjxwYXRoIGQ9Ik0xOC43My4wMmg0My4zOHY1SDE4LjczeiIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Im0zNS44MDQgMTcuNTU2LjA3MS0xNC41NCAxMCAuMDUtLjA3MSAxNC41NHoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJtMzUuNzE3IDM0LjYwOS4wNy0xOS45NCAxMCAuMDM1LS4wNyAxOS45NHoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNNTMuODEgMTkuODNjLjM0LjM4LjU1Ljg4LjU1IDEuNDN2LjFjLS4wMy41Ny0uMjcgMS4wOC0uNjYgMS40NWEyLjEzMiAyLjEzMiAwIDEgMS0yLjgxLTMuMmMuMzctLjMuODQtLjQ4IDEuMzUtLjQ4LjYyIDAgMS4xOC4yNyAxLjU3LjciIHN0eWxlPSJmaWxsOiM0Yzg2YzUiLz48cGF0aCBkPSJNNTIuMjQgMjUuMzljLTIuMjggMC00LjEzLTEuODUtNC4xMy00LjEzIDAtMS4yNS41NS0yLjQyIDEuNTItMy4yLjc0LS42IDEuNjctLjkzIDIuNjEtLjkzIDEuMTYgMCAyLjI3LjQ5IDMuMDUgMS4zNi42OC43NyAxLjA2IDEuNzUgMS4wNiAyLjc3di4yMWE0LjE2IDQuMTYgMCAwIDEtMS4yOCAyLjhjLS43Ny43My0xLjc3IDEuMTMtMi44NCAxLjEzWm0wLTQuMjZjLS4xLjA0LS4xMy4wNy0uMTMuMTMgMCAuMDguMDcuMTMuMTMuMTMuMDktLjA0LjExLS4wOC4xMi0uMTF2LS4wMnMwLS4wNS0uMDQtLjA5Yy0uMDMtLjAzLS4wNS0uMDQtLjA4LS4wNCIgY2xhc3M9InN0MCIvPjxwYXRoIGQ9Im02Mi44NCAyNi40OSA4LjktNC4zNy42Ny0uMzIiIGNsYXNzPSJzdDEiLz48cGF0aCBkPSJtNjMuNSAyNy44NC0xLjMyLTIuNyA5LjU4LTQuNjkgMS4zIDIuNy0uNjcuMzJ6bS0xLjMgMS41Mi0uMDMuNDktLjI4IDQuNTkiIGNsYXNzPSJzdDYiLz48cGF0aCBkPSJtNjAuMzk2IDM0LjM1LjMwOC01LjA4MiAyLjk5NC4xODItLjMwOCA1LjA4ek03NS41MyAyMS4zOWwuMTYuMDUgMy45OSAxLjIyIiBjbGFzcz0ic3Q2Ii8+PHBhdGggZD0ibTc5LjI0IDI0LjA5LTQuMTYtMS4yNy45LTIuODYgNC4xNCAxLjI3em0tMTUuNzg5LTkuOTgxIDUuODk5LTkuMjM3IDIuNTI4IDEuNjE0LTUuODk4IDkuMjM3eiIgY2xhc3M9InN0NiIvPjxwYXRoIGQ9Im00OS45NTkgMTIuMDE1IDMtLjAyMy4wNSA2LjYyLTMgLjAyMnptLTMuMjAyLTguNTAxIDIuNzY1LTEuMTY0IDIuMzExIDUuNDk0LTIuNzY1IDEuMTYzem0tNi42MiAxOS41ODIgOC4zMjctMy4zODggMS4xMyAyLjc3OS04LjMyNiAzLjM4OHoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJNNjYuMjEgMTAuMzZjMS4xNy4xOSAyLjE3Ljg5IDIuNzcgMS44N2EzLjk4OCAzLjk4OCAwIDAgMS0zLjQxIDYuMDZjLS4zMyAwLS42NC0uMDQtLjk1LS4xMWEzLjk5IDMuOTkgMCAwIDEtMy4wNC0zLjd2LS4xOGE0IDQgMCAwIDEgMS40NS0zLjA4Yy42OS0uNTcgMS41Ny0uOTEgMi41NC0uOTEuMjIgMCAuNDQuMDIuNjUuMDV6IiBjbGFzcz0ic3Q2Ii8+PHBhdGggZD0iTTY1LjU3IDE4Ljc5Yy0uMzUgMC0uNjktLjA0LTEuMDYtLjEyYTQuNTIgNC41MiAwIDAgMS0zLjQzLTQuMTd2LS4yYzAtMS4zNC41OS0yLjYgMS42My0zLjQ2LjgxLS42NyAxLjgtMS4wMyAyLjg2LTEuMDMuMjQgMCAuNDkuMDIuNzIuMDUgMS4yOS4yMSAyLjQzLjk4IDMuMTIgMi4xLjQzLjY5LjY1IDEuNS42NSAyLjMzYTQuNDkgNC40OSAwIDAgMS00LjQ5IDQuNDlabTAtNy45OGMtLjgyIDAtMS41OS4yNy0yLjIyLjhhMy40OCAzLjQ4IDAgMCAwLTEuMjcgMi42OXYuMThhMy40OSAzLjQ5IDAgMCAwIDIuNjYgMy4yMWMyLjI4LjUxIDQuMzItMS4yIDQuMzItMy4zOSAwLS42NS0uMTctMS4yNy0uNTEtMS44MWEzLjUgMy41IDAgMCAwLTIuNDItMS42NGMtLjE4LS4wMy0uMzctLjA0LS41Ni0uMDQiIGNsYXNzPSJzdDYiLz48cGF0aCBkPSJtNjQuMzMxIDE2LjI3NSAxLjcxLTIuNDY1IDguMzkgNS44Mi0xLjcxIDIuNDY1eiIgY2xhc3M9InN0NiIvPjwvc3ZnPg==" width="200" /></p>
+</div>
 </div>
 </div>
 
