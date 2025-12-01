@@ -16,7 +16,7 @@ This repository acts as the central source of truth for all diagrams, illustrati
 
 | Preview | Filename | CDN Link (Web) |
 |:--------------------------:|:---------------------|:---------------------|
-| ![](./dist/web/navbar-logo-krantzlab.svg) | `lab-logo.svg` | [Copy Link](https://cdn.jsdelivr.net/gh/krantzlab/figures/dist/lab-logo.svg) |
+| <img src="/dist/web/navbar-logo-krantzlab.svg" width="150"/> | `lab-logo.svg` | [Copy Link](https://cdn.jsdelivr.net/gh/krantzlab/figures/dist/lab-logo.svg) |
 
 ### Scientific Diagrams
 
