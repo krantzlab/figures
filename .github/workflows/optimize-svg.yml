@@ -1,3 +1,37 @@
-- name: Run Optimization Script
-        # We don't need the long config string anymore; it reads svgo.config.js automatically
+name: Optimize Figures for Web
+
+on:
+  push:
+    paths:
+      - 'source-svg/**.svg' # Only run if an SVG in source is changed
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install SVGO
+        run: npm install -g svgo
+
+      - name: Create Output Directory
+        run: mkdir -p export/web
+
+      - name: Run Optimization Script
+        # This command will automatically look for svgo.config.js in your main folder
         run: svgo -f source-svg -o export/web
+
+      - name: Commit Optimized Files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 Auto-optimized SVGs for Web"
+          file_pattern: "export/web/*.svg"
