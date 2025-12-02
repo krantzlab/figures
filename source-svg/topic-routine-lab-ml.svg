@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="topic-routine-lab-ml.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2445079"
+     inkscape:cx="601.44253"
+     inkscape:cy="232.62206"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="418"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+        /* Lab's Blue Palette */
+        .st_light_blue{fill:#ccddec}
+        .st_medium_blue{fill:#99badd}
+        .st_dark_blue{fill:#4c86c5}
+        /* New Colors for Blood Tube */
+        .st_blood_red{fill:#c0392b}
+        .st_lavender{fill:#9b59b6}
+        /* Style for the graph line */
+        .st_graph_line{fill:none;stroke:#4c86c5;stroke-width:12;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <g
+     transform="translate(248.41491,140.40495)"
+     id="g5">
+    <path
+       id="rect1"
+       class="st_light_blue"
+       d="m 11.999472,40.000528 c -6.6480001,0 -12.000000125,5.352 -12.000000125,12 V 302.93217 a 50.369476,43.551296 0 0 0 -0.369140625,4.45508 50.369476,43.551296 0 0 0 50.36914075,43.55078 50.369476,43.551296 0 0 0 50.369138,-43.55078 50.369476,43.551296 0 0 0 -0.369138,-5.16993 V 52.000528 c 0,-6.648 -5.352,-12 -12,-12 z" />
+    <path
+       id="rect2"
+       class="st_blood_red"
+       d="m 15.431112,104.20365 c -4.432,0 -7.9999995,4.22118 -7.9999995,9.46453 v 178.46505 a 42.13026,46.381564 0 0 0 -0.044922,0.6909 42.13026,46.381564 0 0 0 0.044922,0.69088 v 4.71147 c 0,1.70358 0.4078145,3.27796 1.0683594,4.65601 A 42.13026,46.381564 0 0 0 49.51705,339.20401 42.13026,46.381564 0 0 0 90.665487,302.22395 c 0.479075,-1.21631 0.765625,-2.56245 0.765625,-3.99747 v -2.08654 a 42.13026,46.381564 0 0 0 0.214844,-3.31581 42.13026,46.381564 0 0 0 -0.214844,-4.66988 V 113.66818 c 0,-5.24335 -3.568,-9.46453 -8,-9.46453 z"
+       style="stroke-width:1.08769" />
+    <rect
+       class="st_lavender"
+       x="-5"
+       y="0"
+       width="110"
+       height="50"
+       rx="8"
+       ry="8"
+       id="rect4" />
+    <rect
+       class="st_lavender"
+       x="10"
+       y="-10"
+       width="80"
+       height="12"
+       rx="3"
+       ry="3"
+       fill-opacity="0.8"
+       id="rect5" />
+  </g>
+  <g
+     transform="translate(352.88826,229.50221)"
+     id="g20">
+    <rect
+       class="st_dark_blue"
+       x="10"
+       y="40"
+       width="18"
+       height="18"
+       rx="3"
+       id="rect6" />
+    <circle
+       class="st_medium_blue"
+       cx="40"
+       cy="20"
+       r="8"
+       id="circle6" />
+    <rect
+       class="st_light_blue"
+       x="45.536453"
+       y="42.768227"
+       width="22"
+       height="22"
+       rx="4"
+       id="rect7" />
+    <rect
+       class="st_medium_blue"
+       x="71.964699"
+       y="16.428244"
+       width="20"
+       height="20"
+       rx="3"
+       id="rect8" />
+    <rect
+       class="st_dark_blue"
+       x="20"
+       y="110"
+       width="25"
+       height="25"
+       rx="5"
+       id="rect9" />
+    <circle
+       class="st_medium_blue"
+       cx="60"
+       cy="130"
+       r="9"
+       id="circle9" />
+    <rect
+       class="st_light_blue"
+       x="40.984642"
+       y="80.715271"
+       width="18"
+       height="18"
+       rx="3"
+       id="rect10" />
+    <circle
+       class="st_dark_blue"
+       cx="120"
+       cy="40"
+       r="8"
+       id="circle10" />
+    <rect
+       class="st_medium_blue"
+       x="90.984642"
+       y="50.715271"
+       width="20"
+       height="20"
+       rx="3"
+       id="rect11" />
+    <rect
+       class="st_dark_blue"
+       x="80.984642"
+       y="100.71527"
+       width="22"
+       height="22"
+       rx="4"
+       id="rect12" />
+    <g
+       transform="translate(180,30)"
+       id="g17">
+      <rect
+         class="st_medium_blue"
+         x="-77.584816"
+         y="49.37299"
+         width="18"
+         height="18"
+         rx="3"
+         id="rect13" />
+      <circle
+         class="st_dark_blue"
+         cx="-98.794342"
+         cy="112.08826"
+         r="8"
+         id="circle10-3"
+         style="fill:#4c86c5" />
+      <rect
+         class="st_medium_blue"
+         x="-127.8097"
+         y="122.80353"
+         width="20"
+         height="20"
+         rx="3"
+         id="rect11-5"
+         style="fill:#99badd" />
+      <rect
+         class="st_medium_blue"
+         x="-158.96628"
+         y="141.81888"
+         width="18"
+         height="18"
+         rx="3"
+         id="rect13-4"
+         style="fill:#99badd" />
+      <circle
+         class="st_dark_blue"
+         cx="-47.584816"
+         cy="69.372993"
+         r="7"
+         id="circle13" />
+      <circle
+         class="st_dark_blue"
+         cx="-153.93097"
+         cy="51.46814"
+         r="7"
+         id="circle13-6"
+         style="fill:#4c86c5" />
+      <rect
+         class="st_light_blue"
+         x="-31.602468"
+         y="18.660017"
+         width="15"
+         height="15"
+         rx="2"
+         id="rect14" />
+      <circle
+         class="st_medium_blue"
+         cx="-11.602469"
+         cy="53.660019"
+         r="6"
+         id="circle14" />
+      <rect
+         class="st_dark_blue"
+         x="8.3975306"
+         y="33.660019"
+         width="20"
+         height="20"
+         rx="3"
+         id="rect15" />
+      <rect
+         class="st_dark_blue"
+         x="-171.60635"
+         y="-38.761341"
+         width="20"
+         height="20"
+         rx="3"
+         id="rect15-9"
+         style="fill:#4c86c5" />
+      <rect
+         class="st_medium_blue"
+         x="-69.637772"
+         y="90.534157"
+         width="18"
+         height="18"
+         rx="3"
+         id="rect16" />
+      <circle
+         class="st_light_blue"
+         cx="-31.602468"
+         cy="83.660019"
+         r="8"
+         id="circle16" />
+      <rect
+         class="st_dark_blue"
+         x="-1.6024694"
+         y="78.660019"
+         width="15"
+         height="15"
+         rx="2"
+         id="rect17" />
+    </g>
+    <g
+       transform="translate(340,60)"
+       id="g19">
+      <circle
+         class="st_dark_blue"
+         cx="-119.3684"
+         cy="36.07061"
+         r="6"
+         id="circle17" />
+      <circle
+         class="st_dark_blue"
+         cx="-204.91971"
+         cy="11.040413"
+         r="6"
+         id="circle17-1"
+         style="fill:#4c86c5" />
+      <rect
+         class="st_medium_blue"
+         x="-99.368401"
+         y="26.070608"
+         width="15"
+         height="15"
+         rx="2"
+         id="rect18" />
+      <rect
+         class="st_dark_blue"
+         x="-74.635475"
+         y="36.07061"
+         width="12"
+         height="12"
+         rx="2"
+         id="rect19" />
+      <circle
+         class="st_medium_blue"
+         cx="-264.42523"
+         cy="25.699911"
+         r="5"
+         id="circle19-4"
+         style="fill:#99badd" />
+    </g>
+  </g>
+  <g
+     transform="translate(646.11615,232.71633)"
+     id="g21">
+    <path
+       class="st_graph_line"
+       d="m 0,100 c 50,0 80,-60 130,-60 50,0 88.83884,55.178817 121.9647,21.964696 L 365.35534,-59.461252"
+       id="path20"
+       sodipodi:nodetypes="cscc" />
+  </g>
+</svg>

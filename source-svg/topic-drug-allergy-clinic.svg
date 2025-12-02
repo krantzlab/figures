@@ -3,7 +3,7 @@
    viewBox="0 0 1200 630"
    version="1.1"
    id="svg28"
-   sodipodi:docname="gemini-drawing.svg"
+   sodipodi:docname="topic-drug-allergy-clinic.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,13 +18,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.33014684"
-     inkscape:cx="851.13641"
-     inkscape:cy="280.17836"
-     inkscape:window-width="1512"
+     inkscape:zoom="0.66029368"
+     inkscape:cx="638.35232"
+     inkscape:cy="305.16724"
+     inkscape:window-width="1520"
      inkscape:window-height="838"
-     inkscape:window-x="-1"
-     inkscape:window-y="38"
+     inkscape:window-x="0"
+     inkscape:window-y="443"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg28" />
   <defs
@@ -131,17 +131,19 @@
      cx="599.55042"
      cy="194.31453"
      r="64.584389" />
-  <g
-     transform="matrix(0.572404,-0.52630834,0.52630834,0.572404,556.22659,168.68202)"
-     id="g24">
-    <path
-       class="st_white"
-       d="M 71.890779,114.54618 C 83.297284,102.62387 82.875257,83.536649 70.952941,72.130143 L 5.9221235,9.9128405 C -6.0001926,-1.4936645 -25.087411,-1.0716375 -36.493917,10.850678 c -11.406505,11.922317 -10.984478,31.009535 0.937838,42.416041 l 65.030818,62.217301 c 11.922316,11.40651 31.009534,10.98448 42.41604,-0.93784 z"
-       id="path23"
-       style="fill:#c9c9c9;fill-opacity:1" />
-    <path
-       class="st_medium_blue"
-       d="m 71.890779,114.54618 c -11.406506,11.92232 -30.493724,12.34435 -42.41604,0.93784 L -3.0406695,84.37537 38.437532,41.021492 70.952941,72.130143 c 11.922316,11.406506 12.344343,30.493727 0.937838,42.416037 z"
-       id="path24" />
-  </g>
+  <rect
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:10;paint-order:fill markers stroke"
+     id="rect14"
+     width="24.63064"
+     height="65.324738"
+     x="587.92261"
+     y="160.63461" />
+  <rect
+     style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:10;paint-order:fill markers stroke"
+     id="rect14-9"
+     width="24.63064"
+     height="65.324738"
+     x="-205.04858"
+     y="568.14917"
+     transform="rotate(-90)" />
 </svg>
