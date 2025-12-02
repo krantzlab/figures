@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   version="1.1"
+   viewBox="0 0 1200 630"
+   sodipodi:docname="topic-immunogenomics.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66086566"
+     inkscape:cx="551.54931"
+     inkscape:cy="404.77213"
+     inkscape:window-width="1920"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="443"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_2" />
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <path
+     style="fill:#4c86c5;fill-opacity:1;stroke:#4c86c5;stroke-width:9.80773;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 387.65102,368.66801 54.09155,-3.71549 c 0,0 6.66883,7.43097 5.92785,16.34811 -0.741,8.91714 2.22293,34.9255 7.4098,39.38407 5.18687,4.45858 30.38019,10.40334 37.79,7.43097 7.4098,-2.97239 25.93432,-16.34811 26.6753,-22.29289 0.74096,-5.94476 2.22293,-28.23763 2.22293,-28.23763 0,0 0,-8.17406 8.89176,-8.91714 8.89177,-0.74311 51.80621,-1.10791 51.80621,-1.10791 l 2.28535,56.84009 c 0,0 0.74098,8.17404 6.66882,10.40333 5.92785,2.22928 36.30804,3.71548 36.30804,3.71548 0,0 22.22941,14.86191 20.00647,29.72384 -2.22295,14.86192 -13.33764,30.46692 -23.71137,31.9531 -10.37372,1.4862 -31.12117,1.4862 -31.12117,1.4862 0,0 -10.37373,2.97238 -11.1147,13.37571 -0.741,10.40336 0.74097,47.55814 0.74097,47.55814 H 420.25414 c 0,0 -26.67528,-9.66024 -28.15725,-26.00835 -1.48195,-16.34811 -4.44587,-167.93963 -4.44587,-167.93963 z"
+     id="path6"
+     sodipodi:nodetypes="ccsssscsccscsscsccsc" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 54.39px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <path
+     class="st1"
+     d="M 386.03,360.61 V 200.46 c 0,0 -2.01,-35.25 26.19,-35.25 28.2,0 173.25,-2.01 173.25,-2.01 v 46.33 c 0,0 2.01,18.13 -10.07,17.12 -12.09,-1.01 -42.3,-8.06 -52.38,24.17 -10.07,32.23 33.24,40.29 33.24,40.29 l 19.14,1.01 c 0,0 11.08,0 10.07,12.09 -1.01,12.09 -1.01,57.41 -1.01,57.41 h -57.41 c 0,0 -10.07,1.01 -11.08,11.08 -1.01,10.07 1.01,25.18 -2.01,30.22 -3.02,5.04 -9.07,19.14 -21.15,19.14 -12.08,0 -39.28,10.07 -42.3,-18.13 -3.02,-28.2 -2.01,-37.27 -2.01,-37.27 0,0 -1.01,-9.07 -13.09,-8.06 -12.08,1.01 -49.36,2.01 -49.36,2.01 z"
+     id="path1"
+     style="fill:#99badd;fill-opacity:1;stroke:#99badd;stroke-opacity:1" />
+  <path
+     class="st1"
+     d="m 590.02332,565.77009 v -48.8685 c 0,0 -2.01026,-11.96961 11.0815,-12.95966 7.22097,-0.55442 15.66209,-0.49501 21.79292,-0.3366 6.13082,0.1584 12.40166,-2.00979 17.1723,-6.08877 7.06095,-6.02936 15.6421,-15.72187 14.43193,-26.49353 -1.4602,-12.97947 -11.34152,-23.35511 -16.70223,-28.09741 -2.06028,-1.82168 -4.66063,-2.94043 -7.411,-3.21764 l -25.24338,-2.58401 c 0,0 -15.11203,0.99994 -15.11203,-10.96967 0,-11.96961 1.01014,-56.83834 1.01014,-56.83834 l 59.43797,-0.99993 c 0,0 10.07133,0.99993 10.07133,-9.96975 v -21.68192 c 0,-3.67307 1.09016,-7.27681 3.18044,-10.31624 5.41073,-7.85105 17.18231,-21.76114 31.07417,-18.87021 19.14257,3.98987 33.24446,19.94936 33.24446,23.92933 0,3.97996 1.01013,27.91918 1.01013,27.91918 0,0 0,8.97969 7.05094,9.96975 7.05096,0.99003 52.38704,-0.99995 52.38704,-0.99995 l -1.01015,164.54506 c 0,0 -10.07135,31.90907 -30.22406,31.90907 -20.15269,0 -171.50286,0.47026 -171.50286,0.47026"
+     id="path2"
+     sodipodi:nodetypes="cccscccccsccssccscsccsc"
+     style="fill:#366da6;fill-opacity:1;stroke:#366da6;stroke-opacity:1" />
+  <path
+     class="st1"
+     d="M707.71,68.3l142.26,77.55s27.61,14.69,13.44,44.49-77.02,144.45-77.02,144.45l-40.66-20.83s-13.51-4.17-7.37-17.23c6.14-13.05,10.91-20.22,10.91-20.22,0,0,12.11-20.97-8.17-36.03-15.22-11.3-30.9-8.14-37.77-5.87-2.23.74-4.13,2.21-5.45,4.15-4.25,6.25-14.5,21.23-16.76,23.96-2.87,3.47-6.14,13.05-16.24,7.6s-51.82-30.66-51.82-30.66l26.35-46.61s6.14-13.05-3.74-19.48c-9.88-6.43-20.22-10.91-20.22-10.91,0,0-22.47-14.53-10.66-38.67,8.59-17.55,27.13-19.12,36.61-18.67,3.37.16,6.66.99,9.73,2.39l14.82,6.72s11.39,8.85,18.5-3.97,23.25-42.16,23.25-42.16Z"
+     id="path3"
+     style="fill:#2b547e;fill-opacity:1;stroke:#2b5480;stroke-opacity:1" />
+  <text
+     class="st0"
+     transform="translate(399.39 280.1)"
+     id="text3"
+     style="fill:#373a3c;fill-opacity:1"><tspan
+       x="0"
+       y="0"
+       id="tspan3"
+       style="fill:#373a3c;fill-opacity:1">HLA</tspan></text>
+  <text
+     class="st0"
+     transform="translate(664.81 485.46)"
+     id="text4"
+     style="fill:#373a3c;fill-opacity:1"><tspan
+       x="0"
+       y="0"
+       id="tspan4"
+       style="fill:#373a3c;fill-opacity:1">KIR</tspan></text>
+  <text
+     class="st0"
+     transform="translate(409.97 492.51)"
+     id="text5"
+     style="fill:#373a3c;fill-opacity:1"><tspan
+       x="0"
+       y="0"
+       id="tspan5"
+       style="fill:#373a3c;fill-opacity:1">ERAP</tspan></text>
+  <text
+     class="st0"
+     transform="translate(689.79 170.59) rotate(30)"
+     id="text6"
+     style="fill:#373a3c;fill-opacity:1"><tspan
+       x="0"
+       y="0"
+       id="tspan6"
+       style="fill:#373a3c;fill-opacity:1">TCR</tspan></text>
+</svg>
