@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="gemini-drawing.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.33014684"
+     inkscape:cx="851.13641"
+     inkscape:cy="280.17836"
+     inkscape:window-width="1512"
+     inkscape:window-height="838"
+     inkscape:window-x="-1"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+        .st_light_blue{fill:#ccddec}
+        .st_medium_blue{fill:#99badd}
+        .st_dark_blue{fill:#4c86c5}
+        .st_white{fill:#fff}
+    </style>
+  </defs>
+  <rect
+     class="st_light_blue"
+     x="407.05606"
+     y="110.39067"
+     width="400"
+     height="450"
+     id="rect1" />
+  <rect
+     class="st_dark_blue"
+     x="407.05606"
+     y="80.390663"
+     width="400"
+     height="30"
+     id="rect2" />
+  <g
+     class="st_medium_blue"
+     id="g10"
+     transform="translate(207.05604,-39.609333)">
+    <rect
+       x="240"
+       y="320"
+       width="60"
+       height="60"
+       id="rect3" />
+    <rect
+       x="310"
+       y="320"
+       width="60"
+       height="60"
+       id="rect4" />
+    <rect
+       x="380"
+       y="320"
+       width="60"
+       height="60"
+       id="rect5" />
+    <rect
+       x="450"
+       y="320"
+       width="60"
+       height="60"
+       id="rect6" />
+    <rect
+       x="240"
+       y="410"
+       width="60"
+       height="60"
+       id="rect7" />
+    <rect
+       x="310"
+       y="410"
+       width="60"
+       height="60"
+       id="rect8" />
+    <rect
+       x="380"
+       y="410"
+       width="60"
+       height="60"
+       id="rect9" />
+    <rect
+       x="450"
+       y="410"
+       width="60"
+       height="60"
+       id="rect10" />
+  </g>
+  <rect
+     class="st_dark_blue"
+     x="537.05609"
+     y="460.39069"
+     width="140"
+     height="100"
+     id="rect11" />
+  <rect
+     class="st_medium_blue"
+     x="552.05609"
+     y="475.39069"
+     width="50"
+     height="85"
+     id="rect12" />
+  <rect
+     class="st_medium_blue"
+     x="612.05609"
+     y="475.39069"
+     width="50"
+     height="85"
+     id="rect13" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10"
+     id="path28"
+     cx="599.55042"
+     cy="194.31453"
+     r="64.584389" />
+  <g
+     transform="matrix(0.572404,-0.52630834,0.52630834,0.572404,556.22659,168.68202)"
+     id="g24">
+    <path
+       class="st_white"
+       d="M 71.890779,114.54618 C 83.297284,102.62387 82.875257,83.536649 70.952941,72.130143 L 5.9221235,9.9128405 C -6.0001926,-1.4936645 -25.087411,-1.0716375 -36.493917,10.850678 c -11.406505,11.922317 -10.984478,31.009535 0.937838,42.416041 l 65.030818,62.217301 c 11.922316,11.40651 31.009534,10.98448 42.41604,-0.93784 z"
+       id="path23"
+       style="fill:#c9c9c9;fill-opacity:1" />
+    <path
+       class="st_medium_blue"
+       d="m 71.890779,114.54618 c -11.406506,11.92232 -30.493724,12.34435 -42.41604,0.93784 L -3.0406695,84.37537 38.437532,41.021492 70.952941,72.130143 c 11.922316,11.406506 12.344343,30.493727 0.937838,42.416037 z"
+       id="path24" />
+  </g>
+</svg>
