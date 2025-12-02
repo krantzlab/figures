@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="topic-sci-communication.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.44"
+     inkscape:cx="600"
+     inkscape:cy="228.40909"
+     inkscape:window-width="1712"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="443"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+        .st_light_blue{fill:#ccddec}
+        .st_medium_blue{fill:#99badd}
+        .st_dark_blue{fill:#4c86c5}
+        .st_white{fill:#fff}
+    </style>
+  </defs>
+  <g
+     transform="matrix(1.3393939,0,0,1.3393939,279.51515,88.030303)"
+     id="g6">
+    <rect
+       class="st_medium_blue"
+       x="0"
+       y="100"
+       width="150"
+       height="250"
+       id="rect1" />
+    <rect
+       class="st_light_blue"
+       x="20"
+       y="120"
+       width="110"
+       height="210"
+       id="rect2" />
+    <path
+       class="st_dark_blue"
+       d="M -20,100 H 170 L 171.69683,49.457013 -20,50 Z"
+       id="path2"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       class="st_medium_blue"
+       x="65"
+       y="0"
+       width="10.424208"
+       height="49.977055"
+       id="rect3" />
+    <ellipse
+       class="st_dark_blue"
+       id="circle3"
+       ry="30.999208"
+       rx="20.800554"
+       cy="0"
+       cx="70" />
+    <rect
+       class="st_light_blue"
+       x="55"
+       y="-10"
+       width="30"
+       height="5"
+       rx="2"
+       id="rect4" />
+    <rect
+       class="st_light_blue"
+       x="55"
+       y="0"
+       width="30"
+       height="5"
+       rx="2"
+       id="rect5" />
+    <rect
+       class="st_light_blue"
+       x="55"
+       y="10"
+       width="30"
+       height="5"
+       rx="2"
+       id="rect6" />
+  </g>
+  <g
+     transform="translate(622.72727,111.36363)"
+     id="g26">
+    <rect
+       class="st_white"
+       x="0"
+       y="0"
+       width="350"
+       height="450"
+       id="rect7" />
+    <rect
+       class="st_light_blue"
+       x="0"
+       y="0"
+       width="350"
+       height="450"
+       fill-opacity="0.2"
+       id="rect8"
+       style="fill:#ccddec;fill-opacity:0.455" />
+    <rect
+       class="st_dark_blue"
+       x="20"
+       y="20"
+       width="310"
+       height="40"
+       id="rect9" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="80"
+       width="145"
+       height="10"
+       id="rect10" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="100"
+       width="145"
+       height="10"
+       id="rect11" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="120"
+       width="100"
+       height="10"
+       id="rect12" />
+    <rect
+       class="st_light_blue"
+       x="20"
+       y="150"
+       width="145"
+       height="100"
+       id="rect13" />
+    <rect
+       class="st_dark_blue"
+       x="30"
+       y="210"
+       width="20"
+       height="30"
+       id="rect14" />
+    <rect
+       class="st_dark_blue"
+       x="60"
+       y="190"
+       width="20"
+       height="50"
+       id="rect15" />
+    <rect
+       class="st_dark_blue"
+       x="90"
+       y="220"
+       width="20"
+       height="20"
+       id="rect16" />
+    <rect
+       class="st_dark_blue"
+       x="120"
+       y="180"
+       width="20"
+       height="60"
+       id="rect17" />
+    <rect
+       class="st_medium_blue"
+       x="185"
+       y="80"
+       width="145"
+       height="10"
+       id="rect18" />
+    <rect
+       class="st_medium_blue"
+       x="185"
+       y="100"
+       width="145"
+       height="10"
+       id="rect19" />
+    <rect
+       class="st_medium_blue"
+       x="185"
+       y="120"
+       width="145"
+       height="10"
+       id="rect20" />
+    <rect
+       class="st_medium_blue"
+       x="185"
+       y="140"
+       width="120"
+       height="10"
+       id="rect21" />
+    <rect
+       class="st_light_blue"
+       x="185"
+       y="170"
+       width="145"
+       height="120"
+       id="rect22" />
+    <circle
+       class="st_medium_blue"
+       cx="220"
+       cy="200"
+       r="8"
+       id="circle22" />
+    <circle
+       class="st_medium_blue"
+       cx="280"
+       cy="250"
+       r="10"
+       id="circle23" />
+    <line
+       x1="220"
+       y1="200"
+       x2="280"
+       y2="250"
+       stroke="#99badd"
+       stroke-width="3"
+       id="line24" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="320"
+       width="310"
+       height="10"
+       id="rect24" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="340"
+       width="310"
+       height="10"
+       id="rect25" />
+    <rect
+       class="st_medium_blue"
+       x="20"
+       y="360"
+       width="250"
+       height="10"
+       id="rect26" />
+  </g>
+</svg>
