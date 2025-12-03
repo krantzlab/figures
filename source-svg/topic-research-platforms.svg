@@ -3,7 +3,7 @@
    viewBox="0 0 1200 630"
    version="1.1"
    id="svg33"
-   sodipodi:docname="topic-bench.svg"
+   sodipodi:docname="topic-research-platforms.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,7 +19,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.34009831"
-     inkscape:cx="520.43776"
+     inkscape:cx="521.90792"
      inkscape:cy="448.39976"
      inkscape:window-width="1416"
      inkscape:window-height="746"
@@ -40,12 +40,12 @@
   </defs>
   <path
      class="st_medium_blue"
-     d="m 540.69519,138.71896 q -39.95091,0 -39.95091,-39.950918 0,-39.950906 39.95091,-39.950906 19.97545,-39.95091 59.92636,-39.95091 39.95092,0 59.92637,39.95091 39.95091,0 39.95091,39.950906 0,39.950918 -39.95091,39.950918 z"
+     d="m 523.25764,187.34565 q -51.69778,0 -51.69778,-45.37862 0,-45.378603 51.69778,-45.378603 25.84888,-45.378611 77.54667,-45.378611 51.69779,0 77.54667,45.378611 51.69779,0 51.69779,45.378603 0,45.37862 -51.69779,45.37862 z"
      id="path25"
-     style="fill:#4c85c3;fill-opacity:1;stroke-width:1.99755" />
+     style="fill:#4c85c3;fill-opacity:1;stroke-width:2.42177" />
   <g
      class="st_stroke_medium"
-     transform="matrix(1.5841264,0,0,1.5841264,599.66856,119.2292)"
+     transform="matrix(2.0499112,0,0,1.7993446,599.57111,165.20803)"
      id="g32">
     <line
        x1="-30"
@@ -105,63 +105,53 @@
        style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
   </g>
   <rect
-     class="st_light_blue"
-     x="208.98593"
-     y="480"
-     width="793.38086"
-     height="126.15323"
-     rx="7.9338078"
-     ry="31.538307"
-     id="rect1"
-     style="stroke-width:1.58183;fill:#d3bc5f" />
-  <rect
      class="st_medium_blue"
-     x="400"
-     y="200"
-     width="400"
-     height="250"
-     rx="10"
+     x="341.19348"
+     y="256.9523"
+     width="517.61304"
+     height="283.96481"
+     rx="12.940327"
      id="rect3"
-     style="paint-order:stroke fill markers;fill:#b3b3b3" />
+     style="fill:#b3b3b3;stroke-width:1.21237;paint-order:stroke fill markers" />
   <path
      class="st_medium_blue"
-     d="m 530,400 20,80 h 100 l 20,-80 z"
+     d="m 509.41772,484.12414 25.88065,90.86874 h 129.40326 l 25.88065,-90.86874 z"
      id="path1"
-     style="fill:#b3b3b3;paint-order:stroke fill markers" />
+     style="fill:#b3b3b3;stroke-width:1.21237;paint-order:stroke fill markers" />
   <rect
      class="st_medium_blue"
-     x="510"
-     y="480"
-     width="180"
-     height="15"
-     rx="5"
+     x="483.53705"
+     y="574.99286"
+     width="232.92587"
+     height="17.037889"
+     rx="6.4701633"
      id="rect2"
-     style="fill:#b3b3b3;paint-order:stroke fill markers" />
+     style="fill:#b3b3b3;stroke-width:1.21237;paint-order:stroke fill markers" />
   <rect
      class="st_white"
-     x="415"
-     y="215"
-     width="370"
-     height="220"
+     x="360.60397"
+     y="273.99017"
+     width="478.79208"
+     height="249.88904"
      id="rect4"
-     style="paint-order:stroke fill markers" />
+     style="stroke-width:1.21237;paint-order:stroke fill markers" />
   <g
      transform="translate(430,235)"
      id="g6"
      style="paint-order:stroke fill markers" />
   <rect
      class="st_light_blue"
-     x="415.2131"
-     y="211.50099"
-     width="369.59723"
-     height="222.95485"
+     x="360.87973"
+     y="270.01581"
+     width="478.27087"
+     height="253.24533"
      id="rect7"
-     style="fill:#f2f2f2;fill-opacity:1;stroke-width:2.07168;paint-order:stroke fill markers" />
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:2.51164;paint-order:stroke fill markers" />
   <g
      class="st_medium_blue"
      id="g14"
      style="paint-order:stroke fill markers"
-     transform="translate(630,235)">
+     transform="matrix(1.2940326,0,0,1.1358593,638.82098,296.70736)">
     <rect
        x="-182.56776"
        y="15"
@@ -223,34 +213,4 @@
      transform="translate(550,280)"
      id="g16"
      style="paint-order:stroke fill markers" />
-  <g
-     transform="matrix(1,0,0,3.6340649,463.41849,506.51873)"
-     id="g24">
-    <rect
-       class="st_medium_blue"
-       x="0"
-       y="0"
-       width="260"
-       height="25"
-       rx="5"
-       id="rect17"
-       style="fill:#4d4d4d" />
-    <g
-       class="st_light_blue"
-       id="g23">
-      <rect
-         x="14.361594"
-         y="5"
-         width="232.25916"
-         height="15"
-         rx="4.6451826"
-         id="rect21"
-         style="stroke-width:1.524;fill:#f2f2f2" />
-    </g>
-  </g>
-  <path
-     class="st_medium_blue"
-     d="m 753.41849,525.66389 c 0,0 30,0 30,25.26344 0,25.26344 -30,25.26344 -30,25.26344 -15,0 -15,-50.52688 0,-50.52688 z"
-     id="path24"
-     style="stroke-width:1.42165;fill:#666666" />
 </svg>
