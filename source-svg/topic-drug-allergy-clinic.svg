@@ -18,13 +18,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.66029368"
-     inkscape:cx="638.35232"
-     inkscape:cy="305.16724"
-     inkscape:window-width="1520"
+     inkscape:zoom="0.61384703"
+     inkscape:cx="548.99671"
+     inkscape:cy="116.47853"
+     inkscape:window-width="1512"
      inkscape:window-height="838"
      inkscape:window-x="0"
-     inkscape:window-y="443"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg28" />
   <defs
@@ -43,18 +43,20 @@
      y="110.39067"
      width="400"
      height="450"
-     id="rect1" />
+     id="rect1"
+     style="fill:#e9ddaf" />
   <rect
      class="st_dark_blue"
      x="407.05606"
      y="80.390663"
      width="400"
      height="30"
-     id="rect2" />
+     id="rect2"
+     style="fill:#a0892c" />
   <g
      class="st_medium_blue"
      id="g10"
-     transform="translate(207.05604,-39.609333)">
+     transform="translate(237.05604,-39.609333)">
     <rect
        x="240"
        y="320"
@@ -110,7 +112,8 @@
      y="460.39069"
      width="140"
      height="100"
-     id="rect11" />
+     id="rect11"
+     style="fill:#999999" />
   <rect
      class="st_medium_blue"
      x="552.05609"
@@ -128,7 +131,7 @@
   <circle
      style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10"
      id="path28"
-     cx="599.55042"
+     cx="611.55042"
      cy="194.31453"
      r="64.584389" />
   <rect
@@ -136,7 +139,7 @@
      id="rect14"
      width="24.63064"
      height="65.324738"
-     x="587.92261"
+     x="599.92261"
      y="160.63461" />
   <rect
      style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:10;paint-order:fill markers stroke"
@@ -144,6 +147,6 @@
      width="24.63064"
      height="65.324738"
      x="-205.04858"
-     y="568.14917"
+     y="580.14917"
      transform="rotate(-90)" />
 </svg>
