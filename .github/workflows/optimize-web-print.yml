@@ -24,11 +24,13 @@ jobs:
           node-version: '18'
       - run: npm install -g svgo
 
-      - name: Install Inkscape
+      # --- Install Graphics Tools ---
+      - name: Install Graphics Tools (Inkscape & WebP)
         run: |
           sudo apt-get update
-          # --no-install-recommends cuts the download size significantly
-          sudo apt-get install -y --no-install-recommends inkscape
+          # Install both at once. 
+          # --no-install-recommends keeps Inkscape small/fast.
+          sudo apt-get install -y --no-install-recommends inkscape webp
 
       # --- PREPARE FOLDERS ---
       - name: Create Web and Print Directories
