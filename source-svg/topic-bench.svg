@@ -18,9 +18,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.41023423"
-     inkscape:cx="413.17859"
-     inkscape:cy="313.23569"
+     inkscape:zoom="0.34009831"
+     inkscape:cx="520.43776"
+     inkscape:cy="448.39976"
      inkscape:window-width="1416"
      inkscape:window-height="746"
      inkscape:window-x="0"
@@ -38,75 +38,71 @@
         .st_stroke_medium{fill:none;stroke:#99badd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
     </style>
   </defs>
+  <path
+     class="st_medium_blue"
+     d="m 540.69519,138.71896 q -39.95091,0 -39.95091,-39.950918 0,-39.950906 39.95091,-39.950906 19.97545,-39.95091 59.92636,-39.95091 39.95092,0 59.92637,39.95091 39.95091,0 39.95091,39.950906 0,39.950918 -39.95091,39.950918 z"
+     id="path25"
+     style="fill:#4c85c3;fill-opacity:1;stroke-width:1.99755" />
   <g
-     transform="matrix(1.5841264,0,0,1.5841264,466.93845,24.181614)"
-     id="g33">
-    <path
-       class="st_medium_blue"
-       d="M 50,60 Q 30,60 30,40 30,20 50,20 60,0 80,0 q 20,0 30,20 20,0 20,20 0,20 -20,20 z"
-       id="path25"
-       style="fill:#4c85c3;fill-opacity:1" />
-    <g
-       class="st_stroke_medium"
-       transform="translate(80,60)"
-       id="g32">
-      <line
-         x1="-30"
-         y1="0"
-         x2="-30"
-         y2="30"
-         id="line25"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="-10"
-         y1="0"
-         x2="-10"
-         y2="40"
-         id="line26"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="10"
-         y1="0"
-         x2="10"
-         y2="30"
-         id="line27"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="30"
-         y1="0"
-         x2="30"
-         y2="40"
-         id="line28"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="-30"
-         y1="30"
-         x2="-50"
-         y2="30"
-         id="line29"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="-50"
-         y1="30"
-         x2="-50"
-         y2="120"
-         id="line30"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="30"
-         y1="40"
-         x2="50"
-         y2="40"
-         id="line31"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-      <line
-         x1="50"
-         y1="40"
-         x2="50"
-         y2="120"
-         id="line32"
-         style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
-    </g>
+     class="st_stroke_medium"
+     transform="matrix(1.5841264,0,0,1.5841264,599.66856,119.2292)"
+     id="g32">
+    <line
+       x1="-30"
+       y1="0"
+       x2="-30"
+       y2="30"
+       id="line25"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="-10"
+       y1="0"
+       x2="-10"
+       y2="40"
+       id="line26"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="10"
+       y1="0"
+       x2="10"
+       y2="30"
+       id="line27"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="30"
+       y1="0"
+       x2="30"
+       y2="40"
+       id="line28"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="-30"
+       y1="30"
+       x2="-50"
+       y2="30"
+       id="line29"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="-50"
+       y1="30"
+       x2="-50"
+       y2="120"
+       id="line30"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="30"
+       y1="40"
+       x2="50"
+       y2="40"
+       id="line31"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
+    <line
+       x1="50"
+       y1="40"
+       x2="50"
+       y2="120"
+       id="line32"
+       style="fill:#4c85c3;fill-opacity:1;stroke:#4c85c3;stroke-opacity:1" />
   </g>
   <rect
      class="st_light_blue"
@@ -126,12 +122,12 @@
      height="250"
      rx="10"
      id="rect3"
-     style="paint-order:stroke fill markers;fill:#4d4d4d" />
+     style="paint-order:stroke fill markers;fill:#b3b3b3" />
   <path
      class="st_medium_blue"
      d="m 530,400 20,80 h 100 l 20,-80 z"
      id="path1"
-     style="fill:#4d4d4d;paint-order:stroke fill markers" />
+     style="fill:#b3b3b3;paint-order:stroke fill markers" />
   <rect
      class="st_medium_blue"
      x="510"
@@ -140,7 +136,7 @@
      height="15"
      rx="5"
      id="rect2"
-     style="fill:#4d4d4d;paint-order:stroke fill markers" />
+     style="fill:#b3b3b3;paint-order:stroke fill markers" />
   <rect
      class="st_white"
      x="415"
