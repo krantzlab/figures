@@ -1,46 +1,56 @@
 # Krantz Lab Figures & Visuals
+A single source of truth for diagrams, scientific figures, and branding assets used by the Krantz Lab.
 
-This repository is the central source of truth for all diagrams, scientific figures, and branding assets used by the Krantz Lab.
+## Table of Contents
+- [Branches & Workflow](#branches--workflow)
+- [Usage](#usage)
+    - [Web / Quarto](#web--quarto)
+    - [Local Use](#local-use)
+- [Adding Headshots](#adding-headshots)
+- [Contributing](#contributing)
+- [Automation](#automation)
+- [License & Contact](#license--contact)
 
-> **⚠️ IMPORTANT:** Do not manually create PDF or Web versions. Just edit the **Source** file, and our automated robot will generate the Web and Print versions for you.
+## Branches & Workflow
+- **`main` (Source):** Contains editable source files.
+    - Edit files in `source-svg/` and `source-people/`.
+- **`dist` (Build output):** Contains auto-generated, optimized assets:
+    - `web/` → optimized SVGs for websites and Quarto
+    - `print/` → high-resolution PDFs for manuscripts and posters
 
-------------------------------------------------------------------------
+Workflow: edit source on `main`, push changes, and the automation pipeline updates `dist`.
 
-## 📂 Where are the files?
+## Usage
 
-This repository is split into two branches to keep things clean:
+### Web / Quarto (recommended)
+Use the CDN link that serves optimized SVGs from the `dist` branch.
 
-1.  **`main` Branch (You are here):** Contains the **Source Code**.
-    -   📂 `source-svg/` → **EDIT THESE FILES.** Use Inkscape.
-2.  **`dist` Branch (The Output):** Contains the **Final Assets**.
-    -   📂 `web/` → Optimized SVGs (Use for Websites/Quarto).
-    -   📂 `print/` → High-Res PDFs (Use for Manuscripts/Posters).
+Pattern:
+`https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg`
 
-------------------------------------------------------------------------
+Example (Quarto / Markdown):
 
-## 👩‍🔬 How to Use
-
-### For Websites (HTML)
-
-Use the **CDN Link**. This loads the optimized SVG directly from the `dist` branch. It is fast, cached, and always up to date.
-
-**Pattern:** `https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg`
-
-**Example (Copy/Paste into Quarto):**
-
-``` markdown
+```markdown
 ![Krantz Lab Navbar Logo](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}
 ```
 
-![](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}
+### Local Use
+- Edit files in `source-svg/` with your vector editor (Inkscape recommended).
+- After editing, push to `main`. CI will build and update `dist` automatically.
 
-## 📸 Adding People (Headshots)
+## Adding Headshots
+1. Crop the photo to square (1:1) and center the face.
+2. Minimum resolution: **600×600 px**.
+3. Filename: `lastname-firstname.png` (example: `krantz-matt.png`).
+4. Upload to `source-people/`.
 
-1. **Crop your photo to a Square (1:1).**
-   * Use Preview (Mac) or Photos (Windows) to crop.
-   * Ensure your face is centered.
-2. **Resolution:** Must be at least **600x600 px**.
-3. **Naming:** `lastname-firstname.jpg` (e.g., `krantz-matthew.jpg`).
-4. **Upload:** Place the file in the `source-people/` folder.
+The automation pipeline will optimize and resize images for web use.
 
-*Note: The system will automatically optimize and resize your image for the web.*
+## Contributing
+- Edit source SVGs in `source-svg/` (use Inkscape or another vector editor).
+- For headshots, add files to `source-people/`.
+- Open a pull request against `main` with a short description of your change.
+- The automated build will update `dist` after your PR is merged.
+
+## Automation
+> ⚠️ IMPORTANT: Do not manually create PDFs or web-optimized versions. Edit only the source files — the automation pipeline generates the Web and Print outputs for you.
