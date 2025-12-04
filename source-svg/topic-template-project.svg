@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="topic-template-project.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.51608354"
+     inkscape:cx="632.64951"
+     inkscape:cy="345.87424"
+     inkscape:window-width="1512"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="75"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg33" /><defs
+     id="defs1"><rect
+       x="467.42993"
+       y="362.12978"
+       width="169.50756"
+       height="69.344"
+       id="rect8" /><style
+       id="style1">
+        .st_light_blue{fill:#ccddec}
+        .st_medium_blue{fill:#99badd}
+        .st_dark_blue{fill:#4c86c5}
+        .st_white{fill:#fff}
+        .st_stroke_medium{fill:none;stroke:#99badd;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    </style><rect
+       x="467.42993"
+       y="362.12979"
+       width="169.50755"
+       height="69.344002"
+       id="rect8-7" /></defs><g
+     transform="matrix(1.5111413,0,0,1.5111413,364.15593,143.19599)"
+     id="g6"
+     style="paint-order:stroke fill markers" /><g
+     transform="matrix(1.5111413,0,0,1.5111413,545.49288,211.19735)"
+     id="g16"
+     style="paint-order:stroke fill markers" /><g
+     id="g7-5"
+     transform="matrix(3.9230431,0,0,3.9230431,-355.34919,-1008.7593)"><rect
+       style="fill:#d4aa00;stroke:#d4aa00;stroke-width:2.75567;paint-order:fill markers stroke"
+       id="rect5-0"
+       width="66.246101"
+       height="43.093632"
+       x="164.31471"
+       y="274.06152"
+       rx="11.72445" /><rect
+       style="fill:#d4aa00;stroke:#d4aa00;stroke-width:4.14735;paint-order:fill markers stroke"
+       id="rect5-5-2"
+       width="153.23344"
+       height="42.199375"
+       x="181.99821"
+       y="-322.44092"
+       rx="9.9652443"
+       transform="matrix(1,0,0.02517947,-0.99968295,0,0)" /><rect
+       style="fill:#ffeeaa;stroke:#ffeeaa;stroke-width:1.59261;paint-order:fill markers stroke"
+       id="rect1-1"
+       width="166.28857"
+       height="115.56474"
+       x="163.73318"
+       y="289.57971"
+       rx="10" /></g></svg>
