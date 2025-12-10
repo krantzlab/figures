@@ -19,12 +19,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.37284559"
-     inkscape:cx="478.75046"
+     inkscape:cx="477.40943"
      inkscape:cy="10.728302"
-     inkscape:window-width="1512"
+     inkscape:window-width="1520"
      inkscape:window-height="839"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg28" />
   <defs
@@ -38,38 +38,16 @@
     </style>
   </defs>
   <rect
-     class="st_medium_blue"
-     x="279.51514"
-     y="221.9697"
-     width="200.90909"
-     height="334.84848"
-     id="rect1"
-     style="stroke-width:1.33939;fill:#786721" />
-  <rect
-     class="st_light_blue"
-     x="306.30304"
-     y="248.75757"
-     width="147.33333"
-     height="281.27271"
-     id="rect2"
-     style="stroke-width:1.33939;fill:#a0892c" />
-  <path
-     class="st_dark_blue"
-     d="m 252.72727,221.96969 h 254.48484 l 2.27273,-95.74141 -256.75757,1.02856 z"
-     id="path2"
-     sodipodi:nodetypes="ccccc"
-     style="stroke-width:1.59284;fill:#504416" />
-  <rect
      class="st_white"
-     x="622.72729"
-     y="111.36363"
+     x="418.88956"
+     y="92.589104"
      width="350"
      height="450"
      id="rect7" />
   <rect
      class="st_light_blue"
-     x="622.72729"
-     y="111.36363"
+     x="418.88956"
+     y="92.589104"
      width="350"
      height="450"
      fill-opacity="0.2"
@@ -77,152 +55,152 @@
      style="fill:#cccccc;fill-opacity:0.455" />
   <rect
      class="st_dark_blue"
-     x="642.72729"
-     y="131.36363"
+     x="438.88956"
+     y="112.5891"
      width="310"
      height="40"
      id="rect9"
      style="fill:#dd0000;fill-opacity:1" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="191.36363"
+     x="438.88956"
+     y="172.58911"
      width="145"
      height="10"
      id="rect10"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="211.36363"
+     x="438.88956"
+     y="192.58911"
      width="145"
      height="10"
      id="rect11"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="231.36363"
+     x="438.88956"
+     y="212.58911"
      width="100"
      height="10"
      id="rect12"
      style="fill:#4d4d4d" />
   <rect
      class="st_light_blue"
-     x="642.72729"
-     y="261.36362"
+     x="438.88956"
+     y="242.5891"
      width="145"
      height="100"
      id="rect13"
      style="fill:#cccccc" />
   <rect
      class="st_dark_blue"
-     x="652.72729"
-     y="321.36362"
+     x="448.88956"
+     y="302.58908"
      width="20"
      height="30"
      id="rect14" />
   <rect
      class="st_dark_blue"
-     x="682.72729"
-     y="301.36362"
+     x="478.88956"
+     y="282.58908"
      width="20"
      height="50"
      id="rect15" />
   <rect
      class="st_dark_blue"
-     x="712.72729"
-     y="331.36362"
+     x="508.88956"
+     y="312.58908"
      width="20"
      height="20"
      id="rect16" />
   <rect
      class="st_dark_blue"
-     x="742.72729"
-     y="291.36362"
+     x="538.88959"
+     y="272.58908"
      width="20"
      height="60"
      id="rect17" />
   <rect
      class="st_medium_blue"
-     x="807.72729"
-     y="191.36363"
+     x="603.88959"
+     y="172.58911"
      width="145"
      height="10"
      id="rect18"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="807.72729"
-     y="211.36363"
+     x="603.88959"
+     y="192.58911"
      width="145"
      height="10"
      id="rect19"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="807.72729"
-     y="231.36363"
+     x="603.88959"
+     y="212.58911"
      width="145"
      height="10"
      id="rect20"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="807.72729"
-     y="251.36363"
+     x="603.88959"
+     y="232.58911"
      width="120"
      height="10"
      id="rect21"
      style="fill:#4d4d4d" />
   <rect
      class="st_light_blue"
-     x="807.72729"
-     y="281.36362"
+     x="603.88959"
+     y="262.58908"
      width="145"
      height="120"
      id="rect22"
      style="fill:#cccccc" />
   <circle
      class="st_medium_blue"
-     cx="842.72729"
-     cy="311.36362"
+     cx="638.88959"
+     cy="292.58908"
      r="8"
      id="circle22" />
   <circle
      class="st_medium_blue"
-     cx="902.72729"
-     cy="361.36362"
+     cx="698.88959"
+     cy="342.58908"
      r="10"
      id="circle23" />
   <line
-     x1="842.72729"
-     y1="311.36362"
-     x2="902.72729"
-     y2="361.36362"
+     x1="638.88959"
+     y1="292.58908"
+     x2="698.88959"
+     y2="342.58908"
      stroke="#99badd"
      stroke-width="3"
      id="line24" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="431.36362"
+     x="438.88956"
+     y="412.58908"
      width="310"
      height="10"
      id="rect24"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="451.36362"
+     x="438.88956"
+     y="432.58908"
      width="310"
      height="10"
      id="rect25"
      style="fill:#4d4d4d" />
   <rect
      class="st_medium_blue"
-     x="642.72729"
-     y="471.36362"
+     x="438.88956"
+     y="452.58908"
      width="250"
      height="10"
      id="rect26"
