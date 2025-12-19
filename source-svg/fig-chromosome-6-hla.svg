@@ -20,16 +20,40 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.43451872"
-     inkscape:cx="619.07574"
-     inkscape:cy="411.95003"
-     inkscape:window-width="1512"
-     inkscape:window-height="945"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:zoom="0.37961129"
+     inkscape:cx="550.56319"
+     inkscape:cy="487.34062"
+     inkscape:window-width="1496"
+     inkscape:window-height="839"
+     inkscape:window-x="-3"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="Layer_1"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
   <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:0.99813783;paint-order:fill markers stroke;stroke-dasharray:none"
+     id="rect21"
+     width="1121.5104"
+     height="79.311272"
+     x="60.410583"
+     y="487.10803"
+     ry="0" />
   <defs
      id="defs1">
     <style
@@ -79,20 +103,6 @@
       }
     </style>
   </defs>
-  <line
-     class="st3"
-     x1="87.357018"
-     y1="492.33896"
-     x2="1176.5171"
-     y2="492.33896"
-     id="line1" />
-  <line
-     class="st3"
-     x1="88.877037"
-     y1="559.05896"
-     x2="1178.9971"
-     y2="559.05896"
-     id="line2" />
   <text
      class="st7"
      id="text2"
@@ -147,21 +157,24 @@
      y="472.14896"
      width="60.32"
      height="111.11"
-     id="rect7" />
+     id="rect7"
+     style="fill:#7e9fcd;fill-opacity:1;stroke:none;stroke-opacity:1" />
   <rect
      class="st1"
      x="252.38704"
      y="470.55899"
      width="60.32"
      height="111.11"
-     id="rect8" />
+     id="rect8"
+     style="fill:#7e9fcd;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="346.03702"
      y="472.14896"
      width="60.32"
      height="111.11"
-     id="rect9" />
+     id="rect9"
+     style="fill:#7e9fcd;fill-opacity:1;stroke:none" />
   <g
      id="g11"
      transform="translate(-336.00297,-210.82102)">
@@ -238,42 +251,48 @@
      y="471.67899"
      width="60.32"
      height="111.11"
-     id="rect15" />
+     id="rect15"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="652.37701"
      y="473.509"
      width="60.32"
      height="111.11"
-     id="rect16" />
+     id="rect16"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="783.43695"
      y="470.88901"
      width="60.32"
      height="111.11"
-     id="rect17" />
+     id="rect17"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="862.47699"
      y="469.08896"
      width="60.32"
      height="111.11"
-     id="rect18" />
+     id="rect18"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="963.68695"
      y="472.29898"
      width="60.32"
      height="111.11"
-     id="rect19" />
+     id="rect19"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <rect
      class="st1"
      x="1042.7271"
      y="470.49899"
      width="60.32"
      height="111.11"
-     id="rect20" />
+     id="rect20"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <text
      class="st6"
      id="text20"
@@ -304,7 +323,8 @@
      y="472.80899"
      width="60.32"
      height="111.11"
-     id="rect22" />
+     id="rect22"
+     style="fill:#446ca1;fill-opacity:1;stroke:none" />
   <text
      class="st6"
      id="text23"
@@ -354,47 +374,27 @@
   <text
      class="st6"
      id="text30"
-     x="1118.6371"
+     x="1110.6371"
      y="536.289"><tspan
-       x="1118.6371"
+       x="1110.6371"
        y="536.289"
        id="tspan30">Cen</tspan></text>
-  <polyline
-     class="st3"
-     points="846.19 250.21 478.66 250.21 473.04 250.21 472.23 250.21"
-     id="polyline30"
-     transform="translate(-336.00297,-210.82102)" />
-  <polyline
-     class="st3"
-     points="849.61 316.93 842.77 316.93 477.71 316.93 473.99 316.93 473.59 316.93"
-     id="polyline31"
-     transform="translate(-336.00297,-210.82102)" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none"
+     id="rect12-9"
+     width="446.06229"
+     height="71.291138"
+     x="100.44556"
+     y="35.120407"
+     ry="35.645569" />
   <path
-     class="st4"
-     d="m 142.65703,39.388984 c -0.93,-0.08 -1.86,-0.12 -2.81,-0.12 -0.95,0 -1.88,0.04 -2.81,0.12 -17.16,1.43 -30.63,15.81 -30.63,33.33 0,17.52 13.97,32.419996 31.58,33.389996 0.62,0.03 1.24,0.05 1.86,0.05 0.62,0 1.24,-0.02 1.86,-0.05"
-     id="path31" />
+     d="m 584.16797,39.898437 -0.21485,2.492188 c -0.8591,-0.0739 -1.71587,-0.111328 -2.5957,-0.111328 -0.87982,0 -1.7366,0.03743 -2.5957,0.111328 h -0.004 -0.004 c -15.88567,1.323805 -28.33594,14.599283 -28.33594,30.837891 0,16.185083 12.92896,29.986744 29.19922,30.892574 h 0.006 c 0.59112,0.0285 1.17004,0.0488 1.73437,0.0488 0.56624,0 1.14507,-0.0201 1.73828,-0.0488 l 0.1211,2.49805 z"
+     style="fill:#ffffff;fill-rule:evenodd;stroke-miterlimit:10"
+     id="path9" />
   <path
-     class="st4"
-     d="m 506.76703,106.10898 c 1.12,0.11 2.27,0.17 3.42,0.17 1.15,0 2.29,-0.06 3.42,-0.17 16.86,-1.71 30.02,-15.949996 30.02,-33.269996 0,-18.47 -14.97,-33.45 -33.44,-33.45"
-     id="path32" />
-  <polyline
-     class="st3"
-     points="1448.52 250.72 922.93 250.72 914.9 250.72 913.74 250.72"
-     id="polyline32"
-     transform="translate(-336.00297,-210.82102)" />
-  <polyline
-     class="st3"
-     points="1444.54 317.44 1434.91 317.44 920.9 317.44 915.66 317.44 915.1 317.44"
-     id="polyline33"
-     transform="translate(-336.00297,-210.82102)" />
-  <path
-     class="st4"
-     d="m 584.16703,39.898984 c -0.93,-0.08 -1.86,-0.12 -2.81,-0.12 -0.95,0 -1.88,0.04 -2.81,0.12 -17.16,1.43 -30.63,15.81 -30.63,33.33 0,17.52 13.97,32.419996 31.58,33.389996 0.62,0.03 1.24,0.05 1.86,0.05 0.62,0 1.24,-0.02 1.86,-0.05"
-     id="path33" />
-  <path
-     class="st4"
-     d="m 1107.277,106.61898 c 1.12,0.11 2.27,0.17 3.42,0.17 1.15,0 2.29,-0.06 3.42,-0.17 16.86,-1.71 30.02,-15.949996 30.02,-33.269996 0,-18.47 -14.97,-33.45 -33.44,-33.45"
-     id="path34" />
+     d="m 1110.6973,39.898437 -3.42,66.720703 0.2442,-2.48828 c 1.0423,0.1024 2.1127,0.1582 3.1758,0.1582 1.0598,0 2.1153,-0.056 3.1679,-0.1582 15.6037,-1.58258 27.7715,-14.727609 27.7715,-30.781251 0,-17.11916 -13.8212,-30.951172 -30.9394,-30.951172 z"
+     style="fill:#ffffff;fill-rule:evenodd;stroke-miterlimit:10"
+     id="path7" />
   <text
      class="st6"
      id="text34"
@@ -404,11 +404,12 @@
        y="204.26898"
        id="tspan34">6p21.1-21.3</tspan></text>
   <rect
-     x="238.89705"
-     y="40.598984"
+     x="237.07777"
+     y="35.623962"
      width="55.060001"
-     height="65.260002"
-     id="rect34" />
+     height="70.309196"
+     id="rect34"
+     style="stroke-width:1.03796" />
   <text
      class="st6"
      id="text35"
@@ -475,4 +476,12 @@
        y2="484.19"
        id="line41" />
   </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none"
+     id="rect12"
+     width="603.86627"
+     height="70.817986"
+     x="547.85016"
+     y="36.452469"
+     ry="35.408993" />
 </svg>
