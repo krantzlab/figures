@@ -18,14 +18,14 @@
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.37961129"
-     inkscape:cx="550.56319"
-     inkscape:cy="487.34062"
+     inkscape:zoom="0.58714499"
+     inkscape:cx="596.95647"
+     inkscape:cy="344.03768"
      inkscape:window-width="1496"
      inkscape:window-height="839"
-     inkscape:window-x="-3"
+     inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1"
@@ -387,14 +387,6 @@
      x="100.44556"
      y="35.120407"
      ry="35.645569" />
-  <path
-     d="m 584.16797,39.898437 -0.21485,2.492188 c -0.8591,-0.0739 -1.71587,-0.111328 -2.5957,-0.111328 -0.87982,0 -1.7366,0.03743 -2.5957,0.111328 h -0.004 -0.004 c -15.88567,1.323805 -28.33594,14.599283 -28.33594,30.837891 0,16.185083 12.92896,29.986744 29.19922,30.892574 h 0.006 c 0.59112,0.0285 1.17004,0.0488 1.73437,0.0488 0.56624,0 1.14507,-0.0201 1.73828,-0.0488 l 0.1211,2.49805 z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke-miterlimit:10"
-     id="path9" />
-  <path
-     d="m 1110.6973,39.898437 -3.42,66.720703 0.2442,-2.48828 c 1.0423,0.1024 2.1127,0.1582 3.1758,0.1582 1.0598,0 2.1153,-0.056 3.1679,-0.1582 15.6037,-1.58258 27.7715,-14.727609 27.7715,-30.781251 0,-17.11916 -13.8212,-30.951172 -30.9394,-30.951172 z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke-miterlimit:10"
-     id="path7" />
   <text
      class="st6"
      id="text34"
