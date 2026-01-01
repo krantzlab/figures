@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.21257786"
-     inkscape:cx="421.02221"
-     inkscape:cy="343.40359"
+     inkscape:zoom="0.20559117"
+     inkscape:cx="471.81015"
+     inkscape:cy="262.6572"
      inkscape:window-width="1512"
      inkscape:window-height="751"
      inkscape:window-x="0"
@@ -34,44 +34,6 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
-    <marker
-       style="overflow:visible"
-       id="marker5"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Triangle arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Triangle"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Triangle arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path135" />
-    </marker>
     <rect
        x="543.83822"
        y="424.38243"
@@ -97,45 +59,44 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,29.478264,-6.7659967)"
+       transform="matrix(0.26458333,0,0,0.26458333,19.363045,-0.88411208)"
        id="text1"
        style="font-size:96px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#000000;fill-opacity:1;stroke-width:5.99811;stroke-dasharray:none;paint-order:fill markers stroke"
        x="270.42188"
        y="0"><tspan
          x="777.34766"
          y="510.85524"
-         id="tspan5"><tspan
+         id="tspan2"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan4">16:9
+           id="tspan1">16:9
 </tspan></tspan><tspan
          x="598.63672"
          y="630.85524"
-         id="tspan7"><tspan
+         id="tspan10"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan6">Aspect Ratio</tspan></tspan></text>
+           id="tspan3">Aspect Ratio</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,243.37563,127.89179)"
+       transform="matrix(0.26458333,0,0,0.26458333,67.357534,123.69544)"
        id="text1-7"
        style="font-size:96px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);fill:#000000;fill-opacity:1;stroke-width:5.99811;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
          x="543.83789"
          y="510.85524"
-         id="tspan8">1920 px</tspan></text>
+         id="tspan11">1920 px</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-121.71618,-80.7748)"
+       transform="matrix(0.26458333,0,0,0.26458333,-117.87696,14.260498)"
        id="text1-7-7"
        style="font-size:96px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-1);fill:#000000;fill-opacity:1;stroke-width:5.99811;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
          x="543.83789"
          y="510.85524"
-         id="tspan9">1080 px</tspan></text>
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.65641;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle);paint-order:fill markers stroke"
-       d="M 16.497306,20.575003 V 273.13126"
-       id="path3" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.63252;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5);paint-order:fill markers stroke"
-       d="M 15.686282,272.48955 H 488.37351"
-       id="path4" />
+         id="tspan12">1080 px</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.76389;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2"
+       width="476.0719"
+       height="252.03635"
+       x="16.772793"
+       y="18.203743" />
   </g>
 </svg>

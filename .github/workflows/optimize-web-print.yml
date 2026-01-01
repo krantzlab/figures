@@ -56,7 +56,6 @@ jobs:
       # --- PROCESS PEOPLE (Square JPG -> Standardized WebP) ---
       - name: Convert Headshots to WebP
         run: |
-          mkdir -p dist/web/people
           shopt -s nullglob
           for file in source-people/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
             filename=$(basename "$file")
@@ -67,7 +66,7 @@ jobs:
             # -q 80: Quality 80%
             # -resize 600 600: Force image to exactly 600x600px
             # This ensures uniformity even if they uploaded a huge 4000px square
-            cwebp -q 80 "$file" -resize 600 600 -o "dist/web/people/$name.webp"
+            cwebp -q 80 "$file" -resize 600 600 -o "dist/web/$name.webp"
           done
 
       # --- DEPLOY ---
