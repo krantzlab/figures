@@ -5,18 +5,28 @@ module.exports = {
       name: 'preset-default',
       params: {
         overrides: {
-          // 1. Keep the viewBox so images scale correctly on the web
+          // 1. VITAL: Keeps the internal "map" so scaling works
           removeViewBox: false,
         },
       },
     },
-    // 2. Remove width/height so the image is responsive (relies on viewBox)
-    'removeDimensions',
-    // 3. Clean up the messy metadata 
+    // 2. We remove 'removeDimensions' to ensure mobile compatibility
+    
+    // 3. Systematically add 100% dimensions
+    {
+      name: 'addAttributesToSVGElement',
+      params: {
+        attributes: [
+          { width: '100%' },
+          { height: '100%' },
+          { preserveAspectRatio: 'xMidYMid meet' } // Ensures clinical images stay centered and proportional
+        ]
+      }
+    },
+    // 4. Clean up the specialized metadata
     {
       name: 'removeAttrs',
       params: {
-        // distinct change: removed colons and parentheses to prevent regex crash
         attrs: 'data-name|inkscape.*|sodipodi.*',
       },
     },
