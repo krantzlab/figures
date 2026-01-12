@@ -18,15 +18,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.33440964"
-     inkscape:cx="544.24269"
-     inkscape:cy="252.6841"
-     inkscape:window-width="1512"
+     inkscape:zoom="0.47292665"
+     inkscape:cx="562.45509"
+     inkscape:cy="392.23842"
+     inkscape:window-width="1520"
      inkscape:window-height="838"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="svg28" />
   <defs
      id="defs1">
     <style
@@ -39,131 +39,13 @@
   </defs>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Layer 1"
-     style="display:none">
-    <rect
-       class="st_light_blue"
-       x="407.05606"
-       y="110.39067"
-       width="400"
-       height="450"
-       id="rect1"
-       style="fill:#e9ddaf" />
-    <rect
-       class="st_dark_blue"
-       x="407.05606"
-       y="80.390663"
-       width="400"
-       height="30"
-       id="rect2"
-       style="fill:#a0892c" />
-    <g
-       class="st_medium_blue"
-       id="g10"
-       transform="translate(237.05604,-39.609333)">
-      <rect
-         x="240"
-         y="320"
-         width="60"
-         height="60"
-         id="rect3" />
-      <rect
-         x="310"
-         y="320"
-         width="60"
-         height="60"
-         id="rect4" />
-      <rect
-         x="380"
-         y="320"
-         width="60"
-         height="60"
-         id="rect5" />
-      <rect
-         x="450"
-         y="320"
-         width="60"
-         height="60"
-         id="rect6" />
-      <rect
-         x="240"
-         y="410"
-         width="60"
-         height="60"
-         id="rect7" />
-      <rect
-         x="310"
-         y="410"
-         width="60"
-         height="60"
-         id="rect8" />
-      <rect
-         x="380"
-         y="410"
-         width="60"
-         height="60"
-         id="rect9" />
-      <rect
-         x="450"
-         y="410"
-         width="60"
-         height="60"
-         id="rect10" />
-    </g>
-    <rect
-       class="st_dark_blue"
-       x="537.05609"
-       y="460.39069"
-       width="140"
-       height="100"
-       id="rect11"
-       style="fill:#999999" />
-    <rect
-       class="st_medium_blue"
-       x="552.05609"
-       y="475.39069"
-       width="50"
-       height="85"
-       id="rect12" />
-    <rect
-       class="st_medium_blue"
-       x="612.05609"
-       y="475.39069"
-       width="50"
-       height="85"
-       id="rect13" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10"
-       id="path28"
-       cx="611.55042"
-       cy="194.31453"
-       r="64.584389" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:10;paint-order:fill markers stroke"
-       id="rect14"
-       width="24.63064"
-       height="65.324738"
-       x="599.92261"
-       y="160.63461" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:10;paint-order:fill markers stroke"
-       id="rect14-9"
-       width="24.63064"
-       height="65.324738"
-       x="-205.04858"
-       y="580.14917"
-       transform="rotate(-90)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
     <path
        class="st7"
        d="m 562.75935,416.84926 -21.89573,-9.28992 c -1.47981,-0.6303 -2.0827,-2.39784 -1.28799,-3.78174 l 12.05773,-21.45727"
        id="path41"
-       style="fill:#5fd38d;stroke:#000000;stroke-width:4.11059px;stroke-miterlimit:10" />
+       style="fill:#74a0d1;stroke:#000000;stroke-width:4.11059px;stroke-miterlimit:10;fill-opacity:1" />
     <path
        class="st7"
        d="m 848.10271,350.79211 c 0,0 -30.0758,-16.05871 -34.84409,-42.66791 -4.76828,-26.60921 9.23513,-41.2155 9.23513,-41.2155"
@@ -297,7 +179,7 @@
        class="st7"
        d="m 829.05132,362.50735 -140.87079,35.19649 c -4.54905,1.19207 -9.30363,1.37019 -13.9212,0.53438 l -26.36257,-4.79569 c -4.35722,-0.79472 -8.85147,-0.49327 -13.05797,0.86322 l -70.68842,22.78636 c -0.50697,0.16443 -1.06876,-0.12331 -1.23318,-0.64399 l -10.82455,-33.59721 70.77064,-27.33541 c 5.68631,-2.19232 10.94786,-5.38487 15.51062,-9.44065 l 28.95224,-25.63638 c 2.52116,-2.21971 5.37117,-3.98727 8.46781,-5.23414 l 119.78256,-38.95468 c 0,0 9.2355,73.60233 33.47481,86.2577 z"
        id="path57-2"
-       style="fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:4.11059px;stroke-miterlimit:10"
+       style="fill:#74a0d1;fill-opacity:1;stroke:#000000;stroke-width:4.11059px;stroke-miterlimit:10"
        sodipodi:nodetypes="cccccccccccccc" />
     <path
        class="st7"
@@ -406,11 +288,11 @@
        id="path79"
        style="fill:none;stroke:#000000;stroke-width:4.11059px;stroke-miterlimit:10" />
     <path
-       style="fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:4.111;paint-order:fill markers stroke;stroke-dasharray:none"
+       style="fill:#74a0d1;fill-opacity:1;stroke:#000000;stroke-width:4.111;paint-order:fill markers stroke;stroke-dasharray:none"
        d="m 542.17432,397.89255 6.90926,12.19282"
        id="path1" />
     <path
-       style="fill:#5fd38d;fill-opacity:1;stroke:#000000;stroke-width:4.111;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="fill:#74a0d1;fill-opacity:1;stroke:#000000;stroke-width:4.111;stroke-dasharray:none;paint-order:fill markers stroke"
        d="m 795.08482,274.77415 c 0,0 8.9503,-17.30391 13.72379,-17.00556 4.77349,0.29834 13.1271,8.35361 13.1271,8.35361 0,0 -2.68509,5.07183 -3.87846,7.45858 -1.19337,2.38675 -5.66852,21.18237 -5.66852,24.16581 0,2.98343 8.05527,29.83432 12.53042,33.41444 4.47515,3.58012 16.70722,15.51385 18.49728,15.8122 1.79006,0.29834 5.37018,2.68508 5.37018,2.68508 0,0 -1.19337,10.44202 -2.98343,11.63539 -1.79006,1.19338 -9.24865,4.47515 -11.63539,3.58012 -2.38675,-0.89503 -8.9503,-3.28177 -10.14367,-5.07183 -1.19338,-1.79006 -16.11054,-31.62439 -17.30391,-34.90617 -1.19338,-3.28177 -11.63539,-45.34817 -11.63539,-50.12167 z"
        id="path2" />
   </g>
