@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3 {
+        stroke-width: 4px;
+      }
+
+      .st1 {
+        stroke-width: 3px;
+      }
+
+      .st4 {
+        font-size: 62px;
+      }
+
+      .st4, .st5 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st6 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st6, .st5 {
+        font-size: 42px;
+      }
+
+      .st2 {
+        stroke-width: 5px;
+      }
+
+      .st2, .st3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M825.71,117.2c31.92,14.83,60.92,31.83,91.92,52.83,52,37,93,75,125,128,11,19,20,37,27,57,3,9,5,18,8,27,10,43,12,85,13,128,3,72,3,148-30,215-2,3-4,5-6,8-59,113-162,194-290,218-3,1-7,1-10,1-71,13-138,6-207-11-8-2-16-2-23-5-4-2-9-3-13.5-4.39"/>
+  <rect class="st0" x="327.73" y="928.08" width="525.76" height="84"/>
+  <text class="st5" transform="translate(338.12 984.8)"><tspan x="0" y="0">Mast Cells and Basophils</tspan></text>
+  <text class="st6" transform="translate(1476.94 852.02)"><tspan x="0" y="0">Leukotrienes</tspan><tspan x="0" y="50.4">Prostaglandins</tspan><tspan x="0" y="100.8">Histamine</tspan><tspan x="0" y="151.2">Tryptase</tspan></text>
+  <g>
+    <line class="st2" x1="852.77" y1="804.37" x2="1407.01" y2="909.26"/>
+    <polygon points="1394.58 921.69 1450.54 917.49 1399.98 893.14 1394.58 921.69"/>
+  </g>
+  <path class="st0" d="M1045.55,130.74c-1.51-10.38-20.51-48.83-24.67-52.34-4.15-3.51-5.57-3.92-17.66.94,0,0-40.36,14.94-43.8,17.76s-3.26,10.51-2.47,14.57,3.45,9.42-8.21,15.18c-8.15,4.03-56.97,30.88-86.63,47.18-2.03,1.11-2.97,3.5-2.27,5.7,0,.03.02.06.03.09.9,2.82,4.11,4.16,6.75,2.84,29.65-14.79,53.55-26.95,56.77-29.3.23-.17.47-.31.72-.44,4.43-2.17,39.57-19.21,42.55-15.47,3.18,3.99,9.64,21.94,17.23,22.64s16.16.91,25.88-3.89c9.71-4.8,37.27-15.08,35.76-25.47Z"/>
+  <path class="st0" d="M1099.14,219.75c-1.5-10.38-20.5-48.84-24.66-52.35-4.15-3.51-5.57-3.93-17.66.94,0,0-40.36,14.93-43.8,17.75-3.44,2.81-3.27,10.51-2.47,14.57.8,4.06,3.45,9.42-8.21,15.18-5.96,2.95-33.7,18.11-59.78,32.41-2.25,1.23-3.32,3.88-2.55,6.33.01.03.02.07.03.1.99,3.18,4.61,4.7,7.58,3.2,15.84-8.02,27.03-13.87,29.31-15.49.27-.19.54-.36.83-.5,4.61-2.25,39.54-19.17,42.51-15.44,3.18,3.99,9.63,21.94,17.23,22.64,7.6.7,16.16.91,25.88-3.89,9.71-4.8,37.27-15.08,35.76-25.46Z"/>
+  <text class="st5" transform="translate(1058.22 106.1)"><tspan x="0" y="0">CD63</tspan></text>
+  <text class="st5" transform="translate(1103.34 196.09)"><tspan x="0" y="0">CD203c</tspan></text>
+  <circle class="st1" cx="801.54" cy="717.99" r="19.84"/>
+  <circle class="st1" cx="790.43" cy="656.09" r="19.84"/>
+  <circle class="st1" cx="747.57" cy="697.36" r="19.84"/>
+  <circle class="st1" cx="733.29" cy="640.22" r="19.84"/>
+  <circle class="st1" cx="741.22" cy="756.09" r="19.84"/>
+  <circle class="st1" cx="798.37" cy="778.31" r="19.84"/>
+  <circle class="st1" cx="855.51" cy="751.33" r="19.84"/>
+  <circle class="st1" cx="695.19" cy="678.31" r="19.84"/>
+  <circle class="st1" cx="677.73" cy="744.98" r="19.84"/>
+  <circle class="st1" cx="696.78" cy="803.71" r="19.84"/>
+  <text class="st5" transform="translate(936.64 449.08)"><tspan x="0" y="0">FcɛRI</tspan></text>
+  <circle class="st1" cx="757.71" cy="829.55" r="19.84"/>
+  <rect class="st0" x="1026.29" y="340.98" width="126.84" height="68.09" rx="34.04" ry="34.04"/>
+  <text class="st4" transform="translate(189.61 374.69)"><tspan x="0" y="0">Complement activation</tspan><tspan x="0" y="74.4">related pseudoallergy</tspan></text>
+  <text class="st5" transform="translate(656.37 590.6)"><tspan x="0" y="0">Mediators</tspan></text>
+  <text class="st5" transform="translate(1329.12 112.92)"><tspan x="0" y="0">Activation</tspan><tspan x="0" y="50.4">markers</tspan></text>
+  <g>
+    <line class="st2" x1="1293.94" y1="71.14" x2="1293.94" y2="176.48"/>
+    <rect x="1277.69" y="68.64" width="32.5" height="5"/>
+    <rect x="1277.69" y="173.98" width="32.5" height="5"/>
+  </g>
+  <polyline class="st0" points="1129.88 603.56 1029.92 605.11 1029.92 526.04 1133.11 526.04"/>
+  <path class="st3" d="M1136.46,526.7c-5.36,2.6-21.47,12.56-20.94,39.35.48,24.28,11.69,34.05,17.77,37.45"/>
+  <text class="st5" transform="translate(1132.84 583.24)"><tspan x="0" y="0">C3a</tspan></text>
+  <ellipse class="st3" cx="1172.86" cy="567.86" rx="47.19" ry="45.57"/>
+  <polyline class="st0" points="1126.76 756.17 1026.8 757.72 1026.8 678.65 1129.99 678.65"/>
+  <path class="st3" d="M1133.34,679.31c-5.36,2.6-21.47,12.56-20.94,39.35.48,24.28,11.69,34.05,17.77,37.45"/>
+  <text class="st5" transform="translate(1134.7 732.67)"><tspan x="0" y="0">C5a</tspan></text>
+  <ellipse class="st3" cx="1172.23" cy="720.7" rx="47.19" ry="45.57"/>
+  <text class="st5" transform="translate(906.7 577.25)"><tspan x="0" y="0">C3aR</tspan></text>
+  <text class="st5" transform="translate(903.19 730.35)"><tspan x="0" y="0">C5aR</tspan></text>
+</svg>

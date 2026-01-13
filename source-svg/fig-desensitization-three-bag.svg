@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st0, .st2 {
+        font-size: 34px;
+      }
+
+      .st1 {
+        font-size: 47px;
+      }
+
+      .st3 {
+        letter-spacing: .22em;
+      }
+
+      .st4 {
+        letter-spacing: .78em;
+      }
+
+      .st2 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st5 {
+        letter-spacing: .73em;
+      }
+
+      .st6 {
+        letter-spacing: .45em;
+      }
+
+      .st7 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2">
+    <line class="st7" x1="361.27" y1="715.35" x2="374.02" y2="716.62"/>
+    <line class="st7" x1="316.63" y1="675.81" x2="329.38" y2="677.09"/>
+    <path class="st7" d="M229.91,230.72s82.9,44.64,113.51,42.09,102.03-39.54,102.03-39.54"/>
+    <path class="st7" d="M288.29,611.25l-3.54,16.1s-3.83,6.38,6.38,7.65,25.51,2.55,25.51,2.55"/>
+    <path class="st7" d="M335.76,637.55"/>
+    <line class="st7" x1="335.76" y1="637.55" x2="360.43" y2="639.1"/>
+    <path class="st7" d="M381.03,640.74l22.32-.64s6.38-1.28,6.38-7.65,1.84-28.51,1.84-28.51"/>
+  </g>
+  <g id="Layer_1">
+    <text class="st0" transform="translate(296.71 423.84)"><tspan x="0" y="0">Bag 1</tspan><tspan x="-63.28" y="40.8">1:100 dilution</tspan></text>
+    <path class="st7" d="M381.03,640.74l-.64-15.94s-1.28-1.28,5.1-6.38c0,0,17.85,2.55,22.96-10.2,0,0,6.38-11.48,17.85-7.65s36.98,11.48,47.19-1.28,11.48-19.13,1.28-44.64c0,0-7.75-23.3-10.2-31.88-2.55-8.93-1.28,0-3.83-21.68-2.69-22.83-1.28-86.72-1.28-86.72,0,0-1.28-99.48,6.38-128.81,7.65-29.33,5.1-45.91,5.1-45.91,0,0-1.28-14.03-25.51-6.38,0,0-40.81,67.59-104.58,63.77s-110.95-66.32-110.95-66.32c0,0-11.48-5.1-20.41,7.65,0,0,7.65,44.64,8.93,54.84s12.75,79.07,11.48,99.48c-1.28,20.41,3.83,93.1,1.28,103.3-2.55,10.2-7.65,71.42-14.03,77.8,0,0-10.2,24.23,14.03,33.16,24.23,8.93,39.54-7.65,39.54-7.65,0,0,6.38-8.93,12.75,1.28,6.38,10.2,7.65,12.75,7.65,12.75,0,0-2.55,2.55,6.38,2.55s16.58,1.28,16.58,1.28c0,0,2.55,2.55,2.55,7.65v12.75l-1.28,34.43v8.93l-2.55,2.55v16.58l16.58,1.28,2.55-15.3,1.28-2.55-2.55-3.83v-3.83l5.1-38.26-1.28-11.48,3.83-7.65h21.68l1.28,17.85v79.07l-3.19-.64-2.55,21.68h6.38l-2.55,17.85-2.55,10.2,10.2,2.55,1.28-11.48,2.55-17.85h5.1l.64-19.77-2.55-1.28,3.83-11.48s1.28-2.55,1.28-8.93,1.91-55.48,1.91-55.48Z"/>
+    <text class="st1" transform="translate(463.37 119.35)"><tspan x="0" y="0">3-bag, 12-step rapid desensitization protocol</tspan></text>
+    <line class="st7" x1="947.61" y1="712.94" x2="960.36" y2="714.21"/>
+    <line class="st7" x1="902.97" y1="673.4" x2="915.73" y2="674.68"/>
+    <path class="st7" d="M816.25,228.31s82.9,44.64,113.51,42.09c30.61-2.55,102.03-39.54,102.03-39.54"/>
+    <path class="st7" d="M874.63,608.83l-3.54,16.1s-3.83,6.38,6.38,7.65,25.51,2.55,25.51,2.55"/>
+    <path class="st7" d="M922.1,635.14"/>
+    <line class="st7" x1="922.1" y1="635.14" x2="946.77" y2="636.69"/>
+    <path class="st7" d="M967.38,638.33l22.32-.64s6.38-1.28,6.38-7.65,1.84-28.51,1.84-28.51"/>
+    <text class="st0" transform="translate(883.05 421.43)"><tspan x="0" y="0">Bag 2</tspan><tspan x="-53.82" y="40.8">1:10 dilution</tspan></text>
+    <path class="st7" d="M967.38,638.33l-.64-15.94s-1.28-1.28,5.1-6.38c0,0,17.85,2.55,22.96-10.2,0,0,6.38-11.48,17.85-7.65,11.48,3.83,36.98,11.48,47.19-1.28,10.2-12.75,11.48-19.13,1.28-44.64,0,0-7.75-23.3-10.2-31.88-2.55-8.93-1.28,0-3.83-21.68-2.69-22.83-1.28-86.72-1.28-86.72,0,0-1.28-99.48,6.38-128.81,7.65-29.33,5.1-45.91,5.1-45.91,0,0-1.28-14.03-25.51-6.38,0,0-40.81,67.59-104.58,63.77-63.77-3.83-110.95-66.32-110.95-66.32,0,0-11.48-5.1-20.41,7.65,0,0,7.65,44.64,8.93,54.84s12.75,79.07,11.48,99.48,3.83,93.1,1.28,103.3-7.65,71.42-14.03,77.8c0,0-10.2,24.23,14.03,33.16s39.54-7.65,39.54-7.65c0,0,6.38-8.93,12.75,1.28,6.38,10.2,7.65,12.75,7.65,12.75,0,0-2.55,2.55,6.38,2.55s16.58,1.28,16.58,1.28c0,0,2.55,2.55,2.55,7.65v12.75l-1.28,34.43v8.93l-2.55,2.55v16.58l16.58,1.28,2.55-15.3,1.28-2.55-2.55-3.83v-3.83l5.1-38.26-1.28-11.48,3.83-7.65h21.68l1.28,17.85v79.07l-3.19-.64-2.55,21.68h6.38l-2.55,17.85-2.55,10.2,10.2,2.55,1.28-11.48,2.55-17.85h5.1l.64-19.77-2.55-1.28,3.83-11.48s1.28-2.55,1.28-8.93,1.91-55.48,1.91-55.48Z"/>
+    <line class="st7" x1="1508.61" y1="713.94" x2="1521.36" y2="715.21"/>
+    <line class="st7" x1="1463.97" y1="674.4" x2="1476.73" y2="675.68"/>
+    <path class="st7" d="M1377.25,229.31s82.9,44.64,113.51,42.09c30.61-2.55,102.03-39.54,102.03-39.54"/>
+    <path class="st7" d="M1435.63,609.83l-3.54,16.1s-3.83,6.38,6.38,7.65,25.51,2.55,25.51,2.55"/>
+    <path class="st7" d="M1483.1,636.14"/>
+    <line class="st7" x1="1483.1" y1="636.14" x2="1507.77" y2="637.69"/>
+    <path class="st7" d="M1528.38,639.33l22.32-.64s6.38-1.28,6.38-7.65,1.84-28.51,1.84-28.51"/>
+    <text class="st0" transform="translate(1447.88 422.43)"><tspan x="0" y="0">Bag 3</tspan><tspan x="21.72" y="40.8">1:1</tspan><tspan x="-57.55" y="81.6">(nondilution) </tspan></text>
+    <path class="st7" d="M1528.38,639.33l-.64-15.94s-1.28-1.28,5.1-6.38c0,0,17.85,2.55,22.96-10.2,0,0,6.38-11.48,17.85-7.65,11.48,3.83,36.98,11.48,47.19-1.28,10.2-12.75,11.48-19.13,1.28-44.64,0,0-7.75-23.3-10.2-31.88-2.55-8.93-1.28,0-3.83-21.68-2.69-22.83-1.28-86.72-1.28-86.72,0,0-1.28-99.48,6.38-128.81,7.65-29.33,5.1-45.91,5.1-45.91,0,0-1.28-14.03-25.51-6.38,0,0-40.81,67.59-104.58,63.77-63.77-3.83-110.95-66.32-110.95-66.32,0,0-11.48-5.1-20.41,7.65,0,0,7.65,44.64,8.93,54.84,1.28,10.2,12.75,79.07,11.48,99.48-1.28,20.41,3.83,93.1,1.28,103.3s-7.65,71.42-14.03,77.8c0,0-10.2,24.23,14.03,33.16,24.23,8.93,39.54-7.65,39.54-7.65,0,0,6.38-8.93,12.75,1.28,6.38,10.2,7.65,12.75,7.65,12.75,0,0-2.55,2.55,6.38,2.55s16.58,1.28,16.58,1.28c0,0,2.55,2.55,2.55,7.65v12.75l-1.28,34.43v8.93l-2.55,2.55v16.58l16.58,1.28,2.55-15.3,1.28-2.55-2.55-3.83v-3.83l5.1-38.26-1.28-11.48,3.83-7.65h21.68l1.28,17.85v79.07l-3.19-.64-2.55,21.68h6.38l-2.55,17.85-2.55,10.2,10.2,2.55,1.28-11.48,2.55-17.85h5.1l.64-19.77-2.55-1.28,3.83-11.48s1.28-2.55,1.28-8.93,1.91-55.48,1.91-55.48Z"/>
+    <text class="st0" transform="translate(141.39 836.03)"><tspan x="0" y="0" xml:space="preserve">Step    Rate (mL/h)    Time (min)</tspan></text>
+    <line class="st7" x1="137.5" y1="793.5" x2="629.5" y2="793.5"/>
+    <line class="st7" x1="134.5" y1="855.5" x2="632.5" y2="855.5"/>
+    <text class="st2" transform="translate(165.5 897.44)"><tspan x="0" y="0">1</tspan><tspan class="st3" x="18.91" y="0">	</tspan><tspan class="st4" x="36" y="0" xml:space="preserve">			</tspan><tspan x="144" y="0">2.5</tspan><tspan class="st6" x="191.26" y="0">	</tspan><tspan class="st4" x="216" y="0" xml:space="preserve">				</tspan><tspan x="360" y="0">15</tspan><tspan x="0" y="40.8">2</tspan><tspan class="st3" x="18.91" y="40.8">	</tspan><tspan class="st4" x="36" y="40.8" xml:space="preserve">			</tspan><tspan x="144" y="40.8">5</tspan><tspan class="st3" x="162.91" y="40.8">	</tspan><tspan class="st4" x="180" y="40.8" xml:space="preserve">					</tspan><tspan x="360" y="40.8">15</tspan><tspan x="0" y="81.6">3</tspan><tspan class="st3" x="18.91" y="81.6">	</tspan><tspan class="st4" x="36" y="81.6" xml:space="preserve">			</tspan><tspan x="144" y="81.6">10</tspan><tspan class="st5" x="181.82" y="81.6">	</tspan><tspan class="st4" x="216" y="81.6" xml:space="preserve">				</tspan><tspan x="360" y="81.6">15</tspan><tspan x="0" y="122.4">4</tspan><tspan class="st3" x="18.91" y="122.4">	</tspan><tspan class="st4" x="36" y="122.4" xml:space="preserve">			</tspan><tspan x="144" y="122.4">20 </tspan><tspan class="st6" x="191.26" y="122.4">	</tspan><tspan class="st4" x="216" y="122.4" xml:space="preserve">				</tspan><tspan x="360" y="122.4">15</tspan></text>
+    <text class="st0" transform="translate(707.64 833.03)"><tspan x="0" y="0" xml:space="preserve">Step    Rate (mL/h)    Time (min)</tspan></text>
+    <line class="st7" x1="699" y1="790.5" x2="1191" y2="790.5"/>
+    <line class="st7" x1="696" y1="852.5" x2="1194" y2="852.5"/>
+    <text class="st2" transform="translate(727 894.44)"><tspan x="0" y="0">5</tspan><tspan class="st3" x="18.91" y="0">	</tspan><tspan class="st4" x="36" y="0" xml:space="preserve">			</tspan><tspan x="144" y="0">5</tspan><tspan class="st3" x="162.91" y="0">	</tspan><tspan class="st4" x="180" y="0" xml:space="preserve">					</tspan><tspan x="360" y="0">15</tspan><tspan x="0" y="40.8">6</tspan><tspan class="st3" x="18.91" y="40.8">	</tspan><tspan class="st4" x="36" y="40.8" xml:space="preserve">			</tspan><tspan x="144" y="40.8">10</tspan><tspan class="st5" x="181.82" y="40.8">	</tspan><tspan class="st4" x="216" y="40.8" xml:space="preserve">				</tspan><tspan x="360" y="40.8">15</tspan><tspan x="0" y="81.6">7</tspan><tspan class="st3" x="18.91" y="81.6">	</tspan><tspan class="st4" x="36" y="81.6" xml:space="preserve">			</tspan><tspan x="144" y="81.6">20</tspan><tspan class="st5" x="181.82" y="81.6">	</tspan><tspan class="st4" x="216" y="81.6" xml:space="preserve">				</tspan><tspan x="360" y="81.6">15</tspan><tspan x="0" y="122.4">8</tspan><tspan class="st3" x="18.91" y="122.4">	</tspan><tspan class="st4" x="36" y="122.4" xml:space="preserve">			</tspan><tspan x="144" y="122.4">40 </tspan><tspan class="st6" x="191.26" y="122.4">	</tspan><tspan class="st4" x="216" y="122.4" xml:space="preserve">				</tspan><tspan x="360" y="122.4">15</tspan></text>
+    <text class="st0" transform="translate(1286.64 831.03)"><tspan x="0" y="0" xml:space="preserve">Step    Rate (mL/h)    Time (min)</tspan></text>
+    <line class="st7" x1="1279" y1="788.5" x2="1771" y2="788.5"/>
+    <line class="st7" x1="1276" y1="850.5" x2="1774" y2="850.5"/>
+    <text class="st2" transform="translate(1307 892.44)"><tspan x="0" y="0">9</tspan><tspan class="st3" x="18.91" y="0">	</tspan><tspan class="st4" x="36" y="0" xml:space="preserve">			</tspan><tspan x="144" y="0">10</tspan><tspan class="st5" x="181.82" y="0">	</tspan><tspan class="st4" x="216" y="0" xml:space="preserve">				</tspan><tspan x="360" y="0">15</tspan><tspan x="0" y="40.8">10</tspan><tspan class="st5" x="37.82" y="40.8">	</tspan><tspan class="st4" x="72" y="40.8" xml:space="preserve">		</tspan><tspan x="144" y="40.8">20</tspan><tspan class="st5" x="181.82" y="40.8">	</tspan><tspan class="st4" x="216" y="40.8" xml:space="preserve">				</tspan><tspan x="360" y="40.8">15</tspan><tspan x="0" y="81.6">11</tspan><tspan class="st5" x="37.82" y="81.6">	</tspan><tspan class="st4" x="72" y="81.6" xml:space="preserve">			</tspan><tspan x="180" y="81.6">40</tspan><tspan class="st5" x="217.82" y="81.6">	</tspan><tspan class="st4" x="252" y="81.6" xml:space="preserve">				</tspan><tspan x="396" y="81.6">15</tspan><tspan x="0" y="122.4">12</tspan><tspan class="st5" x="37.82" y="122.4">	</tspan><tspan class="st4" x="72" y="122.4" xml:space="preserve">		</tspan><tspan x="144" y="122.4">80 </tspan><tspan class="st6" x="191.26" y="122.4">	</tspan><tspan class="st4" x="216" y="122.4" xml:space="preserve">				</tspan><tspan x="360" y="122.4">173</tspan></text>
+  </g>
+</svg>
