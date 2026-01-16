@@ -5,29 +5,33 @@ module.exports = {
       name: 'preset-default',
       params: {
         overrides: {
-          // 1. VITAL: Keeps the internal "map" so scaling works
-          removeViewBox: false,
+          // VITAL: Keeps the internal coordinate system
+          removeViewBox: false, 
         },
       },
     },
-    // 2. We remove 'removeDimensions' to ensure mobile compatibility
-    
-    // 3. Systematically add 100% dimensions
+    // 1. MUST REMOVE existing fixed width/height (e.g., "1182px") 
+    // so they don't conflict with the 100% we add below.
+    {
+      name: 'removeDimensions',
+    },
+    // 2. Add the responsive attributes back
     {
       name: 'addAttributesToSVGElement',
       params: {
         attributes: [
           { width: '100%' },
           { height: '100%' },
-          { preserveAspectRatio: 'xMidYMid meet' } // Ensures clinical images stay centered and proportional
+          { preserveAspectRatio: 'xMidYMid meet' } 
         ]
       }
     },
-    // 4. Clean up the specialized metadata
+    // 3. Clean up Inkscape/Sodipodi bloat while keeping IDs for Quarto
     {
       name: 'removeAttrs',
       params: {
-        attrs: 'data-name|inkscape.*|sodipodi.*',
+        // We keep 'id' but remove the specific Inkscape/Adobe metadata
+        attrs: 'data-name|inkscape:(?!label).*|sodipodi:.*',
       },
     },
   ],

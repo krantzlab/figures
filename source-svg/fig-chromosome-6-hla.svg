@@ -1,479 +1,347 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    id="Layer_1"
+   width="100%"
+   height="100%"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 1182.2 710.688"
    version="1.1"
-   viewBox="0 0 1182.1996 710.68842"
-   sodipodi:docname="fig-chromosome-6-hla.svg"
-   width="1182.1996"
-   height="710.68842"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview41"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.58714499"
-     inkscape:cx="596.95647"
-     inkscape:cy="344.03768"
-     inkscape:window-width="1496"
-     inkscape:window-height="839"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1"
-     showgrid="false">
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14902"
-       empspacing="5"
-       enabled="true"
-       visible="false" />
-  </sodipodi:namedview>
-  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:0.99813783;paint-order:fill markers stroke;stroke-dasharray:none"
-     id="rect21"
-     width="1121.5104"
-     height="79.311272"
-     x="60.410583"
-     y="487.10803"
-     ry="0" />
   <defs
      id="defs1">
     <style
-       id="style1">
-      .st0 {
-        stroke-dasharray: 12.49 12.49;
-      }
-
-      .st0, .st1, .st2, .st3, .st4, .st5 {
-        stroke: #000;
-        stroke-miterlimit: 10;
-      }
-
-      .st0, .st2, .st3, .st5 {
-        fill: none;
-      }
-
-      .st0, .st5 {
-        stroke-width: 4px;
-      }
-
-      .st1, .st2, .st3, .st4 {
-        stroke-width: 5px;
-      }
-
-      .st1, .st4 {
-        fill: #fff;
-      }
-
-      .st6 {
-        font-family: ArialMT, Arial;
-        font-size: 36px;
-      }
-
-      .st7 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 52px;
-        font-weight: 700;
-      }
-
-      .st2 {
-        stroke-dasharray: 11.81 11.81;
-      }
-
-      .st4 {
-        fill-rule: evenodd;
-      }
-    </style>
+       id="style1">.st1,.st3,.st5{stroke:#000;stroke-miterlimit:10}.st3,.st5{fill:none}.st5{stroke-width:4px}.st1,.st3{stroke-width:5px}.st1{fill:#fff}.st6{font-family:ArialMT,Arial;font-size:36px}.st7{font-family:Arial-BoldMT,Arial;font-size:52px;font-weight:700}</style>
   </defs>
-  <text
-     class="st7"
-     id="text2"
-     x="170.00703"
-     y="444.79898"><tspan
-       x="170.00703"
-       y="444.79898"
-       id="tspan2">A</tspan></text>
-  <text
-     class="st7"
-     id="text3"
-     x="353.50702"
-     y="444.19897"><tspan
-       x="353.50702"
-       y="444.19897"
-       id="tspan3">B</tspan></text>
-  <text
-     class="st7"
-     id="text4"
-     x="263.62704"
-     y="442.92899"><tspan
-       x="263.62704"
+  <g
+     id="step1"
+     style="display:inline">
+    <text
+       id="text7"
+       x="-1.793"
+       y="85.569"
+       class="st6"><tspan
+         id="tspan7"
+         x="-1.793"
+         y="85.569">Chr 6</tspan></text>
+    <rect
+       id="rect12-9"
+       width="446.062"
+       height="71.291"
+       x="100.446"
+       y="35.12"
+       ry="35.646"
+       style="fill:none;stroke:#000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none" />
+    <path
+       id="rect34"
+       d="M237.078 35.624h55.06v70.309h-55.06z"
+       style="stroke-width:1.03796" />
+    <text
+       id="text35"
+       x="351.847"
+       y="26.209"
+       class="st6"><tspan
+         id="tspan35"
+         x="351.847"
+         y="26.209">Short arm</tspan></text>
+    <text
+       id="text36"
+       x="952.217"
+       y="26.579"
+       class="st6"><tspan
+         id="tspan36"
+         x="952.217"
+         y="26.579">Long arm</tspan></text>
+    <rect
+       id="rect12"
+       width="603.866"
+       height="70.818"
+       x="547.85"
+       y="36.452"
+       ry="35.409"
+       style="fill:none;stroke:#000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <text
+       id="text4"
+       x="263.62701"
        y="442.92899"
-       id="tspan4">C</tspan></text>
-  <text
-     class="st7"
-     id="text5"
-     x="137.67703"
-     y="330.85898"><tspan
-       x="137.67703"
-       y="330.85898"
-       id="tspan5">HLA Class I</tspan></text>
-  <text
-     class="st7"
-     id="text6"
-     x="671.52704"
-     y="328.07898"><tspan
-       x="671.52704"
-       y="328.07898"
-       id="tspan6">HLA Class II</tspan></text>
-  <text
-     class="st6"
-     id="text7"
-     x="-1.7929688"
-     y="85.568985"><tspan
-       x="-1.7929688"
-       y="85.568985"
-       id="tspan7">Chr 6</tspan></text>
-  <rect
-     class="st1"
-     x="156.35701"
-     y="472.14896"
-     width="60.32"
-     height="111.11"
-     id="rect7"
-     style="fill:#7e9fcd;fill-opacity:1;stroke:none;stroke-opacity:1" />
-  <rect
-     class="st1"
-     x="252.38704"
-     y="470.55899"
-     width="60.32"
-     height="111.11"
-     id="rect8"
-     style="fill:#7e9fcd;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="346.03702"
-     y="472.14896"
-     width="60.32"
-     height="111.11"
-     id="rect9"
-     style="fill:#7e9fcd;fill-opacity:1;stroke:none" />
-  <g
-     id="g11"
-     transform="translate(-336.00297,-210.82102)">
-    <line
-       class="st3"
-       x1="485.57999"
-       y1="585.77002"
-       x2="751.83002"
-       y2="585.77002"
-       id="line9" />
-    <rect
-       x="483.07999"
-       y="569.52002"
-       width="5"
-       height="32.5"
-       id="rect10" />
-    <rect
-       x="749.33002"
-       y="569.52002"
-       width="5"
-       height="32.5"
-       id="rect11" />
-  </g>
-  <text
-     class="st7"
-     id="text11"
-     x="574.85706"
-     y="442.82898"><tspan
-       x="574.85706"
-       y="442.82898"
-       id="tspan11">DR</tspan></text>
-  <text
-     class="st7"
-     id="text12"
-     x="809.927"
-     y="441.57898"><tspan
+       class="st7"><tspan
+         id="tspan4"
+         x="263.62701"
+         y="442.92899">C</tspan></text>
+    <text
+       id="text5"
+       x="137.677"
+       y="330.85901"
+       class="st7"><tspan
+         id="tspan5"
+         x="137.677"
+         y="330.85901">HLA Class I</tspan></text>
+    <text
+       id="text6"
+       x="671.52698"
+       y="328.07901"
+       class="st7"><tspan
+         id="tspan6"
+         x="671.52698"
+         y="328.07901">HLA Class II</tspan></text>
+    <g
+       id="g11"
+       transform="translate(-336.003,-210.821)">
+      <path
+         id="line9"
+         d="M 485.58,585.77 H 751.83"
+         class="st3" />
+      <path
+         id="rect10"
+         d="m 483.08,569.52 h 5 v 32.5 h -5 z" />
+      <path
+         id="rect11"
+         d="m 749.33,569.52 h 5 v 32.5 h -5 z" />
+    </g>
+    <text
+       id="text11"
+       x="574.85699"
+       y="442.82901"
+       class="st7"><tspan
+         id="tspan11"
+         x="574.85699"
+         y="442.82901">DR</tspan></text>
+    <text
+       id="text12"
        x="809.927"
-       y="441.57898"
-       id="tspan12">DQ</tspan></text>
-  <text
-     class="st7"
-     id="text13"
-     x="998.50702"
-     y="444.51898"><tspan
+       y="441.57901"
+       class="st7"><tspan
+         id="tspan12"
+         x="809.927"
+         y="441.57901">DQ</tspan></text>
+    <g
+       id="g14"
+       transform="translate(-336.003,-210.821)">
+      <path
+         id="line13"
+         d="m 831.83,585.58 620.24,-0.01"
+         class="st3" />
+      <path
+         id="rect13"
+         d="m 829.33,569.33 h 5 v 32.5 h -5 z" />
+      <path
+         id="rect14"
+         d="m 1449.57,569.32 h 5 v 32.5 h -5 z" />
+    </g>
+    <text
+       id="text34"
+       x="272.06699"
+       y="204.269"
+       class="st6"><tspan
+         id="tspan34"
+         x="272.06699"
+         y="204.269">6p21.1-21.3</tspan></text>
+    <g
+       id="g38"
+       transform="translate(-336.003,-210.821)">
+      <path
+         id="line36"
+         d="m 574.9,316.68 0.5,5.98"
+         class="st5" />
+      <path
+         id="line37"
+         d="M 576.42,335.1 588.2,478.23"
+         style="fill:none;stroke:#000000;stroke-width:4px;stroke-miterlimit:10;stroke-dasharray:12.49, 12.49" />
+      <path
+         id="line38"
+         d="m 588.71,484.45 0.5,5.98"
+         class="st5" />
+    </g>
+    <g
+       id="g41"
+       transform="translate(-336.003,-210.821)">
+      <path
+         id="line39"
+         d="m 629.96,316.68 5.71,1.85"
+         class="st3" />
+      <path
+         id="line40"
+         d="m 646.91,322.17 488.93,158.35"
+         style="fill:none;stroke:#000000;stroke-width:5px;stroke-miterlimit:10;stroke-dasharray:11.81, 11.81" />
+      <path
+         id="line41"
+         d="m 1141.46,482.34 5.7,1.85"
+         class="st3" />
+    </g>
+    <rect
+       id="rect21"
+       width="1121.51"
+       height="79.310997"
+       x="60.410999"
+       y="487.108"
+       ry="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-opacity:0.998138;paint-order:fill markers stroke" />
+    <text
+       id="text2"
+       x="170.007"
+       y="444.79901"
+       class="st7"
+       style="display:inline"><tspan
+         id="tspan2"
+         x="170.007"
+         y="444.79901">A</tspan></text>
+    <text
+       id="text3"
+       x="353.50699"
+       y="444.19901"
+       class="st7"
+       style="display:inline"><tspan
+         id="tspan3"
+         x="353.50699"
+         y="444.19901">B</tspan></text>
+    <path
+       id="rect7"
+       d="m 156.357,472.149 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#7e9fcd;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       id="rect8"
+       d="m 252.387,470.559 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#7e9fcd;fill-opacity:1;stroke:none" />
+    <path
+       id="rect9"
+       d="m 346.037,472.149 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#7e9fcd;fill-opacity:1;stroke:none" />
+    <text
+       id="text13"
        x="998.50702"
-       y="444.51898"
-       id="tspan13">DP</tspan></text>
-  <g
-     id="g14"
-     transform="translate(-336.00297,-210.82102)">
-    <line
-       class="st3"
-       x1="831.83002"
-       y1="585.58002"
-       x2="1452.0699"
-       y2="585.57001"
-       id="line13" />
-    <rect
-       x="829.33002"
-       y="569.33002"
-       width="5"
-       height="32.5"
-       id="rect13" />
-    <rect
-       x="1449.5699"
-       y="569.32001"
-       width="5"
-       height="32.5"
-       id="rect14" />
-  </g>
-  <rect
-     class="st1"
-     x="504.33707"
-     y="471.67899"
-     width="60.32"
-     height="111.11"
-     id="rect15"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="652.37701"
-     y="473.509"
-     width="60.32"
-     height="111.11"
-     id="rect16"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="783.43695"
-     y="470.88901"
-     width="60.32"
-     height="111.11"
-     id="rect17"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="862.47699"
-     y="469.08896"
-     width="60.32"
-     height="111.11"
-     id="rect18"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="963.68695"
-     y="472.29898"
-     width="60.32"
-     height="111.11"
-     id="rect19"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <rect
-     class="st1"
-     x="1042.7271"
-     y="470.49899"
-     width="60.32"
-     height="111.11"
-     id="rect20"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <text
-     class="st6"
-     id="text20"
-     x="971.40704"
-     y="626.659"><tspan
-       x="971.40704"
+       y="444.51901"
+       class="st7"
+       style="display:inline"><tspan
+         id="tspan13"
+         x="998.50702"
+         y="444.51901">DP</tspan></text>
+    <path
+       id="rect15"
+       d="m 504.337,471.679 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <path
+       id="rect16"
+       d="m 652.377,473.509 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <path
+       id="rect17"
+       d="m 783.437,470.889 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <path
+       id="rect18"
+       d="m 862.477,469.089 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <path
+       id="rect19"
+       d="m 963.687,472.299 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <path
+       id="rect20"
+       d="m 1042.727,470.499 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <text
+       id="text20"
+       x="971.40698"
        y="626.659"
-       id="tspan20">A1</tspan></text>
-  <text
-     class="st6"
-     id="text21"
-     x="791.22705"
-     y="626.25897"><tspan
-       x="791.22705"
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan20"
+         x="971.40698"
+         y="626.659">A1</tspan></text>
+    <text
+       id="text21"
+       x="791.22699"
        y="626.25897"
-       id="tspan21">A1</tspan></text>
-  <text
-     class="st6"
-     id="text22"
-     x="510.91702"
-     y="622.43896"><tspan
-       x="510.91702"
-       y="622.43896"
-       id="tspan22">A1</tspan></text>
-  <rect
-     class="st1"
-     x="577.927"
-     y="472.80899"
-     width="60.32"
-     height="111.11"
-     id="rect22"
-     style="fill:#446ca1;fill-opacity:1;stroke:none" />
-  <text
-     class="st6"
-     id="text23"
-     x="873.25702"
-     y="624.88898"><tspan
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan21"
+         x="791.22699"
+         y="626.25897">A1</tspan></text>
+    <text
+       id="text22"
+       x="510.91699"
+       y="622.43903"
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan22"
+         x="510.91699"
+         y="622.43903">A1</tspan></text>
+    <path
+       id="rect22"
+       d="m 577.927,472.809 h 60.32 v 111.11 h -60.32 z"
+       class="st1"
+       style="display:inline;fill:#446ca1;fill-opacity:1;stroke:none" />
+    <text
+       id="text23"
        x="873.25702"
        y="624.88898"
-       id="tspan23">B1</tspan></text>
-  <text
-     class="st6"
-     id="text24"
-     x="1051.677"
-     y="625.24896"><tspan
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan23"
+         x="873.25702"
+         y="624.88898">B1</tspan></text>
+    <text
+       id="text24"
        x="1051.677"
-       y="625.24896"
-       id="tspan24">B1</tspan></text>
-  <text
-     class="st6"
-     id="text25"
-     x="660.60706"
-     y="627.13898"><tspan
-       x="660.60706"
+       y="625.24902"
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan24"
+         x="1051.677"
+         y="625.24902">B1</tspan></text>
+    <text
+       id="text25"
+       x="660.60699"
        y="627.13898"
-       id="tspan25">B1</tspan></text>
-  <text
-     class="st6"
-     id="text28"
-     x="585.54706"
-     y="623.849"><tspan
-       x="585.54706"
-       y="623.849"
-       id="tspan26">B3</tspan><tspan
-       x="585.54706"
-       y="667.04901"
-       id="tspan27">B4</tspan><tspan
-       x="585.54706"
-       y="710.24896"
-       id="tspan28">B5</tspan></text>
-  <text
-     class="st6"
-     id="text29"
-     x="86.677032"
-     y="535.86896"><tspan
-       x="86.677032"
-       y="535.86896"
-       id="tspan29">Tel</tspan></text>
-  <text
-     class="st6"
-     id="text30"
-     x="1110.6371"
-     y="536.289"><tspan
-       x="1110.6371"
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan25"
+         x="660.60699"
+         y="627.13898">B1</tspan></text>
+    <text
+       id="text29"
+       x="86.677002"
+       y="535.86902"
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan29"
+         x="86.677002"
+         y="535.86902">Tel</tspan></text>
+    <text
+       id="text30"
+       x="1110.637"
        y="536.289"
-       id="tspan30">Cen</tspan></text>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none"
-     id="rect12-9"
-     width="446.06229"
-     height="71.291138"
-     x="100.44556"
-     y="35.120407"
-     ry="35.645569" />
-  <text
-     class="st6"
-     id="text34"
-     x="272.06702"
-     y="204.26898"><tspan
-       x="272.06702"
-       y="204.26898"
-       id="tspan34">6p21.1-21.3</tspan></text>
-  <rect
-     x="237.07777"
-     y="35.623962"
-     width="55.060001"
-     height="70.309196"
-     id="rect34"
-     style="stroke-width:1.03796" />
-  <text
-     class="st6"
-     id="text35"
-     x="351.84705"
-     y="26.208984"><tspan
-       x="351.84705"
-       y="26.208984"
-       id="tspan35">Short arm</tspan></text>
-  <text
-     class="st6"
-     id="text36"
-     x="952.21704"
-     y="26.578985"><tspan
-       x="952.21704"
-       y="26.578985"
-       id="tspan36">Long arm</tspan></text>
-  <g
-     id="g38"
-     transform="translate(-336.00297,-210.82102)">
-    <line
-       class="st5"
-       x1="574.90002"
-       y1="316.67999"
-       x2="575.40002"
-       y2="322.66"
-       id="line36" />
-    <line
-       class="st0"
-       x1="576.41998"
-       y1="335.10001"
-       x2="588.20001"
-       y2="478.23001"
-       id="line37" />
-    <line
-       class="st5"
-       x1="588.71002"
-       y1="484.45001"
-       x2="589.21002"
-       y2="490.42999"
-       id="line38" />
+       class="st6"
+       style="display:inline"><tspan
+         id="tspan30"
+         x="1110.637"
+         y="536.289">Cen</tspan></text>
+    <text
+       id="text28"
+       x="585.547"
+       y="623.849"
+       class="st6"><tspan
+         id="tspan26"
+         x="585.547"
+         y="623.849">B3</tspan><tspan
+         id="tspan27"
+         x="585.547"
+         y="667.04901">B4</tspan><tspan
+         id="tspan28"
+         x="585.547"
+         y="710.24902">B5</tspan></text>
   </g>
-  <g
-     id="g41"
-     transform="translate(-336.00297,-210.82102)">
-    <line
-       class="st3"
-       x1="629.96002"
-       y1="316.67999"
-       x2="635.66998"
-       y2="318.53"
-       id="line39" />
-    <line
-       class="st2"
-       x1="646.90997"
-       y1="322.17001"
-       x2="1135.84"
-       y2="480.51999"
-       id="line40" />
-    <line
-       class="st3"
-       x1="1141.46"
-       y1="482.34"
-       x2="1147.16"
-       y2="484.19"
-       id="line41" />
-  </g>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:5;stroke-opacity:1;paint-order:fill markers stroke;stroke-dasharray:none"
-     id="rect12"
-     width="603.86627"
-     height="70.817986"
-     x="547.85016"
-     y="36.452469"
-     ry="35.408993" />
 </svg>
