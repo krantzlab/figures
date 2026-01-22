@@ -43,6 +43,13 @@ Example (Quarto / Markdown):
 - The svgo.config.js automatically uses the file name to create prefixes so that SVG elements are unique (if use multiple SVG with same element ID, this will cause rendering issues)
 - You right click on the layer -> Object Properties -> update the ID to "layer1" (this is the name for the first layer of what appears immediately on slide); then "layer2". The svgo.config.js will append a prefix "fig-name_". Therefore in the .qmd for the revealjs you would use "fig-name_layer2"
 
+📄 PDF Generation & Decktape Troubleshooting
+Issue: If the final slide of the presentation contains a complex SVG (specifically one with many vector paths or "sketch" style drawings), the PDF generation process via Decktape may hang or generate dozens of duplicate pages.
+
+Cause: This is a known issue where the Reveal.js animation plugin interprets loose SVG paths as individual animation steps. If this occurs on the last slide, Decktape can enter an infinite loop trying to capture the "final" state of the animation, as there is no "Next Slide" event to force it to terminate.
+
+Solution: The "Dummy Slide" To ensure smooth PDF export, always include a final slide at the end of the presentation (e.g., References, Thank You, or a blank slide). This gives Decktape a clear exit target, forcing it to skip intermediate animation steps on the complex SVG and finish the export successfully.
+
 ## Adding Headshots
 1. Crop the photo to square (1:1) and center the face.
 2. Minimum resolution: **600×600 px**.
