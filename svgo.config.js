@@ -1,21 +1,26 @@
+// Get the filename from the environment variable passed by the CI loop
+// Fallback to "svg" if for some reason the variable is missing
+const currentPrefix = process.env.SVG_FILENAME || 'svg';
+
 module.exports = {
-  multipass: true, // Run plugins multiple times to ensure cleanliness
+  multipass: true,
   plugins: [
-    // 1. Standard Cleanup (Disabled ID stripping so we can rename them instead)
     {
       name: 'preset-default',
       params: {
         overrides: {
-          removeViewBox: false, // Keep the viewbox!
-          cleanupIDs: false,    // DOMINANT: Do not let default preset touch IDs
+          // VITAL: Keep the viewbox for scaling
+          removeViewBox: false,
+          // VITAL: Don't let default cleanup delete IDs we need to rename later
+          cleanupIDs: false,
         },
       },
     },
-
-    // 2. Remove Dimensions (Fixes the layout)
+    
+    // 1. Remove fixed dimensions so we can resize in Quarto
     { name: 'removeDimensions' },
 
-    // 3. Add Responsive Size
+    // 2. Add responsive attributes
     {
       name: 'addAttributesToSVGElement',
       params: {
@@ -27,14 +32,13 @@ module.exports = {
       }
     },
 
-    // 4. Force Unique IDs (The Fix)
-    // Placed LAST to ensure it runs on the final cleaned structure
+    // 3. THE FIX: Force the prefix using the variable we passed in
     {
       name: 'prefixIds',
       params: {
-        prefix: false, // Use filename as prefix
+        prefix: currentPrefix,
         delim: '_',
       }
-    },
+    }
   ],
 };

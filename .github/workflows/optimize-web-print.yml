@@ -28,6 +28,7 @@ jobs:
       - name: Install Graphics Tools (Inkscape & WebP)
         run: |
           sudo apt-get update
+          # Install both at once to save time
           sudo apt-get install -y --no-install-recommends inkscape webp
 
       # --- PREPARE FOLDERS ---
@@ -36,13 +37,25 @@ jobs:
           mkdir -p dist/web
           mkdir -p dist/print
 
-      # --- GENERATE WEB ASSETS (Optimized SVG) ---
+      # --- GENERATE WEB ASSETS (Optimized SVG with Unique IDs) ---
       - name: Generate Web Assets
-        # ADDED --config=svgo.config.js below
-        run: svgo --config=svgo.config.js -f source-svg -o dist/web
+        run: |
+          # Loop through every SVG file in the source folder
+          for file in source-svg/*.svg; do
+            # 1. Get the filename without extension (e.g. "fig-hla")
+            filename=$(basename "$file" .svg)
+            
+            echo "Optimizing $filename..."
+            
+            # 2. Run SVGO
+            # We pass SVG_FILENAME as an environment variable so svgo.config.js can read it.
+            # We explicitly point to your config file.
+            SVG_FILENAME="$filename" svgo -i "$file" -o "dist/web/$(basename "$file")" --config=svgo.config.js
+          done
 
       # --- GENERATE PRINT ASSETS (PDF) ---
       - name: Generate Print Assets
+        # Converts SVGs to high-res PDF for manuscripts
         run: |
           for file in source-svg/*.svg; do
             filename=$(basename "$file" .svg)
@@ -50,14 +63,19 @@ jobs:
             inkscape "$file" --export-filename="dist/print/$filename.pdf"
           done
       
-      # --- PROCESS PEOPLE ---
+      # --- PROCESS PEOPLE (Square JPG -> Standardized WebP) ---
       - name: Convert Headshots to WebP
         run: |
+          # enable nullglob to handle case where no images exist
           shopt -s nullglob
           for file in source-people/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
             filename=$(basename "$file")
             name="${filename%.*}"
+            
             echo "Processing $filename..."
+            
+            # -q 80: Quality 80%
+            # -resize 600 600: Force image to exactly 600x600px
             cwebp -q 80 "$file" -resize 600 600 -o "dist/web/$name.webp"
           done
 
