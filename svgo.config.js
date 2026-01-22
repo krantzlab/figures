@@ -1,54 +1,40 @@
 module.exports = {
-  multipass: true,
+  multipass: true, // Run plugins multiple times to ensure cleanliness
   plugins: [
+    // 1. Standard Cleanup (Disabled ID stripping so we can rename them instead)
     {
       name: 'preset-default',
       params: {
         overrides: {
-          // VITAL: Keeps the internal coordinate system
-          removeViewBox: false, 
-          // Stop SVGO from stripping IDs you need for animation
-          cleanupIDs: false, 
+          removeViewBox: false, // Keep the viewbox!
+          cleanupIDs: false,    // DOMINANT: Do not let default preset touch IDs
         },
       },
     },
-    
-    // --- THE FIX FOR COLLIDING SVGS ---
-    {
-      name: 'prefixIds',
-      params: {
-        // "false" uses the filename as the prefix automatically.
-        // This ensures "fig-hla.svg" gets "fig-hla_layer1", etc.
-        prefix: false, 
-        delim: '_',
-        // Optional: minify the IDs to make file smaller, but harder to read
-        // prefixClassNames: false, 
-      }
-    },
 
-    // 1. MUST REMOVE existing fixed width/height
-    {
-      name: 'removeDimensions',
-    },
+    // 2. Remove Dimensions (Fixes the layout)
+    { name: 'removeDimensions' },
 
-    // 2. Add the responsive attributes back
+    // 3. Add Responsive Size
     {
       name: 'addAttributesToSVGElement',
       params: {
         attributes: [
           { width: '100%' },
           { height: '100%' },
-          { preserveAspectRatio: 'xMidYMid meet' } 
+          { preserveAspectRatio: 'xMidYMid meet' }
         ]
       }
     },
 
-    // 3. Clean up Inkscape/Sodipodi bloat
+    // 4. Force Unique IDs (The Fix)
+    // Placed LAST to ensure it runs on the final cleaned structure
     {
-      name: 'removeAttrs',
+      name: 'prefixIds',
       params: {
-        attrs: 'data-name|inkscape:(?!label).*|sodipodi:.*',
-      },
+        prefix: false, // Use filename as prefix
+        delim: '_',
+      }
     },
   ],
 };
