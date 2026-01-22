@@ -13,6 +13,8 @@ module.exports = {
           removeViewBox: false,
           // VITAL: Don't let default cleanup delete IDs we need to rename later
           cleanupIDs: false,
+          // VITAL: Prevent SVGO from deleting your Layer groups!
+          collapseGroups: false,
         },
       },
     },
