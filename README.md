@@ -38,6 +38,11 @@ Example (Quarto / Markdown):
 - Edit files in `source-svg/` with your vector editor (Inkscape recommended).
 - After editing, push to `main`. CI will build and update `dist` automatically.
 
+- Save as Plain SVG
+- To be able to utilize animate in Revealjs group SVG into layers (i.e. fragments)
+- The svgo.config.js automatically uses the file name to create prefixes so that SVG elements are unique (if use multiple SVG with same element ID, this will cause rendering issues)
+- You right click on the layer -> Object Properties -> update the ID to "layer1" (this is the name for the first layer of what appears immediately on slide); then "layer2". The svgo.config.js will append a prefix "fig-name_". Therefore in the .qmd for the revealjs you would use "fig-name_layer2"
+
 ## Adding Headshots
 1. Crop the photo to square (1:1) and center the face.
 2. Minimum resolution: **600×600 px**.
