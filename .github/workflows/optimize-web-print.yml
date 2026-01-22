@@ -28,8 +28,6 @@ jobs:
       - name: Install Graphics Tools (Inkscape & WebP)
         run: |
           sudo apt-get update
-          # Install both at once. 
-          # --no-install-recommends keeps Inkscape small/fast.
           sudo apt-get install -y --no-install-recommends inkscape webp
 
       # --- PREPARE FOLDERS ---
@@ -40,12 +38,11 @@ jobs:
 
       # --- GENERATE WEB ASSETS (Optimized SVG) ---
       - name: Generate Web Assets
-        # Optimizes SVGs for small size and RGB color
-        run: svgo -f source-svg -o dist/web
+        # ADDED --config=svgo.config.js below
+        run: svgo --config=svgo.config.js -f source-svg -o dist/web
 
       # --- GENERATE PRINT ASSETS (PDF) ---
       - name: Generate Print Assets
-        # Converts SVGs to high-res PDF for manuscripts
         run: |
           for file in source-svg/*.svg; do
             filename=$(basename "$file" .svg)
@@ -53,19 +50,14 @@ jobs:
             inkscape "$file" --export-filename="dist/print/$filename.pdf"
           done
       
-      # --- PROCESS PEOPLE (Square JPG -> Standardized WebP) ---
+      # --- PROCESS PEOPLE ---
       - name: Convert Headshots to WebP
         run: |
           shopt -s nullglob
           for file in source-people/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
             filename=$(basename "$file")
             name="${filename%.*}"
-            
             echo "Processing $filename..."
-            
-            # -q 80: Quality 80%
-            # -resize 600 600: Force image to exactly 600x600px
-            # This ensures uniformity even if they uploaded a huge 4000px square
             cwebp -q 80 "$file" -resize 600 600 -o "dist/web/$name.webp"
           done
 
