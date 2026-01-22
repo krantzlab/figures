@@ -7,14 +7,30 @@ module.exports = {
         overrides: {
           // VITAL: Keeps the internal coordinate system
           removeViewBox: false, 
+          // Stop SVGO from stripping IDs you need for animation
+          cleanupIDs: false, 
         },
       },
     },
-    // 1. MUST REMOVE existing fixed width/height (e.g., "1182px") 
-    // so they don't conflict with the 100% we add below.
+    
+    // --- THE FIX FOR COLLIDING SVGS ---
+    {
+      name: 'prefixIds',
+      params: {
+        // "false" uses the filename as the prefix automatically.
+        // This ensures "fig-hla.svg" gets "fig-hla_layer1", etc.
+        prefix: false, 
+        delim: '_',
+        // Optional: minify the IDs to make file smaller, but harder to read
+        // prefixClassNames: false, 
+      }
+    },
+
+    // 1. MUST REMOVE existing fixed width/height
     {
       name: 'removeDimensions',
     },
+
     // 2. Add the responsive attributes back
     {
       name: 'addAttributesToSVGElement',
@@ -26,11 +42,11 @@ module.exports = {
         ]
       }
     },
-    // 3. Clean up Inkscape/Sodipodi bloat while keeping IDs for Quarto
+
+    // 3. Clean up Inkscape/Sodipodi bloat
     {
       name: 'removeAttrs',
       params: {
-        // We keep 'id' but remove the specific Inkscape/Adobe metadata
         attrs: 'data-name|inkscape:(?!label).*|sodipodi:.*',
       },
     },
