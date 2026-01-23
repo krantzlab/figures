@@ -38,6 +38,9 @@ Example (Quarto / Markdown):
 - Edit files in `source-svg/` with your vector editor (Inkscape recommended).
 - After editing, push to `main`. CI will build and update `dist` automatically.
 
+Document Properties = 1600px x 900px (16:9)
+- Use Document Properties -> Grid -> Create 80px top, bottom, and sides margins so SVG fits into slide
+
 - Save as Plain SVG
 - To be able to utilize animate in Revealjs group SVG into layers (i.e. fragments)
 - The svgo.config.js automatically uses the file name to create prefixes so that SVG elements are unique (if use multiple SVG with same element ID, this will cause rendering issues)
