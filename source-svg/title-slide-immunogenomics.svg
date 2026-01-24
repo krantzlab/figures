@@ -29,7 +29,7 @@
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer5" />
   <defs
      id="topic-immunogenomics_defs1">
     <rect
@@ -109,31 +109,32 @@
          x="127.02885"
          y="388.53201"
          style="font-size:61.8196px;fill:#000000;fill-opacity:1;stroke-width:1.17928">HLA</tspan></text>
-    <g
-       id="g1"
-       transform="translate(275.63687,-31.121459)">
-      <text
-         id="text4-6"
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="layer0">
+    <text
+       id="text4-6"
+       x="920.47314"
+       y="487.59232"
+       class="topic-immunogenomics_st0"
+       style="font-weight:700;font-size:96px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke-width:1.17928"
+       transform="translate(-256.51596,-16.765372)"><tspan
+         id="topic-immunogenomics_tspan4-5"
          x="920.47314"
          y="487.59232"
-         class="topic-immunogenomics_st0"
-         style="font-weight:700;font-size:96px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke-width:1.17928"
-         transform="translate(-532.15283,14.356087)"><tspan
-           id="topic-immunogenomics_tspan4-5"
-           x="920.47314"
-           y="487.59232"
-           style="font-size:96px;fill:#000000;fill-opacity:1;stroke-width:1.17928">Immunogenomics</tspan></text>
-      <text
-         id="text4-6-9"
+         style="font-size:96px;fill:#000000;fill-opacity:1;stroke-width:1.17928">Immunogenomics</tspan></text>
+    <text
+       id="text4-6-9"
+       x="920.47314"
+       y="487.59232"
+       class="topic-immunogenomics_st0"
+       style="font-weight:700;font-size:53.3333px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke-width:1.17928"
+       transform="translate(-38.02625,65.914194)"><tspan
+         id="topic-immunogenomics_tspan4-5-3"
          x="920.47314"
          y="487.59232"
-         class="topic-immunogenomics_st0"
-         style="font-weight:700;font-size:53.3333px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke-width:1.17928"
-         transform="translate(-313.66312,97.035653)"><tspan
-           id="topic-immunogenomics_tspan4-5-3"
-           x="920.47314"
-           y="487.59232"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:1.17928">Matt Krantz, MD</tspan></text>
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:1.17928">Matt Krantz, MD</tspan></text>
   </g>
 </svg>
