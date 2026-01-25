@@ -1,0 +1,2484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 1600 900"
+   sodipodi:docname="fig-small-vs-biologic.svg"
+   width="1600"
+   height="900"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview384"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.34293926"
+     inkscape:cx="994.34516"
+     inkscape:cy="543.82807"
+     inkscape:window-width="1512"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1">
+    <sodipodi:guide
+       position="0,820"
+       orientation="0,1"
+       id="guide384"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,900"
+       orientation="-1,0"
+       id="guide385"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1600,80"
+       orientation="0,1"
+       id="guide386"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide387"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        fill: #99badd;
+        stroke-width: 2px;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st3, .st4 {
+        font-size: 42px;
+      }
+
+      .st4 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke-width: 4px;
+      }
+
+      .st1, .st2 {
+        fill: none;
+      }
+
+      .st2 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <text
+     id="text27" />
+  <text
+     id="text59" />
+  <text
+     id="text75" />
+  <text
+     id="text148" />
+  <text
+     id="text192" />
+  <text
+     id="text236" />
+  <g
+     id="g387"
+     transform="matrix(0.80895712,0,0,0.80895712,12.729136,0.2161801)">
+    <text
+       class="st4"
+       id="text2"
+       x="130.5"
+       y="619.45001"><tspan
+         x="130.5"
+         y="619.45001"
+         id="tspan1">Small Molecules</tspan><tspan
+         x="219.76001"
+         y="669.84998"
+         id="tspan2">&lt; 1 kDa</tspan></text>
+    <text
+       class="st4"
+       id="text3"
+       x="193.23"
+       y="868.65997"><tspan
+         x="193.23"
+         y="868.65997"
+         id="tspan3">Allopurinol</tspan></text>
+    <text
+       class="st4"
+       id="text5"
+       x="580.69"
+       y="513.67999"><tspan
+         x="580.69"
+         y="513.67999"
+         id="tspan4">Peptides</tspan><tspan
+         x="581.83002"
+         y="564.08002"
+         id="tspan5">1-10 kDa</tspan></text>
+    <text
+       class="st4"
+       id="text7"
+       x="844.79999"
+       y="404.07001"><tspan
+         x="844.79999"
+         y="404.07001"
+         id="tspan6">Enyzmes</tspan><tspan
+         x="837.78003"
+         y="454.47"
+         id="tspan7">30-80 kDa</tspan></text>
+    <text
+       class="st4"
+       id="text9"
+       x="1114.8101"
+       y="306.76999"><tspan
+         x="1114.8101"
+         y="306.76999"
+         id="tspan8">Antibodies</tspan><tspan
+         x="1101.88"
+         y="357.17001"
+         id="tspan9">140-170 kDa</tspan></text>
+    <text
+       class="st4"
+       id="text11"
+       x="1045.26"
+       y="138.03999"><tspan
+         x="1045.26"
+         y="138.03999"
+         id="tspan10">Biologics</tspan><tspan
+         x="960.04999"
+         y="188.44"
+         id="tspan11">(Large molecules)</tspan></text>
+    <line
+       class="st1"
+       x1="112.42"
+       y1="807.20001"
+       x2="1783.91"
+       y2="807.20001"
+       id="line11" />
+    <circle
+       class="st0"
+       cx="628.45001"
+       cy="750.23999"
+       r="9.0799999"
+       id="circle11" />
+    <circle
+       class="st0"
+       cx="644.59998"
+       cy="741.15997"
+       r="9.0799999"
+       id="circle12" />
+    <circle
+       class="st0"
+       cx="613.21002"
+       cy="740.46997"
+       r="9.0799999"
+       id="circle13" />
+    <circle
+       class="st0"
+       cx="629.34998"
+       cy="731.39001"
+       r="9.0799999"
+       id="circle14" />
+    <circle
+       class="st0"
+       cx="613.26001"
+       cy="720.45001"
+       r="9.0799999"
+       id="circle15" />
+    <circle
+       class="st0"
+       cx="629.40997"
+       cy="711.35999"
+       r="9.0799999"
+       id="circle16" />
+    <circle
+       class="st0"
+       cx="598.02002"
+       cy="710.66998"
+       r="9.0799999"
+       id="circle17" />
+    <circle
+       class="st0"
+       cx="614.15997"
+       cy="701.59003"
+       r="9.0799999"
+       id="circle18" />
+    <circle
+       class="st0"
+       cx="661.06"
+       cy="730.53998"
+       r="9.0799999"
+       id="circle19" />
+    <circle
+       class="st0"
+       cx="677.20001"
+       cy="721.46002"
+       r="9.0799999"
+       id="circle20" />
+    <circle
+       class="st0"
+       cx="645.82001"
+       cy="720.76001"
+       r="9.0799999"
+       id="circle21" />
+    <circle
+       class="st0"
+       cx="661.96002"
+       cy="711.67999"
+       r="9.0799999"
+       id="circle22" />
+    <circle
+       class="st0"
+       cx="639.72998"
+       cy="684.17999"
+       r="9.0799999"
+       id="circle23" />
+    <circle
+       class="st0"
+       cx="645.79999"
+       cy="701.67999"
+       r="9.0799999"
+       id="circle24" />
+    <circle
+       class="st0"
+       cx="652.04999"
+       cy="670.90997"
+       r="9.0799999"
+       id="circle25" />
+    <circle
+       class="st0"
+       cx="658.12"
+       cy="688.41998"
+       r="9.0799999"
+       id="circle26" />
+    <circle
+       class="st0"
+       cx="620"
+       cy="682.04999"
+       r="9.0799999"
+       id="circle27" />
+    <g
+       id="g27">
+      <line
+         class="st2"
+         x1="1037.38"
+         y1="123.06"
+         x2="571.67999"
+         y2="123.06"
+         id="line27" />
+      <rect
+         x="570.17999"
+         y="113.31"
+         width="3"
+         height="19.5"
+         id="rect27" />
+    </g>
+    <g
+       id="g28">
+      <line
+         class="st2"
+         x1="1242.64"
+         y1="125.69"
+         x2="1804.22"
+         y2="125.69"
+         id="line28" />
+      <rect
+         x="1802.72"
+         y="115.94"
+         width="3"
+         height="19.5"
+         id="rect28" />
+    </g>
+    <text
+       class="st4"
+       id="text28"
+       x="1126.0601"
+       y="870.22998"><tspan
+         x="1126.0601"
+         y="870.22998"
+         id="tspan28">Rituximab</tspan></text>
+    <text
+       class="st4"
+       id="text30"
+       x="1387.15"
+       y="239.14"><tspan
+         x="1387.15"
+         y="239.14"
+         id="tspan29">PEGylated Proteins</tspan><tspan
+         x="1472.3"
+         y="289.54001"
+         id="tspan30">20-550 kDa</tspan></text>
+    <text
+       class="st4"
+       id="text31"
+       x="1470.8101"
+       y="874.91998"><tspan
+         x="1470.8101"
+         y="874.91998"
+         id="tspan31">Pegloticase</tspan></text>
+    <text
+       class="st4"
+       id="text32"
+       x="791.53003"
+       y="870.33002"><tspan
+         x="791.53003"
+         y="870.33002"
+         id="tspan32">Tenecteplase</tspan></text>
+    <text
+       class="st4"
+       id="text33"
+       x="488"
+       y="871.09998"><tspan
+         x="488"
+         y="871.09998"
+         id="tspan33">Semaglutide</tspan></text>
+    <text
+       class="st3"
+       id="text34"
+       x="555.65997"
+       y="937.84998"><tspan
+         x="555.65997"
+         y="937.84998"
+         id="tspan34">4 kDa</tspan></text>
+    <text
+       class="st3"
+       id="text35"
+       x="1506.8199"
+       y="935.40002"><tspan
+         x="1506.8199"
+         y="935.40002"
+         id="tspan35">540 kDa</tspan></text>
+    <text
+       class="st3"
+       id="text36"
+       x="850.45001"
+       y="930.62"><tspan
+         x="850.45001"
+         y="930.62"
+         id="tspan36">65 kDa</tspan></text>
+    <text
+       class="st3"
+       id="text37"
+       x="1146.54"
+       y="940.78998"><tspan
+         x="1146.54"
+         y="940.78998"
+         id="tspan37">145 kDa</tspan></text>
+    <text
+       class="st3"
+       id="text39"
+       x="207.60001"
+       y="932.12"><tspan
+         x="207.60001"
+         y="932.12"
+         id="tspan38">0.136 kDa</tspan><tspan
+         x="207.60001"
+         y="982.52002"
+         id="tspan39">(136 Da)</tspan></text>
+    <circle
+       class="st0"
+       cx="895.96002"
+       cy="748.54999"
+       r="9.0799999"
+       id="circle39" />
+    <circle
+       class="st0"
+       cx="912.09998"
+       cy="739.46997"
+       r="9.0799999"
+       id="circle40" />
+    <circle
+       class="st0"
+       cx="880.71002"
+       cy="738.78003"
+       r="9.0799999"
+       id="circle41" />
+    <circle
+       class="st0"
+       cx="896.85999"
+       cy="729.70001"
+       r="9.0799999"
+       id="circle42" />
+    <circle
+       class="st0"
+       cx="880.77002"
+       cy="718.76001"
+       r="9.0799999"
+       id="circle43" />
+    <circle
+       class="st0"
+       cx="896.90997"
+       cy="709.66998"
+       r="9.0799999"
+       id="circle44" />
+    <circle
+       class="st0"
+       cx="865.52002"
+       cy="708.97998"
+       r="9.0799999"
+       id="circle45" />
+    <circle
+       class="st0"
+       cx="881.66998"
+       cy="699.90002"
+       r="9.0799999"
+       id="circle46" />
+    <circle
+       class="st0"
+       cx="928.56"
+       cy="728.84998"
+       r="9.0799999"
+       id="circle47" />
+    <circle
+       class="st0"
+       cx="944.71002"
+       cy="719.76001"
+       r="9.0799999"
+       id="circle48" />
+    <circle
+       class="st0"
+       cx="913.32001"
+       cy="719.07001"
+       r="9.0799999"
+       id="circle49" />
+    <circle
+       class="st0"
+       cx="929.46997"
+       cy="709.98999"
+       r="9.0799999"
+       id="circle50" />
+    <circle
+       class="st0"
+       cx="907.22998"
+       cy="682.48999"
+       r="9.0799999"
+       id="circle51" />
+    <circle
+       class="st0"
+       cx="913.29999"
+       cy="699.98999"
+       r="9.0799999"
+       id="circle52" />
+    <circle
+       class="st0"
+       cx="919.56"
+       cy="669.21997"
+       r="9.0799999"
+       id="circle53" />
+    <circle
+       class="st0"
+       cx="925.63"
+       cy="686.71997"
+       r="9.0799999"
+       id="circle54" />
+    <circle
+       class="st0"
+       cx="899.48999"
+       cy="666.78998"
+       r="9.0799999"
+       id="circle55" />
+    <circle
+       class="st0"
+       cx="892.98999"
+       cy="649.45001"
+       r="9.0799999"
+       id="circle56" />
+    <circle
+       class="st0"
+       cx="887.5"
+       cy="680.35999"
+       r="9.0799999"
+       id="circle57" />
+    <circle
+       class="st0"
+       cx="881"
+       cy="663.02002"
+       r="9.0799999"
+       id="circle58" />
+    <circle
+       class="st0"
+       cx="295.07001"
+       cy="733.34003"
+       r="9.0799999"
+       id="circle59" />
+    <circle
+       class="st0"
+       cx="940.5"
+       cy="671.5"
+       r="9.0799999"
+       id="circle60" />
+    <circle
+       class="st0"
+       cx="951.40002"
+       cy="656.53003"
+       r="9.0799999"
+       id="circle61" />
+    <circle
+       class="st0"
+       cx="932.21002"
+       cy="653.28003"
+       r="9.0799999"
+       id="circle62" />
+    <circle
+       class="st0"
+       cx="943.10999"
+       cy="638.29999"
+       r="9.0799999"
+       id="circle63" />
+    <circle
+       class="st0"
+       cx="914.28998"
+       cy="650.73999"
+       r="9.0799999"
+       id="circle64" />
+    <circle
+       class="st0"
+       cx="925.19"
+       cy="635.76001"
+       r="9.0799999"
+       id="circle65" />
+    <circle
+       class="st0"
+       cx="961.95001"
+       cy="640.02002"
+       r="9.0799999"
+       id="circle66" />
+    <circle
+       class="st0"
+       cx="972.84998"
+       cy="625.03998"
+       r="9.0799999"
+       id="circle67" />
+    <circle
+       class="st0"
+       cx="941.17999"
+       cy="609.28998"
+       r="9.0799999"
+       id="circle68" />
+    <circle
+       class="st0"
+       cx="953.97998"
+       cy="622.66998"
+       r="9.0799999"
+       id="circle69" />
+    <circle
+       class="st0"
+       cx="946.85999"
+       cy="592.09003"
+       r="9.0799999"
+       id="circle70" />
+    <circle
+       class="st0"
+       cx="959.66998"
+       cy="605.47998"
+       r="9.0799999"
+       id="circle71" />
+    <circle
+       class="st0"
+       cx="927.60999"
+       cy="598.23999"
+       r="9.0799999"
+       id="circle72" />
+    <circle
+       class="st0"
+       cx="914.47998"
+       cy="585.16998"
+       r="9.0799999"
+       id="circle73" />
+    <circle
+       class="st0"
+       cx="922.34998"
+       cy="615.56"
+       r="9.0799999"
+       id="circle74" />
+    <circle
+       class="st0"
+       cx="909.21997"
+       cy="602.5"
+       r="9.0799999"
+       id="circle75" />
+    <circle
+       class="st0"
+       cx="1230.45"
+       cy="744.39001"
+       r="9.0799999"
+       id="circle76" />
+    <circle
+       class="st0"
+       cx="1246.59"
+       cy="735.31"
+       r="9.0799999"
+       id="circle77" />
+    <circle
+       class="st0"
+       cx="1215.2"
+       cy="734.62"
+       r="9.0799999"
+       id="circle78" />
+    <circle
+       class="st0"
+       cx="1231.35"
+       cy="725.53998"
+       r="9.0799999"
+       id="circle79" />
+    <circle
+       class="st0"
+       cx="1215.26"
+       cy="714.59998"
+       r="9.0799999"
+       id="circle80" />
+    <circle
+       class="st0"
+       cx="1231.4"
+       cy="705.51001"
+       r="9.0799999"
+       id="circle81" />
+    <circle
+       class="st0"
+       cx="1239.05"
+       cy="629.60999"
+       r="9.0799999"
+       id="circle82" />
+    <circle
+       class="st0"
+       cx="1216.16"
+       cy="695.73999"
+       r="9.0799999"
+       id="circle83" />
+    <circle
+       class="st0"
+       cx="1263.05"
+       cy="724.69"
+       r="9.0799999"
+       id="circle84" />
+    <circle
+       class="st0"
+       cx="1234.33"
+       cy="611.26001"
+       r="9.0799999"
+       id="circle85" />
+    <circle
+       class="st0"
+       cx="1247.8101"
+       cy="714.90997"
+       r="9.0799999"
+       id="circle86" />
+    <circle
+       class="st0"
+       cx="1263.96"
+       cy="705.83002"
+       r="9.0799999"
+       id="circle87" />
+    <circle
+       class="st0"
+       cx="1241.72"
+       cy="678.33002"
+       r="9.0799999"
+       id="circle88" />
+    <circle
+       class="st0"
+       cx="1247.79"
+       cy="695.83002"
+       r="9.0799999"
+       id="circle89" />
+    <circle
+       class="st0"
+       cx="1254.05"
+       cy="665.06"
+       r="9.0799999"
+       id="circle90" />
+    <circle
+       class="st0"
+       cx="1260.12"
+       cy="682.57001"
+       r="9.0799999"
+       id="circle91" />
+    <circle
+       class="st0"
+       cx="1233.98"
+       cy="662.64001"
+       r="9.0799999"
+       id="circle92" />
+    <circle
+       class="st0"
+       cx="1227.48"
+       cy="645.28998"
+       r="9.0799999"
+       id="circle93" />
+    <circle
+       class="st0"
+       cx="1221.99"
+       cy="676.20001"
+       r="9.0799999"
+       id="circle94" />
+    <circle
+       class="st0"
+       cx="1215.49"
+       cy="658.85999"
+       r="9.0799999"
+       id="circle95" />
+    <circle
+       class="st0"
+       cx="1246.6801"
+       cy="647.42999"
+       r="9.0799999"
+       id="circle96" />
+    <circle
+       class="st0"
+       cx="1214.05"
+       cy="610.31"
+       r="9.0799999"
+       id="circle97" />
+    <circle
+       class="st0"
+       cx="1218.05"
+       cy="628.26001"
+       r="9.0799999"
+       id="circle98" />
+    <circle
+       class="st0"
+       cx="1218.05"
+       cy="628.26001"
+       r="9.0799999"
+       id="circle99" />
+    <circle
+       class="st0"
+       cx="1224.5699"
+       cy="593.95001"
+       r="9.0799999"
+       id="circle100" />
+    <circle
+       class="st0"
+       cx="1253.33"
+       cy="616.78003"
+       r="9.0799999"
+       id="circle101" />
+    <circle
+       class="st0"
+       cx="1247.85"
+       cy="598"
+       r="9.0799999"
+       id="circle102" />
+    <circle
+       class="st0"
+       cx="1239.64"
+       cy="581.16998"
+       r="9.0799999"
+       id="circle103" />
+    <circle
+       class="st0"
+       cx="1206.37"
+       cy="592.13"
+       r="9.0799999"
+       id="circle104" />
+    <circle
+       class="st0"
+       cx="1220.85"
+       cy="575.69"
+       r="9.0799999"
+       id="circle105" />
+    <circle
+       class="st0"
+       cx="1235.33"
+       cy="563.16998"
+       r="9.0799999"
+       id="circle106" />
+    <circle
+       class="st0"
+       cx="1217.33"
+       cy="557.29999"
+       r="9.0799999"
+       id="circle107" />
+    <circle
+       class="st0"
+       cx="1246.29"
+       cy="546.34003"
+       r="9.0799999"
+       id="circle108" />
+    <circle
+       class="st0"
+       cx="1201.87"
+       cy="571.39001"
+       r="9.0799999"
+       id="circle109" />
+    <circle
+       class="st0"
+       cx="1226.84"
+       cy="539.56"
+       r="9.0799999"
+       id="circle110" />
+    <circle
+       class="st0"
+       cx="1241.21"
+       cy="527.29999"
+       r="9.0799999"
+       id="circle111" />
+    <circle
+       class="st0"
+       cx="1253.51"
+       cy="512.89001"
+       r="9.0799999"
+       id="circle112" />
+    <circle
+       class="st0"
+       cx="1242.64"
+       cy="495.75"
+       r="9.0799999"
+       id="circle113" />
+    <circle
+       class="st0"
+       cx="1230.24"
+       cy="509.32999"
+       r="9.0799999"
+       id="circle114" />
+    <circle
+       class="st0"
+       cx="1230.24"
+       cy="509.32999"
+       r="9.0799999"
+       id="circle115" />
+    <circle
+       class="st0"
+       cx="1262.0601"
+       cy="494.95001"
+       r="9.0799999"
+       id="circle116" />
+    <circle
+       class="st0"
+       cx="1259.92"
+       cy="531.60999"
+       r="9.0799999"
+       id="circle117" />
+    <circle
+       class="st0"
+       cx="1272.14"
+       cy="516.33002"
+       r="9.0799999"
+       id="circle118" />
+    <circle
+       class="st0"
+       cx="1281.1801"
+       cy="499.92999"
+       r="9.0799999"
+       id="circle119" />
+    <circle
+       class="st0"
+       cx="1253.1"
+       cy="479.01001"
+       r="9.0799999"
+       id="circle120" />
+    <circle
+       class="st0"
+       cx="1274.87"
+       cy="481.42001"
+       r="9.0799999"
+       id="circle121" />
+    <circle
+       class="st0"
+       cx="1293.4399"
+       cy="486.07001"
+       r="9.0799999"
+       id="circle122" />
+    <circle
+       class="st0"
+       cx="1287.9"
+       cy="467.95999"
+       r="9.0799999"
+       id="circle123" />
+    <circle
+       class="st0"
+       cx="1313.5"
+       cy="485.35999"
+       r="9.0799999"
+       id="circle124" />
+    <circle
+       class="st0"
+       cx="1267.48"
+       cy="463.41"
+       r="9.0799999"
+       id="circle125" />
+    <circle
+       class="st0"
+       cx="1307.87"
+       cy="465.54999"
+       r="9.0799999"
+       id="circle126" />
+    <circle
+       class="st0"
+       cx="1326.84"
+       cy="472.57001"
+       r="9.0799999"
+       id="circle127" />
+    <circle
+       class="st0"
+       cx="1196.02"
+       cy="552.77002"
+       r="9.0799999"
+       id="circle128" />
+    <circle
+       class="st0"
+       cx="1184.49"
+       cy="537.72998"
+       r="9.0799999"
+       id="circle129" />
+    <circle
+       class="st0"
+       cx="1196.25"
+       cy="521.19"
+       r="9.0799999"
+       id="circle130" />
+    <circle
+       class="st0"
+       cx="1207.91"
+       cy="535.40997"
+       r="9.0799999"
+       id="circle131" />
+    <circle
+       class="st0"
+       cx="1207.91"
+       cy="535.40997"
+       r="9.0799999"
+       id="circle132" />
+    <circle
+       class="st0"
+       cx="1176.89"
+       cy="519.37"
+       r="9.0799999"
+       id="circle133" />
+    <circle
+       class="st0"
+       cx="1177.1"
+       cy="556.09003"
+       r="9.0799999"
+       id="circle134" />
+    <circle
+       class="st0"
+       cx="1165.71"
+       cy="540.17999"
+       r="9.0799999"
+       id="circle135" />
+    <circle
+       class="st0"
+       cx="1157.54"
+       cy="523.33002"
+       r="9.0799999"
+       id="circle136" />
+    <circle
+       class="st0"
+       cx="1186.6899"
+       cy="503.92001"
+       r="9.0799999"
+       id="circle137" />
+    <circle
+       class="st0"
+       cx="1164.8199"
+       cy="505.17001"
+       r="9.0799999"
+       id="circle138" />
+    <circle
+       class="st0"
+       cx="1146.03"
+       cy="508.84"
+       r="9.0799999"
+       id="circle139" />
+    <circle
+       class="st0"
+       cx="1152.52"
+       cy="491.04999"
+       r="9.0799999"
+       id="circle140" />
+    <circle
+       class="st0"
+       cx="1126.03"
+       cy="507.07001"
+       r="9.0799999"
+       id="circle141" />
+    <circle
+       class="st0"
+       cx="1173.14"
+       cy="487.57999"
+       r="9.0799999"
+       id="circle142" />
+    <circle
+       class="st0"
+       cx="1132.7"
+       cy="487.57999"
+       r="9.0799999"
+       id="circle143" />
+    <circle
+       class="st0"
+       cx="1113.39"
+       cy="493.60001"
+       r="9.0799999"
+       id="circle144" />
+    <circle
+       class="st0"
+       cx="1214.27"
+       cy="518.16998"
+       r="9.0799999"
+       id="circle145" />
+    <circle
+       class="st0"
+       cx="1106.79"
+       cy="510.87"
+       r="9.0799999"
+       id="circle146" />
+    <circle
+       class="st0"
+       cx="1118.52"
+       cy="524.83002"
+       r="9.0799999"
+       id="circle147" />
+    <circle
+       class="st0"
+       cx="1137.83"
+       cy="525.87"
+       r="9.0799999"
+       id="circle148" />
+    <circle
+       class="st0"
+       cx="1459.67"
+       cy="651.14001"
+       r="9.0799999"
+       id="circle149" />
+    <circle
+       class="st0"
+       cx="1475.14"
+       cy="661.33002"
+       r="9.0799999"
+       id="circle150" />
+    <circle
+       class="st0"
+       cx="1461.37"
+       cy="633.10999"
+       r="9.0799999"
+       id="circle151" />
+    <circle
+       class="st0"
+       cx="1476.84"
+       cy="643.31"
+       r="9.0799999"
+       id="circle152" />
+    <circle
+       class="st0"
+       cx="1479.1899"
+       cy="623.98999"
+       r="9.0799999"
+       id="circle153" />
+    <circle
+       class="st0"
+       cx="1494.66"
+       cy="634.17999"
+       r="9.0799999"
+       id="circle154" />
+    <circle
+       class="st0"
+       cx="1565.64"
+       cy="606.21002"
+       r="9.0799999"
+       id="circle155" />
+    <circle
+       class="st0"
+       cx="1496.37"
+       cy="616.15997"
+       r="9.0799999"
+       id="circle156" />
+    <circle
+       class="st0"
+       cx="1492.12"
+       cy="671.09998"
+       r="9.0799999"
+       id="circle157" />
+    <circle
+       class="st0"
+       cx="1579.79"
+       cy="593.59998"
+       r="9.0799999"
+       id="circle158" />
+    <circle
+       class="st0"
+       cx="1493.8199"
+       cy="653.07001"
+       r="9.0799999"
+       id="circle159" />
+    <circle
+       class="st0"
+       cx="1509.29"
+       cy="663.27002"
+       r="9.0799999"
+       id="circle160" />
+    <circle
+       class="st0"
+       cx="1523.5601"
+       cy="630.90002"
+       r="9.0799999"
+       id="circle161" />
+    <circle
+       class="st0"
+       cx="1510.78"
+       cy="644.31"
+       r="9.0799999"
+       id="circle162" />
+    <circle
+       class="st0"
+       cx="1540.99"
+       cy="635.78003"
+       r="9.0799999"
+       id="circle163" />
+    <circle
+       class="st0"
+       cx="1528.22"
+       cy="649.19"
+       r="9.0799999"
+       id="circle164" />
+    <circle
+       class="st0"
+       cx="1533.96"
+       cy="616.83002"
+       r="9.0799999"
+       id="circle165" />
+    <circle
+       class="st0"
+       cx="1546.4"
+       cy="603.10999"
+       r="9.0799999"
+       id="circle166" />
+    <circle
+       class="st0"
+       cx="1516.41"
+       cy="612.39001"
+       r="9.0799999"
+       id="circle167" />
+    <circle
+       class="st0"
+       cx="1528.85"
+       cy="598.65997"
+       r="9.0799999"
+       id="circle168" />
+    <circle
+       class="st0"
+       cx="1553.29"
+       cy="621.15002"
+       r="9.0799999"
+       id="circle169" />
+    <circle
+       class="st0"
+       cx="1458.3"
+       cy="614.56"
+       r="9.0799999"
+       id="circle170" />
+    <circle
+       class="st0"
+       cx="1557.22"
+       cy="586.91998"
+       r="9.0799999"
+       id="circle171" />
+    <circle
+       class="st0"
+       cx="1557.22"
+       cy="586.91998"
+       r="9.0799999"
+       id="circle172" />
+    <circle
+       class="st0"
+       cx="1590.7"
+       cy="577"
+       r="9.0799999"
+       id="circle173" />
+    <circle
+       class="st0"
+       cx="1583.59"
+       cy="613.02002"
+       r="9.0799999"
+       id="circle174" />
+    <circle
+       class="st0"
+       cx="1597.77"
+       cy="599.54999"
+       r="9.0799999"
+       id="circle175" />
+    <circle
+       class="st0"
+       cx="1608.96"
+       cy="584.53998"
+       r="9.0799999"
+       id="circle176" />
+    <circle
+       class="st0"
+       cx="1583.99"
+       cy="559.98999"
+       r="9.0799999"
+       id="circle177" />
+    <circle
+       class="st0"
+       cx="1605.23"
+       cy="565.33002"
+       r="9.0799999"
+       id="circle178" />
+    <circle
+       class="st0"
+       cx="1682.38"
+       cy="659.21997"
+       r="9.0799999"
+       id="circle179" />
+    <circle
+       class="st0"
+       cx="1619.96"
+       cy="553.78003"
+       r="9.0799999"
+       id="circle180" />
+    <circle
+       class="st0"
+       cx="1642.97"
+       cy="574.5"
+       r="9.0799999"
+       id="circle181" />
+    <circle
+       class="st0"
+       cx="1600.36"
+       cy="546.48999"
+       r="9.0799999"
+       id="circle182" />
+    <circle
+       class="st0"
+       cx="1640.09"
+       cy="554.09998"
+       r="9.0799999"
+       id="circle183" />
+    <circle
+       class="st0"
+       cx="1657.5699"
+       cy="561.25"
+       r="9.0799999"
+       id="circle184" />
+    <circle
+       class="st0"
+       cx="1676.02"
+       cy="565.59003"
+       r="9.0799999"
+       id="circle185" />
+    <circle
+       class="st0"
+       cx="1686.27"
+       cy="548.07001"
+       r="9.0799999"
+       id="circle186" />
+    <circle
+       class="st0"
+       cx="1668.52"
+       cy="543.28003"
+       r="9.0799999"
+       id="circle187" />
+    <circle
+       class="st0"
+       cx="1668.52"
+       cy="543.28003"
+       r="9.0799999"
+       id="circle188" />
+    <circle
+       class="st0"
+       cx="1616.1801"
+       cy="534.31"
+       r="9.0799999"
+       id="circle189" />
+    <circle
+       class="st0"
+       cx="1635.11"
+       cy="535.37"
+       r="9.0799999"
+       id="circle190" />
+    <circle
+       class="st0"
+       cx="1635.11"
+       cy="535.37"
+       r="9.0799999"
+       id="circle191" />
+    <circle
+       class="st0"
+       cx="1653.34"
+       cy="533.12"
+       r="9.0799999"
+       id="circle192" />
+    <circle
+       class="st0"
+       cx="1695.9399"
+       cy="468.32001"
+       r="9.0799999"
+       id="circle193" />
+    <circle
+       class="st0"
+       cx="1680.99"
+       cy="457.38"
+       r="9.0799999"
+       id="circle194" />
+    <circle
+       class="st0"
+       cx="1693.35"
+       cy="486.23999"
+       r="9.0799999"
+       id="circle195" />
+    <circle
+       class="st0"
+       cx="1678.4"
+       cy="475.29999"
+       r="9.0799999"
+       id="circle196" />
+    <circle
+       class="st0"
+       cx="1675.1"
+       cy="494.47"
+       r="9.0799999"
+       id="circle197" />
+    <circle
+       class="st0"
+       cx="1660.15"
+       cy="483.53"
+       r="9.0799999"
+       id="circle198" />
+    <circle
+       class="st0"
+       cx="1587.89"
+       cy="507.98001"
+       r="9.0799999"
+       id="circle199" />
+    <circle
+       class="st0"
+       cx="1657.5601"
+       cy="501.45001"
+       r="9.0799999"
+       id="circle200" />
+    <circle
+       class="st0"
+       cx="1664.5"
+       cy="446.78"
+       r="9.0799999"
+       id="circle201" />
+    <circle
+       class="st0"
+       cx="1573.13"
+       cy="519.87"
+       r="9.0799999"
+       id="circle202" />
+    <circle
+       class="st0"
+       cx="1661.92"
+       cy="464.70001"
+       r="9.0799999"
+       id="circle203" />
+    <circle
+       class="st0"
+       cx="1646.97"
+       cy="453.76001"
+       r="9.0799999"
+       id="circle204" />
+    <circle
+       class="st0"
+       cx="1631.13"
+       cy="485.39001"
+       r="9.0799999"
+       id="circle205" />
+    <circle
+       class="st0"
+       cx="1644.55"
+       cy="472.62"
+       r="9.0799999"
+       id="circle206" />
+    <circle
+       class="st0"
+       cx="1613.95"
+       cy="479.66"
+       r="9.0799999"
+       id="circle207" />
+    <circle
+       class="st0"
+       cx="1627.37"
+       cy="466.89001"
+       r="9.0799999"
+       id="circle208" />
+    <circle
+       class="st0"
+       cx="1620.05"
+       cy="498.92999"
+       r="9.0799999"
+       id="circle209" />
+    <circle
+       class="st0"
+       cx="1606.95"
+       cy="512.02002"
+       r="9.0799999"
+       id="circle210" />
+    <circle
+       class="st0"
+       cx="1637.36"
+       cy="504.23001"
+       r="9.0799999"
+       id="circle211" />
+    <circle
+       class="st0"
+       cx="1624.26"
+       cy="517.33002"
+       r="9.0799999"
+       id="circle212" />
+    <circle
+       class="st0"
+       cx="1600.95"
+       cy="493.66"
+       r="9.0799999"
+       id="circle213" />
+    <circle
+       class="st0"
+       cx="1580.65"
+       cy="538.72998"
+       r="9.0799999"
+       id="circle214" />
+    <circle
+       class="st0"
+       cx="1595.34"
+       cy="527.65997"
+       r="9.0799999"
+       id="circle215" />
+    <circle
+       class="st0"
+       cx="1595.34"
+       cy="527.65997"
+       r="9.0799999"
+       id="circle216" />
+    <circle
+       class="st0"
+       cx="1561.42"
+       cy="535.91998"
+       r="9.0799999"
+       id="circle217" />
+    <circle
+       class="st0"
+       cx="1570.29"
+       cy="500.29001"
+       r="9.0799999"
+       id="circle218" />
+    <circle
+       class="st0"
+       cx="1555.46"
+       cy="513.04999"
+       r="9.0799999"
+       id="circle219" />
+    <circle
+       class="st0"
+       cx="1543.54"
+       cy="527.5"
+       r="9.0799999"
+       id="circle220" />
+    <circle
+       class="st0"
+       cx="1567.28"
+       cy="553.23999"
+       r="9.0799999"
+       id="circle221" />
+    <circle
+       class="st0"
+       cx="1546.33"
+       cy="546.85999"
+       r="9.0799999"
+       id="circle222" />
+    <circle
+       class="st0"
+       cx="1528.9399"
+       cy="538.85999"
+       r="9.0799999"
+       id="circle223" />
+    <circle
+       class="st0"
+       cx="1531.04"
+       cy="557.67999"
+       r="9.0799999"
+       id="circle224" />
+    <circle
+       class="st0"
+       cx="1509.09"
+       cy="535.84998"
+       r="9.0799999"
+       id="circle225" />
+    <circle
+       class="st0"
+       cx="1550.27"
+       cy="565.91998"
+       r="9.0799999"
+       id="circle226" />
+    <circle
+       class="st0"
+       cx="1510.96"
+       cy="556.37"
+       r="9.0799999"
+       id="circle227" />
+    <circle
+       class="st0"
+       cx="1493.85"
+       cy="548.35999"
+       r="9.0799999"
+       id="circle228" />
+    <circle
+       class="st0"
+       cx="1475.64"
+       cy="543.12"
+       r="9.0799999"
+       id="circle229" />
+    <circle
+       class="st0"
+       cx="1464.54"
+       cy="560.10999"
+       r="9.0799999"
+       id="circle230" />
+    <circle
+       class="st0"
+       cx="1482.03"
+       cy="565.77002"
+       r="9.0799999"
+       id="circle231" />
+    <circle
+       class="st0"
+       cx="1482.03"
+       cy="565.77002"
+       r="9.0799999"
+       id="circle232" />
+    <circle
+       class="st0"
+       cx="1533.86"
+       cy="577.31"
+       r="9.0799999"
+       id="circle233" />
+    <circle
+       class="st0"
+       cx="1515.01"
+       cy="575.31"
+       r="9.0799999"
+       id="circle234" />
+    <circle
+       class="st0"
+       cx="1515.01"
+       cy="575.31"
+       r="9.0799999"
+       id="circle235" />
+    <circle
+       class="st0"
+       cx="1496.6899"
+       cy="576.65997"
+       r="9.0799999"
+       id="circle236" />
+    <circle
+       class="st0"
+       cx="1506.3101"
+       cy="699.62"
+       r="9.0799999"
+       id="circle237" />
+    <circle
+       class="st0"
+       cx="1521.77"
+       cy="709.81"
+       r="9.0799999"
+       id="circle238" />
+    <circle
+       class="st0"
+       cx="1508.01"
+       cy="681.59998"
+       r="9.0799999"
+       id="circle239" />
+    <circle
+       class="st0"
+       cx="1523.48"
+       cy="691.78998"
+       r="9.0799999"
+       id="circle240" />
+    <circle
+       class="st0"
+       cx="1525.83"
+       cy="672.46997"
+       r="9.0799999"
+       id="circle241" />
+    <circle
+       class="st0"
+       cx="1541.3"
+       cy="682.65997"
+       r="9.0799999"
+       id="circle242" />
+    <circle
+       class="st0"
+       cx="1612.27"
+       cy="654.69"
+       r="9.0799999"
+       id="circle243" />
+    <circle
+       class="st0"
+       cx="1543"
+       cy="664.64001"
+       r="9.0799999"
+       id="circle244" />
+    <circle
+       class="st0"
+       cx="1538.76"
+       cy="719.58002"
+       r="9.0799999"
+       id="circle245" />
+    <circle
+       class="st0"
+       cx="1626.4301"
+       cy="642.08002"
+       r="9.0799999"
+       id="circle246" />
+    <circle
+       class="st0"
+       cx="1540.46"
+       cy="701.54999"
+       r="9.0799999"
+       id="circle247" />
+    <circle
+       class="st0"
+       cx="1555.9301"
+       cy="711.75"
+       r="9.0799999"
+       id="circle248" />
+    <circle
+       class="st0"
+       cx="1570.1899"
+       cy="679.38"
+       r="9.0799999"
+       id="circle249" />
+    <circle
+       class="st0"
+       cx="1557.42"
+       cy="692.79999"
+       r="9.0799999"
+       id="circle250" />
+    <circle
+       class="st0"
+       cx="1587.63"
+       cy="684.26001"
+       r="9.0799999"
+       id="circle251" />
+    <circle
+       class="st0"
+       cx="1574.85"
+       cy="697.66998"
+       r="9.0799999"
+       id="circle252" />
+    <circle
+       class="st0"
+       cx="1580.6"
+       cy="665.31"
+       r="9.0799999"
+       id="circle253" />
+    <circle
+       class="st0"
+       cx="1593.04"
+       cy="651.59003"
+       r="9.0799999"
+       id="circle254" />
+    <circle
+       class="st0"
+       cx="1563.05"
+       cy="660.87"
+       r="9.0799999"
+       id="circle255" />
+    <circle
+       class="st0"
+       cx="1575.49"
+       cy="647.14001"
+       r="9.0799999"
+       id="circle256" />
+    <circle
+       class="st0"
+       cx="1599.9301"
+       cy="669.63"
+       r="9.0799999"
+       id="circle257" />
+    <circle
+       class="st0"
+       cx="1617.98"
+       cy="623.63"
+       r="9.0799999"
+       id="circle258" />
+    <circle
+       class="st0"
+       cx="1603.86"
+       cy="635.40002"
+       r="9.0799999"
+       id="circle259" />
+    <circle
+       class="st0"
+       cx="1603.86"
+       cy="635.40002"
+       r="9.0799999"
+       id="circle260" />
+    <circle
+       class="st0"
+       cx="1637.34"
+       cy="625.47998"
+       r="9.0799999"
+       id="circle261" />
+    <circle
+       class="st0"
+       cx="1630.22"
+       cy="661.5"
+       r="9.0799999"
+       id="circle262" />
+    <circle
+       class="st0"
+       cx="1644.41"
+       cy="648.03003"
+       r="9.0799999"
+       id="circle263" />
+    <circle
+       class="st0"
+       cx="1593.22"
+       cy="705.78003"
+       r="9.0799999"
+       id="circle264" />
+    <circle
+       class="st0"
+       cx="1630.63"
+       cy="608.46997"
+       r="9.0799999"
+       id="circle265" />
+    <circle
+       class="st0"
+       cx="1651.87"
+       cy="613.81"
+       r="9.0799999"
+       id="circle266" />
+    <circle
+       class="st0"
+       cx="1669.63"
+       cy="620.95001"
+       r="9.0799999"
+       id="circle267" />
+    <circle
+       class="st0"
+       cx="1666.6"
+       cy="602.26001"
+       r="9.0799999"
+       id="circle268" />
+    <circle
+       class="st0"
+       cx="1689.61"
+       cy="622.97998"
+       r="9.0799999"
+       id="circle269" />
+    <circle
+       class="st0"
+       cx="1647"
+       cy="594.96997"
+       r="9.0799999"
+       id="circle270" />
+    <circle
+       class="st0"
+       cx="1686.72"
+       cy="602.58002"
+       r="9.0799999"
+       id="circle271" />
+    <circle
+       class="st0"
+       cx="1704.21"
+       cy="609.72998"
+       r="9.0799999"
+       id="circle272" />
+    <circle
+       class="st0"
+       cx="1722.66"
+       cy="614.07001"
+       r="9.0799999"
+       id="circle273" />
+    <circle
+       class="st0"
+       cx="1732.91"
+       cy="596.54999"
+       r="9.0799999"
+       id="circle274" />
+    <circle
+       class="st0"
+       cx="1715.15"
+       cy="591.76001"
+       r="9.0799999"
+       id="circle275" />
+    <circle
+       class="st0"
+       cx="1715.15"
+       cy="591.76001"
+       r="9.0799999"
+       id="circle276" />
+    <circle
+       class="st0"
+       cx="1662.8199"
+       cy="582.78998"
+       r="9.0799999"
+       id="circle277" />
+    <circle
+       class="st0"
+       cx="1681.75"
+       cy="583.84998"
+       r="9.0799999"
+       id="circle278" />
+    <circle
+       class="st0"
+       cx="1681.75"
+       cy="583.84998"
+       r="9.0799999"
+       id="circle279" />
+    <circle
+       class="st0"
+       cx="1699.98"
+       cy="581.60999"
+       r="9.0799999"
+       id="circle280" />
+    <circle
+       class="st0"
+       cx="1571.15"
+       cy="628.77002"
+       r="9.0799999"
+       id="circle281" />
+    <circle
+       class="st0"
+       cx="1666.9"
+       cy="519.03998"
+       r="9.0799999"
+       id="circle282" />
+    <circle
+       class="st0"
+       cx="1509.4399"
+       cy="593.47998"
+       r="9.0799999"
+       id="circle283" />
+    <circle
+       class="st0"
+       cx="1557.8199"
+       cy="642.83002"
+       r="9.0799999"
+       id="circle284" />
+    <circle
+       class="st0"
+       cx="1491.59"
+       cy="595.81"
+       r="9.0799999"
+       id="circle285" />
+    <circle
+       class="st0"
+       cx="1474.09"
+       cy="605.29999"
+       r="9.0799999"
+       id="circle286" />
+    <circle
+       class="st0"
+       cx="1601.27"
+       cy="616.84003"
+       r="9.0799999"
+       id="circle287" />
+    <circle
+       class="st0"
+       cx="1627.39"
+       cy="590.28003"
+       r="9.0799999"
+       id="circle288" />
+    <circle
+       class="st0"
+       cx="1682.45"
+       cy="529.65997"
+       r="9.0799999"
+       id="circle289" />
+    <circle
+       class="st0"
+       cx="1695.6899"
+       cy="563.28003"
+       r="9.0799999"
+       id="circle290" />
+    <circle
+       class="st0"
+       cx="1617.96"
+       cy="675.84003"
+       r="9.0799999"
+       id="circle291" />
+    <circle
+       class="st0"
+       cx="1475.86"
+       cy="584.40997"
+       r="9.0799999"
+       id="circle292" />
+    <circle
+       class="st0"
+       cx="1570.4"
+       cy="573.09998"
+       r="9.0799999"
+       id="circle293" />
+    <circle
+       class="st0"
+       cx="1582.96"
+       cy="486.95001"
+       r="9.0799999"
+       id="circle294" />
+    <circle
+       class="st0"
+       cx="1637.5601"
+       cy="678.32001"
+       r="9.0799999"
+       id="circle295" />
+    <circle
+       class="st0"
+       cx="1459.04"
+       cy="593.65002"
+       r="9.0799999"
+       id="circle296" />
+    <circle
+       class="st0"
+       cx="1455.5699"
+       cy="576.15002"
+       r="9.0799999"
+       id="circle297" />
+    <circle
+       class="st0"
+       cx="1685.99"
+       cy="510.42001"
+       r="9.0799999"
+       id="circle298" />
+    <circle
+       class="st0"
+       cx="1521.65"
+       cy="520.09003"
+       r="9.0799999"
+       id="circle299" />
+    <circle
+       class="st0"
+       cx="1575.89"
+       cy="716.01001"
+       r="9.0799999"
+       id="circle300" />
+    <circle
+       class="st0"
+       cx="1656.74"
+       cy="633.28003"
+       r="9.0799999"
+       id="circle301" />
+    <circle
+       class="st0"
+       cx="1605.6899"
+       cy="690.69"
+       r="9.0799999"
+       id="circle302" />
+    <circle
+       class="st0"
+       cx="1651.58"
+       cy="665.22998"
+       r="9.0799999"
+       id="circle303" />
+    <circle
+       class="st0"
+       cx="1625.63"
+       cy="693.88"
+       r="9.0799999"
+       id="circle304" />
+    <circle
+       class="st0"
+       cx="1613"
+       cy="708.90002"
+       r="9.0799999"
+       id="circle305" />
+    <circle
+       class="st0"
+       cx="1665.08"
+       cy="651.07001"
+       r="9.0799999"
+       id="circle306" />
+    <circle
+       class="st0"
+       cx="1677.53"
+       cy="637.45001"
+       r="9.0799999"
+       id="circle307" />
+    <circle
+       class="st0"
+       cx="1715.98"
+       cy="570.66998"
+       r="9.0799999"
+       id="circle308" />
+    <circle
+       class="st0"
+       cx="1709.36"
+       cy="551.22998"
+       r="9.0799999"
+       id="circle309" />
+    <circle
+       class="st0"
+       cx="1700.29"
+       cy="534.77002"
+       r="9.0799999"
+       id="circle310" />
+    <circle
+       class="st0"
+       cx="1704.1801"
+       cy="516.21997"
+       r="9.0799999"
+       id="circle311" />
+    <circle
+       class="st0"
+       cx="1717.45"
+       cy="529.71997"
+       r="9.0799999"
+       id="circle312" />
+    <circle
+       class="st0"
+       cx="1708.0601"
+       cy="497.67999"
+       r="9.0799999"
+       id="circle313" />
+    <circle
+       class="st0"
+       cx="1708.52"
+       cy="628.58002"
+       r="9.0799999"
+       id="circle314" />
+    <circle
+       class="st0"
+       cx="1695.72"
+       cy="644.13"
+       r="9.0799999"
+       id="circle315" />
+    <circle
+       class="st0"
+       cx="1535.84"
+       cy="507.34"
+       r="9.0799999"
+       id="circle316" />
+    <circle
+       class="st0"
+       cx="1625.04"
+       cy="571.06"
+       r="9.0799999"
+       id="circle317" />
+    <circle
+       class="st0"
+       cx="1668.48"
+       cy="673.57001"
+       r="9.0799999"
+       id="circle318" />
+    <circle
+       class="st0"
+       cx="1732.83"
+       cy="578.13"
+       r="9.0799999"
+       id="circle319" />
+    <circle
+       class="st0"
+       cx="1730.0601"
+       cy="558.40997"
+       r="9.0799999"
+       id="circle320" />
+    <circle
+       class="st0"
+       cx="1654.9301"
+       cy="687.41998"
+       r="9.0799999"
+       id="circle321" />
+    <circle
+       class="st0"
+       cx="1643.01"
+       cy="700.92999"
+       r="9.0799999"
+       id="circle322" />
+    <circle
+       class="st0"
+       cx="1601.2"
+       cy="723.38"
+       r="9.0799999"
+       id="circle323" />
+    <circle
+       class="st0"
+       cx="1630.84"
+       cy="715.03003"
+       r="9.0799999"
+       id="circle324" />
+    <circle
+       class="st0"
+       cx="1674.75"
+       cy="690.84998"
+       r="9.0799999"
+       id="circle325" />
+    <circle
+       class="st0"
+       cx="1689.01"
+       cy="677.45001"
+       r="9.0799999"
+       id="circle326" />
+    <circle
+       class="st0"
+       cx="1701.64"
+       cy="661.84003"
+       r="9.0799999"
+       id="circle327" />
+    <circle
+       class="st0"
+       cx="1715.67"
+       cy="646.70001"
+       r="9.0799999"
+       id="circle328" />
+    <circle
+       class="st0"
+       cx="1596.29"
+       cy="472.42001"
+       r="9.0799999"
+       id="circle329" />
+    <circle
+       class="st0"
+       cx="1551.6801"
+       cy="493.92999"
+       r="9.0799999"
+       id="circle330" />
+    <circle
+       class="st0"
+       cx="1489.79"
+       cy="528.92999"
+       r="9.0799999"
+       id="circle331" />
+    <circle
+       class="st0"
+       cx="1609.61"
+       cy="458.20999"
+       r="9.0799999"
+       id="circle332" />
+    <circle
+       class="st0"
+       cx="1628.0601"
+       cy="447.28"
+       r="9.0799999"
+       id="circle333" />
+    <circle
+       class="st0"
+       cx="1502.88"
+       cy="515.41998"
+       r="9.0799999"
+       id="circle334" />
+    <circle
+       class="st0"
+       cx="1517.36"
+       cy="501.10001"
+       r="9.0799999"
+       id="circle335" />
+    <circle
+       class="st0"
+       cx="1531.86"
+       cy="488.17001"
+       r="9.0799999"
+       id="circle336" />
+    <circle
+       class="st0"
+       cx="1564.77"
+       cy="479.35999"
+       r="9.0799999"
+       id="circle337" />
+    <circle
+       class="st0"
+       cx="1577.87"
+       cy="464.69"
+       r="9.0799999"
+       id="circle338" />
+    <circle
+       class="st0"
+       cx="1546.11"
+       cy="473.38"
+       r="9.0799999"
+       id="circle339" />
+    <circle
+       class="st0"
+       cx="1591.4301"
+       cy="449.78"
+       r="9.0799999"
+       id="circle340" />
+    <circle
+       class="st0"
+       cx="1558.75"
+       cy="457.88"
+       r="9.0799999"
+       id="circle341" />
+    <circle
+       class="st0"
+       cx="1438.05"
+       cy="578.45001"
+       r="9.0799999"
+       id="circle342" />
+    <circle
+       class="st0"
+       cx="1454.5601"
+       cy="537.71997"
+       r="9.0799999"
+       id="circle343" />
+    <circle
+       class="st0"
+       cx="1520.59"
+       cy="461.84"
+       r="9.0799999"
+       id="circle344" />
+    <circle
+       class="st0"
+       cx="1489.3199"
+       cy="503.57999"
+       r="9.0799999"
+       id="circle345" />
+    <circle
+       class="st0"
+       cx="1539.73"
+       cy="454.5"
+       r="9.0799999"
+       id="circle346" />
+    <circle
+       class="st0"
+       cx="1514.49"
+       cy="480.44"
+       r="9.0799999"
+       id="circle347" />
+    <circle
+       class="st0"
+       cx="1494.76"
+       cy="484.75"
+       r="9.0799999"
+       id="circle348" />
+    <circle
+       class="st0"
+       cx="1501.03"
+       cy="466.14999"
+       r="9.0799999"
+       id="circle349" />
+    <circle
+       class="st0"
+       cx="1447.64"
+       cy="556.63"
+       r="9.0799999"
+       id="circle350" />
+    <circle
+       class="st0"
+       cx="1471.12"
+       cy="525.37"
+       r="9.0799999"
+       id="circle351" />
+    <circle
+       class="st0"
+       cx="1469.83"
+       cy="501.45001"
+       r="9.0799999"
+       id="circle352" />
+    <circle
+       class="st0"
+       cx="1476.01"
+       cy="484.51999"
+       r="9.0799999"
+       id="circle353" />
+    <circle
+       class="st0"
+       cx="1506.75"
+       cy="448.35999"
+       r="9.0799999"
+       id="circle354" />
+    <circle
+       class="st0"
+       cx="1482.1899"
+       cy="466.95001"
+       r="9.0799999"
+       id="circle355" />
+    <circle
+       class="st0"
+       cx="1455.86"
+       cy="513.14001"
+       r="9.0799999"
+       id="circle356" />
+    <circle
+       class="st0"
+       cx="1439.63"
+       cy="523.63"
+       r="9.0799999"
+       id="circle357" />
+    <circle
+       class="st0"
+       cx="1435.67"
+       cy="542.29999"
+       r="9.0799999"
+       id="circle358" />
+    <circle
+       class="st0"
+       cx="1428.13"
+       cy="561.52002"
+       r="9.0799999"
+       id="circle359" />
+    <circle
+       class="st0"
+       cx="1604.23"
+       cy="419.89001"
+       r="9.0799999"
+       id="circle360" />
+    <circle
+       class="st0"
+       cx="1457.22"
+       cy="487.64001"
+       r="9.0799999"
+       id="circle361" />
+    <circle
+       class="st0"
+       cx="1571.61"
+       cy="436.92999"
+       r="9.0799999"
+       id="circle362" />
+    <circle
+       class="st0"
+       cx="1552.0601"
+       cy="439.51001"
+       r="9.0799999"
+       id="circle363" />
+    <circle
+       class="st0"
+       cx="1539.36"
+       cy="425.45001"
+       r="9.0799999"
+       id="circle364" />
+    <circle
+       class="st0"
+       cx="1525.96"
+       cy="443.04999"
+       r="9.0799999"
+       id="circle365" />
+    <circle
+       class="st0"
+       cx="1681.3101"
+       cy="437.59"
+       r="9.0799999"
+       id="circle366" />
+    <circle
+       class="st0"
+       cx="1650.08"
+       cy="434.10999"
+       r="9.0799999"
+       id="circle367" />
+    <circle
+       class="st0"
+       cx="1441.46"
+       cy="598.83002"
+       r="9.0799999"
+       id="circle368" />
+    <circle
+       class="st0"
+       cx="1628.08"
+       cy="427.32999"
+       r="9.0799999"
+       id="circle369" />
+    <circle
+       class="st0"
+       cx="1666.88"
+       cy="424.38"
+       r="9.0799999"
+       id="circle370" />
+    <circle
+       class="st0"
+       cx="1610.3101"
+       cy="438.75"
+       r="9.0799999"
+       id="circle371" />
+    <circle
+       class="st0"
+       cx="1589.77"
+       cy="431.89999"
+       r="9.0799999"
+       id="circle372" />
+    <circle
+       class="st0"
+       cx="1559.24"
+       cy="421.56"
+       r="9.0799999"
+       id="circle373" />
+    <circle
+       class="st0"
+       cx="1578.62"
+       cy="416.06"
+       r="9.0799999"
+       id="circle374" />
+    <circle
+       class="st0"
+       cx="1617.77"
+       cy="407.35001"
+       r="9.0799999"
+       id="circle375" />
+    <circle
+       class="st0"
+       cx="1643.0699"
+       cy="416.29001"
+       r="9.0799999"
+       id="circle376" />
+    <circle
+       class="st0"
+       cx="1659.1801"
+       cy="406.82999"
+       r="9.0799999"
+       id="circle377" />
+    <circle
+       class="st0"
+       cx="1635.03"
+       cy="398.47"
+       r="9.0799999"
+       id="circle378" />
+    <circle
+       class="st0"
+       cx="1607.33"
+       cy="390.92999"
+       r="9.0799999"
+       id="circle379" />
+    <circle
+       class="st0"
+       cx="1593.39"
+       cy="403.28"
+       r="9.0799999"
+       id="circle380" />
+    <circle
+       class="st0"
+       cx="1563.6801"
+       cy="402.60001"
+       r="9.0799999"
+       id="circle381" />
+    <circle
+       class="st0"
+       cx="1443.58"
+       cy="625.39001"
+       r="9.0799999"
+       id="circle382" />
+    <circle
+       class="st0"
+       cx="1729.17"
+       cy="632.44"
+       r="9.0799999"
+       id="circle383" />
+    <circle
+       class="st0"
+       cx="1661.96"
+       cy="704.70001"
+       r="9.0799999"
+       id="circle384" />
+  </g>
+</svg>
