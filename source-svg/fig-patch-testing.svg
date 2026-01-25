@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_3"
+   version="1.1"
+   viewBox="0 0 1600 900"
+   sodipodi:docname="fig-patch-testing.svg"
+   width="1600"
+   height="900"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.43490013"
+     inkscape:cx="949.64332"
+     inkscape:cy="534.6055"
+     inkscape:window-width="1512"
+     inkscape:window-height="806"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_3">
+    <sodipodi:guide
+       position="0,820"
+       orientation="0,1"
+       id="guide43"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,900"
+       orientation="-1,0"
+       id="guide44"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1600,80"
+       orientation="0,1"
+       id="guide45"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide46"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        font-size: 20px;
+      }
+
+      .st0, .st1 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st1 {
+        font-size: 26px;
+      }
+
+      .st2, .st3, .st4, .st5, .st6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st2, .st3, .st4, .st6 {
+        fill: none;
+      }
+
+      .st3 {
+        stroke-dasharray: 3;
+      }
+
+      .st4 {
+        stroke-width: 2px;
+      }
+
+      .st5 {
+        fill: #999;
+      }
+
+      .st5, .st6 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g
+     id="g46"
+     transform="matrix(1.6552974,0,0,1.6552974,-286.80552,-202.04759)">
+    <circle
+       class="st5"
+       cx="846.65997"
+       cy="347.70001"
+       r="36.5"
+       id="circle1" />
+    <circle
+       class="st5"
+       cx="846.65997"
+       cy="347.70001"
+       r="28"
+       id="circle2" />
+    <text
+       class="st1"
+       id="text2"
+       x="790.71997"
+       y="245.99001"><tspan
+         x="790.71997"
+         y="245.99001"
+         id="tspan2">Drug</tspan></text>
+    <text
+       class="st1"
+       transform="rotate(-90)"
+       id="text3"
+       x="-402.39999"
+       y="658.56"><tspan
+         x="-402.39999"
+         y="658.56"
+         id="tspan3">Petrolatum</tspan></text>
+    <text
+       class="st1"
+       id="text4"
+       x="806.52002"
+       y="416.95999"><tspan
+         x="806.52002"
+         y="416.95999"
+         id="tspan4">Finn chambers</tspan></text>
+    <text
+       class="st1"
+       id="text5"
+       x="814.91998"
+       y="471.95999"><tspan
+         x="814.91998"
+         y="471.95999"
+         id="tspan5">Scanpor tape</tspan></text>
+    <rect
+       class="st6"
+       x="791"
+       y="272.5"
+       width="216.5"
+       height="165"
+       id="rect5" />
+    <path
+       class="st6"
+       d="m 454.5,249.5 c 0,0 1.5,12.5 -2.5,16.5 -4,4 -9,6 -30,7 -14.72,0.7 -26.49,-2.53 -32.22,-4.52 -2.27,-0.79 -3.76,-2.95 -3.71,-5.34 l 0.16,-7.95 0.7,-35.94 c 0.04,-2.15 1.32,-4.07 3.27,-4.95 4.58,-2.07 14.19,-5.29 29.79,-5.29 15.6,0 25.97,3.07 30.98,5.03 2.13,0.84 3.54,2.88 3.54,5.17 v 30.19 c 0,2.92 2.27,5.32 5.19,5.53 12.17,0.87 21.44,5.09 27.51,8.9 5.34,3.35 8.67,9.14 9.03,15.44 0.48,8.34 0.82,20.73 -0.66,28.74 -1.51,8.17 -6.68,11.32 -10.32,12.53 -2.26,0.75 -3.77,2.87 -3.77,5.25 v 89.85 c 0,6.75 -3.66,12.94 -9.53,16.26 -11.35,6.41 -25.56,8.52 -51.25,9.91 -27.19,1.48 -53.15,-10.68 -61.74,-15.18 -1.83,-0.96 -2.98,-2.85 -2.98,-4.92 v -99.98 c 0,-2.41 -1.55,-4.55 -3.85,-5.28 -4.32,-1.38 -10.77,-4.15 -11.12,-8.45 -0.48,-5.97 -0.08,-30.05 0,-33.92 0,-0.4 0.05,-0.8 0.15,-1.19 0.75,-3.04 11.33,-23.39 45.33,-20.39"
+       id="path5" />
+    <path
+       class="st6"
+       d="m 342.02,270.34 c 0,0 9.98,9.66 36.98,11.66 27,2 71,2 71,2 0,0 31.63,-2.08 44.81,-12.54"
+       id="path6" />
+    <path
+       class="st6"
+       d="m 352.5,316.5 c 0,0 37.5,11.5 72.5,10.5 35,-1 52.01,-3.21 60.5,-6.5"
+       id="path7" />
+    <path
+       class="st6"
+       d="m 387.28,217.47 c 0,0 15.72,5.53 33.72,4.53 18,-1 28.9,0.88 32.45,-6.06"
+       id="path8" />
+    <line
+       class="st4"
+       x1="345.32999"
+       y1="277.17001"
+       x2="345.32999"
+       y2="308"
+       id="line8" />
+    <line
+       class="st4"
+       x1="350.5"
+       y1="279.5"
+       x2="350.5"
+       y2="313"
+       id="line9" />
+    <line
+       class="st4"
+       x1="358.64001"
+       y1="282"
+       x2="359"
+       y2="315"
+       id="line10" />
+    <line
+       class="st4"
+       x1="368.42001"
+       y1="284"
+       x2="368"
+       y2="317"
+       id="line11" />
+    <line
+       class="st4"
+       x1="381"
+       y1="286"
+       x2="380.57999"
+       y2="319"
+       id="line12" />
+    <line
+       class="st4"
+       x1="392"
+       y1="286"
+       x2="391.57999"
+       y2="322"
+       id="line13" />
+    <line
+       class="st4"
+       x1="404"
+       y1="288"
+       x2="403.57999"
+       y2="322"
+       id="line14" />
+    <line
+       class="st4"
+       x1="436"
+       y1="288"
+       x2="435.57999"
+       y2="323"
+       id="line15" />
+    <line
+       class="st4"
+       x1="449"
+       y1="288"
+       x2="448.57999"
+       y2="322"
+       id="line16" />
+    <line
+       class="st4"
+       x1="462"
+       y1="286"
+       x2="461.57999"
+       y2="322"
+       id="line17" />
+    <line
+       class="st4"
+       x1="472"
+       y1="286"
+       x2="471.57999"
+       y2="320"
+       id="line18" />
+    <line
+       class="st4"
+       x1="482"
+       y1="282"
+       x2="481.57999"
+       y2="319"
+       id="line19" />
+    <line
+       class="st4"
+       x1="488"
+       y1="280"
+       x2="487.57999"
+       y2="315"
+       id="line20" />
+    <line
+       class="st4"
+       x1="492"
+       y1="277"
+       x2="491.57999"
+       y2="310"
+       id="line21" />
+    <line
+       class="st4"
+       x1="421"
+       y1="288"
+       x2="420.57999"
+       y2="323"
+       id="line22" />
+    <line
+       class="st4"
+       x1="392"
+       y1="222"
+       x2="391.57999"
+       y2="265"
+       id="line23" />
+    <line
+       class="st4"
+       x1="406"
+       y1="225"
+       x2="405.57999"
+       y2="268"
+       id="line24" />
+    <line
+       class="st4"
+       x1="419"
+       y1="225"
+       x2="418.57999"
+       y2="270"
+       id="line25" />
+    <line
+       class="st4"
+       x1="430"
+       y1="225"
+       x2="429.57999"
+       y2="268"
+       id="line26" />
+    <line
+       class="st4"
+       x1="440"
+       y1="225"
+       x2="439.57999"
+       y2="268"
+       id="line27" />
+    <line
+       class="st4"
+       x1="447"
+       y1="225"
+       x2="446.57999"
+       y2="265"
+       id="line28" />
+    <line
+       class="st4"
+       x1="399"
+       y1="225"
+       x2="398.57999"
+       y2="267"
+       id="line29" />
+    <text
+       class="st1"
+       id="text33"
+       x="297.20001"
+       y="480.72"><tspan
+         x="297.20001"
+         y="480.72"
+         id="tspan29">Reagent grade drug</tspan><tspan
+         x="336.19"
+         y="511.92001"
+         id="tspan30">(1% and 10%)</tspan><tspan
+         x="407"
+         y="543.12"
+         id="tspan31">or</tspan><tspan
+         x="352.10001"
+         y="574.32001"
+         id="tspan32">Trade drug</tspan><tspan
+         x="328.95999"
+         y="605.52002"
+         id="tspan33">(10% and 30%)</tspan></text>
+    <path
+       class="st6"
+       d="m 684.5,470 c -4.5,4 -4.5,3 -30.75,4.42 -26.24,1.42 -30.76,-4.42 -30.76,-4.42"
+       id="path33" />
+    <path
+       class="st6"
+       d="m 623,470 c 0,0 1.12,48.33 2.81,48.92 0,0 14.57,6.2 30.13,5.39 15.56,-0.81 25.57,-2.97 28.57,-5.39 3,-2.42 0,-48.92 0,-48.92"
+       id="path34" />
+    <path
+       class="st6"
+       d="m 607.07,180 h 82.31 c -0.04,2.59 -3.03,0 0,0 -1.38,97 -2.38,193 -5,290"
+       id="path35" />
+    <line
+       class="st6"
+       x1="608"
+       y1="179"
+       x2="623"
+       y2="470"
+       id="line35" />
+    <line
+       class="st6"
+       x1="608.73999"
+       y1="193.32001"
+       x2="689.19"
+       y2="193.32001"
+       id="line36" />
+    <path
+       class="st2"
+       d="m 684.55,466 c -4.5,4.37 -4.51,3.28 -30.77,4.82 C 627.52,472.37 623,466 623,466"
+       id="path36" />
+    <text
+       class="st1"
+       id="text36"
+       x="879.02002"
+       y="247.75999"><tspan
+         x="879.02002"
+         y="247.75999"
+         id="tspan36">Petrolatum</tspan></text>
+    <circle
+       class="st5"
+       cx="950.70001"
+       cy="348.01001"
+       r="36.5"
+       id="circle36" />
+    <circle
+       class="st5"
+       cx="950.70001"
+       cy="348.01001"
+       r="28"
+       id="circle37" />
+    <text
+       class="st1"
+       id="text38"
+       x="581.06"
+       y="572.96002"><tspan
+         x="581.06"
+         y="572.96002"
+         id="tspan37">Vehicle and</tspan><tspan
+         x="551.45001"
+         y="604.15997"
+         id="tspan38">Negative control</tspan></text>
+    <text
+       class="st0"
+       id="text39"
+       x="362.64999"
+       y="419.32001"><tspan
+         x="362.64999"
+         y="419.32001"
+         id="tspan39">Exp. 1-3 mo</tspan></text>
+    <text
+       class="st1"
+       id="text40"
+       x="386.29001"
+       y="368.35999"><tspan
+         x="386.29001"
+         y="368.35999"
+         id="tspan40">Drug</tspan></text>
+    <line
+       class="st3"
+       x1="810.5"
+       y1="336.5"
+       x2="823"
+       y2="251"
+       id="line40" />
+    <line
+       class="st3"
+       x1="874.5"
+       y1="322.5"
+       x2="822.5"
+       y2="250.5"
+       id="line41" />
+    <line
+       class="st3"
+       x1="917.5"
+       y1="330.5"
+       x2="950.54999"
+       y2="250.98"
+       id="line42" />
+    <line
+       class="st3"
+       x1="980.5"
+       y1="326.5"
+       x2="950.54999"
+       y2="250.98"
+       id="line43" />
+  </g>
+</svg>
