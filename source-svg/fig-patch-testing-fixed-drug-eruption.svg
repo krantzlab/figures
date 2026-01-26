@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_3"
+   version="1.1"
+   viewBox="0 0 1600 900"
+   sodipodi:docname="fig-patch-testing-fixed-drug-eruption.svg"
+   width="1600"
+   height="900"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.27195088"
+     inkscape:cx="698.65559"
+     inkscape:cy="558.92447"
+     inkscape:window-width="1448"
+     inkscape:window-height="735"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_3">
+    <sodipodi:guide
+       position="0,820"
+       orientation="0,1"
+       id="guide11"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,900"
+       orientation="-1,0"
+       id="guide12"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1600,80"
+       orientation="0,1"
+       id="guide13"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide14"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        opacity: .4;
+      }
+
+      .st0, .st1 {
+        fill: #999;
+      }
+
+      .st2 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g
+     id="g11"
+     transform="matrix(2.1164508,0,0,2.1164508,-630.16692,-336.09155)">
+    <circle
+       class="st0"
+       cx="683"
+       cy="384"
+       r="141"
+       id="circle1" />
+    <text
+       class="st2"
+       transform="translate(637.92,230.96)"
+       id="text1"><tspan
+         x="0"
+         y="0"
+         id="tspan1">Lesional</tspan></text>
+    <text
+       class="st2"
+       transform="translate(768.72,230.72)"
+       id="text2"><tspan
+         x="0"
+         y="0"
+         id="tspan2">Perilesional</tspan></text>
+    <circle
+       class="st0"
+       cx="683.5"
+       cy="383.5"
+       r="128.5"
+       id="circle2" />
+    <circle
+       class="st1"
+       cx="674.70001"
+       cy="442.01001"
+       r="36.5"
+       id="circle3" />
+    <circle
+       class="st1"
+       cx="674.70001"
+       cy="442.01001"
+       r="28"
+       id="circle4" />
+    <circle
+       class="st1"
+       cx="683.65997"
+       cy="331.70001"
+       r="36.5"
+       id="circle5" />
+    <circle
+       class="st1"
+       cx="683.65997"
+       cy="331.70001"
+       r="28"
+       id="circle6" />
+    <circle
+       class="st1"
+       cx="784.70001"
+       cy="441.66"
+       r="36.5"
+       id="circle7" />
+    <circle
+       class="st1"
+       cx="784.70001"
+       cy="441.66"
+       r="28"
+       id="circle8" />
+    <circle
+       class="st1"
+       cx="796.70001"
+       cy="336.66"
+       r="36.5"
+       id="circle9" />
+    <circle
+       class="st1"
+       cx="796.70001"
+       cy="336.66"
+       r="28"
+       id="circle10" />
+    <text
+       class="st2"
+       transform="translate(473.16,335.92)"
+       id="text10"><tspan
+         x="0"
+         y="0"
+         id="tspan10">Drug</tspan></text>
+    <text
+       class="st2"
+       transform="translate(401.16,439.62)"
+       id="text11"><tspan
+         x="0"
+         y="0"
+         id="tspan11">Petrolatum</tspan></text>
+  </g>
+</svg>
