@@ -46,6 +46,8 @@ Document Properties = 1600px x 900px (16:9)
 - The svgo.config.js automatically uses the file name to create prefixes so that SVG elements are unique (if use multiple SVG with same element ID, this will cause rendering issues)
 - You right click on the layer -> Object Properties -> update the ID to "layer1" (this is the name for the first layer of what appears immediately on slide); then "layer2". The svgo.config.js will append a prefix "fig-name_". Therefore in the .qmd for the revealjs you would use "fig-name_layer2"
 
+**It seems that layer1, layer2 are named by the svgo.config.js file from the bottom up as the order they are in the layers**
+
 📄 PDF Generation & Decktape Troubleshooting
 Issue: If the final slide of the presentation contains a complex SVG (specifically one with many vector paths or "sketch" style drawings), the PDF generation process via Decktape may hang or generate dozens of duplicate pages.
 
