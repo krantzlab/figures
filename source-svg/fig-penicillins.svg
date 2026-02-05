@@ -2,10 +2,10 @@
 <svg
    id="Layer_1"
    version="1.1"
-   viewBox="0 0 1600 900"
+   viewBox="0 0 1600 750"
    sodipodi:docname="fig-penicillins.svg"
    width="1600"
-   height="900"
+   height="750"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.55"
-     inkscape:cx="669.09091"
+     inkscape:cx="670"
      inkscape:cy="540.90909"
      inkscape:window-width="1648"
-     inkscape:window-height="950"
-     inkscape:window-x="139"
-     inkscape:window-y="25"
+     inkscape:window-height="940"
+     inkscape:window-x="138"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3">
+     inkscape:current-layer="layer4">
     <sodipodi:guide
        position="0,880"
        orientation="0,1"
@@ -37,21 +37,21 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="1560,900"
+       position="1520,750"
        orientation="-1,0"
        id="guide31"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="1600,120"
+       position="1600,20"
        orientation="0,1"
        id="guide32"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="40,0"
+       position="80,-150"
        orientation="-1,0"
        id="guide33"
        inkscape:locked="false"
@@ -104,121 +104,121 @@
   </defs>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
+     id="layer1"
      inkscape:label="layer1">
     <text
        class="st2"
        id="text3"
-       x="449.52762"
-       y="62.081738"
-       style="stroke-width:0.849085"><tspan
-         x="449.52762"
-         y="62.081738"
+       x="448.78091"
+       y="57.043293"
+       style="stroke-width:0.808092"><tspan
+         x="448.78091"
+         y="57.043293"
          id="tspan3"
-         style="stroke-width:0.849085">Penicillin G</tspan></text>
+         style="stroke-width:0.808092">Penicillin G</tspan></text>
     <text
        class="st2"
        id="text4"
-       x="894.37207"
-       y="62.226078"
-       style="stroke-width:0.849085"><tspan
-         x="894.37207"
-         y="62.226078"
+       x="872.14868"
+       y="57.180664"
+       style="stroke-width:0.808092"><tspan
+         x="872.14868"
+         y="57.180664"
          id="tspan4"
-         style="stroke-width:0.849085">Ampicillin</tspan></text>
+         style="stroke-width:0.808092">Ampicillin</tspan></text>
     <circle
-       cx="528.21234"
-       cy="183.29718"
-       r="67.926849"
+       cx="523.66681"
+       cy="172.40654"
+       r="64.6474"
        id="circle14"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <circle
-       cx="962.09509"
-       cy="206.2225"
-       r="67.926849"
+       cx="936.60205"
+       cy="194.22507"
+       r="64.6474"
        id="circle15"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <circle
        class="st0"
-       cx="1045.4838"
-       cy="126.11127"
-       r="34.260597"
+       cx="1015.9648"
+       cy="117.98154"
+       r="32.606525"
        id="circle16"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <text
        class="st3"
        id="text16"
-       x="576.48285"
-       y="270.40491"
-       style="stroke-width:0.849085"><tspan
-         x="576.48285"
-         y="270.40491"
+       x="569.60687"
+       y="255.30879"
+       style="stroke-width:0.808092"><tspan
+         x="569.60687"
+         y="255.30879"
          id="tspan16"
-         style="stroke-width:0.849085">Backbone</tspan></text>
+         style="stroke-width:0.808092">Backbone</tspan></text>
     <text
        class="st3"
        id="text17"
-       x="1022.2614"
-       y="279.3967"
-       style="stroke-width:0.849085"><tspan
-         x="1022.2614"
-         y="279.3967"
+       x="993.86353"
+       y="263.86649"
+       style="stroke-width:0.808092"><tspan
+         x="993.86353"
+         y="263.86649"
          id="tspan17"
-         style="stroke-width:0.849085">Backbone</tspan></text>
+         style="stroke-width:0.808092">Backbone</tspan></text>
     <text
        class="st3"
        id="text18"
-       x="1079.999"
-       y="162.22289"
-       style="stroke-width:0.849085"><tspan
-         x="1079.999"
-         y="162.22289"
+       x="1048.8136"
+       y="152.3497"
+       style="stroke-width:0.808092"><tspan
+         x="1048.8136"
+         y="152.3497"
          id="tspan18"
-         style="stroke-width:0.849085">Amino group</tspan></text>
+         style="stroke-width:0.808092">Amino group</tspan></text>
     <line
        class="st5"
-       x1="1010.4929"
-       y1="158.67371"
-       x2="1022.3801"
-       y2="150.18285"
+       x1="982.66327"
+       y1="148.97188"
+       x2="993.97656"
+       y2="140.89096"
        id="line18" />
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
+     id="layer2"
      inkscape:label="layer2">
     <text
        class="st2"
        id="text8"
-       x="524.315"
-       y="600.54633"
-       style="stroke-width:0.849085"><tspan
-         x="524.315"
-         y="600.54633"
+       x="519.95764"
+       y="569.51129"
+       style="stroke-width:0.808092"><tspan
+         x="519.95764"
+         y="569.51129"
          id="tspan5"
-         style="stroke-width:0.849085">Penicilloyl</tspan><tspan
-         x="563.01636"
-         y="641.30243"
+         style="stroke-width:0.808092">Penicilloyl</tspan><tspan
+         x="556.79047"
+         y="608.29968"
          id="tspan6"
-         style="stroke-width:0.849085">(95%)</tspan><tspan
-         x="549.81311"
-         y="722.81464"
+         style="stroke-width:0.808092">(95%)</tspan><tspan
+         x="544.22467"
+         y="685.87659"
          id="tspan7"
-         style="stroke-width:0.849085">“Major</tspan><tspan
-         x="502.62939"
-         y="763.57074"
+         style="stroke-width:0.808092">“Major</tspan><tspan
+         x="499.31897"
+         y="724.66498"
          id="tspan8"
-         style="stroke-width:0.849085">determinant”</tspan></text>
+         style="stroke-width:0.808092">determinant”</tspan></text>
     <rect
-       x="546.89221"
-       y="450.75916"
-       width="109.53205"
-       height="109.53205"
+       x="541.44482"
+       y="426.95569"
+       width="104.24392"
+       height="104.24392"
        id="rect16"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <g
        id="g30"
-       transform="matrix(0.84908558,0,0,0.84908558,34.044561,-80.768433)">
+       transform="matrix(0.80809241,0,0,0.80809241,53.357047,-78.910185)">
       <line
          x1="581.71002"
          y1="403"
@@ -242,55 +242,55 @@
     <text
        class="st3"
        id="text30"
-       x="472.89774"
-       y="393.14984"
-       style="stroke-width:0.849085"><tspan
-         x="472.89774"
-         y="393.14984"
+       x="471.02274"
+       y="372.12769"
+       style="stroke-width:0.808092"><tspan
+         x="471.02274"
+         y="372.12769"
          id="tspan30"
-         style="stroke-width:0.849085">in vivo</tspan></text>
+         style="stroke-width:0.808092">in vivo</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
+     id="layer3"
      inkscape:label="layer3">
     <text
        class="st1"
        id="text14"
-       x="369.29752"
-       y="559.71381"
-       style="stroke-width:0.849085"><tspan
-         x="369.29752"
-         y="559.71381"
+       x="372.42426"
+       y="530.65009"
+       style="stroke-width:0.808092"><tspan
+         x="372.42426"
+         y="530.65009"
          id="tspan9"
-         style="stroke-width:0.849085">Penicillin G,</tspan><tspan
-         x="377.245"
-         y="586.12036"
+         style="stroke-width:0.808092">Penicillin G,</tspan><tspan
+         x="379.98804"
+         y="555.78174"
          id="tspan10"
-         style="stroke-width:0.849085">Penilloate,</tspan><tspan
-         x="371.12305"
-         y="612.51849"
+         style="stroke-width:0.808092">Penilloate,</tspan><tspan
+         x="374.16165"
+         y="580.9054"
          id="tspan11"
-         style="stroke-width:0.849085">Penicilloate</tspan><tspan
-         x="409.0347"
-         y="638.92505"
+         style="stroke-width:0.808092">Penicilloate</tspan><tspan
+         x="410.24295"
+         y="606.03711"
          id="tspan12"
-         style="stroke-width:0.849085">(5%)</tspan><tspan
-         x="396.82492"
-         y="691.72961"
+         style="stroke-width:0.808092">(5%)</tspan><tspan
+         x="398.62265"
+         y="656.2923"
          id="tspan13"
-         style="stroke-width:0.849085">“Minor</tspan><tspan
-         x="357.68204"
-         y="718.12775"
+         style="stroke-width:0.808092">“Minor</tspan><tspan
+         x="361.36957"
+         y="681.41589"
          id="tspan14"
-         style="stroke-width:0.849085">determinants”</tspan></text>
+         style="stroke-width:0.808092">determinants”</tspan></text>
     <polygon
        points="470.7,630.41 421.52,715.6 519.89,715.6 "
        id="polygon16"
-       transform="matrix(0.84908558,0,0,0.84908558,34.044561,-80.768433)" />
+       transform="matrix(0.80809241,0,0,0.80809241,53.357047,-78.910185)" />
     <g
        id="g25"
-       transform="matrix(0.84908558,0,0,0.84908558,34.044561,-80.768433)">
+       transform="matrix(0.80809241,0,0,0.80809241,53.357047,-78.910185)">
       <line
          x1="581.5"
          y1="404.5"
@@ -314,95 +314,95 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
+     id="layer4"
      inkscape:label="layer4">
     <text
        class="st2"
        id="text2"
-       x="834.59637"
-       y="714.08606"
-       style="stroke-width:0.849085"><tspan
-         x="834.59637"
-         y="714.08606"
+       x="815.25885"
+       y="677.5694"
+       style="stroke-width:0.808092"><tspan
+         x="815.25885"
+         y="677.5694"
          id="tspan1"
-         style="stroke-width:0.849085">Penicillolyl Polylysine</tspan><tspan
-         x="934.40637"
-         y="754.84222"
+         style="stroke-width:0.808092">Penicillolyl Polylysine</tspan><tspan
+         x="910.25006"
+         y="716.35785"
          id="tspan2"
-         style="stroke-width:0.849085">(PrePen®)</tspan></text>
+         style="stroke-width:0.808092">(PrePen®)</tspan></text>
     <path
        class="st6"
-       d="m 830.42741,555.95235 c 18.73931,-0.75568 35.72102,-2.45384 54.4009,-5.85019 0.84909,0 2.54726,-1.69818 3.39635,-1.69818 14.43445,-2.54725 26.32165,-7.64176 39.05793,-15.28353 16.98172,-11.03812 28.01983,-24.62348 43.30336,-37.35978 6.79269,-5.0945 14.43445,-9.33993 22.9253,-11.88718 10.18895,-3.39635 20.37795,-2.54727 30.56705,-1.69818 13.5853,1.69818 26.3217,7.64177 38.2088,15.28354 31.4161,21.22714 60.2852,40.75611 95.9467,51.79422 17.8308,5.09451 36.5106,5.09451 54.6981,7.37007"
+       d="m 811.29117,527.07024 c 17.8346,-0.7192 33.99644,-2.33537 51.77448,-5.56775 0.80809,0 2.42427,-1.61619 3.23236,-1.61619 13.73757,-2.42428 25.05087,-7.27283 37.17225,-14.54565 16.16186,-10.50521 26.66705,-23.43469 41.21271,-35.55608 6.46475,-4.84855 13.73756,-8.88901 21.81848,-11.31328 9.69704,-3.23238 19.39412,-2.4243 29.0913,-1.6162 12.92945,1.6162 25.05095,7.27284 36.36415,14.54567 29.8993,20.20231 57.3747,38.78843 91.3145,49.29363 16.9699,4.84856 34.7479,4.84856 52.0573,7.01425"
        id="path16" />
     <line
        class="st5"
-       x1="1010.0684"
-       y1="482.17532"
-       x2="1010.0684"
-       y2="426.13565"
+       x1="982.25928"
+       y1="456.85513"
+       x2="982.25928"
+       y2="403.521"
        id="line19" />
     <line
        class="st5"
-       x1="869.9693"
-       y1="609.53821"
-       x2="869.9693"
-       y2="553.49854"
+       x1="848.92395"
+       y1="578.06903"
+       x2="848.92395"
+       y2="524.73492"
        id="line20" />
     <line
        class="st5"
-       x1="1151.0166"
-       y1="601.8963"
-       x2="1151.0166"
-       y2="545.85669"
+       x1="1116.4026"
+       y1="570.79608"
+       x2="1116.4026"
+       y2="517.46198"
        id="line21" />
     <rect
-       x="977.87958"
-       y="368.39786"
-       width="64.929581"
-       height="64.929581"
+       x="951.62445"
+       y="348.57074"
+       width="61.79483"
+       height="61.79483"
        id="rect21"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <rect
-       x="837.43231"
-       y="609.35986"
-       width="64.929581"
-       height="64.929581"
+       x="817.95789"
+       y="577.89929"
+       width="61.79483"
+       height="61.79483"
        id="rect22"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <rect
-       x="1118.4797"
-       y="601.71814"
-       width="64.929581"
-       height="64.929581"
+       x="1085.4365"
+       y="570.62646"
+       width="61.79483"
+       height="61.79483"
        id="rect23"
-       style="stroke-width:0.849085" />
+       style="stroke-width:0.808092" />
     <text
        class="st3"
        id="text26"
-       x="1214.4602"
-       y="582.37592"
-       style="stroke-width:0.849085"><tspan
-         x="1214.4602"
-         y="582.37592"
+       x="1176.7832"
+       y="552.21814"
+       style="stroke-width:0.808092"><tspan
+         x="1176.7832"
+         y="552.21814"
          id="tspan25"
-         style="stroke-width:0.849085">Polylysine</tspan><tspan
-         x="1214.4602"
-         y="612.94305"
+         style="stroke-width:0.808092">Polylysine</tspan><tspan
+         x="1176.7832"
+         y="581.30951"
          id="tspan26"
-         style="stroke-width:0.849085">(carrier)</tspan></text>
+         style="stroke-width:0.808092">(carrier)</tspan></text>
     <text
        class="st3"
        id="text28"
-       x="1053.983"
-       y="392.38449"
-       style="stroke-width:0.849085"><tspan
-         x="1053.983"
-         y="392.38449"
+       x="1024.0538"
+       y="371.39932"
+       style="stroke-width:0.808092"><tspan
+         x="1024.0538"
+         y="371.39932"
          id="tspan27"
-         style="stroke-width:0.849085">Penicilloyl</tspan><tspan
-         x="1053.983"
-         y="422.95157"
+         style="stroke-width:0.808092">Penicilloyl</tspan><tspan
+         x="1024.0538"
+         y="400.49063"
          id="tspan28"
-         style="stroke-width:0.849085">(hapten)</tspan></text>
+         style="stroke-width:0.808092">(hapten)</tspan></text>
   </g>
 </svg>
