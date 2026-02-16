@@ -1,424 +1,144 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="Layer_2"
-   version="1.1"
-   viewBox="0 0 1600 900"
+<svg version="1.1" viewBox="0 0 1600 900" width="1600" height="900"
    sodipodi:docname="fig-elispot-3.svg"
-   width="1600"
-   height="900"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview35"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.26232243"
-     inkscape:cx="1118.8521"
-     inkscape:cy="577.53353"
-     inkscape:window-width="1512"
-     inkscape:window-height="834"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_2">
-    <sodipodi:guide
-       position="0,820"
-       orientation="0,1"
-       id="guide35"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="1520,900"
-       orientation="-1,0"
-       id="guide36"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="1600,80"
-       orientation="0,1"
-       id="guide37"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="80,0"
-       orientation="-1,0"
-       id="guide38"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
+   xmlns="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25"
+     inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" inkscape:zoom="0.5" inkscape:cx="800" inkscape:cy="450"
+     inkscape:window-width="1512" inkscape:window-height="746" inkscape:window-x="0"
+     inkscape:window-y="75" inkscape:window-maximized="0" inkscape:current-layer="svg1">
+    <sodipodi:guide position="80,0" orientation="-1,0" id="gl" inkscape:locked="false" inkscape:label="left-margin" inkscape:color="rgb(0,134,229)"/>
+    <sodipodi:guide position="1520,0" orientation="-1,0" id="gr" inkscape:locked="false" inkscape:label="right-margin" inkscape:color="rgb(0,134,229)"/>
+    <sodipodi:guide position="0,880" orientation="0,1" id="gt" inkscape:locked="false" inkscape:label="top-margin" inkscape:color="rgb(0,134,229)"/>
+    <sodipodi:guide position="0,20" orientation="0,1" id="gb" inkscape:locked="false" inkscape:label="bottom-margin" inkscape:color="rgb(0,134,229)"/>
   </sodipodi:namedview>
-  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
-  <defs
-     id="defs1">
-    <style
-       id="style1">
-      .st0 {
-        fill: #b3b3b3;
-      }
-
-      .st0, .st1, .st2, .st3, .st4 {
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: 3px;
-      }
-
-      .st1 {
-        fill: #666;
-      }
-
-      .st5 {
-        font-family: ArialMT, Arial;
-        font-size: 36px;
-      }
-
-      .st2 {
-        fill: #e6e6e6;
-      }
-
-      .st3 {
-        stroke-dasharray: 12.05 12.05;
-      }
-
-      .st3, .st4 {
-        fill: none;
-      }
-
-      .st6 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 42px;
-        font-weight: 700;
-      }
+  <defs>
+    <style>
+      .ax-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; fill: #333; }
+      .ax-tick { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .bar-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; }
+      .bar-sub { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .bar-value { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 28px; }
+      .note { font-family: ArialMT, Arial; font-size: 20px; fill: #555; }
+      .note-em { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; }
     </style>
   </defs>
-  <text
-     class="st6"
-     id="text2"
-     x="674.34747"
-     y="726.31256"
-     style="stroke-width:0.996855"><tspan
-       x="674.34747"
-       y="726.31256"
-       id="tspan1"
-       style="stroke-width:0.996855">Positive Control</tspan><tspan
-       x="674.34747"
-       y="776.55402"
-       id="tspan2"
-       style="stroke-width:0.996855">(e.g. anti-CD3)</tspan></text>
-  <text
-     class="st6"
-     id="text4"
-     x="290.86749"
-     y="723.72076"
-     style="stroke-width:0.996855"><tspan
-       x="290.86749"
-       y="723.72076"
-       id="tspan3"
-       style="stroke-width:0.996855">Negative Control</tspan><tspan
-       x="290.86749"
-       y="773.96216"
-       id="tspan4"
-       style="stroke-width:0.996855">(e.g. cell media)</tspan></text>
-  <text
-     class="st6"
-     id="text6"
-     x="1069.4109"
-     y="721.72705"
-     style="stroke-width:0.996855"><tspan
-       x="1069.4109"
-       y="721.72705"
-       id="tspan5"
-       style="stroke-width:0.996855">Stimulus</tspan><tspan
-       x="1069.4109"
-       y="771.96844"
-       id="tspan6"
-       style="stroke-width:0.996855">(e.g. drug)</tspan></text>
-  <text
-     class="st6"
-     id="text7"
-     x="224.53682"
-     y="646.45459"
-     style="stroke-width:0.996855"><tspan
-       x="224.53682"
-       y="646.45459"
-       id="tspan7"
-       style="stroke-width:0.996855">0</tspan></text>
-  <text
-     class="st6"
-     id="text8"
-     x="181.37303"
-     y="199.46495"
-     style="stroke-width:0.996855"><tspan
-       x="181.37303"
-       y="199.46495"
-       id="tspan8"
-       style="stroke-width:0.996855">300</tspan></text>
-  <text
-     class="st6"
-     id="text9"
-     x="180.35622"
-     y="500.51508"
-     style="stroke-width:0.996855"><tspan
-       x="180.35622"
-       y="500.51508"
-       id="tspan9"
-       style="stroke-width:0.996855">100</tspan></text>
-  <text
-     class="st6"
-     id="text10"
-     x="202.297"
-     y="574.18262"
-     style="stroke-width:0.996855"><tspan
-       x="202.297"
-       y="574.18262"
-       id="tspan10"
-       style="stroke-width:0.996855">50</tspan></text>
-  <text
-     class="st6"
-     id="text11"
-     x="179.51888"
-     y="422.66071"
-     style="stroke-width:0.996855"><tspan
-       x="179.51888"
-       y="422.66071"
-       id="tspan11"
-       style="stroke-width:0.996855">150</tspan></text>
-  <text
-     class="st6"
-     id="text12"
-     x="180.5157"
-     y="348.89349"
-     style="stroke-width:0.996855"><tspan
-       x="180.5157"
-       y="348.89349"
-       id="tspan12"
-       style="stroke-width:0.996855">200</tspan></text>
-  <text
-     class="st6"
-     id="text13"
-     x="180.5157"
-     y="276.12308"
-     style="stroke-width:0.996855"><tspan
-       x="180.5157"
-       y="276.12308"
-       id="tspan13"
-       style="stroke-width:0.996855">250</tspan></text>
-  <line
-     class="st4"
-     x1="285.27515"
-     y1="148.13693"
-     x2="285.27515"
-     y2="658.52643"
-     id="line13" />
-  <line
-     class="st4"
-     x1="285.72375"
-     y1="658.52643"
-     x2="1463.5074"
-     y2="658.52643"
-     id="line14" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="639.08777"
-     x2="286.72058"
-     y2="639.08777"
-     id="line15" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="564.82208"
-     x2="286.72058"
-     y2="564.82208"
-     id="line16" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="490.05804"
-     x2="286.72058"
-     y2="490.05804"
-     id="line17" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="414.29709"
-     x2="286.72058"
-     y2="414.29709"
-     id="line18" />
-  <line
-     class="st4"
-     x1="257.81183"
-     y1="339.53302"
-     x2="287.71744"
-     y2="339.53302"
-     id="line19" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="264.76892"
-     x2="286.72058"
-     y2="264.76892"
-     id="line20" />
-  <line
-     class="st4"
-     x1="256.81494"
-     y1="190.00482"
-     x2="286.72058"
-     y2="190.00482"
-     id="line21" />
-  <line
-     class="st4"
-     x1="455.68741"
-     y1="660.02173"
-     x2="455.68741"
-     y2="689.92737"
-     id="line22" />
-  <line
-     class="st4"
-     x1="812.56134"
-     y1="657.03113"
-     x2="812.56134"
-     y2="686.93677"
-     id="line23" />
-  <line
-     class="st4"
-     x1="1171.4291"
-     y1="659.0249"
-     x2="1171.4291"
-     y2="688.93054"
-     id="line24" />
-  <rect
-     class="st2"
-     x="337.06174"
-     y="623.63647"
-     width="238.24823"
-     height="34.889912"
-     id="rect24" />
-  <rect
-     class="st0"
-     x="690.94513"
-     y="190.00482"
-     width="238.24823"
-     height="468.52167"
-     id="rect25" />
-  <rect
-     class="st1"
-     x="1048.8159"
-     y="491.0549"
-     width="238.24823"
-     height="167.47156"
-     id="rect26" />
-  <g
-     id="g28"
-     transform="matrix(0.99685456,0,0,0.99685456,-75.137604,-113.53739)">
-    <line
-       class="st4"
-       x1="362.5"
-       y1="680.5"
-       x2="368.5"
-       y2="680.5"
-       id="line26" />
-    <line
-       class="st3"
-       x1="380.54999"
-       y1="680.5"
-       x2="1531.47"
-       y2="680.5"
-       id="line27" />
-    <line
-       class="st4"
-       x1="1537.5"
-       y1="680.5"
-       x2="1543.5"
-       y2="680.5"
-       id="line28" />
-  </g>
-  <text
-     class="st6"
-     transform="rotate(-90)"
-     id="text28"
-     x="-511.50037"
-     y="143.21341"
-     style="stroke-width:0.996855"><tspan
-       x="-511.50037"
-       y="143.21341"
-       id="tspan28"
-       style="stroke-width:0.996855">SFU/10</tspan></text>
-  <text
-     class="st6"
-     transform="rotate(-90)"
-     id="text29"
-     x="-369.55826"
-     y="129.26744"
-     style="stroke-width:0.578175"><tspan
-       x="-369.55826"
-       y="129.26744"
-       id="tspan29"
-       style="stroke-width:0.578175">6</tspan></text>
-  <text
-     class="st6"
-     transform="rotate(-90)"
-     id="text30"
-     x="-355.98111"
-     y="143.21341"
-     style="stroke-width:0.996855"><tspan
-       x="-355.98111"
-       y="143.21341"
-       xml:space="preserve"
-       id="tspan30"
-       style="stroke-width:0.996855"> cells</tspan></text>
-  <text
-     class="st5"
-     id="text31"
-     x="433.56723"
-     y="613.89728"
-     style="stroke-width:0.996855"><tspan
-       x="433.56723"
-       y="613.89728"
-       id="tspan31"
-       style="stroke-width:0.996855">10</tspan></text>
-  <text
-     class="st5"
-     id="text32"
-     x="772.25854"
-     y="178.82011"
-     style="stroke-width:0.996855"><tspan
-       x="772.25854"
-       y="178.82011"
-       id="tspan32"
-       style="stroke-width:0.996855">300</tspan></text>
-  <text
-     class="st5"
-     id="text33"
-     x="1136.1005"
-     y="480.8671"
-     style="stroke-width:0.996855"><tspan
-       x="1136.1005"
-       y="480.8671"
-       id="tspan33"
-       style="stroke-width:0.996855">100</tspan></text>
-  <text
-     class="st5"
-     id="text35"
-     x="1312.5836"
-     y="508.78891"
-     style="stroke-width:0.996855"><tspan
-       x="1312.5836"
-       y="508.78891"
-       id="tspan34"
-       style="stroke-width:0.996855">Positive</tspan><tspan
-       x="1312.5836"
-       y="551.85303"
-       id="tspan35"
-       style="stroke-width:0.996855">≥ 50 SFU</tspan></text>
+
+  <!-- ============================================================== -->
+  <!-- BAR CHART: ELISpot Results Interpretation                       -->
+  <!-- Plot area: x=280-1400, y=60-640                                 -->
+  <!-- Y-axis: SFU/10^6 cells, 0-350                                  -->
+  <!-- 0=640, 50=557, 100=474, 150=391, 200=309, 250=226, 300=143, 350=60 -->
+  <!-- Scale: 1 SFU = 1.657px, y = 640 - (val * 1.657)                -->
+  <!-- Bar centers: 520, 800, 1080                                     -->
+  <!-- Bar width: 200                                                  -->
+  <!-- ============================================================== -->
+
+  <!-- Y-AXIS -->
+  <line x1="280" y1="60" x2="280" y2="640" stroke="#999" stroke-width="2"/>
+  <!-- X-AXIS -->
+  <line x1="280" y1="640" x2="1400" y2="640" stroke="#999" stroke-width="2"/>
+
+  <!-- Y-axis label -->
+  <text class="ax-label" x="40" y="350" text-anchor="middle" transform="rotate(-90,40,350)">SFU / 10⁶ cells</text>
+
+  <!-- Y-axis ticks -->
+  <line x1="270" y1="640" x2="280" y2="640" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="647" text-anchor="end">0</text>
+
+  <line x1="270" y1="557" x2="280" y2="557" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="564" text-anchor="end">50</text>
+
+  <line x1="270" y1="474" x2="280" y2="474" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="481" text-anchor="end">100</text>
+
+  <line x1="270" y1="391" x2="280" y2="391" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="398" text-anchor="end">150</text>
+
+  <line x1="270" y1="309" x2="280" y2="309" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="316" text-anchor="end">200</text>
+
+  <line x1="270" y1="226" x2="280" y2="226" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="233" text-anchor="end">250</text>
+
+  <line x1="270" y1="143" x2="280" y2="143" stroke="#999" stroke-width="2"/>
+  <text class="ax-tick" x="260" y="150" text-anchor="end">300</text>
+
+  <!-- Light gridlines -->
+  <line x1="280" y1="557" x2="1400" y2="557" stroke="#eee" stroke-width="1"/>
+  <line x1="280" y1="474" x2="1400" y2="474" stroke="#eee" stroke-width="1"/>
+  <line x1="280" y1="391" x2="1400" y2="391" stroke="#eee" stroke-width="1"/>
+  <line x1="280" y1="309" x2="1400" y2="309" stroke="#eee" stroke-width="1"/>
+  <line x1="280" y1="226" x2="1400" y2="226" stroke="#eee" stroke-width="1"/>
+  <line x1="280" y1="143" x2="1400" y2="143" stroke="#eee" stroke-width="1"/>
+
+  <!-- ====== THRESHOLD LINE: ≥50 SFU ====== -->
+  <line x1="280" y1="557" x2="1400" y2="557" stroke="#e67e22" stroke-width="3" stroke-dasharray="10 6"/>
+  <rect x="1280" y="540" width="115" height="34" rx="6" fill="#fef9e7" stroke="#e67e22" stroke-width="1.5"/>
+  <text x="1338" y="564" text-anchor="middle" style="font-family: Arial-BoldMT, Arial; font-weight:700; font-size:20px; fill:#e67e22;">≥ 50 SFU</text>
+
+  <!-- ====== BAR 1: Negative Control (10 SFU) ====== -->
+  <!-- y = 640 - (10 * 1.657) = 640 - 16.6 = 623.4 -->
+  <rect x="420" y="623" width="200" height="17" rx="4" fill="#ccddec" stroke="#4c86c5" stroke-width="2"/>
+  <!-- Value -->
+  <text class="bar-value" x="520" y="614" text-anchor="middle" fill="#4c86c5">10</text>
+  <!-- X-axis label -->
+  <line x1="520" y1="640" x2="520" y2="654" stroke="#999" stroke-width="2"/>
+  <text class="bar-label" x="520" y="682" text-anchor="middle" fill="#4c86c5">Negative Control</text>
+  <text class="bar-sub" x="520" y="708" text-anchor="middle">(cell media only)</text>
+
+  <!-- ====== BAR 2: Positive Control (300 SFU) ====== -->
+  <!-- y = 640 - (300 * 1.657) = 640 - 497.1 = 143 -->
+  <rect x="700" y="143" width="200" height="497" rx="4" fill="#2d6a4f" opacity="0.2" stroke="#2d6a4f" stroke-width="2"/>
+  <!-- Value -->
+  <text class="bar-value" x="800" y="133" text-anchor="middle" fill="#2d6a4f">300</text>
+  <!-- X-axis label -->
+  <line x1="800" y1="640" x2="800" y2="654" stroke="#999" stroke-width="2"/>
+  <text class="bar-label" x="800" y="682" text-anchor="middle" fill="#2d6a4f">Positive Control</text>
+  <text class="bar-sub" x="800" y="708" text-anchor="middle">(anti-CD3)</text>
+
+  <!-- ====== BAR 3: Drug Stimulus (100 SFU) ====== -->
+  <!-- y = 640 - (100 * 1.657) = 640 - 165.7 = 474 -->
+  <rect x="980" y="474" width="200" height="166" rx="4" fill="#c0392b" opacity="0.2" stroke="#c0392b" stroke-width="2"/>
+  <!-- Value -->
+  <text class="bar-value" x="1080" y="464" text-anchor="middle" fill="#c0392b">100</text>
+  <!-- X-axis label -->
+  <line x1="1080" y1="640" x2="1080" y2="654" stroke="#999" stroke-width="2"/>
+  <text class="bar-label" x="1080" y="682" text-anchor="middle" fill="#c0392b">Drug Stimulus</text>
+  <text class="bar-sub" x="1080" y="708" text-anchor="middle">(e.g. culprit drug)</text>
+
+  <!-- ====== INTERPRETATION ANNOTATIONS ====== -->
+  <!-- Arrow from threshold to drug bar -->
+  <path d="M 1200,557 L 1250,530" fill="none" stroke="#e67e22" stroke-width="2" marker-end="none"/>
+
+  <!-- Positive result callout -->
+  <rect x="1180" y="440" width="200" height="70" rx="10" fill="#c0392b" opacity="0.1" stroke="#c0392b" stroke-width="2"/>
+  <text x="1280" y="468" text-anchor="middle" style="font-family: Arial-BoldMT, Arial; font-weight:700; font-size:22px; fill:#c0392b;">POSITIVE</text>
+  <text x="1280" y="496" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:18px; fill:#c0392b;">100 SFU &gt; 50 threshold</text>
+
+  <!-- Below threshold callout for negative control -->
+  <rect x="380" y="730" width="280" height="36" rx="8" fill="#ccddec" stroke="#4c86c5" stroke-width="1.5"/>
+  <text x="520" y="755" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:18px; fill:#4c86c5;">Background: 10 SFU (below threshold)</text>
+
+  <!-- Positive control validation -->
+  <rect x="660" y="730" width="280" height="36" rx="8" fill="#2d6a4f" opacity="0.1" stroke="#2d6a4f" stroke-width="1.5"/>
+  <text x="800" y="755" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:18px; fill:#2d6a4f;">Assay valid: robust T-cell response</text>
+
+  <!-- ============================================================== -->
+  <!-- BOTTOM: Interpretation key                                       -->
+  <!-- ============================================================== -->
+  <line x1="80" y1="790" x2="1520" y2="790" stroke="#ddd" stroke-width="1"/>
+
+  <text class="note" x="100" y="828">
+    <tspan style="font-weight:700; fill:#e67e22;">Positivity threshold:</tspan>
+    <tspan> ≥50 SFU/10⁶ cells (background-subtracted) or stimulation index ≥3× negative control.</tspan>
+  </text>
+  <text class="note" x="100" y="858">
+    <tspan style="font-weight:700; fill:#333;">Three wells required:</tspan>
+    <tspan> Negative control validates low background; positive control confirms T-cell viability; drug well tests hypothesis.</tspan>
+  </text>
+
 </svg>
