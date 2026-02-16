@@ -2,7 +2,7 @@
 <svg
    version="1.1"
    viewBox="0 0 1600 900"
-   id="svg36"
+   id="svg1"
    sodipodi:docname="fig-patch-test-reading-times.svg"
    width="1600"
    height="900"
@@ -12,7 +12,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview36"
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -20,372 +20,573 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.33220412"
-     inkscape:cx="880.48277"
-     inkscape:cy="546.35085"
-     inkscape:window-width="1424"
-     inkscape:window-height="662"
+     inkscape:zoom="0.5"
+     inkscape:cx="800"
+     inkscape:cy="451"
+     inkscape:window-width="1520"
+     inkscape:window-height="746"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg36">
-    <sodipodi:guide
-       position="0,820"
-       orientation="0,1"
-       id="guide36"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="1520,900"
-       orientation="-1,0"
-       id="guide37"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="1600,80"
-       orientation="0,1"
-       id="guide38"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
+     inkscape:current-layer="svg1">
     <sodipodi:guide
        position="80,0"
        orientation="-1,0"
-       id="guide39"
+       id="guide-left"
        inkscape:locked="false"
-       inkscape:label=""
+       inkscape:label="left-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,0"
+       orientation="-1,0"
+       id="guide-right"
+       inkscape:locked="false"
+       inkscape:label="right-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,880"
+       orientation="0,1"
+       id="guide-top"
+       inkscape:locked="false"
+       inkscape:label="top-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide-bottom"
+       inkscape:locked="false"
+       inkscape:label="bottom-margin"
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
-  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs
      id="defs1">
     <style
        id="style1">
-      .st0, .st1 {
-        font-size: 21px;
-      }
-
-      .st0, .st2 {
-        font-family: Arial-BoldMT, Arial;
-        font-weight: 700;
-      }
-
-      .st3 {
-        stroke-dasharray: 3 3;
-      }
-
-      .st3, .st4, .st5, .st6 {
-        stroke: #000;
-        stroke-miterlimit: 10;
-      }
-
-      .st3, .st4, .st6 {
-        stroke-width: 3px;
-      }
-
-      .st3, .st5, .st6 {
-        fill: none;
-      }
-
-      .st1 {
-        font-family: ArialMT, Arial;
-      }
-
-      .st2 {
-        font-size: 26px;
-      }
-
-      .st4 {
-        fill: #999;
-      }
-
-      .st5 {
-        stroke-width: 4px;
-      }
+      .label-bold { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; fill: #212529; }
+      .label-action { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; }
+      .label-time { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #4c86c5; }
+      .label-time-sub { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .label-pct { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 36px; }
+      .label-pct-sub { font-family: ArialMT, Arial; font-size: 18px; fill: #555; }
+      .text-note { font-family: ArialMT, Arial; font-size: 20px; fill: #555; }
+      .text-note-em { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; fill: #555; }
+      .text-drug { font-family: ArialMT, Arial; font-size: 20px; }
+      .text-drug-em { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; }
     </style>
-  </defs>
-  <g
-     id="g39"
-     transform="matrix(1.6849123,0,0,1.6849123,-365.09283,-100.7412)">
-    <g
-       id="Layer_3">
-      <text
-         class="st2"
-         transform="translate(471.32,418.55)"
-         id="text2"><tspan
-           x="0"
-           y="0"
-           id="tspan1">48 hours</tspan><tspan
-           x="5.0500002"
-           y="31.200001"
-           id="tspan2">(2 days)</tspan></text>
-      <text
-         class="st2"
-         transform="translate(819.04,418.55)"
-         id="text4"><tspan
-           x="0"
-           y="0"
-           id="tspan3">96 hours</tspan><tspan
-           x="5.0500002"
-           y="31.200001"
-           id="tspan4">(4 days)</tspan></text>
-      <text
-         class="st2"
-         transform="translate(645.11,418.55)"
-         id="text6"><tspan
-           x="0"
-           y="0"
-           id="tspan5">72 hours</tspan><tspan
-           x="5.0500002"
-           y="31.200001"
-           id="tspan6">(3 days)</tspan></text>
-      <text
-         class="st2"
-         transform="translate(985.75,418.55)"
-         id="text8"><tspan
-           x="0"
-           y="0"
-           id="tspan7">168 hours</tspan><tspan
-           x="12.28"
-           y="31.200001"
-           id="tspan8">(7 days)</tspan></text>
-      <line
-         class="st6"
-         x1="1110"
-         y1="364.16"
-         x2="276"
-         y2="364.16"
-         id="line8" />
-      <line
-         class="st6"
-         x1="527.97998"
-         y1="364.82999"
-         x2="527.97998"
-         y2="383.47"
-         id="line9" />
-      <line
-         class="st6"
-         x1="698.58002"
-         y1="365.35999"
-         x2="698.58002"
-         y2="384"
-         id="line10" />
-      <line
-         class="st6"
-         x1="865.76001"
-         y1="364.5"
-         x2="865.76001"
-         y2="383.14001"
-         id="line11" />
-      <line
-         class="st6"
-         x1="1034.76"
-         y1="364.5"
-         x2="1034.76"
-         y2="383.14001"
-         id="line12" />
-      <text
-         class="st1"
-         transform="translate(273.55,492.28)"
-         id="text13"><tspan
-           x="0"
-           y="0"
-           id="tspan12">*Wait 15-60 minutes after removing patch so that transient erythema</tspan><tspan
-           x="0"
-           y="25.200001"
-           id="tspan13">from pressure effects of patch resolve</tspan></text>
-      <text
-         class="st2"
-         transform="translate(514.44,161.62)"
-         id="text14"><tspan
-           x="0"
-           y="0"
-           id="tspan14">85%</tspan></text>
-      <text
-         class="st2"
-         transform="translate(999.23,164.42)"
-         id="text15"><tspan
-           x="0"
-           y="0"
-           id="tspan15">100%</tspan></text>
-      <line
-         class="st6"
-         x1="359.48001"
-         y1="365.63"
-         x2="359.48001"
-         y2="384.28"
-         id="line15" />
-      <text
-         class="st2"
-         transform="translate(312.29,418.14)"
-         id="text17"><tspan
-           x="0"
-           y="0"
-           id="tspan16">0 hours</tspan><tspan
-           x="-2.1800001"
-           y="31.200001"
-           id="tspan17">(0 days)</tspan></text>
-      <text
-         class="st2"
-         transform="translate(302.35,259.74)"
-         id="text18"><tspan
-           x="0"
-           y="0"
-           id="tspan18">Placement</tspan></text>
-      <text
-         class="st2"
-         transform="translate(450.8,229.62)"
-         id="text20"><tspan
-           x="0"
-           y="0"
-           id="tspan19">Remove Patch</tspan><tspan
-           x="41.900002"
-           y="31.200001"
-           id="tspan20">Read 1*</tspan></text>
-      <text
-         class="st2"
-         transform="translate(656.64,259.74)"
-         id="text21"><tspan
-           x="0"
-           y="0"
-           id="tspan21">Read 2</tspan></text>
-      <text
-         class="st2"
-         transform="translate(822.64,259.74)"
-         id="text22"><tspan
-           x="0"
-           y="0"
-           id="tspan22">Read 3</tspan></text>
-      <text
-         class="st2"
-         transform="translate(991.64,259.74)"
-         id="text23"><tspan
-           x="0"
-           y="0"
-           id="tspan23">Read 4</tspan></text>
-      <circle
-         class="st4"
-         cx="342.98999"
-         cy="315.88"
-         r="13.06"
-         id="circle23" />
+    <!-- Camera icon -->
+    <symbol
+       id="camera"
+       viewBox="0 0 48 40">
+      <!-- Body -->
       <rect
-         class="st6"
-         x="323.09"
-         y="288.98001"
-         width="77.440002"
-         height="53.52"
-         id="rect23" />
+         x="2"
+         y="10"
+         width="44"
+         height="28"
+         rx="4"
+         fill="none"
+         stroke="currentColor"
+         stroke-width="3"
+         id="rect1" />
+      <!-- Lens -->
       <circle
-         class="st4"
-         cx="380.20999"
-         cy="315.98999"
-         r="13.06"
-         id="circle24" />
-      <g
-         id="g26">
-        <path
-           class="st5"
-           d="m 999.8,303.52 v 33.41 c 0,0 0.71,3.8 8.81,4.17 8.1,0.37 55.3,0 55.3,0 0,0 4.94,-0.19 5.21,-8.1 0.27,-7.91 0,-31.63 0,-31.63 0,0 -1.36,-3.84 -7.64,-3.84 -2.64,0 -57.31,0 -57.31,0 0,0 -4.37,1.36 -4.37,6 z"
-           id="path24" />
-        <path
-           class="st5"
-           d="m 1012.9,316.11 c 0,0 2.99,-20.9 21.63,-18.58 18.63,2.31 17.95,18.58 17.95,18.58 0,0 -1.38,25.07 -17.95,25.14 -16.57,0.07 -23.68,-12.42 -21.63,-25.14 z"
-           id="path25" />
-        <path
-           class="st5"
-           d="m 1057.51,297.52 c 0,0 0.02,-2.05 -1.42,-6.09 -1.44,-4.03 -2.04,-2.87 -2.04,-2.87 h -12.52 c 0,0 -1.74,1.63 -2.29,4.4 -0.55,2.78 -1.28,4.38 -1.28,4.38"
-           id="path26" />
-      </g>
-      <text
-         class="st0"
-         transform="translate(646,177.15)"
-         id="text27"><tspan
-           x="0"
-           y="0"
-           id="tspan26">Percent drugs—if will be</tspan><tspan
-           x="0"
-           y="25.200001"
-           id="tspan27">positive—are positive by read</tspan></text>
-      <g
-         id="g27">
-        <line
-           class="st3"
-           x1="532"
-           y1="182.5"
-           x2="642.5"
-           y2="182.5"
-           id="line27" />
-        <rect
-           x="530.5"
-           y="172.75"
-           width="3"
-           height="19.5"
-           id="rect27" />
-      </g>
-      <g
-         id="g28">
-        <line
-           class="st3"
-           x1="948.5"
-           y1="182.5"
-           x2="1031.5"
-           y2="182.5"
-           id="line28" />
-        <rect
-           x="1030"
-           y="172.75"
-           width="3"
-           height="19.5"
-           id="rect28" />
-      </g>
-    </g>
-    <g
-       id="Layer_4">
+         cx="24"
+         cy="25"
+         r="9"
+         fill="none"
+         stroke="currentColor"
+         stroke-width="2.5"
+         id="circle1" />
+      <circle
+         cx="24"
+         cy="25"
+         r="3.5"
+         fill="currentColor"
+         opacity="0.3"
+         id="circle2" />
+      <!-- Flash housing -->
       <path
-         class="st5"
-         d="m 664,303.53 v 33.41 c 0,0 0.71,3.8 8.81,4.17 8.1,0.37 55.3,0 55.3,0 0,0 4.94,-0.19 5.21,-8.1 0.27,-7.91 0,-31.63 0,-31.63 0,0 -1.36,-3.84 -7.64,-3.84 -2.64,0 -57.31,0 -57.31,0 0,0 -4.37,1.36 -4.37,6 z"
-         id="path28" />
-      <path
-         class="st5"
-         d="m 677.09,316.12 c 0,0 2.99,-20.9 21.63,-18.58 18.64,2.32 17.95,18.58 17.95,18.58 0,0 -1.38,25.07 -17.95,25.14 -16.57,0.07 -23.68,-12.42 -21.63,-25.14 z"
-         id="path29" />
-      <path
-         class="st5"
-         d="m 721.7,297.53 c 0,0 0.02,-2.05 -1.42,-6.09 -1.44,-4.04 -2.04,-2.87 -2.04,-2.87 h -12.52 c 0,0 -1.74,1.63 -2.29,4.4 -0.55,2.77 -1.28,4.38 -1.28,4.38"
-         id="path30" />
-      <g
-         id="g33">
-        <path
-           class="st5"
-           d="m 493.8,303.52 v 33.41 c 0,0 0.71,3.8 8.81,4.17 8.1,0.37 55.3,0 55.3,0 0,0 4.94,-0.19 5.21,-8.1 0.27,-7.91 0,-31.63 0,-31.63 0,0 -1.36,-3.84 -7.64,-3.84 -2.64,0 -57.31,0 -57.31,0 0,0 -4.37,1.36 -4.37,6 z"
-           id="path31" />
-        <path
-           class="st5"
-           d="m 506.9,316.11 c 0,0 2.99,-20.9 21.63,-18.58 18.64,2.32 17.95,18.58 17.95,18.58 0,0 -1.38,25.07 -17.95,25.14 -16.57,0.07 -23.68,-12.42 -21.63,-25.14 z"
-           id="path32" />
-        <path
-           class="st5"
-           d="m 551.51,297.52 c 0,0 0.02,-2.05 -1.42,-6.09 -1.44,-4.04 -2.04,-2.87 -2.04,-2.87 h -12.52 c 0,0 -1.74,1.63 -2.29,4.4 -0.55,2.77 -1.28,4.38 -1.28,4.38"
-           id="path33" />
-      </g>
-      <g
-         id="g36">
-        <path
-           class="st5"
-           d="m 830.8,304.52 v 33.41 c 0,0 0.71,3.8 8.81,4.17 8.1,0.37 55.3,0 55.3,0 0,0 4.94,-0.19 5.21,-8.1 0.27,-7.91 0,-31.63 0,-31.63 0,0 -1.36,-3.84 -7.64,-3.84 -2.64,0 -57.31,0 -57.31,0 0,0 -4.37,1.36 -4.37,6 z"
-           id="path34" />
-        <path
-           class="st5"
-           d="m 843.9,317.11 c 0,0 2.99,-20.9 21.63,-18.58 18.64,2.32 17.95,18.58 17.95,18.58 0,0 -1.38,25.07 -17.95,25.14 -16.57,0.07 -23.68,-12.42 -21.63,-25.14 z"
-           id="path35" />
-        <path
-           class="st5"
-           d="m 888.51,298.52 c 0,0 0.02,-2.05 -1.42,-6.09 -1.44,-4.03 -2.04,-2.87 -2.04,-2.87 h -12.52 c 0,0 -1.74,1.63 -2.29,4.4 -0.55,2.78 -1.28,4.38 -1.28,4.38"
-           id="path36" />
-      </g>
-    </g>
-  </g>
+         d="M 16,10 L 18,2 L 30,2 L 32,10"
+         fill="none"
+         stroke="currentColor"
+         stroke-width="2.5"
+         stroke-linejoin="round"
+         id="path2" />
+    </symbol>
+    <!-- Patch icon -->
+    <symbol
+       id="patch"
+       viewBox="0 0 56 44">
+      <rect
+         x="2"
+         y="2"
+         width="52"
+         height="40"
+         rx="4"
+         fill="#e8e0d8"
+         stroke="#a89888"
+         stroke-width="2.5"
+         id="rect2" />
+      <circle
+         cx="20"
+         cy="22"
+         r="8"
+         fill="#d0c4b5"
+         stroke="#a89888"
+         stroke-width="1.5"
+         id="circle3" />
+      <circle
+         cx="36"
+         cy="22"
+         r="8"
+         fill="#d0c4b5"
+         stroke="#a89888"
+         stroke-width="1.5"
+         id="circle4" />
+    </symbol>
+    <!-- Stacked bar gradient -->
+    <linearGradient
+       id="bar-fill"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         stop-color="#2d6a4f"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#40916c"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <!-- ================================================================ -->
+  <!-- MAIN TIMELINE                                                     -->
+  <!-- Timeline y=420. Ticks at x: 160(0h), 440(48h), 640(72h),        -->
+  <!-- 840(96h), 1240(168h). Proportional to hours.                     -->
+  <!-- 0h=160, scale: (1240-160)/168 = 6.43 px/hr                      -->
+  <!-- 48h: 160+309=469, 72h: 160+463=623, 96h: 160+617=777, 168h: 1240 -->
+  <!-- Actually let's space them more readably:                          -->
+  <!-- 0h=160, 48h=460, 72h=660, 96h=860, 168h=1300                    -->
+  <!-- ================================================================ -->
+  <!-- Timeline base -->
+  <line
+     x1="176"
+     y1="524"
+     x2="1386"
+     y2="524"
+     stroke="#999999"
+     stroke-width="3"
+     stroke-linecap="round"
+     id="line5" />
+  <!-- Arrowhead -->
+  <polygon
+     points="1340,428 1340,412 1360,420 "
+     fill="#999999"
+     id="polygon5"
+     transform="translate(46,104)" />
+  <!-- ====== TICK: 0h (Placement) ====== -->
+  <line
+     x1="206"
+     y1="524"
+     x2="206"
+     y2="544"
+     stroke="#999999"
+     stroke-width="3"
+     id="line6" />
+  <text
+     class="label-time"
+     x="206"
+     y="569"
+     text-anchor="middle"
+     id="text6">0h</text>
+  <text
+     class="label-time-sub"
+     x="206"
+     y="592"
+     text-anchor="middle"
+     id="text7">Day 0</text>
+  <!-- Patch icon -->
+  <use
+     href="#patch"
+     x="132"
+     y="330"
+     width="56"
+     height="44"
+     color="#a89888"
+     id="use7"
+     transform="translate(46,104)" />
+  <text
+     class="label-action"
+     x="206"
+     y="499"
+     text-anchor="middle"
+     fill="#8b7355"
+     id="text8">Place patches</text>
+  <!-- ====== TICK: 48h (Remove + Read 1) ====== -->
+  <line
+     x1="506"
+     y1="524"
+     x2="506"
+     y2="544"
+     stroke="#4c86c5"
+     stroke-width="3"
+     id="line8" />
+  <text
+     class="label-time"
+     x="506"
+     y="569"
+     text-anchor="middle"
+     id="text9">48h</text>
+  <text
+     class="label-time-sub"
+     x="506"
+     y="592"
+     text-anchor="middle"
+     id="text10">Day 2</text>
+  <!-- Camera icon + action label -->
+  <use
+     href="#camera"
+     x="436"
+     y="320"
+     width="48"
+     height="40"
+     color="#4c86c5"
+     id="use10"
+     transform="translate(46,104)" />
+  <text
+     class="label-action"
+     x="506"
+     y="489"
+     text-anchor="middle"
+     fill="#4c86c5"
+     id="text11">Remove patches</text>
+  <text
+     class="label-action"
+     x="506"
+     y="509"
+     text-anchor="middle"
+     fill="#4c86c5"
+     id="text12">Read 1*</text>
+  <!-- ====== TICK: 72h (Read 2) ====== -->
+  <line
+     x1="706"
+     y1="524"
+     x2="706"
+     y2="544"
+     stroke="#4c86c5"
+     stroke-width="3"
+     id="line12" />
+  <text
+     class="label-time"
+     x="706"
+     y="569"
+     text-anchor="middle"
+     id="text13">72h</text>
+  <text
+     class="label-time-sub"
+     x="706"
+     y="592"
+     text-anchor="middle"
+     id="text14">Day 3</text>
+  <use
+     href="#camera"
+     x="636"
+     y="332"
+     width="48"
+     height="40"
+     color="#4c86c5"
+     id="use14"
+     transform="translate(46,104)" />
+  <text
+     class="label-action"
+     x="706"
+     y="501"
+     text-anchor="middle"
+     fill="#4c86c5"
+     id="text15">Read 2</text>
+  <!-- ====== TICK: 96h (Read 3) ====== -->
+  <line
+     x1="906"
+     y1="524"
+     x2="906"
+     y2="544"
+     stroke="#4c86c5"
+     stroke-width="3"
+     id="line15" />
+  <text
+     class="label-time"
+     x="906"
+     y="569"
+     text-anchor="middle"
+     id="text16">96h</text>
+  <text
+     class="label-time-sub"
+     x="906"
+     y="592"
+     text-anchor="middle"
+     id="text17">Day 4</text>
+  <use
+     href="#camera"
+     x="836"
+     y="332"
+     width="48"
+     height="40"
+     color="#4c86c5"
+     id="use17"
+     transform="translate(46,104)" />
+  <text
+     class="label-action"
+     x="906"
+     y="501"
+     text-anchor="middle"
+     fill="#4c86c5"
+     id="text18">Read 3</text>
+  <!-- ====== TICK: 168h (Read 4 — extended) ====== -->
+  <line
+     x1="1346"
+     y1="524"
+     x2="1346"
+     y2="544"
+     stroke="#e67e22"
+     stroke-width="3"
+     id="line18" />
+  <text
+     class="label-time"
+     x="1346"
+     y="569"
+     text-anchor="middle"
+     fill="#e67e22"
+     id="text19">168h</text>
+  <text
+     class="label-time-sub"
+     x="1346"
+     y="592"
+     text-anchor="middle"
+     id="text20">Day 7</text>
+  <use
+     href="#camera"
+     x="1276"
+     y="332"
+     width="48"
+     height="40"
+     color="#e67e22"
+     id="use20"
+     transform="translate(46,104)" />
+  <text
+     class="label-action"
+     x="1346"
+     y="501"
+     text-anchor="middle"
+     fill="#e67e22"
+     id="text21">Read 4</text>
+  <!-- Gap indicator between 96h and 168h -->
+  <text
+     class="label-time-sub"
+     x="1126"
+     y="519"
+     text-anchor="middle"
+     style="font-size:28px;fill:#cccccc"
+     id="text22">···</text>
+  <!-- ====== STANDARD vs EXTENDED BRACKET ====== -->
+  <!-- Standard reads bracket: 48h–96h -->
+  <line
+     x1="506"
+     y1="614"
+     x2="906"
+     y2="614"
+     stroke="#4c86c5"
+     stroke-width="2"
+     id="line22" />
+  <line
+     x1="506"
+     y1="609"
+     x2="506"
+     y2="619"
+     stroke="#4c86c5"
+     stroke-width="2"
+     id="line23" />
+  <line
+     x1="906"
+     y1="609"
+     x2="906"
+     y2="619"
+     stroke="#4c86c5"
+     stroke-width="2"
+     id="line24" />
+  <text
+     x="706"
+     y="639"
+     text-anchor="middle"
+     style="font-weight:700;font-size:20px;font-family:Arial-BoldMT, Arial;fill:#4c86c5"
+     id="text24">Standard reads (all patients)</text>
+  <!-- Extended read bracket: 168h -->
+  <line
+     x1="1276"
+     y1="614"
+     x2="1416"
+     y2="614"
+     stroke="#e67e22"
+     stroke-width="2"
+     id="line25" />
+  <line
+     x1="1276"
+     y1="609"
+     x2="1276"
+     y2="619"
+     stroke="#e67e22"
+     stroke-width="2"
+     id="line26" />
+  <line
+     x1="1416"
+     y1="609"
+     x2="1416"
+     y2="619"
+     stroke="#e67e22"
+     stroke-width="2"
+     id="line27" />
+  <text
+     x="1346"
+     y="639"
+     text-anchor="middle"
+     style="font-weight:700;font-size:20px;font-family:Arial-BoldMT, Arial;fill:#e67e22"
+     id="text27">Extended read</text>
+  <!-- ================================================================ -->
+  <!-- CUMULATIVE DETECTION BAR                                          -->
+  <!-- Horizontal stacked bar showing % of ultimately-positive           -->
+  <!-- reactions detected at each read                                   -->
+  <!-- Bar: x=160–1360, y=120–160 (40px tall)                          -->
+  <!-- ================================================================ -->
+  <text
+     class="text-note"
+     x="216"
+     y="199"
+     style="font-size:18px"
+     id="text29">Among drug patch tests that will ultimately be positive, percent detected by each read</text>
+  <!-- Background bar (100%) -->
+  <rect
+     x="206"
+     y="214"
+     width="1180"
+     height="44"
+     rx="6"
+     fill="#f0f0f0"
+     stroke="#dddddd"
+     stroke-width="1"
+     id="rect29" />
+  <!-- ~85% bar (48h–96h captures most) — 85% of 1180 = 1003px -->
+  <rect
+     x="206"
+     y="214"
+     width="1003"
+     height="44"
+     rx="6"
+     fill="#4c86c5"
+     opacity="0.2"
+     id="rect30" />
+  <rect
+     x="206"
+     y="214"
+     width="1003"
+     height="44"
+     rx="6"
+     fill="none"
+     stroke="#4c86c5"
+     stroke-width="2"
+     id="rect31" />
+  <!-- Remaining ~6-15% captured by Day 7 -->
+  <rect
+     x="1209"
+     y="214"
+     width="177"
+     height="44"
+     rx="0"
+     fill="#e67e22"
+     opacity="0.15"
+     id="rect32" />
+  <rect
+     x="1209"
+     y="214"
+     width="177"
+     height="44"
+     fill="none"
+     stroke="#e67e22"
+     stroke-width="2"
+     id="rect33" />
+  <!-- Round right end -->
+  <rect
+     x="1209"
+     y="214"
+     width="177"
+     height="44"
+     rx="6"
+     fill="#e67e22"
+     opacity="0.15"
+     id="rect34" />
+  <!-- Percentage labels -->
+  <text
+     class="label-pct"
+     x="626"
+     y="246"
+     text-anchor="middle"
+     fill="#4c86c5"
+     id="text34">~85–94%</text>
+  <text
+     class="label-pct-sub"
+     x="626"
+     y="272"
+     text-anchor="middle"
+     id="text35">detected by Day 3–4 reads</text>
+  <text
+     class="label-pct"
+     x="1298"
+     y="246"
+     text-anchor="middle"
+     fill="#e67e22"
+     style="font-size:28px"
+     id="text36">+6–15%</text>
+  <text
+     class="label-pct-sub"
+     x="1298"
+     y="272"
+     text-anchor="middle"
+     id="text37">late positives at Day 7</text>
+  <!-- Connecting lines from bar to timeline -->
+  <line
+     x1="706"
+     y1="258"
+     x2="706"
+     y2="424"
+     stroke="#4c86c5"
+     stroke-width="1"
+     stroke-dasharray="4, 4"
+     opacity="0.4"
+     id="line37" />
+  <line
+     x1="1346"
+     y1="258"
+     x2="1346"
+     y2="424"
+     stroke="#e67e22"
+     stroke-width="1"
+     stroke-dasharray="4, 4"
+     opacity="0.4"
+     id="line38" />
+  <!-- ================================================================ -->
+  <!-- DRUG-SPECIFIC LATE REACTOR BOX                                    -->
+  <!-- Which drugs need Day 7?                                           -->
+  <!-- ================================================================ -->
+  <!-- ================================================================ -->
+  <!-- PATIENT WORKFLOW / PHOTO BOX                                      -->
+  <!-- ================================================================ -->
+  <!-- ================================================================ -->
+  <!-- FOOTNOTE                                                          -->
+  <!-- ================================================================ -->
+  <text
+     class="text-note"
+     x="162"
+     y="694"
+     style="font-size:18px"
+     id="text55">*Wait 30–60 min after removing patches before first read — transient pressure erythema must resolve</text>
 </svg>
