@@ -22,18 +22,6 @@ module.exports = {
     // 1. Remove fixed dimensions so we can resize in Quarto
     { name: 'removeDimensions' },
 
-    // 2. Add responsive attributes
-    {
-      name: 'addAttributesToSVGElement',
-      params: {
-        attributes: [
-          { width: '100%' },
-          { height: '100%' },
-          { preserveAspectRatio: 'xMidYMid meet' }
-        ]
-      }
-    },
-
     // 3. THE FIX: Force the prefix using the variable we passed in
     {
       name: 'prefixIds',

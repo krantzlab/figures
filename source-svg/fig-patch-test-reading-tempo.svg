@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.5"
+     inkscape:zoom="1"
      inkscape:cx="764"
-     inkscape:cy="133"
+     inkscape:cy="132.5"
      inkscape:window-width="1520"
      inkscape:window-height="746"
      inkscape:window-x="0"
@@ -103,6 +103,12 @@
          id="stop3" />
     </linearGradient>
   </defs>
+  <path
+     d="m 904.11213,244.49615 c 100.59687,-11.49678 172.45177,-54.60971 244.30647,-86.22585 71.855,-31.61614 158.0808,-57.4839 244.3066,-76.166159 V 290.48327 H 904.11213 Z"
+     fill="#2d6a4f"
+     opacity="0.07"
+     id="path70"
+     style="stroke-width:1.4371" />
   <!-- ================================================================ -->
   <!-- TOP SECTION: ICDRG Grades                                        -->
   <!-- 5 columns across 80–1520                                         -->
@@ -252,32 +258,26 @@
   <!-- Point labels -->
   <text
      class="text-curve-sub"
-     x="929.97992"
-     y="235.8736"
+     x="908.97992"
+     y="230.8736"
      fill="#2d6a4f"
      id="text68"
      style="stroke-width:1.4371">mild</text>
   <text
      class="text-curve-sub"
-     x="1174.2864"
-     y="149.64774"
+     x="1107.2864"
+     y="139.64774"
      fill="#2d6a4f"
      id="text69"
      style="stroke-width:1.4371">moderate</text>
   <text
      class="text-curve-sub"
-     x="1418.5931"
-     y="72.044464"
+     x="1362.5931"
+     y="64.044464"
      fill="#2d6a4f"
      id="text70"
      style="stroke-width:1.4371">strongest</text>
   <!-- Shaded area -->
-  <path
-     d="m 904.11213,244.49615 c 100.59687,-11.49678 172.45177,-54.60971 244.30647,-86.22585 71.855,-31.61614 158.0808,-57.4839 244.3066,-76.166159 V 290.48327 H 904.11213 Z"
-     fill="#2d6a4f"
-     opacity="0.07"
-     id="path70"
-     style="stroke-width:1.4371" />
   <!-- ====== RIGHT GRAPH: Irritant (Decrescendo) ====== -->
   <text
      class="text-curve-label"
