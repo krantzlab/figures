@@ -28,7 +28,7 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer1">
     <sodipodi:guide
        position="80,0"
        orientation="-1,0"
@@ -111,14 +111,14 @@
      style="display:inline">
     <text
        class="text-label-bold"
-       x="89.772499"
-       y="92.291893"
+       x="87.772499"
+       y="232.2919"
        id="text2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">Non-DRESS Reactions (MPE, FDE, AGEP, SJS/TEN)</text>
     <rect
        class="zone-wait"
-       x="221.57784"
-       y="119.75134"
+       x="219.57784"
+       y="259.75134"
        width="483.28619"
        height="76.886444"
        rx="4.3935108"
@@ -126,8 +126,8 @@
        style="stroke-width:1.09838" />
     <rect
        class="zone-test"
-       x="704.86401"
-       y="119.75134"
+       x="702.86401"
+       y="259.75134"
        width="791.06061"
        height="76.886444"
        rx="5.2737374"
@@ -135,140 +135,63 @@
        style="stroke-width:1.20338" />
     <line
        class="line-main"
-       x1="144.69139"
-       y1="196.63779"
-       x2="1508.4092"
-       y2="196.63779"
+       x1="142.69139"
+       y1="336.63779"
+       x2="1506.4092"
+       y2="336.63779"
        marker-end="url(#arrowhead)"
        id="line3" />
     <line
        class="line-tick"
-       x1="221.57784"
-       y1="185.65401"
-       x2="221.57784"
-       y2="207.62155"
+       x1="219.57784"
+       y1="325.65399"
+       x2="219.57784"
+       y2="347.62155"
        id="line4" />
     <text
        class="text-label"
-       x="221.57784"
-       y="235.08099"
+       x="219.57784"
+       y="375.08099"
        text-anchor="middle"
        id="text4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">Reaction</text>
     <text
        class="text-small"
-       x="221.57784"
-       y="257.04855"
+       x="219.57784"
+       y="397.04855"
        text-anchor="middle"
        id="text5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">occurs</text>
     <line
        class="line-tick"
-       x1="704.86401"
-       y1="185.65401"
-       x2="704.86401"
-       y2="207.62155"
+       x1="702.86401"
+       y1="325.65399"
+       x2="702.86401"
+       y2="347.62155"
        id="line5" />
     <text
        class="text-time"
-       x="704.86401"
-       y="235.08099"
+       x="702.86401"
+       y="375.08099"
        text-anchor="middle"
        id="text6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838;fill:#000000">6–8 weeks</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">6–8 weeks</text>
     <text
        class="text-label"
-       x="463.22095"
-       y="166.98158"
+       x="461.22095"
+       y="306.98157"
        text-anchor="middle"
        fill="#c0392b"
        id="text7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">Wait</text>
     <text
        class="text-label"
-       x="1034.3773"
-       y="166.98158"
+       x="1032.3773"
+       y="306.98157"
        text-anchor="middle"
        fill="#4c86c5"
        id="text8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">✓ Testing</text>
-    <rect
-       x="158.95782"
-       y="620.03082"
-       width="1313.5226"
-       height="133.81868"
-       rx="7.2973475"
-       fill="none"
-       stroke="#4c86c5"
-       stroke-width="2.907"
-       id="rect15" />
-    <text
-       class="text-label-bold"
-       x="776.86823"
-       y="653.98889"
-       text-anchor="middle"
-       fill="#4c86c5"
-       id="text16"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#212529;stroke-width:1.09838">Concomitant Medications</text>
-    <text
-       class="text-label"
-       x="185.90646"
-       y="692.43213"
-       id="text17"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">✓ Antihistamines — okay to continue</text>
-    <text
-       class="text-label"
-       x="185.90646"
-       y="725.38342"
-       id="text18"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">✓ Beta-blockers — okay to continue</text>
-    <text
-       class="text-label"
-       x="888.86823"
-       y="692.43213"
-       id="text19"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">✗ Systemic steroids — off ≥ 1 month</text>
-    <text
-       class="text-small"
-       x="921.81952"
-       y="719.89154"
-       id="text20"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">or prednisone equivalent ≤ 10 mg/day</text>
-    <rect
-       x="120.00378"
-       y="803.25366"
-       width="26.361067"
-       height="26.361067"
-       rx="3.2951334"
-       fill="#fab1a0"
-       opacity="0.6"
-       stroke="#000000"
-       stroke-width="1.09838"
-       id="rect20" />
-    <text
-       class="text-small"
-       x="155.15187"
-       y="823.02448"
-       fill="#212529"
-       id="text21"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">Wait period (no testing)</text>
-    <rect
-       x="481.51709"
-       y="803.25366"
-       width="26.361067"
-       height="26.361067"
-       rx="3.2951334"
-       fill="#ccddec"
-       stroke="#000000"
-       stroke-width="1.09838"
-       id="rect21" />
-    <text
-       class="text-small"
-       x="516.66522"
-       y="823.02448"
-       fill="#212529"
-       id="text22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">Testing window</text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -276,14 +199,14 @@
      inkscape:label="layer2">
     <text
        class="text-label-bold"
-       x="89.772499"
-       y="377.87012"
+       x="87.772499"
+       y="517.87012"
        id="text9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">DRESS</text>
     <rect
        class="zone-wait"
-       x="221.57784"
-       y="405.32956"
+       x="219.57784"
+       y="545.32959"
        width="966.57239"
        height="76.886444"
        rx="4.3935108"
@@ -291,8 +214,8 @@
        style="stroke-width:1.09838" />
     <rect
        class="zone-test"
-       x="1188.1503"
-       y="405.32956"
+       x="1186.1503"
+       y="545.32959"
        width="307.54578"
        height="76.886444"
        rx="4.3935108"
@@ -300,59 +223,59 @@
        style="stroke-width:1.09838" />
     <line
        class="line-main"
-       x1="144.69139"
-       y1="482.216"
-       x2="1507.5663"
-       y2="482.216"
+       x1="142.69139"
+       y1="622.216"
+       x2="1505.5663"
+       y2="622.216"
        marker-end="url(#arrowhead)"
        id="line10" />
     <line
        class="line-tick"
-       x1="221.57784"
-       y1="471.23221"
-       x2="221.57784"
-       y2="493.19977"
+       x1="219.57784"
+       y1="611.23218"
+       x2="219.57784"
+       y2="633.19977"
        id="line11" />
     <text
        class="text-label"
-       x="221.57784"
-       y="520.65918"
+       x="219.57784"
+       y="660.65918"
        text-anchor="middle"
        id="text11"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">Reaction</text>
     <text
        class="text-small"
-       x="221.57784"
-       y="542.62677"
+       x="219.57784"
+       y="682.62677"
        text-anchor="middle"
        id="text12"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">occurs</text>
     <line
        class="line-tick"
-       x1="1188.1503"
-       y1="471.23221"
-       x2="1188.1503"
-       y2="493.19977"
+       x1="1186.1503"
+       y1="611.23218"
+       x2="1186.1503"
+       y2="633.19977"
        id="line12" />
     <text
        class="text-time"
-       x="1188.1503"
-       y="520.65918"
+       x="1186.1503"
+       y="660.65918"
        text-anchor="middle"
        id="text13"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838;fill:#000000">≥ 6 months</text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.09838">≥ 6 months</text>
     <text
        class="text-label"
-       x="704.86401"
-       y="452.55978"
+       x="702.86401"
+       y="592.55981"
        text-anchor="middle"
        fill="#c0392b"
        id="text14"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.09838">  Extended Wait</text>
     <text
        class="text-label"
-       x="1341.9231"
-       y="452.55978"
+       x="1339.9231"
+       y="592.55981"
        text-anchor="middle"
        fill="#4c86c5"
        id="text15"

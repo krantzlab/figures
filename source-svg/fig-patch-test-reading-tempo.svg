@@ -23,10 +23,10 @@
      inkscape:zoom="0.5"
      inkscape:cx="798"
      inkscape:cy="451"
-     inkscape:window-width="1512"
+     inkscape:window-width="1520"
      inkscape:window-height="746"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <sodipodi:guide
@@ -120,330 +120,321 @@
   <!-- ================================================================ -->
   <!-- BOTTOM SECTION: Crescendo vs Decrescendo                         -->
   <!-- ================================================================ -->
-  <line
-     stroke="#b3b3b3"
-     stroke-width="1"
-     x1="82"
-     y1="303"
-     x2="1522"
-     y2="303"
-     id="line57" />
-  <text
-     class="text-grade-label"
-     x="802"
-     y="333"
-     text-anchor="middle"
-     id="text58">Temporal Pattern: Distinguishing True Allergy from Irritant</text>
   <!-- ====== LEFT GRAPH: True Allergic (Crescendo) ====== -->
   <!-- Graph box: 140–680 x, 590–780 y -->
   <text
      class="text-curve-label"
-     x="412"
-     y="366"
+     x="832.70081"
+     y="488.66132"
      text-anchor="middle"
      fill="#2d6a4f"
-     id="text59">True Allergic — Crescendo ↗</text>
+     id="text59"
+     style="stroke-width:1.7133">True Allergic — Crescendo ↗</text>
   <!-- Axes -->
   <line
-     x1="172"
-     y1="558"
-     x2="652"
-     y2="558"
+     x1="421.50964"
+     y1="817.6142"
+     x2="1243.892"
+     y2="817.6142"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line59" />
   <line
-     x1="172"
-     y1="558"
-     x2="172"
-     y2="378"
+     x1="421.50964"
+     y1="817.6142"
+     x2="421.50964"
+     y2="509.22089"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line60" />
   <!-- Y-axis label -->
   <text
      class="text-axis"
-     x="-473"
-     y="150"
+     x="-671.98413"
+     y="383.81714"
      text-anchor="middle"
      transform="rotate(-90)"
-     id="text60">Intensity</text>
+     id="text60"
+     style="stroke-width:1.7133">Intensity</text>
   <!-- X-axis ticks -->
   <line
-     x1="232"
-     y1="558"
-     x2="232"
-     y2="564"
+     x1="524.30743"
+     y1="817.6142"
+     x2="524.30743"
+     y2="827.89404"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line61" />
   <line
-     x1="402"
-     y1="558"
-     x2="402"
-     y2="564"
+     x1="815.56787"
+     y1="817.6142"
+     x2="815.56787"
+     y2="827.89404"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line62" />
   <line
-     x1="572"
-     y1="558"
-     x2="572"
-     y2="564"
+     x1="1106.8282"
+     y1="817.6142"
+     x2="1106.8282"
+     y2="827.89404"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line63" />
   <text
      class="text-axis"
-     x="232"
-     y="578"
+     x="524.30743"
+     y="851.88019"
      text-anchor="middle"
-     id="text63">48h</text>
+     id="text63"
+     style="stroke-width:1.7133">48h</text>
   <text
      class="text-axis"
-     x="402"
-     y="578"
+     x="815.56787"
+     y="851.88019"
      text-anchor="middle"
-     id="text64">72h</text>
+     id="text64"
+     style="stroke-width:1.7133">72h</text>
   <text
      class="text-axis"
-     x="572"
-     y="578"
+     x="1106.8282"
+     y="851.88019"
      text-anchor="middle"
-     id="text65">96h</text>
+     id="text65"
+     style="stroke-width:1.7133">96h</text>
   <!-- Patches removed annotation -->
   <line
-     x1="232"
-     y1="558"
-     x2="232"
-     y2="386"
+     x1="524.30743"
+     y1="817.6142"
+     x2="524.30743"
+     y2="522.92725"
      stroke="#4c86c5"
-     stroke-width="1"
+     stroke-width="1.7133"
      stroke-dasharray="4, 3"
      opacity="0.4"
      id="line65" />
   <text
      class="text-axis"
-     x="238"
-     y="396"
+     x="534.58722"
+     y="540.06024"
      fill="#4c86c5"
-     id="text66">patches off</text>
+     id="text66"
+     style="stroke-width:1.7133">patches off</text>
   <!-- Crescendo curve -->
   <path
-     d="m 232,526 c 70,-8 120,-38 170,-60 50,-22 110,-40 170,-53"
+     d="M 524.30743,762.78876 C 644.23819,749.08239 729.903,697.68349 815.56783,659.99098 901.23266,622.29845 1004.0304,591.45911 1106.8282,569.18626"
      fill="none"
      stroke="#2d6a4f"
-     stroke-width="4"
+     stroke-width="6.85318"
      stroke-linecap="round"
      id="path66" />
   <circle
-     cx="232"
-     cy="526"
-     r="7"
+     cx="524.30743"
+     cy="762.78876"
+     r="11.993076"
      fill="#2d6a4f"
-     id="circle66" />
+     id="circle66"
+     style="stroke-width:1.7133" />
   <circle
-     cx="402"
-     cy="466"
-     r="7"
+     cx="815.56787"
+     cy="659.99091"
+     r="11.993076"
      fill="#2d6a4f"
-     id="circle67" />
+     id="circle67"
+     style="stroke-width:1.7133" />
   <circle
-     cx="572"
-     cy="413"
-     r="7"
+     cx="1106.8282"
+     cy="569.18622"
+     r="11.993076"
      fill="#2d6a4f"
-     id="circle68" />
+     id="circle68"
+     style="stroke-width:1.7133" />
   <!-- Point labels -->
   <text
      class="text-curve-sub"
-     x="250"
-     y="520"
+     x="555.14673"
+     y="752.50903"
      fill="#2d6a4f"
-     id="text68">mild</text>
+     id="text68"
+     style="stroke-width:1.7133">mild</text>
   <text
      class="text-curve-sub"
-     x="420"
-     y="460"
+     x="846.40717"
+     y="649.71118"
      fill="#2d6a4f"
-     id="text69">moderate</text>
+     id="text69"
+     style="stroke-width:1.7133">moderate</text>
   <text
      class="text-curve-sub"
-     x="590"
-     y="406"
+     x="1137.6676"
+     y="557.19324"
      fill="#2d6a4f"
-     id="text70">strongest</text>
+     id="text70"
+     style="stroke-width:1.7133">strongest</text>
   <!-- Shaded area -->
   <path
-     d="m 232,526 c 70,-8 120,-38 170,-60 50,-22 110,-40 170,-53 V 558 H 232 Z"
+     d="M 524.30743,762.78876 C 644.23819,749.08239 729.903,697.68349 815.56783,659.99098 901.23266,622.29845 1004.0304,591.45911 1106.8282,569.18626 V 817.61425 H 524.30743 Z"
      fill="#2d6a4f"
      opacity="0.07"
-     id="path70" />
+     id="path70"
+     style="stroke-width:1.7133" />
   <!-- ====== RIGHT GRAPH: Irritant (Decrescendo) ====== -->
   <text
      class="text-curve-label"
-     x="1192"
-     y="366"
+     x="848.27087"
+     y="50.782745"
      text-anchor="middle"
      fill="#e67e22"
-     id="text71">Irritant — Decrescendo ↘</text>
+     id="text71"
+     style="stroke-width:1.7133">Irritant — Decrescendo ↘</text>
   <!-- Axes -->
   <line
-     x1="952"
-     y1="558"
-     x2="1432"
-     y2="558"
+     x1="437.07971"
+     y1="379.73569"
+     x2="1259.462"
+     y2="379.73569"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line71" />
   <line
-     x1="952"
-     y1="558"
-     x2="952"
-     y2="378"
+     x1="437.07971"
+     y1="379.73569"
+     x2="437.07971"
+     y2="71.342308"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line72" />
   <!-- Y-axis label -->
   <text
      class="text-axis"
-     x="-473"
-     y="930"
+     x="-234.10547"
+     y="399.38721"
      text-anchor="middle"
      transform="rotate(-90)"
-     id="text72">Intensity</text>
+     id="text72"
+     style="stroke-width:1.7133">Intensity</text>
   <!-- X-axis ticks -->
   <line
-     x1="1012"
-     y1="558"
-     x2="1012"
-     y2="564"
+     x1="539.87744"
+     y1="379.73569"
+     x2="539.87744"
+     y2="390.01541"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line73" />
   <line
-     x1="1182"
-     y1="558"
-     x2="1182"
-     y2="564"
+     x1="831.13788"
+     y1="379.73569"
+     x2="831.13788"
+     y2="390.01541"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line74" />
   <line
-     x1="1352"
-     y1="558"
-     x2="1352"
-     y2="564"
+     x1="1122.3983"
+     y1="379.73569"
+     x2="1122.3983"
+     y2="390.01541"
      stroke="#999999"
-     stroke-width="1.5"
+     stroke-width="2.56994"
      id="line75" />
   <text
      class="text-axis"
-     x="1012"
-     y="578"
+     x="539.87744"
+     y="414.00159"
      text-anchor="middle"
-     id="text75">48h</text>
+     id="text75"
+     style="stroke-width:1.7133">48h</text>
   <text
      class="text-axis"
-     x="1182"
-     y="578"
+     x="831.13788"
+     y="414.00159"
      text-anchor="middle"
-     id="text76">72h</text>
+     id="text76"
+     style="stroke-width:1.7133">72h</text>
   <text
      class="text-axis"
-     x="1352"
-     y="578"
+     x="1122.3983"
+     y="414.00159"
      text-anchor="middle"
-     id="text77">96h</text>
+     id="text77"
+     style="stroke-width:1.7133">96h</text>
   <!-- Patches removed annotation -->
   <line
-     x1="1012"
-     y1="558"
-     x2="1012"
-     y2="386"
+     x1="539.87744"
+     y1="379.73569"
+     x2="539.87744"
+     y2="85.048676"
      stroke="#4c86c5"
-     stroke-width="1"
+     stroke-width="1.7133"
      stroke-dasharray="4, 3"
      opacity="0.4"
      id="line77" />
   <text
      class="text-axis"
-     x="1018"
-     y="396"
+     x="550.15729"
+     y="102.18165"
      fill="#4c86c5"
-     id="text78">patches off</text>
+     id="text78"
+     style="stroke-width:1.7133">patches off</text>
   <!-- Decrescendo curve -->
   <path
-     d="m 1012,413 c 60,25 110,63 170,85 60,22 120,38 170,48"
+     d="m 539.8775,131.30768 c 102.79778,42.83241 188.4626,107.93768 291.26039,145.6302 102.79779,37.69253 205.59561,65.10526 291.26031,82.23823"
      fill="none"
      stroke="#e67e22"
-     stroke-width="4"
+     stroke-width="6.85318"
      stroke-linecap="round"
      id="path78" />
   <circle
-     cx="1012"
-     cy="413"
-     r="7"
+     cx="539.87744"
+     cy="131.30768"
+     r="11.993076"
      fill="#e67e22"
-     id="circle78" />
+     id="circle78"
+     style="stroke-width:1.7133" />
   <circle
-     cx="1182"
-     cy="498"
-     r="7"
+     cx="831.13788"
+     cy="276.9379"
+     r="11.993076"
      fill="#e67e22"
-     id="circle79" />
+     id="circle79"
+     style="stroke-width:1.7133" />
   <circle
-     cx="1352"
-     cy="546"
-     r="7"
+     cx="1122.3983"
+     cy="359.17612"
+     r="11.993076"
      fill="#e67e22"
-     id="circle80" />
+     id="circle80"
+     style="stroke-width:1.7133" />
   <!-- Point labels -->
   <text
      class="text-curve-sub"
-     x="1030"
-     y="406"
+     x="570.7168"
+     y="119.31461"
      fill="#e67e22"
-     id="text80">strongest</text>
+     id="text80"
+     style="stroke-width:1.7133">strongest</text>
   <text
      class="text-curve-sub"
-     x="1200"
-     y="492"
+     x="861.97717"
+     y="266.65811"
      fill="#e67e22"
-     id="text81">fading</text>
+     id="text81"
+     style="stroke-width:1.7133">fading</text>
   <text
      class="text-curve-sub"
-     x="1370"
-     y="540"
+     x="1153.2377"
+     y="348.89633"
      fill="#e67e22"
-     id="text82">resolved</text>
+     id="text82"
+     style="stroke-width:1.7133">resolved</text>
   <!-- Shaded area -->
   <path
-     d="m 1012,413 c 60,25 110,63 170,85 60,22 120,38 170,48 v 12 h -340 z"
+     d="m 539.8775,131.30768 c 102.79778,42.83241 188.4626,107.93768 291.26039,145.6302 102.79779,37.69253 205.59561,65.10526 291.26031,82.23823 v 20.55955 H 539.8775 Z"
      fill="#e67e22"
      opacity="0.07"
-     id="path82" />
+     id="path82"
+     style="stroke-width:1.7133" />
   <!-- Center divider -->
-  <line
-     x1="802"
-     y1="353"
-     x2="802"
-     y2="588"
-     stroke="#d0d0d0"
-     stroke-width="1"
-     stroke-dasharray="4, 4"
-     id="line82" />
   <!-- Bottom annotations -->
-  <text
-     class="text-small"
-     x="802"
-     y="616"
-     text-anchor="middle"
-     id="text83">ICDRG grading. Key distinction: palpable infiltration separates true positive from doubtful/irritant.</text>
-  <text
-     class="text-small"
-     x="802"
-     y="641"
-     text-anchor="middle"
-     id="text84">For drug patch testing: read at 48h, 72h, and 96h (or Day 7). Late positives common with drugs.</text>
 </svg>
