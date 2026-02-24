@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1600 900"
+   id="svg1"
+   sodipodi:docname="fig-patch-test-reading-tempo.svg"
+   width="1600"
+   height="900"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.5"
+     inkscape:cx="798"
+     inkscape:cy="451"
+     inkscape:window-width="1512"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide-left"
+       inkscape:locked="false"
+       inkscape:label="left-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,0"
+       orientation="-1,0"
+       id="guide-right"
+       inkscape:locked="false"
+       inkscape:label="right-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,880"
+       orientation="0,1"
+       id="guide-top"
+       inkscape:locked="false"
+       inkscape:label="top-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       id="guide-bottom"
+       inkscape:locked="false"
+       inkscape:label="bottom-margin"
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .text-grade { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 36px; fill: #212529; }
+      .text-grade-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; fill: #212529; }
+      .text-desc { font-family: ArialMT, Arial; font-size: 20px; fill: #212529; }
+      .text-desc-em { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; fill: #212529; }
+      .text-small { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .text-time { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; fill: #4c86c5; }
+      .text-axis { font-family: ArialMT, Arial; font-size: 16px; fill: #999; }
+      .text-curve-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; }
+      .text-curve-sub { font-family: ArialMT, Arial; font-size: 16px; }
+      .skin { fill: #d0c4b5; }
+      .skin-outline { fill: none; stroke: #a89888; stroke-width: 2; }
+      .erythema-faint { fill: #e8c4b8; }
+      .erythema-mod { fill: #fab1a0; }
+      .erythema-strong { fill: #f08070; }
+      .erythema-intense { fill: #e74c3c; }
+      .papule { fill: #c0392b; opacity: 0.5; }
+      .vesicle { fill: #ffeaa7; stroke: #c0392b; stroke-width: 1.5; }
+      .bulla { fill: #ffeaa7; stroke: #c0392b; stroke-width: 2; }
+      .infiltration { fill: none; stroke: #c0392b; stroke-width: 2; stroke-dasharray: 4 3; opacity: 0.6; }
+      .divider { fill: none; stroke: #d0d0d0; stroke-width: 1; }
+    </style>
+    <linearGradient
+       id="severity-grad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         stop-color="#2d6a4f"
+         id="stop1" />
+      <stop
+         offset="50%"
+         stop-color="#e67e22"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#c0392b"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <!-- ================================================================ -->
+  <!-- TOP SECTION: ICDRG Grades                                        -->
+  <!-- 5 columns across 80–1520                                         -->
+  <!-- Each column 288px, centers: 224, 512, 800, 1088, 1376            -->
+  <!-- ================================================================ -->
+  <!-- Timing note -->
+  <!-- Severity arrow -->
+  <!-- Column dividers -->
+  <!-- ==================== COL 1: NEGATIVE (−) ==================== -->
+  <!-- ==================== COL 2: DOUBTFUL (?+) ==================== -->
+  <!-- ==================== COL 3: WEAK POSITIVE (+) ==================== -->
+  <!-- ==================== COL 4: STRONG POSITIVE (++) ==================== -->
+  <!-- ==================== COL 5: EXTREME POSITIVE (+++) ==================== -->
+  <!-- ==================== KEY DISTINCTION ==================== -->
+  <!-- ================================================================ -->
+  <!-- BOTTOM SECTION: Crescendo vs Decrescendo                         -->
+  <!-- ================================================================ -->
+  <line
+     stroke="#b3b3b3"
+     stroke-width="1"
+     x1="82"
+     y1="303"
+     x2="1522"
+     y2="303"
+     id="line57" />
+  <text
+     class="text-grade-label"
+     x="802"
+     y="333"
+     text-anchor="middle"
+     id="text58">Temporal Pattern: Distinguishing True Allergy from Irritant</text>
+  <!-- ====== LEFT GRAPH: True Allergic (Crescendo) ====== -->
+  <!-- Graph box: 140–680 x, 590–780 y -->
+  <text
+     class="text-curve-label"
+     x="412"
+     y="366"
+     text-anchor="middle"
+     fill="#2d6a4f"
+     id="text59">True Allergic — Crescendo ↗</text>
+  <!-- Axes -->
+  <line
+     x1="172"
+     y1="558"
+     x2="652"
+     y2="558"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line59" />
+  <line
+     x1="172"
+     y1="558"
+     x2="172"
+     y2="378"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line60" />
+  <!-- Y-axis label -->
+  <text
+     class="text-axis"
+     x="-473"
+     y="150"
+     text-anchor="middle"
+     transform="rotate(-90)"
+     id="text60">Intensity</text>
+  <!-- X-axis ticks -->
+  <line
+     x1="232"
+     y1="558"
+     x2="232"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line61" />
+  <line
+     x1="402"
+     y1="558"
+     x2="402"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line62" />
+  <line
+     x1="572"
+     y1="558"
+     x2="572"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line63" />
+  <text
+     class="text-axis"
+     x="232"
+     y="578"
+     text-anchor="middle"
+     id="text63">48h</text>
+  <text
+     class="text-axis"
+     x="402"
+     y="578"
+     text-anchor="middle"
+     id="text64">72h</text>
+  <text
+     class="text-axis"
+     x="572"
+     y="578"
+     text-anchor="middle"
+     id="text65">96h</text>
+  <!-- Patches removed annotation -->
+  <line
+     x1="232"
+     y1="558"
+     x2="232"
+     y2="386"
+     stroke="#4c86c5"
+     stroke-width="1"
+     stroke-dasharray="4, 3"
+     opacity="0.4"
+     id="line65" />
+  <text
+     class="text-axis"
+     x="238"
+     y="396"
+     fill="#4c86c5"
+     id="text66">patches off</text>
+  <!-- Crescendo curve -->
+  <path
+     d="m 232,526 c 70,-8 120,-38 170,-60 50,-22 110,-40 170,-53"
+     fill="none"
+     stroke="#2d6a4f"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path66" />
+  <circle
+     cx="232"
+     cy="526"
+     r="7"
+     fill="#2d6a4f"
+     id="circle66" />
+  <circle
+     cx="402"
+     cy="466"
+     r="7"
+     fill="#2d6a4f"
+     id="circle67" />
+  <circle
+     cx="572"
+     cy="413"
+     r="7"
+     fill="#2d6a4f"
+     id="circle68" />
+  <!-- Point labels -->
+  <text
+     class="text-curve-sub"
+     x="250"
+     y="520"
+     fill="#2d6a4f"
+     id="text68">mild</text>
+  <text
+     class="text-curve-sub"
+     x="420"
+     y="460"
+     fill="#2d6a4f"
+     id="text69">moderate</text>
+  <text
+     class="text-curve-sub"
+     x="590"
+     y="406"
+     fill="#2d6a4f"
+     id="text70">strongest</text>
+  <!-- Shaded area -->
+  <path
+     d="m 232,526 c 70,-8 120,-38 170,-60 50,-22 110,-40 170,-53 V 558 H 232 Z"
+     fill="#2d6a4f"
+     opacity="0.07"
+     id="path70" />
+  <!-- ====== RIGHT GRAPH: Irritant (Decrescendo) ====== -->
+  <text
+     class="text-curve-label"
+     x="1192"
+     y="366"
+     text-anchor="middle"
+     fill="#e67e22"
+     id="text71">Irritant — Decrescendo ↘</text>
+  <!-- Axes -->
+  <line
+     x1="952"
+     y1="558"
+     x2="1432"
+     y2="558"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line71" />
+  <line
+     x1="952"
+     y1="558"
+     x2="952"
+     y2="378"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line72" />
+  <!-- Y-axis label -->
+  <text
+     class="text-axis"
+     x="-473"
+     y="930"
+     text-anchor="middle"
+     transform="rotate(-90)"
+     id="text72">Intensity</text>
+  <!-- X-axis ticks -->
+  <line
+     x1="1012"
+     y1="558"
+     x2="1012"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line73" />
+  <line
+     x1="1182"
+     y1="558"
+     x2="1182"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line74" />
+  <line
+     x1="1352"
+     y1="558"
+     x2="1352"
+     y2="564"
+     stroke="#999999"
+     stroke-width="1.5"
+     id="line75" />
+  <text
+     class="text-axis"
+     x="1012"
+     y="578"
+     text-anchor="middle"
+     id="text75">48h</text>
+  <text
+     class="text-axis"
+     x="1182"
+     y="578"
+     text-anchor="middle"
+     id="text76">72h</text>
+  <text
+     class="text-axis"
+     x="1352"
+     y="578"
+     text-anchor="middle"
+     id="text77">96h</text>
+  <!-- Patches removed annotation -->
+  <line
+     x1="1012"
+     y1="558"
+     x2="1012"
+     y2="386"
+     stroke="#4c86c5"
+     stroke-width="1"
+     stroke-dasharray="4, 3"
+     opacity="0.4"
+     id="line77" />
+  <text
+     class="text-axis"
+     x="1018"
+     y="396"
+     fill="#4c86c5"
+     id="text78">patches off</text>
+  <!-- Decrescendo curve -->
+  <path
+     d="m 1012,413 c 60,25 110,63 170,85 60,22 120,38 170,48"
+     fill="none"
+     stroke="#e67e22"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path78" />
+  <circle
+     cx="1012"
+     cy="413"
+     r="7"
+     fill="#e67e22"
+     id="circle78" />
+  <circle
+     cx="1182"
+     cy="498"
+     r="7"
+     fill="#e67e22"
+     id="circle79" />
+  <circle
+     cx="1352"
+     cy="546"
+     r="7"
+     fill="#e67e22"
+     id="circle80" />
+  <!-- Point labels -->
+  <text
+     class="text-curve-sub"
+     x="1030"
+     y="406"
+     fill="#e67e22"
+     id="text80">strongest</text>
+  <text
+     class="text-curve-sub"
+     x="1200"
+     y="492"
+     fill="#e67e22"
+     id="text81">fading</text>
+  <text
+     class="text-curve-sub"
+     x="1370"
+     y="540"
+     fill="#e67e22"
+     id="text82">resolved</text>
+  <!-- Shaded area -->
+  <path
+     d="m 1012,413 c 60,25 110,63 170,85 60,22 120,38 170,48 v 12 h -340 z"
+     fill="#e67e22"
+     opacity="0.07"
+     id="path82" />
+  <!-- Center divider -->
+  <line
+     x1="802"
+     y1="353"
+     x2="802"
+     y2="588"
+     stroke="#d0d0d0"
+     stroke-width="1"
+     stroke-dasharray="4, 4"
+     id="line82" />
+  <!-- Bottom annotations -->
+  <text
+     class="text-small"
+     x="802"
+     y="616"
+     text-anchor="middle"
+     id="text83">ICDRG grading. Key distinction: palpable infiltration separates true positive from doubtful/irritant.</text>
+  <text
+     class="text-small"
+     x="802"
+     y="641"
+     text-anchor="middle"
+     id="text84">For drug patch testing: read at 48h, 72h, and 96h (or Day 7). Late positives common with drugs.</text>
+</svg>

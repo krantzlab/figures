@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1600 900"
+   width="1600"
+   height="900"
+   version="1.1"
+   id="svg119"
+   sodipodi:docname="fig-erap-ruler.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview119"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66"
+     inkscape:cx="800"
+     inkscape:cy="473.48485"
+     inkscape:window-width="1616"
+     inkscape:window-height="940"
+     inkscape:window-x="100"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg119">
+    <sodipodi:guide
+       position="0,880"
+       orientation="0,1"
+       id="guide119"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1520,900"
+       orientation="-1,0"
+       id="guide120"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1600,20"
+       orientation="0,1"
+       id="guide121"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide122"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs12">
+    <style
+       id="style1">
+      .title { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 40px; fill: #1a1a1a; }
+      .subtitle { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 28px; }
+      .label { font-family: Arial, Helvetica, sans-serif; font-size: 21px; fill: #333; }
+      .label-bold { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 21px; fill: #333; }
+      .label-sm { font-family: Arial, Helvetica, sans-serif; font-size: 17px; fill: #555; }
+      .label-xs { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill: #666; }
+      .label-res { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 18px; }
+      .label-white { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 16px; fill: #fff; }
+      .label-state { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 23px; }
+      .aa-circle { stroke: #333; stroke-width: 2; }
+      .enzyme-body { stroke: #333; stroke-width: 3; }
+      .bracket { stroke: #333; stroke-width: 2; fill: none; }
+      .arrow-trim { stroke: #c0392b; stroke-width: 3; fill: none; marker-end: url(#arrowhead-red); }
+      .ruler-line { stroke: #e67e22; stroke-width: 2.5; stroke-dasharray: 6,4; }
+      .divider { stroke: #ccc; stroke-width: 2; stroke-dasharray: 12,6; }
+    </style>
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#555555"
+         id="polygon1" />
+    </marker>
+    <marker
+       id="arrowhead-red"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#c0392b"
+         id="polygon2" />
+    </marker>
+    <marker
+       id="arrowhead-orange"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#e67e22"
+         id="polygon3" />
+    </marker>
+    <marker
+       id="arrowhead-green"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#2e7d32"
+         id="polygon4" />
+    </marker>
+    <marker
+       id="arrowhead-grey"
+       markerWidth="10"
+       markerHeight="7"
+       refX="9"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0,7 0,0 10,3.5 "
+         fill="#888888"
+         id="polygon5" />
+    </marker>
+    <!-- ERAP1 gradient -->
+    <linearGradient
+       id="erap1-grad"
+       x1="37.176468"
+       y1="334.68079"
+       x2="37.176468"
+       y2="615.51703"
+       gradientTransform="matrix(1.9431923,0,0,0.43582557,67.583191,53.019377)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#b8cfe0"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#7a9cc6"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="erap1-grad-dim"
+       x1="404.20529"
+       y1="334.68079"
+       x2="404.20529"
+       y2="615.51703"
+       gradientTransform="matrix(1.9431923,0,0,0.43582557,67.583191,53.019377)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#cddbe8"
+         id="stop7" />
+      <stop
+         offset="100%"
+         stop-color="#a3bdd6"
+         id="stop8" />
+    </linearGradient>
+    <!-- ERAP2 gradient -->
+    <linearGradient
+       id="erap2-grad"
+       x1="44.199894"
+       y1="903.10736"
+       x2="44.199894"
+       y2="1236.9996"
+       gradientTransform="matrix(1.6344162,0,0,0.5181623,67.583191,53.019377)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#a8d5a2"
+         id="stop9" />
+      <stop
+         offset="100%"
+         stop-color="#6aaa60"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="erap2-grad-dim"
+       x1="480.56827"
+       y1="903.10736"
+       x2="480.56827"
+       y2="1236.9996"
+       gradientTransform="matrix(1.6344162,0,0,0.5181623,67.583191,53.019377)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#c4e2c0"
+         id="stop11" />
+      <stop
+         offset="100%"
+         stop-color="#96c48e"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <!-- Title -->
+  <!-- ============================================================ -->
+  <!-- ERAP1 PANEL -->
+  <!-- ============================================================ -->
+  <text
+     x="141.20462"
+     y="141.3651"
+     class="subtitle"
+     fill="#4a76a8"
+     id="text13"
+     style="stroke-width:0.920268">ERAP1 — Molecular Ruler</text>
+  <text
+     x="496.45551"
+     y="141.48589"
+     class="label"
+     fill="#666"
+     id="text14"
+     style="stroke-width:0.920268">C-terminal regulatory pocket controls length-dependent activation</text>
+  <!-- ── A: Long peptide, ACTIVE ── -->
+  <text
+     x="412.68359"
+     y="180.01633"
+     text-anchor="middle"
+     class="label-bold"
+     id="text15"
+     style="stroke-width:0.920268">Long precursor (≥10 residues)</text>
+  <!-- Enzyme body -->
+  <rect
+     x="141.20462"
+     y="200.26221"
+     width="542.95801"
+     height="119.63482"
+     rx="20.245892"
+     ry="20.245892"
+     fill="url(#erap1-grad)"
+     class="enzyme-body"
+     id="rect15"
+     style="fill:url(#erap1-grad)" />
+  <!-- Catalytic site (left) -->
+  <path
+     d="m 176.1748,224.18918 q 24.84723,-20.24589 49.69446,0 v 57.05661 q -24.84723,20.24589 -49.69446,0 z"
+     fill="#e8c4c4"
+     stroke="#c0392b"
+     stroke-width="2.30067"
+     id="path15" />
+  <text
+     x="201.02203"
+     y="255.4783"
+     text-anchor="middle"
+     class="label-white"
+     fill="#a93226"
+     id="text16"
+     style="stroke-width:0.920268">Cat.</text>
+  <text
+     x="201.02203"
+     y="270.20258"
+     text-anchor="middle"
+     class="label-white"
+     fill="#a93226"
+     id="text17"
+     style="stroke-width:0.920268">site</text>
+  <!-- Zn -->
+  <circle
+     cx="201.02203"
+     cy="233.39186"
+     r="8.2824106"
+     fill="#e74c3c"
+     stroke="#a93226"
+     stroke-width="1.3804"
+     id="circle17" />
+  <text
+     x="201.02203"
+     y="237.07294"
+     text-anchor="middle"
+     style="font-weight:700;font-size:10.1229px;font-family:Arial;fill:#ffffff;stroke-width:0.920268"
+     id="text18">Zn</text>
+  <!-- C-terminal regulatory pocket (right) -->
+  <path
+     d="m 590.29532,224.18918 q 24.84723,-20.24589 49.69446,0 v 57.05661 q -24.84723,20.24589 -49.69446,0 z"
+     fill="#fde8c8"
+     stroke="#e67e22"
+     stroke-width="2.30067"
+     id="path18" />
+  <text
+     x="615.14252"
+     y="249.9567"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text19"
+     style="stroke-width:0.920268">C-term</text>
+  <text
+     x="615.14252"
+     y="264.68097"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text20"
+     style="stroke-width:0.920268">reg.</text>
+  <text
+     x="615.14252"
+     y="279.40527"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text21"
+     style="stroke-width:0.920268">pocket</text>
+  <!-- Peptide (12 residues) bridging both sites -->
+  <circle
+     cx="201.02203"
+     cy="252.7175"
+     r="12.883749"
+     fill="#5b8cc9"
+     class="aa-circle"
+     id="circle21" />
+  <text
+     x="201.02203"
+     y="258.23911"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     id="text22"
+     style="stroke-width:0.920268">L</text>
+  <circle
+     cx="238.75301"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle22" />
+  <circle
+     cx="276.48401"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle23" />
+  <circle
+     cx="314.21494"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle24" />
+  <circle
+     cx="351.94592"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle25" />
+  <circle
+     cx="389.67691"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle26" />
+  <circle
+     cx="427.4079"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle27" />
+  <circle
+     cx="465.13885"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle28" />
+  <circle
+     cx="502.86984"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle29" />
+  <circle
+     cx="540.60083"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle30" />
+  <circle
+     cx="577.41156"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle31" />
+  <!-- C-terminal in pocket -->
+  <circle
+     cx="615.14252"
+     cy="252.7175"
+     r="12.883749"
+     fill="#e8a838"
+     class="aa-circle"
+     id="circle32" />
+  <text
+     x="615.14252"
+     y="258.23911"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     id="text32"
+     style="stroke-width:0.920268">V</text>
+  <!-- Hydrophobic C-term label -->
+  <text
+     x="615.14252"
+     y="316.21597"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#c87f0a"
+     id="text33"
+     style="stroke-width:0.920268">hydrophobic C-term</text>
+  <text
+     x="615.14252"
+     y="329.09973"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#c87f0a"
+     id="text34"
+     style="stroke-width:0.920268">anchored → activates</text>
+  <!-- Ruler distance -->
+  <line
+     x1="201.02203"
+     y1="338.3024"
+     x2="615.14252"
+     y2="338.3024"
+     class="ruler-line"
+     marker-end="url(#arrowhead-orange)"
+     id="line34" />
+  <line
+     x1="615.14252"
+     y1="338.3024"
+     x2="201.02203"
+     y2="338.3024"
+     class="ruler-line"
+     marker-end="url(#arrowhead-orange)"
+     id="line35" />
+  <text
+     x="408.08224"
+     y="358.54828"
+     text-anchor="middle"
+     class="label-sm"
+     fill="#e67e22"
+     id="text35"
+     style="stroke-width:0.920268">molecular ruler distance (~9–16 residues)</text>
+  <!-- Scissors -->
+  <path
+     d="M 168.81266,252.71749 H 132.00194"
+     class="arrow-trim"
+     id="path35" />
+  <text
+     x="106.23444"
+     y="244.43509"
+     text-anchor="middle"
+     style="font-size:23.927px;stroke-width:0.920268"
+     id="text36">✂</text>
+  <text
+     x="106.23444"
+     y="269.28232"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#c0392b"
+     id="text37"
+     style="stroke-width:0.920268">trim</text>
+  <!-- Conformational state label -->
+  <text
+     x="412.68359"
+     y="388.91711"
+     text-anchor="middle"
+     class="label-state"
+     fill="#27ae60"
+     id="text38"
+     style="stroke-width:0.920268">✓ CLOSED (active) — peptide bridges both sites</text>
+  <!-- ── B: Short peptide, INACTIVE ── -->
+  <text
+     x="1125.8912"
+     y="180.01633"
+     text-anchor="middle"
+     class="label-bold"
+     id="text39"
+     style="stroke-width:0.920268">Product (8–9 residues)</text>
+  <!-- Enzyme body (dimmer) -->
+  <rect
+     x="854.41217"
+     y="200.26221"
+     width="542.95801"
+     height="119.63482"
+     rx="20.245892"
+     ry="20.245892"
+     fill="url(#erap1-grad-dim)"
+     class="enzyme-body"
+     opacity="0.75"
+     id="rect39"
+     style="fill:url(#erap1-grad-dim)" />
+  <!-- Catalytic site (empty, inactive) -->
+  <path
+     d="m 889.38236,224.18918 q 24.84723,-20.24589 49.69446,0 v 57.05661 q -24.84723,20.24589 -49.69446,0 z"
+     fill="#e8c4c4"
+     stroke="#c0392b"
+     stroke-width="2.30067"
+     opacity="0.5"
+     id="path39" />
+  <text
+     x="914.22955"
+     y="255.4783"
+     text-anchor="middle"
+     class="label-white"
+     fill="#a93226"
+     opacity="0.5"
+     id="text40"
+     style="stroke-width:0.920268">Cat.</text>
+  <text
+     x="914.22955"
+     y="270.20258"
+     text-anchor="middle"
+     class="label-white"
+     fill="#a93226"
+     opacity="0.5"
+     id="text41"
+     style="stroke-width:0.920268">site</text>
+  <circle
+     cx="914.22955"
+     cy="233.39186"
+     r="8.2824106"
+     fill="#e74c3c"
+     stroke="#a93226"
+     stroke-width="1.3804"
+     opacity="0.5"
+     id="circle41" />
+  <text
+     x="914.22955"
+     y="237.07294"
+     text-anchor="middle"
+     style="font-weight:700;font-size:10.1229px;font-family:Arial;fill:#ffffff;stroke-width:0.920268"
+     opacity="0.5"
+     id="text42">Zn</text>
+  <!-- C-terminal pocket (still has peptide anchored) -->
+  <path
+     d="m 1303.503,224.18918 q 24.8472,-20.24589 49.6944,0 v 57.05661 q -24.8472,20.24589 -49.6944,0 z"
+     fill="#fde8c8"
+     stroke="#e67e22"
+     stroke-width="2.30067"
+     id="path42" />
+  <text
+     x="1328.3502"
+     y="249.9567"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text43"
+     style="stroke-width:0.920268">C-term</text>
+  <text
+     x="1328.3502"
+     y="264.68097"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text44"
+     style="stroke-width:0.920268">reg.</text>
+  <text
+     x="1328.3502"
+     y="279.40527"
+     text-anchor="middle"
+     class="label-white"
+     fill="#c87f0a"
+     id="text45"
+     style="stroke-width:0.920268">pocket</text>
+  <!-- Short peptide (8 residues): anchored at C-pocket but N-term can't reach cat. site -->
+  <circle
+     cx="1043.0673"
+     cy="248.11615"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     opacity="0.5"
+     id="circle45" />
+  <text
+     x="1043.0673"
+     y="253.63776"
+     text-anchor="middle"
+     class="label-res"
+     fill="#999999"
+     id="text46"
+     style="stroke-width:0.920268">N</text>
+  <circle
+     cx="1080.7981"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle46" />
+  <circle
+     cx="1118.5292"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle47" />
+  <circle
+     cx="1156.2601"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle48" />
+  <circle
+     cx="1193.9911"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle49" />
+  <circle
+     cx="1230.8018"
+     cy="244.43509"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle50" />
+  <circle
+     cx="1268.5328"
+     cy="249.9567"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle51" />
+  <circle
+     cx="1328.3502"
+     cy="252.7175"
+     r="12.883749"
+     fill="#e8a838"
+     class="aa-circle"
+     id="circle52" />
+  <text
+     x="1328.3502"
+     y="258.23911"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     id="text52"
+     style="stroke-width:0.920268">V</text>
+  <!-- Gap indicator -->
+  <line
+     x1="939.07678"
+     y1="341.0632"
+     x2="1038.4658"
+     y2="341.0632"
+     stroke="#888888"
+     stroke-width="1.84054"
+     stroke-dasharray="6, 4"
+     marker-end="url(#arrowhead-grey)"
+     id="line52" />
+  <line
+     x1="1038.4658"
+     y1="341.0632"
+     x2="939.07678"
+     y2="341.0632"
+     stroke="#888888"
+     stroke-width="1.84054"
+     stroke-dasharray="6, 4"
+     marker-end="url(#arrowhead-grey)"
+     id="line53" />
+  <text
+     x="988.77124"
+     y="364.06989"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#888"
+     id="text53"
+     style="stroke-width:0.920268">gap — too short</text>
+  <!-- X over catalytic site -->
+  <line
+     x1="895.82422"
+     y1="232.4716"
+     x2="932.63489"
+     y2="269.28232"
+     stroke="#c0392b"
+     stroke-width="3.22094"
+     opacity="0.6"
+     id="line54" />
+  <line
+     x1="932.63489"
+     y1="232.4716"
+     x2="895.82422"
+     y2="269.28232"
+     stroke="#c0392b"
+     stroke-width="3.22094"
+     opacity="0.6"
+     id="line55" />
+  <!-- Conformational state label -->
+  <text
+     x="1125.8912"
+     y="388.91711"
+     text-anchor="middle"
+     class="label-state"
+     fill="#c0392b"
+     id="text55"
+     style="stroke-width:0.920268">✗ OPEN (inactive) — N-term can't reach catalytic site</text>
+  <!-- Arrow from A to B -->
+  <path
+     d="m 702.56799,260.07963 q 73.62143,-69.02009 142.64151,0"
+     fill="none"
+     stroke="#555555"
+     stroke-width="2.30067"
+     marker-end="url(#arrowhead)"
+     id="path55" />
+  <text
+     x="774.34888"
+     y="198.42168"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#555"
+     id="text56"
+     style="stroke-width:0.920268">trimming</text>
+  <!-- ============================================================ -->
+  <!-- Horizontal divider -->
+  <!-- ============================================================ -->
+  <line
+     x1="113.59658"
+     y1="434.93051"
+     x2="1493.9984"
+     y2="434.93051"
+     class="divider"
+     id="line56" />
+  <!-- ============================================================ -->
+  <!-- ERAP2 PANEL -->
+  <!-- ============================================================ -->
+  <text
+     x="141.20462"
+     y="476.34253"
+     class="subtitle"
+     fill="#3d7a37"
+     id="text57"
+     style="stroke-width:0.920268">ERAP2 — Internal Cavity Sequestration</text>
+  <text
+     x="684.8028"
+     y="475.06903"
+     class="label"
+     fill="#666"
+     id="text58"
+     style="stroke-width:0.920268">No C-terminal regulatory pocket; no molecular ruler</text>
+  <!-- ── A: Basic N-term peptide, ACTIVE ── -->
+  <text
+     x="412.68359"
+     y="517.75464"
+     text-anchor="middle"
+     class="label-bold"
+     id="text59"
+     style="stroke-width:0.920268">Basic N-terminal residue (Arg, Lys)</text>
+  <!-- Enzyme body — drawn as more enclosed/cave-like shape -->
+  <!-- Main body -->
+  <path
+     d="m 141.20462,545.36265 q 0,-23.00669 23.0067,-23.00669 h 496.94462 q 23.00669,0 23.00669,23.00669 v 124.23616 q 0,23.00669 -23.00669,23.00669 H 164.21132 q -23.0067,0 -23.0067,-23.00669 z"
+     fill="url(#erap2-grad)"
+     class="enzyme-body"
+     id="path59"
+     style="fill:url(#erap2-grad)" />
+  <!-- Internal cavity representation: a lighter inset -->
+  <rect
+     x="178.01534"
+     y="554.56537"
+     width="469.33658"
+     height="101.22946"
+     rx="13.804017"
+     ry="13.804017"
+     fill="#d9edda"
+     stroke="#5a9a52"
+     stroke-width="1.3804"
+     stroke-dasharray="5, 3"
+     opacity="0.7"
+     id="rect59" />
+  <text
+     x="412.68359"
+     y="582.1734"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#4a8a42"
+     id="text60"
+     style="stroke-width:0.920268">internal cavity (shallow, permissive)</text>
+  <!-- Catalytic site (left, with acidic S1 pocket) -->
+  <path
+     d="m 176.1748,563.76801 q 24.84723,-18.40536 49.69446,0 v 82.8241 q -24.84723,18.40536 -49.69446,0 z"
+     fill="#d4e8d1"
+     stroke="#2e7d32"
+     stroke-width="2.30067"
+     id="path60" />
+  <text
+     x="201.02203"
+     y="601.49902"
+     text-anchor="middle"
+     class="label-white"
+     fill="#2e7d32"
+     id="text61"
+     style="stroke-width:0.920268">Cat.</text>
+  <text
+     x="201.02203"
+     y="616.22333"
+     text-anchor="middle"
+     class="label-white"
+     fill="#2e7d32"
+     id="text62"
+     style="stroke-width:0.920268">site</text>
+  <!-- Zn -->
+  <circle
+     cx="201.02203"
+     cy="575.73151"
+     r="8.2824106"
+     fill="#43a047"
+     stroke="#2e7d32"
+     stroke-width="1.3804"
+     id="circle62" />
+  <text
+     x="201.02203"
+     y="579.4126"
+     text-anchor="middle"
+     style="font-weight:700;font-size:10.1229px;font-family:Arial;fill:#ffffff;stroke-width:0.920268"
+     id="text63">Zn</text>
+  <!-- Acidic S1 pocket charges -->
+  <text
+     x="185.37747"
+     y="658.5556"
+     text-anchor="middle"
+     style="font-weight:700;font-size:13.804px;font-family:Arial;fill:#c0392b;stroke-width:0.920268"
+     id="text64">⊖</text>
+  <text
+     x="216.66658"
+     y="658.5556"
+     text-anchor="middle"
+     style="font-weight:700;font-size:13.804px;font-family:Arial;fill:#c0392b;stroke-width:0.920268"
+     id="text65">⊖</text>
+  <text
+     x="201.02203"
+     y="682.4826"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#c0392b"
+     id="text66"
+     style="stroke-width:0.920268">acidic S1 pocket</text>
+  <!-- NO C-terminal pocket — just the cavity wall -->
+  <!-- Label: no regulatory pocket -->
+  <text
+     x="615.14252"
+     y="671.43939"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#888"
+     id="text67"
+     style="stroke-width:0.920268">no C-term</text>
+  <text
+     x="615.14252"
+     y="684.32312"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#888"
+     id="text68"
+     style="stroke-width:0.920268">reg. pocket</text>
+  <!-- Dashed outline where pocket would be -->
+  <path
+     d="m 590.29532,568.36935 q 24.84723,-16.56482 49.69446,0 v 73.62142 q -24.84723,16.56483 -49.69446,0 z"
+     fill="none"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     stroke-dasharray="5, 4"
+     opacity="0.5"
+     id="path68" />
+  <line
+     x1="592.1358"
+     y1="563.76807"
+     x2="638.14923"
+     y2="646.59216"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     opacity="0.4"
+     id="line68" />
+  <line
+     x1="638.14923"
+     y1="563.76807"
+     x2="592.1358"
+     y2="646.59216"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     opacity="0.4"
+     id="line69" />
+  <!-- Peptide in cavity (9-mer with Arg at N-term) -->
+  <circle
+     cx="201.02203"
+     cy="605.18011"
+     r="12.883749"
+     fill="#3498db"
+     class="aa-circle"
+     id="circle69" />
+  <text
+     x="201.02203"
+     y="610.70172"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     id="text69"
+     style="stroke-width:0.920268">R</text>
+  <text
+     x="221.26791"
+     y="594.1369"
+     style="font-weight:700;font-size:14.7243px;font-family:Arial;fill:#2980b9;stroke-width:0.920268"
+     id="text70">⊕</text>
+  <circle
+     cx="238.75301"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle70" />
+  <circle
+     cx="276.48401"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle71" />
+  <circle
+     cx="314.21494"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle72" />
+  <circle
+     cx="351.94592"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle73" />
+  <circle
+     cx="389.67691"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle74" />
+  <circle
+     cx="427.4079"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle75" />
+  <circle
+     cx="465.13885"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle76" />
+  <!-- C-term floating free in cavity -->
+  <circle
+     cx="502.86984"
+     cy="603.33954"
+     r="12.883749"
+     fill="#e8a838"
+     class="aa-circle"
+     opacity="0.6"
+     id="circle77" />
+  <text
+     x="502.86984"
+     y="608.86115"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     opacity="0.8"
+     id="text77"
+     style="stroke-width:0.920268">C</text>
+  <text
+     x="502.86984"
+     y="629.10706"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#888"
+     id="text78"
+     style="stroke-width:0.920268">free</text>
+  <!-- Electrostatic match -->
+  <path
+     d="m 201.02203,658.5556 v 9.20267"
+     stroke="#2980b9"
+     stroke-width="1.84054"
+     id="path78" />
+  <text
+     x="201.02203"
+     y="706.40955"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#2980b9"
+     id="text79"
+     style="stroke-width:0.920268">⊕ ↔ ⊖ match</text>
+  <!-- Scissors -->
+  <path
+     d="M 168.81266,605.18006 H 132.00194"
+     class="arrow-trim"
+     stroke="#2e7d32"
+     id="path79" />
+  <text
+     x="106.23444"
+     y="596.89771"
+     text-anchor="middle"
+     style="font-size:23.927px;stroke-width:0.920268"
+     id="text80">✂</text>
+  <text
+     x="106.23444"
+     y="621.74493"
+     text-anchor="middle"
+     class="label-xs"
+     fill="#2e7d32"
+     id="text81"
+     style="stroke-width:0.920268">trim</text>
+  <!-- State label -->
+  <text
+     x="412.68359"
+     y="735.85815"
+     text-anchor="middle"
+     class="label-state"
+     fill="#27ae60"
+     id="text82"
+     style="stroke-width:0.920268">✓ ACTIVE — basic residue fits acidic S1 pocket</text>
+  <!-- ── B: Hydrophobic N-term, POOR FIT ── -->
+  <text
+     x="1125.8912"
+     y="517.75464"
+     text-anchor="middle"
+     class="label-bold"
+     id="text83"
+     style="stroke-width:0.920268">Hydrophobic N-terminus (Leu, Phe)</text>
+  <!-- Enzyme body -->
+  <path
+     d="m 854.41218,545.36265 q 0,-23.00669 23.0067,-23.00669 h 496.94472 q 23.0067,0 23.0067,23.00669 v 124.23616 q 0,23.00669 -23.0067,23.00669 H 877.41888 q -23.0067,0 -23.0067,-23.00669 z"
+     fill="url(#erap2-grad-dim)"
+     class="enzyme-body"
+     opacity="0.75"
+     id="path83"
+     style="fill:url(#erap2-grad-dim)" />
+  <!-- Internal cavity -->
+  <rect
+     x="891.22284"
+     y="554.56537"
+     width="469.33658"
+     height="101.22946"
+     rx="13.804017"
+     ry="13.804017"
+     fill="#d9edda"
+     stroke="#5a9a52"
+     stroke-width="1.3804"
+     stroke-dasharray="5, 3"
+     opacity="0.5"
+     id="rect83" />
+  <!-- Catalytic site -->
+  <path
+     d="m 889.38236,563.76801 q 24.84723,-18.40536 49.69446,0 v 82.8241 q -24.84723,18.40536 -49.69446,0 z"
+     fill="#d4e8d1"
+     stroke="#2e7d32"
+     stroke-width="2.30067"
+     opacity="0.6"
+     id="path84" />
+  <text
+     x="914.22955"
+     y="601.49902"
+     text-anchor="middle"
+     class="label-white"
+     fill="#2e7d32"
+     opacity="0.5"
+     id="text84"
+     style="stroke-width:0.920268">Cat.</text>
+  <text
+     x="914.22955"
+     y="616.22333"
+     text-anchor="middle"
+     class="label-white"
+     fill="#2e7d32"
+     opacity="0.5"
+     id="text85"
+     style="stroke-width:0.920268">site</text>
+  <circle
+     cx="914.22955"
+     cy="575.73151"
+     r="8.2824106"
+     fill="#43a047"
+     stroke="#2e7d32"
+     stroke-width="1.3804"
+     opacity="0.5"
+     id="circle85" />
+  <text
+     x="914.22955"
+     y="579.4126"
+     text-anchor="middle"
+     style="font-weight:700;font-size:10.1229px;font-family:Arial;fill:#ffffff;stroke-width:0.920268"
+     opacity="0.5"
+     id="text86">Zn</text>
+  <!-- Acidic charges -->
+  <text
+     x="898.58502"
+     y="658.5556"
+     text-anchor="middle"
+     style="font-weight:700;font-size:13.804px;font-family:Arial;fill:#c0392b;stroke-width:0.920268"
+     opacity="0.5"
+     id="text87">⊖</text>
+  <text
+     x="929.87408"
+     y="658.5556"
+     text-anchor="middle"
+     style="font-weight:700;font-size:13.804px;font-family:Arial;fill:#c0392b;stroke-width:0.920268"
+     opacity="0.5"
+     id="text88">⊖</text>
+  <!-- Peptide with Leu at N-term — poor fit -->
+  <circle
+     cx="914.22955"
+     cy="605.18011"
+     r="12.883749"
+     fill="#8e6baa"
+     class="aa-circle"
+     stroke="#c0392b"
+     stroke-width="2"
+     stroke-dasharray="3.68107, 2.7608"
+     id="circle88" />
+  <text
+     x="914.22955"
+     y="610.70172"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     id="text89"
+     style="stroke-width:0.920268">L</text>
+  <circle
+     cx="951.96057"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle89" />
+  <circle
+     cx="989.69153"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle90" />
+  <circle
+     cx="1027.4226"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle91" />
+  <circle
+     cx="1065.1536"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle92" />
+  <circle
+     cx="1102.8845"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle93" />
+  <circle
+     cx="1140.6156"
+     cy="603.33954"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle94" />
+  <circle
+     cx="1178.3466"
+     cy="597.81793"
+     r="11.043214"
+     fill="#dddddd"
+     class="aa-circle"
+     id="circle95" />
+  <circle
+     cx="1216.0775"
+     cy="603.33954"
+     r="12.883749"
+     fill="#e8a838"
+     class="aa-circle"
+     opacity="0.6"
+     id="circle96" />
+  <text
+     x="1216.0775"
+     y="608.86115"
+     text-anchor="middle"
+     class="label-res"
+     fill="#ffffff"
+     opacity="0.8"
+     id="text96"
+     style="stroke-width:0.920268">C</text>
+  <!-- Charge mismatch -->
+  <text
+     x="914.22955"
+     y="549.96405"
+     text-anchor="middle"
+     style="font-weight:700;font-size:16.5648px;font-family:Arial;fill:#c0392b;stroke-width:0.920268"
+     id="text97">⚡ charge mismatch</text>
+  <!-- X over active site -->
+  <line
+     x1="895.82422"
+     y1="582.1734"
+     x2="932.63489"
+     y2="618.98413"
+     stroke="#c0392b"
+     stroke-width="3.22094"
+     opacity="0.6"
+     id="line97" />
+  <line
+     x1="932.63489"
+     y1="582.1734"
+     x2="895.82422"
+     y2="618.98413"
+     stroke="#c0392b"
+     stroke-width="3.22094"
+     opacity="0.6"
+     id="line98" />
+  <!-- No C-term pocket here either -->
+  <path
+     d="m 1303.503,568.36935 q 24.8472,-16.56482 49.6944,0 v 73.62142 q -24.8472,16.56483 -49.6944,0 z"
+     fill="none"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     stroke-dasharray="5, 4"
+     opacity="0.35"
+     id="path98" />
+  <line
+     x1="1305.3435"
+     y1="563.76807"
+     x2="1351.3569"
+     y2="646.59216"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     opacity="0.3"
+     id="line99" />
+  <line
+     x1="1351.3569"
+     y1="563.76807"
+     x2="1305.3435"
+     y2="646.59216"
+     stroke="#aaaaaa"
+     stroke-width="1.84054"
+     opacity="0.3"
+     id="line100" />
+  <!-- State label -->
+  <text
+     x="1125.8912"
+     y="735.85815"
+     text-anchor="middle"
+     class="label-state"
+     fill="#c0392b"
+     id="text100"
+     style="stroke-width:0.920268">✗ POOR FIT — hydrophobic residue repelled by acidic S1</text>
+  <!-- ============================================================ -->
+  <!-- Comparison summary box -->
+  <!-- ============================================================ -->
+  <!-- ERAP1 column -->
+  <!-- ERAP2 column -->
+  <!-- Legend -->
+  <circle
+     cx="169.09151"
+     cy="794.97839"
+     r="9.2026777"
+     fill="#5b8cc9"
+     stroke="#333333"
+     stroke-width="1.3804"
+     id="circle113" />
+  <text
+     x="185.65634"
+     y="799.57971"
+     class="label-xs"
+     fill="#333"
+     id="text114"
+     style="stroke-width:0.920268">Hydrophobic (Leu, Phe…)</text>
+  <circle
+     cx="362.34775"
+     cy="794.97839"
+     r="9.2026777"
+     fill="#3498db"
+     stroke="#333333"
+     stroke-width="1.3804"
+     id="circle114" />
+  <text
+     x="378.91257"
+     y="799.57971"
+     class="label-xs"
+     fill="#333"
+     id="text115"
+     style="stroke-width:0.920268">Basic (Arg, Lys)</text>
+  <circle
+     cx="518.79327"
+     cy="794.97839"
+     r="9.2026777"
+     fill="#e8a838"
+     stroke="#333333"
+     stroke-width="1.3804"
+     id="circle115" />
+  <text
+     x="535.35809"
+     y="799.57971"
+     class="label-xs"
+     fill="#333"
+     id="text116"
+     style="stroke-width:0.920268">C-terminal</text>
+  <circle
+     cx="647.6308"
+     cy="794.97839"
+     r="9.2026777"
+     fill="#dddddd"
+     stroke="#333333"
+     stroke-width="1.3804"
+     id="circle116" />
+  <text
+     x="664.19562"
+     y="799.57971"
+     class="label-xs"
+     fill="#333"
+     id="text117"
+     style="stroke-width:0.920268">Internal</text>
+</svg>

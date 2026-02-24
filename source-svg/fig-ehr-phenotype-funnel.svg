@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600"
+   height="750"
+   viewBox="0 0 423.33332 198.4375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="fig-ehr-phenotype-funnel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.49827319"
+     inkscape:cx="810.8002"
+     inkscape:cy="334.15404"
+     inkscape:window-width="1488"
+     inkscape:window-height="938"
+     inkscape:window-x="2220"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,193.14583"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="402.16666,198.4375"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="423.33333,5.2916666"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="21.166666,3.0079642e-14"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="196.67926"
+       y="280.97036"
+       width="634.19025"
+       height="212.7347"
+       id="rect1" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5-1" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5-1-2" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5-1-2-7" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5-1-2-5" />
+    <rect
+       x="196.67926"
+       y="280.97037"
+       width="634.19025"
+       height="212.7347"
+       id="rect1-5-1-2-5-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-45.135045,5.3100054)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="395.94874"
+         y="304.99085"
+         id="tspan2">Synthetic Derivative
+</tspan><tspan
+         x="408.91751"
+         y="338.32423"
+         id="tspan3">3+ million records</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,66.812922,-30.054843)"
+       id="text1-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="438.91755"
+         y="304.99085"
+         id="tspan4">Rules-based</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.729704,8.2249428)"
+       id="text1-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-1);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="398.87844"
+         y="304.99085"
+         id="tspan5">304 potential cases
+</tspan><tspan
+         x="447.82381"
+         y="338.32423"
+         id="tspan6">(75% PPV)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,158.65895,-13.113611)"
+       id="text1-4-7-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-1-2);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="389.99822"
+         y="304.99085"
+         id="tspan7">Computable features</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,240.51777,-11.925634)"
+       id="text1-4-7-5-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-1-2-5);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="418.16882"
+         y="304.99085"
+         id="tspan8">LLM Abstraction</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,236.86819,10.558513)"
+       id="text1-4-7-5-3-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-1-2-5-9);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="448.55298"
+         y="304.99085"
+         id="tspan9">Agreement
+</tspan><tspan
+         x="450.02433"
+         y="338.32423"
+         id="tspan10">Reasoning
+</tspan><tspan
+         x="407.06204"
+         y="371.6576"
+         id="tspan11">Culprit Medication</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,159.80936,7.1885521)"
+       id="text1-4-7-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5-1-2-7);fill:#000000;stroke:#000000;stroke-width:1.007;stroke-dasharray:none;paint-order:fill markers stroke"><tspan
+         x="485.62334"
+         y="304.99085"
+         id="tspan12">AUC
+</tspan><tspan
+         x="487.09469"
+         y="338.32423"
+         id="tspan13">PPV
+</tspan><tspan
+         x="461.13763"
+         y="371.6576"
+         id="tspan14">TopK100</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.79560208;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 39.82504,35.046036 c 0,0 100.8901,21.771022 108.32411,22.833023"
+       id="path1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.79560208;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 40.356041,146.02515 c 0,0 93.987099,-26.55003 108.324109,-30.79803"
+       id="path2" />
+  </g>
+</svg>

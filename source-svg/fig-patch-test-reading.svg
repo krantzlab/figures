@@ -21,12 +21,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.5"
-     inkscape:cx="799"
+     inkscape:cx="762"
      inkscape:cy="451"
-     inkscape:window-width="1520"
+     inkscape:window-width="1512"
      inkscape:window-height="746"
      inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
     <sodipodi:guide
@@ -85,10 +85,12 @@
     </style>
     <linearGradient
        id="severity-grad"
-       x1="0"
-       y1="0"
-       x2="1"
-       y2="0">
+       x1="7.970534"
+       y1="812.99446"
+       x2="98.303252"
+       y2="812.99446"
+       gradientTransform="matrix(15.055453,0,0,0.06642112,-8,166)"
+       gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
          stop-color="#2d6a4f"
@@ -111,428 +113,429 @@
   <!-- Timing note -->
   <text
      class="text-time"
-     x="800"
-     y="40"
+     x="792"
+     y="206"
      text-anchor="middle"
      id="text3">Read at 48h (remove patches), confirm at 72–96h</text>
   <!-- Severity arrow -->
   <rect
-     x="120"
-     y="54"
+     x="112"
+     y="220"
      width="1360"
      height="6"
      rx="3"
      fill="url(#severity-grad)"
      opacity="0.3"
-     id="rect3" />
+     id="rect3"
+     style="fill:url(#severity-grad)" />
   <text
      class="text-small"
-     x="120"
-     y="78"
+     x="112"
+     y="244"
      text-anchor="start"
-     style="font-size:18px;"
+     style="font-size:18px"
      id="text4">No reaction</text>
   <text
      class="text-small"
-     x="1480"
-     y="78"
+     x="1472"
+     y="244"
      text-anchor="end"
-     style="font-size:18px;"
+     style="font-size:18px"
      id="text5">Severe</text>
   <!-- Column dividers -->
   <line
      class="divider"
-     x1="368"
-     y1="88"
-     x2="368"
-     y2="490"
+     x1="360"
+     y1="254"
+     x2="360"
+     y2="656"
      id="line5" />
   <line
      class="divider"
-     x1="656"
-     y1="88"
-     x2="656"
-     y2="490"
+     x1="648"
+     y1="254"
+     x2="648"
+     y2="656"
      id="line6" />
   <line
      class="divider"
-     x1="944"
-     y1="88"
-     x2="944"
-     y2="490"
+     x1="936"
+     y1="254"
+     x2="936"
+     y2="656"
      id="line7" />
   <line
      class="divider"
-     x1="1232"
-     y1="88"
-     x2="1232"
-     y2="490"
+     x1="1224"
+     y1="254"
+     x2="1224"
+     y2="656"
      id="line8" />
   <!-- ==================== COL 1: NEGATIVE (−) ==================== -->
   <text
      class="text-grade"
-     x="224"
-     y="118"
+     x="216"
+     y="284"
      text-anchor="middle"
      id="text8">−</text>
   <text
      class="text-grade-label"
-     x="224"
-     y="144"
+     x="216"
+     y="310"
      text-anchor="middle"
      id="text9">Negative</text>
   <circle
      class="skin"
-     cx="224"
-     cy="262"
+     cx="216"
+     cy="428"
      r="82"
      id="circle9" />
   <circle
      class="skin-outline"
-     cx="224"
-     cy="262"
+     cx="216"
+     cy="428"
      r="82"
      id="circle10" />
   <circle
-     cx="224"
-     cy="262"
+     cx="216"
+     cy="428"
      r="10"
      fill="none"
      stroke="#b3b3b3"
      stroke-width="1.5"
-     stroke-dasharray="3 3"
+     stroke-dasharray="3, 3"
      id="circle11" />
   <text
      class="text-desc"
-     x="224"
-     y="382"
+     x="216"
+     y="548"
      text-anchor="middle"
      id="text11">No reaction</text>
   <!-- ==================== COL 2: DOUBTFUL (?+) ==================== -->
   <text
      class="text-grade"
-     x="512"
-     y="118"
+     x="504"
+     y="284"
      text-anchor="middle"
      id="text12">?+</text>
   <text
      class="text-grade-label"
-     x="512"
-     y="144"
+     x="504"
+     y="310"
      text-anchor="middle"
      id="text13">Doubtful</text>
   <circle
      class="skin"
-     cx="512"
-     cy="262"
+     cx="504"
+     cy="428"
      r="82"
      id="circle13" />
   <circle
      class="erythema-faint"
-     cx="512"
-     cy="262"
+     cx="504"
+     cy="428"
      r="42"
      id="circle14" />
   <circle
      class="skin-outline"
-     cx="512"
-     cy="262"
+     cx="504"
+     cy="428"
      r="82"
      id="circle15" />
   <text
      class="text-desc"
-     x="512"
-     y="382"
+     x="504"
+     y="548"
      text-anchor="middle"
      id="text15">Faint erythema</text>
   <text
      class="text-desc"
-     x="512"
-     y="406"
+     x="504"
+     y="572"
      text-anchor="middle"
      id="text16">No infiltration</text>
   <!-- ==================== COL 3: WEAK POSITIVE (+) ==================== -->
   <text
      class="text-grade"
-     x="800"
-     y="118"
+     x="792"
+     y="284"
      text-anchor="middle"
      id="text17">+</text>
   <text
      class="text-grade-label"
-     x="800"
-     y="144"
+     x="792"
+     y="310"
      text-anchor="middle"
      id="text18">Weak positive</text>
   <circle
      class="skin"
-     cx="800"
-     cy="262"
+     cx="792"
+     cy="428"
      r="82"
      id="circle18" />
   <circle
      class="erythema-mod"
-     cx="800"
-     cy="262"
+     cx="792"
+     cy="428"
      r="52"
      id="circle19" />
   <circle
      class="infiltration"
-     cx="800"
-     cy="262"
+     cx="792"
+     cy="428"
      r="36"
      id="circle20" />
   <circle
      class="papule"
-     cx="790"
-     cy="252"
+     cx="782"
+     cy="418"
      r="4"
      id="circle21" />
   <circle
      class="papule"
-     cx="810"
-     cy="267"
+     cx="802"
+     cy="433"
      r="3.5"
      id="circle22" />
   <circle
      class="papule"
-     cx="796"
-     cy="278"
+     cx="788"
+     cy="444"
      r="3.5"
      id="circle23" />
   <circle
      class="skin-outline"
-     cx="800"
-     cy="262"
+     cx="792"
+     cy="428"
      r="82"
      id="circle24" />
   <text
      class="text-desc"
-     x="800"
-     y="382"
+     x="792"
+     y="548"
      text-anchor="middle"
      id="text24">Erythema</text>
   <text
      class="text-desc-em"
-     x="800"
-     y="406"
+     x="792"
+     y="572"
      text-anchor="middle"
      id="text25">Infiltration</text>
   <text
      class="text-desc"
-     x="800"
-     y="430"
+     x="792"
+     y="596"
      text-anchor="middle"
      id="text26">± papules</text>
   <!-- ==================== COL 4: STRONG POSITIVE (++) ==================== -->
   <text
      class="text-grade"
-     x="1088"
-     y="118"
+     x="1080"
+     y="284"
      text-anchor="middle"
      id="text27">++</text>
   <text
      class="text-grade-label"
-     x="1088"
-     y="144"
+     x="1080"
+     y="310"
      text-anchor="middle"
      id="text28">Strong positive</text>
   <circle
      class="skin"
-     cx="1088"
-     cy="262"
+     cx="1080"
+     cy="428"
      r="82"
      id="circle28" />
   <circle
      class="erythema-strong"
-     cx="1088"
-     cy="262"
+     cx="1080"
+     cy="428"
      r="62"
      id="circle29" />
   <circle
      class="infiltration"
-     cx="1088"
-     cy="262"
+     cx="1080"
+     cy="428"
      r="45"
      id="circle30" />
   <circle
      class="papule"
-     cx="1074"
-     cy="248"
+     cx="1066"
+     cy="414"
      r="5"
      id="circle31" />
   <circle
      class="papule"
-     cx="1100"
-     cy="255"
+     cx="1092"
+     cy="421"
      r="4.5"
      id="circle32" />
   <circle
      class="papule"
-     cx="1082"
-     cy="280"
+     cx="1074"
+     cy="446"
      r="4"
      id="circle33" />
   <circle
      class="papule"
-     cx="1102"
-     cy="275"
+     cx="1094"
+     cy="441"
      r="5"
      id="circle34" />
   <circle
      class="papule"
-     cx="1072"
-     cy="269"
+     cx="1064"
+     cy="435"
      r="4.5"
      id="circle35" />
   <circle
      class="vesicle"
-     cx="1090"
-     cy="259"
+     cx="1082"
+     cy="425"
      r="6"
      id="circle36" />
   <circle
      class="vesicle"
-     cx="1078"
-     cy="265"
+     cx="1070"
+     cy="431"
      r="4.5"
      id="circle37" />
   <circle
      class="vesicle"
-     cx="1098"
-     cy="278"
+     cx="1090"
+     cy="444"
      r="5"
      id="circle38" />
   <circle
      class="skin-outline"
-     cx="1088"
-     cy="262"
+     cx="1080"
+     cy="428"
      r="82"
      id="circle39" />
   <text
      class="text-desc"
-     x="1088"
-     y="382"
+     x="1080"
+     y="548"
      text-anchor="middle"
      id="text39">Erythema, infiltration</text>
   <text
      class="text-desc"
-     x="1088"
-     y="406"
+     x="1080"
+     y="572"
      text-anchor="middle"
      id="text40">Papules</text>
   <text
      class="text-desc-em"
-     x="1088"
-     y="430"
+     x="1080"
+     y="596"
      text-anchor="middle"
      id="text41">Vesicles</text>
   <!-- ==================== COL 5: EXTREME POSITIVE (+++) ==================== -->
   <text
      class="text-grade"
-     x="1376"
-     y="118"
+     x="1368"
+     y="284"
      text-anchor="middle"
      id="text42">+++</text>
   <text
      class="text-grade-label"
-     x="1376"
-     y="144"
+     x="1368"
+     y="310"
      text-anchor="middle"
      id="text43">Extreme</text>
   <circle
      class="skin"
-     cx="1376"
-     cy="262"
+     cx="1368"
+     cy="428"
      r="82"
      id="circle43" />
   <circle
      class="erythema-intense"
-     cx="1376"
-     cy="262"
+     cx="1368"
+     cy="428"
      r="72"
      id="circle44" />
   <ellipse
      class="bulla"
-     cx="1376"
-     cy="255"
+     cx="1368"
+     cy="421"
      rx="26"
      ry="20"
      id="ellipse44" />
   <ellipse
      class="bulla"
-     cx="1362"
-     cy="278"
+     cx="1354"
+     cy="444"
      rx="16"
      ry="13"
      id="ellipse45" />
   <ellipse
      class="bulla"
-     cx="1394"
-     cy="276"
+     cx="1386"
+     cy="442"
      rx="14"
      ry="11"
      id="ellipse46" />
   <circle
      class="vesicle"
-     cx="1350"
-     cy="246"
+     cx="1342"
+     cy="412"
      r="5"
      id="circle46" />
   <circle
      class="vesicle"
-     cx="1402"
-     cy="250"
+     cx="1394"
+     cy="416"
      r="4.5"
      id="circle47" />
   <circle
      class="vesicle"
-     cx="1348"
-     cy="282"
+     cx="1340"
+     cy="448"
      r="4.5"
      id="circle48" />
   <circle
      class="vesicle"
-     cx="1404"
-     cy="280"
+     cx="1396"
+     cy="446"
      r="5"
      id="circle49" />
   <circle
      class="skin-outline"
-     cx="1376"
-     cy="262"
+     cx="1368"
+     cy="428"
      r="82"
      id="circle50" />
   <text
      class="text-desc"
-     x="1376"
-     y="382"
+     x="1368"
+     y="548"
      text-anchor="middle"
      id="text50">Intense erythema</text>
   <text
      class="text-desc-em"
-     x="1376"
-     y="406"
+     x="1368"
+     y="572"
      text-anchor="middle"
      id="text51">Coalescing vesicles</text>
   <text
      class="text-desc-em"
-     x="1376"
-     y="430"
+     x="1368"
+     y="596"
      text-anchor="middle"
      id="text52">or bullous</text>
   <!-- ==================== KEY DISTINCTION ==================== -->
   <line
      stroke="#b3b3b3"
      stroke-width="1"
-     x1="80"
-     y1="460"
-     x2="1520"
-     y2="460"
+     x1="72"
+     y1="626"
+     x2="1512"
+     y2="626"
      id="line52" />
   <rect
-     x="100"
-     y="472"
+     x="92"
+     y="638"
      width="160"
      height="34"
      rx="6"
@@ -542,19 +545,19 @@
      id="rect52" />
   <text
      class="text-desc-em"
-     x="180"
-     y="495"
+     x="172"
+     y="661"
      text-anchor="middle"
      fill="#2d6a4f"
      id="text53">Non-allergic</text>
   <text
      class="text-desc"
-     x="275"
-     y="495"
+     x="267"
+     y="661"
      id="text54">− and ?+</text>
   <rect
-     x="460"
-     y="472"
+     x="452"
+     y="638"
      width="130"
      height="34"
      rx="6"
@@ -564,20 +567,20 @@
      id="rect54" />
   <text
      class="text-desc-em"
-     x="525"
-     y="495"
+     x="517"
+     y="661"
      text-anchor="middle"
      fill="#c0392b"
      id="text55">Allergic</text>
   <text
      class="text-desc"
-     x="605"
-     y="495"
+     x="597"
+     y="661"
      id="text56">+, ++, +++ — requires</text>
   <text
      class="text-desc-em"
-     x="828"
-     y="495"
+     x="820"
+     y="661"
      id="text57">palpable infiltration</text>
   <!-- ================================================================ -->
   <!-- BOTTOM SECTION: Crescendo vs Decrescendo                         -->
@@ -585,327 +588,28 @@
   <line
      stroke="#b3b3b3"
      stroke-width="1"
-     x1="80"
-     y1="525"
-     x2="1520"
-     y2="525"
+     x1="72"
+     y1="691"
+     x2="1512"
+     y2="691"
      id="line57" />
-  <text
-     class="text-grade-label"
-     x="800"
-     y="555"
-     text-anchor="middle"
-     id="text58">Temporal Pattern: Distinguishing True Allergy from Irritant</text>
   <!-- ====== LEFT GRAPH: True Allergic (Crescendo) ====== -->
   <!-- Graph box: 140–680 x, 590–780 y -->
-  <text
-     class="text-curve-label"
-     x="410"
-     y="588"
-     text-anchor="middle"
-     fill="#2d6a4f"
-     id="text59">True Allergic — Crescendo ↗</text>
   <!-- Axes -->
-  <line
-     x1="170"
-     y1="780"
-     x2="650"
-     y2="780"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line59" />
-  <line
-     x1="170"
-     y1="780"
-     x2="170"
-     y2="600"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line60" />
   <!-- Y-axis label -->
-  <text
-     class="text-axis"
-     x="148"
-     y="695"
-     text-anchor="middle"
-     transform="rotate(-90,148,695)"
-     id="text60">Intensity</text>
   <!-- X-axis ticks -->
-  <line
-     x1="230"
-     y1="780"
-     x2="230"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line61" />
-  <line
-     x1="400"
-     y1="780"
-     x2="400"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line62" />
-  <line
-     x1="570"
-     y1="780"
-     x2="570"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line63" />
-  <text
-     class="text-axis"
-     x="230"
-     y="800"
-     text-anchor="middle"
-     id="text63">48h</text>
-  <text
-     class="text-axis"
-     x="400"
-     y="800"
-     text-anchor="middle"
-     id="text64">72h</text>
-  <text
-     class="text-axis"
-     x="570"
-     y="800"
-     text-anchor="middle"
-     id="text65">96h</text>
   <!-- Patches removed annotation -->
-  <line
-     x1="230"
-     y1="780"
-     x2="230"
-     y2="608"
-     stroke="#4c86c5"
-     stroke-width="1"
-     stroke-dasharray="4 3"
-     opacity="0.4"
-     id="line65" />
-  <text
-     class="text-axis"
-     x="236"
-     y="618"
-     fill="#4c86c5"
-     id="text66">patches off</text>
   <!-- Crescendo curve -->
-  <path
-     d="M 230,748 C 300,740 350,710 400,688 C 450,666 510,648 570,635"
-     fill="none"
-     stroke="#2d6a4f"
-     stroke-width="4"
-     stroke-linecap="round"
-     id="path66" />
-  <circle
-     cx="230"
-     cy="748"
-     r="7"
-     fill="#2d6a4f"
-     id="circle66" />
-  <circle
-     cx="400"
-     cy="688"
-     r="7"
-     fill="#2d6a4f"
-     id="circle67" />
-  <circle
-     cx="570"
-     cy="635"
-     r="7"
-     fill="#2d6a4f"
-     id="circle68" />
   <!-- Point labels -->
-  <text
-     class="text-curve-sub"
-     x="248"
-     y="742"
-     fill="#2d6a4f"
-     id="text68">mild</text>
-  <text
-     class="text-curve-sub"
-     x="418"
-     y="682"
-     fill="#2d6a4f"
-     id="text69">moderate</text>
-  <text
-     class="text-curve-sub"
-     x="588"
-     y="628"
-     fill="#2d6a4f"
-     id="text70">strongest</text>
   <!-- Shaded area -->
-  <path
-     d="M 230,748 C 300,740 350,710 400,688 C 450,666 510,648 570,635 L 570,780 L 230,780 Z"
-     fill="#2d6a4f"
-     opacity="0.07"
-     id="path70" />
   <!-- ====== RIGHT GRAPH: Irritant (Decrescendo) ====== -->
-  <text
-     class="text-curve-label"
-     x="1190"
-     y="588"
-     text-anchor="middle"
-     fill="#e67e22"
-     id="text71">Irritant — Decrescendo ↘</text>
   <!-- Axes -->
-  <line
-     x1="950"
-     y1="780"
-     x2="1430"
-     y2="780"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line71" />
-  <line
-     x1="950"
-     y1="780"
-     x2="950"
-     y2="600"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line72" />
   <!-- Y-axis label -->
-  <text
-     class="text-axis"
-     x="928"
-     y="695"
-     text-anchor="middle"
-     transform="rotate(-90,928,695)"
-     id="text72">Intensity</text>
   <!-- X-axis ticks -->
-  <line
-     x1="1010"
-     y1="780"
-     x2="1010"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line73" />
-  <line
-     x1="1180"
-     y1="780"
-     x2="1180"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line74" />
-  <line
-     x1="1350"
-     y1="780"
-     x2="1350"
-     y2="786"
-     stroke="#999"
-     stroke-width="1.5"
-     id="line75" />
-  <text
-     class="text-axis"
-     x="1010"
-     y="800"
-     text-anchor="middle"
-     id="text75">48h</text>
-  <text
-     class="text-axis"
-     x="1180"
-     y="800"
-     text-anchor="middle"
-     id="text76">72h</text>
-  <text
-     class="text-axis"
-     x="1350"
-     y="800"
-     text-anchor="middle"
-     id="text77">96h</text>
   <!-- Patches removed annotation -->
-  <line
-     x1="1010"
-     y1="780"
-     x2="1010"
-     y2="608"
-     stroke="#4c86c5"
-     stroke-width="1"
-     stroke-dasharray="4 3"
-     opacity="0.4"
-     id="line77" />
-  <text
-     class="text-axis"
-     x="1016"
-     y="618"
-     fill="#4c86c5"
-     id="text78">patches off</text>
   <!-- Decrescendo curve -->
-  <path
-     d="M 1010,635 C 1070,660 1120,698 1180,720 C 1240,742 1300,758 1350,768"
-     fill="none"
-     stroke="#e67e22"
-     stroke-width="4"
-     stroke-linecap="round"
-     id="path78" />
-  <circle
-     cx="1010"
-     cy="635"
-     r="7"
-     fill="#e67e22"
-     id="circle78" />
-  <circle
-     cx="1180"
-     cy="720"
-     r="7"
-     fill="#e67e22"
-     id="circle79" />
-  <circle
-     cx="1350"
-     cy="768"
-     r="7"
-     fill="#e67e22"
-     id="circle80" />
   <!-- Point labels -->
-  <text
-     class="text-curve-sub"
-     x="1028"
-     y="628"
-     fill="#e67e22"
-     id="text80">strongest</text>
-  <text
-     class="text-curve-sub"
-     x="1198"
-     y="714"
-     fill="#e67e22"
-     id="text81">fading</text>
-  <text
-     class="text-curve-sub"
-     x="1368"
-     y="762"
-     fill="#e67e22"
-     id="text82">resolved</text>
   <!-- Shaded area -->
-  <path
-     d="M 1010,635 C 1070,660 1120,698 1180,720 C 1240,742 1300,758 1350,768 L 1350,780 L 1010,780 Z"
-     fill="#e67e22"
-     opacity="0.07"
-     id="path82" />
   <!-- Center divider -->
-  <line
-     x1="800"
-     y1="575"
-     x2="800"
-     y2="810"
-     stroke="#d0d0d0"
-     stroke-width="1"
-     stroke-dasharray="4 4"
-     id="line82" />
   <!-- Bottom annotations -->
-  <text
-     class="text-small"
-     x="800"
-     y="838"
-     text-anchor="middle"
-     id="text83">ICDRG grading. Key distinction: palpable infiltration separates true positive from doubtful/irritant.</text>
-  <text
-     class="text-small"
-     x="800"
-     y="863"
-     text-anchor="middle"
-     id="text84">For drug patch testing: read at 48h, 72h, and 96h (or Day 7). Late positives common with drugs.</text>
 </svg>

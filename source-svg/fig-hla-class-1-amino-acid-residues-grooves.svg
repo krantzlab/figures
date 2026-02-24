@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1600 900"
+   width="1600"
+   height="900"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="fig-hla-class-1-amino-acid-residues-grooves.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.51854497"
+     inkscape:cx="867.81287"
+     inkscape:cy="510.08112"
+     inkscape:window-width="1920"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32">
+    <sodipodi:guide
+       position="0,880"
+       orientation="0,1"
+       id="guide35"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1519.0909,398.18182"
+       orientation="-1,0"
+       id="guide36"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1600,20"
+       orientation="0,1"
+       id="guide37"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide38"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <style
+     id="style1">
+    text { font-family: Helvetica, Arial, sans-serif; }
+  </style>
+  <path
+     style="fill:#b5d8cb;fill-opacity:1;stroke-width:5.01363;paint-order:fill markers stroke"
+     d="m 720.58201,525.39055 0.76534,11.1933 c 0,0 125.9718,47.69692 311.18175,60.48926 185.21,12.79234 257.6987,12.12999 302.0879,6.53334 44.3892,-5.59665 92.3649,-17.45229 106.1408,-23.84846 13.776,-6.39617 16.072,-8.79473 19.1334,-14.39138 3.0613,-5.59665 -0.7654,-37.57749 -0.7654,-37.57749 0,0 -4.592,-3.1981 -10.7147,-2.39857 -6.1226,0.79951 -727.82909,0 -727.82909,0 z"
+     id="path1"
+     sodipodi:nodetypes="ccsssscsc" />
+  <path
+     style="fill:#adcdee;fill-opacity:1;stroke-width:5.32239;paint-order:fill markers stroke"
+     d="m 714.04306,343.53741 -0.30137,-17.71991 c 0,0 65.56922,-36.40657 243.95035,-52.86988 204.80106,-18.90168 337.65346,-21.96943 382.95106,-15.78872 45.2975,6.18072 94.2549,19.27362 108.3126,26.33728 14.0581,7.06369 16.4009,9.71255 19.5249,15.89327 3.124,6.18071 -0.7809,41.49906 -0.7809,41.49906 0,0 -4.6859,3.53186 -10.9341,2.6489 -6.2478,-0.88296 -742.72254,0 -742.72254,0 z"
+     id="path1-6"
+     sodipodi:nodetypes="ccsssscsc" />
+  <!-- Title -->
+  <!-- ===== SIDE VIEW (Left) ===== -->
+  <text
+     x="347.73187"
+     y="172.67924"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="35.6912px"
+     fill="#555555"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">Side View</text>
+  <!-- α1 helix (left wall) -->
+  <rect
+     x="98.940666"
+     y="188.25566"
+     width="119.29616"
+     height="236.24545"
+     rx="17.894423"
+     fill="#4a90d9"
+     opacity="0.85"
+     id="rect2"
+     style="stroke-width:2.9677" />
+  <text
+     x="157.80685"
+     y="293.05789"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="29.7427px"
+     fill="#ffffff"
+     id="text3"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">α1</text>
+  <text
+     x="157.80685"
+     y="328.67032"
+     text-anchor="middle"
+     font-size="23.7941px"
+     fill="#ffffff"
+     opacity="0.7"
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">helix</text>
+  <!-- Position 77 on α1 helix -->
+  <!-- Peptide groove (open top) -->
+  <rect
+     x="224.20169"
+     y="194.96719"
+     width="238.59232"
+     height="220.1378"
+     rx="8.9472113"
+     fill="#fff3e0"
+     stroke="#D4A56860"
+     stroke-width="2.41883"
+     id="rect5" />
+  <text
+     x="341.80435"
+     y="293.59747"
+     text-anchor="middle"
+     font-size="23.7941px"
+     fill="#8b6914"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)"><tspan
+       sodipodi:role="line"
+       id="tspan33"
+       x="341.80435"
+       y="293.59747"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677">Peptide</tspan><tspan
+       sodipodi:role="line"
+       id="tspan34"
+       x="341.80435"
+       y="333.50916"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677">Binding</tspan><tspan
+       sodipodi:role="line"
+       x="341.80435"
+       y="373.42081"
+       id="tspan35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677">Groove</tspan></text>
+  <!-- α2 helix (right wall) -->
+  <rect
+     x="468.75885"
+     y="188.25566"
+     width="119.29616"
+     height="236.24545"
+     rx="17.894423"
+     fill="#5ba88c"
+     opacity="0.85"
+     id="rect6"
+     style="stroke-width:2.9677" />
+  <text
+     x="525.8017"
+     y="293.05789"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="29.7427px"
+     fill="#ffffff"
+     id="text7"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">α2</text>
+  <text
+     x="525.8017"
+     y="328.67032"
+     text-anchor="middle"
+     font-size="23.7941px"
+     fill="#ffffff"
+     opacity="0.7"
+     id="text8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">helix</text>
+  <!-- Position 109 on α2 helix -->
+  <!-- β-sheet floor: α1 portion extending under groove -->
+  <rect
+     x="98.940666"
+     y="424.5011"
+     width="253.50435"
+     height="118.12273"
+     rx="11.929616"
+     fill="#4a90d9"
+     opacity="0.45"
+     id="rect9"
+     style="stroke-width:2.9677" />
+  <!-- β-sheet floor: α2 portion extending under groove -->
+  <rect
+     x="337.53311"
+     y="424.5011"
+     width="250.52193"
+     height="118.12273"
+     rx="11.929616"
+     fill="#5ba88c"
+     opacity="0.45"
+     id="rect10"
+     style="stroke-width:2.9677" />
+  <!-- β-sheet label -->
+  <text
+     x="341.80435"
+     y="503.74585"
+     text-anchor="middle"
+     font-size="23.7941px"
+     fill="#555555"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">β-sheet floor (α1 + α2)</text>
+  <!-- β2m under α1 side -->
+  <rect
+     x="103.68538"
+     y="557.3891"
+     width="230.45848"
+     height="118.08485"
+     rx="16.760616"
+     fill="#d4a574"
+     opacity="0.7"
+     id="rect11"
+     style="stroke-width:1.81621" />
+  <text
+     x="209.8409"
+     y="633.42346"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="35.6912px"
+     fill="#ffffff"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">β₂m</text>
+  <!-- α3 under α2 side -->
+  <rect
+     x="348.37817"
+     y="557.3891"
+     width="236.55884"
+     height="121.91428"
+     rx="17.204279"
+     fill="#8b7db8"
+     opacity="0.8"
+     id="rect12"
+     style="stroke-width:1.86969" />
+  <text
+     x="461.61938"
+     y="607.63501"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="35.6912px"
+     fill="#ffffff"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">α3</text>
+  <text
+     x="465.66626"
+     y="660.24438"
+     text-anchor="middle"
+     font-size="26.7684px"
+     fill="#ffffff"
+     opacity="0.7"
+     id="text13"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">183–274</text>
+  <text
+     x="526.67377"
+     y="384.50739"
+     text-anchor="middle"
+     font-size="26.7684px"
+     fill="#ffffff"
+     opacity="0.7"
+     id="text13-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">91-182</text>
+  <text
+     x="100.46389"
+     y="162.31494"
+     text-anchor="middle"
+     font-size="9px"
+     fill="#ffffff"
+     opacity="0.7"
+     id="text13-7-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.759px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:32.6704;display:inline"
+     transform="matrix(2.9824039,0,0,2.9530682,-139.65162,-92.28582)"
+     xml:space="preserve"><tspan
+       x="100.46389"
+       y="162.31494"
+       id="tspan1">1-90</tspan></text>
+  <!-- Membrane -->
+  <!-- ===== TOP-DOWN VIEW (Right) ===== -->
+  <text
+     x="1132.549"
+     y="166.31833"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="35.6912px"
+     fill="#555555"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">Top-Down View (Binding Groove)</text>
+  <!-- α1 helix -->
+  <path
+     d="m 714.3242,296.33622 q 178.94423,-67.92057 566.6568,-67.92057 178.9443,8.85921 202.8034,53.15524"
+     fill="none"
+     stroke="#4a90d9"
+     stroke-width="53.4186"
+     stroke-linecap="round"
+     opacity="0.75"
+     id="path15" />
+  <text
+     x="1066.9263"
+     y="244.38594"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="29.7427px"
+     fill="#ffffff"
+     id="text16"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">α1</text>
+  <!-- α2 helix -->
+  <path
+     d="m 716.48887,564.13497 q 178.94424,67.92056 566.65683,67.92056 178.9443,-8.8592 202.8034,-53.15522"
+     fill="none"
+     stroke="#5ba88c"
+     stroke-width="53.4186"
+     stroke-linecap="round"
+     opacity="0.75"
+     id="path16" />
+  <text
+     x="1069.0803"
+     y="632.21942"
+     text-anchor="middle"
+     font-weight="600"
+     font-size="29.7427px"
+     fill="#ffffff"
+     id="text17"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">α2</text>
+  <!-- β-sheet floor -->
+  <rect
+     x="713.95587"
+     y="340.26758"
+     width="746.33765"
+     height="183.26527"
+     rx="8.9560518"
+     fill="#f5f5f5"
+     stroke="#dddddd"
+     stroke-width="1.64118"
+     id="rect17"
+     style="fill:#fff3e0;fill-opacity:1" />
+  <text
+     x="1077.1235"
+     y="404.57742"
+     text-anchor="middle"
+     font-size="26.7684px"
+     fill="#bbbbbb"
+     id="text18-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">Peptide binding groove</text>
+  <!-- Pockets A–E -->
+  <text
+     x="772.83704"
+     y="473.40631"
+     font-size="32.7169px"
+     fill="#bbbbbb"
+     id="text19"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">A</text>
+  <text
+     x="866.28027"
+     y="473.40631"
+     font-size="32.7169px"
+     fill="#bbbbbb"
+     id="text20"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">B</text>
+  <text
+     x="956.67731"
+     y="474.92944"
+     font-size="32.7169px"
+     fill="#bbbbbb"
+     id="text21"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">C</text>
+  <text
+     x="1054.6899"
+     y="473.40631"
+     font-size="32.7169px"
+     fill="#bbbbbb"
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">D</text>
+  <text
+     x="1164.1021"
+     y="474.92944"
+     font-size="32.7169px"
+     fill="#bbbbbb"
+     id="text23"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a98c48;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">E</text>
+  <!-- F pocket -->
+  <rect
+     x="1280.329"
+     y="387.50122"
+     width="149.68884"
+     height="117.58084"
+     rx="14.968884"
+     fill="#FF6B6B18"
+     stroke="#E63333"
+     stroke-width="4.77601"
+     id="rect23"
+     style="fill:#fff3e0;fill-opacity:1;stroke:#c0a872;stroke-opacity:1" />
+  <!-- Peptide arrow -->
+  <line
+     x1="780.70715"
+     y1="325.39023"
+     x2="1421.9237"
+     y2="325.39023"
+     stroke="#999999"
+     stroke-width="2.37416"
+     id="line24" />
+  <polygon
+     points="620,138 620,132 627,135 "
+     fill="#999999"
+     id="polygon24"
+     transform="matrix(2.9824039,0,0,2.9530682,-427.16654,-72.202314)" />
+  <text
+     x="780.3761"
+     y="321.59366"
+     font-size="20.8199px"
+     fill="#999999"
+     id="text25"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">N</text>
+  <text
+     x="1400.8883"
+     y="319.43967"
+     font-size="20.8199px"
+     fill="#999999"
+     id="text26"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">C</text>
+  <!-- Pos 77 on α1 near F pocket -->
+  <ellipse
+     cx="1388.8208"
+     cy="424.87155"
+     fill="#e63333"
+     id="circle26"
+     style="stroke-width:2.9677"
+     rx="32.806446"
+     ry="32.483753" />
+  <text
+     x="1343.9227"
+     y="476.84525"
+     text-anchor="middle"
+     font-weight="700"
+     font-size="41.6397px"
+     fill="#E63333"
+     id="text24"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#97782a;fill-opacity:1;stroke:none;stroke-width:2.9677;stroke-opacity:1"
+     transform="scale(1.0049547,0.99506972)">F</text>
+  <text
+     x="1381.9735"
+     y="438.84744"
+     text-anchor="middle"
+     font-weight="700"
+     font-size="23.7941px"
+     fill="#ffffff"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">77</text>
+  <!-- Pos 109 on α2 near F pocket -->
+  <!-- ===== LEGEND ===== -->
+  <ellipse
+     cx="1341.3704"
+     cy="565.48529"
+     fill="#e6a600"
+     id="circle27"
+     style="stroke-width:2.9677"
+     rx="32.806446"
+     ry="32.483753" />
+  <text
+     x="1334.7571"
+     y="580.1579"
+     text-anchor="middle"
+     font-weight="700"
+     font-size="23.7941px"
+     fill="#ffffff"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">109</text>
+  <text
+     x="1108.812"
+     y="576.78217"
+     text-anchor="middle"
+     font-size="26.7684px"
+     fill="#bbbbbb"
+     id="text18"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9293px;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555;fill-opacity:1;stroke-width:2.9677"
+     transform="scale(1.0049547,0.99506972)">β-sheet floor</text>
+</svg>
