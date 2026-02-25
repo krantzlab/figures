@@ -20,15 +20,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.5"
-     inkscape:cx="800"
-     inkscape:cy="451"
-     inkscape:window-width="1520"
+     inkscape:zoom="0.40323205"
+     inkscape:cx="633.6302"
+     inkscape:cy="484.8325"
+     inkscape:window-width="1512"
      inkscape:window-height="746"
-     inkscape:window-x="150"
-     inkscape:window-y="80"
+     inkscape:window-x="0"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="layer1">
     <sodipodi:guide
        position="80,0"
        orientation="-1,0"
@@ -60,6 +60,12 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <rect
+       x="-145.84289"
+       y="95.284024"
+       width="132.23089"
+       height="52.503442"
+       id="rect1" />
     <style
        id="style1">
       .text-panel-title { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #fff; }
@@ -91,598 +97,44 @@
   <!-- Row centers: 163, 269, 375, 481, 587                            -->
   <!-- ================================================================ -->
   <!-- ==================== ROW BANDS ==================== -->
-  <rect
-     class="row-band"
-     x="220"
-     y="110"
-     width="1280"
-     height="106"
-     id="rect1" />
-  <rect
-     class="row-band"
-     x="220"
-     y="322"
-     width="1280"
-     height="106"
-     id="rect2" />
-  <rect
-     class="row-band"
-     x="220"
-     y="534"
-     width="1280"
-     height="106"
-     id="rect3" />
   <!-- ==================== PANEL HEADERS ==================== -->
-  <rect
-     x="220"
-     y="30"
-     width="410"
-     height="50"
-     rx="6"
-     fill="#4c86c5"
-     id="rect4" />
-  <text
-     class="text-panel-title"
-     x="425"
-     y="63"
-     text-anchor="middle"
-     id="text4">Patch Testing</text>
-  <text
-     class="text-panel-spec"
-     x="425"
-     y="100"
-     text-anchor="middle"
-     id="text5">Specificity ≥95%</text>
-  <rect
-     x="655"
-     y="30"
-     width="410"
-     height="50"
-     rx="6"
-     fill="#2d6a4f"
-     id="rect5" />
-  <text
-     class="text-panel-title"
-     x="860"
-     y="63"
-     text-anchor="middle"
-     id="text6">Delayed IDT</text>
-  <text
-     class="text-panel-spec"
-     x="860"
-     y="100"
-     text-anchor="middle"
-     id="text7">Specificity ≥95%</text>
-  <rect
-     x="1090"
-     y="30"
-     width="410"
-     height="50"
-     rx="6"
-     fill="#8e44ad"
-     id="rect7" />
-  <text
-     class="text-panel-title"
-     x="1295"
-     y="63"
-     text-anchor="middle"
-     id="text8">ELISpot</text>
-  <text
-     class="text-panel-spec"
-     x="1295"
-     y="100"
-     text-anchor="middle"
-     id="text9">Specificity ~100%</text>
   <!-- ==================== PANEL BORDERS ==================== -->
-  <rect
-     x="220"
-     y="110"
-     width="410"
-     height="530"
-     fill="none"
-     stroke="#b3b3b3"
-     stroke-width="1"
-     id="rect9" />
-  <rect
-     x="655"
-     y="110"
-     width="410"
-     height="530"
-     fill="none"
-     stroke="#b3b3b3"
-     stroke-width="1"
-     id="rect10" />
-  <rect
-     x="1090"
-     y="110"
-     width="410"
-     height="530"
-     fill="none"
-     stroke="#b3b3b3"
-     stroke-width="1"
-     id="rect11" />
   <!-- ==================== GRID (25% intervals) ==================== -->
   <!-- P1: 0=220, 25=323, 50=425, 75=528, 100=630 -->
-  <line
-     class="grid"
-     x1="323"
-     y1="110"
-     x2="323"
-     y2="640"
-     id="line11" />
-  <line
-     class="grid"
-     x1="425"
-     y1="110"
-     x2="425"
-     y2="640"
-     id="line12" />
-  <line
-     class="grid"
-     x1="528"
-     y1="110"
-     x2="528"
-     y2="640"
-     id="line13" />
   <!-- P2: 0=655, 25=758, 50=860, 75=963, 100=1065 -->
-  <line
-     class="grid"
-     x1="758"
-     y1="110"
-     x2="758"
-     y2="640"
-     id="line14" />
-  <line
-     class="grid"
-     x1="860"
-     y1="110"
-     x2="860"
-     y2="640"
-     id="line15" />
-  <line
-     class="grid"
-     x1="963"
-     y1="110"
-     x2="963"
-     y2="640"
-     id="line16" />
   <!-- P3: 0=1090, 25=1193, 50=1295, 75=1398, 100=1500 -->
-  <line
-     class="grid"
-     x1="1193"
-     y1="110"
-     x2="1193"
-     y2="640"
-     id="line17" />
-  <line
-     class="grid"
-     x1="1295"
-     y1="110"
-     x2="1295"
-     y2="640"
-     id="line18" />
-  <line
-     class="grid"
-     x1="1398"
-     y1="110"
-     x2="1398"
-     y2="640"
-     id="line19" />
   <!-- ==================== PHENOTYPE LABELS ==================== -->
-  <text
-     class="text-pheno"
-     x="200"
-     y="170"
-     text-anchor="end"
-     id="text19">MPE</text>
-  <text
-     class="text-pheno"
-     x="200"
-     y="276"
-     text-anchor="end"
-     id="text20">FDE</text>
-  <text
-     class="text-pheno"
-     x="200"
-     y="382"
-     text-anchor="end"
-     id="text21">AGEP</text>
-  <text
-     class="text-pheno"
-     x="200"
-     y="488"
-     text-anchor="end"
-     id="text22">DRESS</text>
-  <text
-     class="text-pheno"
-     x="200"
-     y="594"
-     text-anchor="end"
-     id="text23">SJS/TEN</text>
   <!-- ==================== X-AXIS TICKS ==================== -->
-  <text
-     class="text-tick"
-     x="220"
-     y="660"
-     text-anchor="middle"
-     id="text24">0</text>
-  <text
-     class="text-tick"
-     x="425"
-     y="660"
-     text-anchor="middle"
-     id="text25">50</text>
-  <text
-     class="text-tick"
-     x="630"
-     y="660"
-     text-anchor="middle"
-     id="text26">100</text>
-  <text
-     class="text-tick"
-     x="655"
-     y="660"
-     text-anchor="middle"
-     id="text27">0</text>
-  <text
-     class="text-tick"
-     x="860"
-     y="660"
-     text-anchor="middle"
-     id="text28">50</text>
-  <text
-     class="text-tick"
-     x="1065"
-     y="660"
-     text-anchor="middle"
-     id="text29">100</text>
-  <text
-     class="text-tick"
-     x="1090"
-     y="660"
-     text-anchor="middle"
-     id="text30">0</text>
-  <text
-     class="text-tick"
-     x="1295"
-     y="660"
-     text-anchor="middle"
-     id="text31">50</text>
-  <text
-     class="text-tick"
-     x="1500"
-     y="660"
-     text-anchor="middle"
-     id="text32">100</text>
-  <text
-     class="text-axis"
-     x="860"
-     y="695"
-     text-anchor="middle"
-     id="text33">Sensitivity (%)</text>
   <!-- ================================================================ -->
   <!-- DATA                                                             -->
   <!-- P1=220, P2=655, P3=1090; x = base + sens * 4.1                 -->
   <!-- ================================================================ -->
   <!-- ==================== MPE (y=163) ==================== -->
   <!-- Patch ~52 → 220+52*4.1=433 -->
-  <circle
-     cx="433"
-     cy="163"
-     r="10"
-     fill="#4c86c5"
-     id="circle33" />
-  <text
-     class="text-val"
-     x="451"
-     y="170"
-     id="text34">52%</text>
   <!-- IDT ~70 → 655+70*4.1=942 -->
-  <circle
-     cx="942"
-     cy="163"
-     r="10"
-     fill="#2d6a4f"
-     id="circle34" />
-  <text
-     class="text-val"
-     x="960"
-     y="170"
-     id="text35">70%</text>
   <!-- ELISpot: not indicated (low severity) -->
-  <text
-     class="text-note"
-     x="1295"
-     y="170"
-     text-anchor="middle"
-     id="text36">— not indicated</text>
   <!-- ==================== FDE (y=269) ==================== -->
   <!-- Patch ~50 at lesion site → 220+50*4.1=425 -->
-  <circle
-     cx="425"
-     cy="269"
-     r="10"
-     fill="#4c86c5"
-     id="circle36" />
-  <text
-     class="text-note"
-     x="443"
-     y="264"
-     id="text37">~50%</text>
-  <text
-     class="text-note"
-     x="443"
-     y="286"
-     id="text38">(lesion site)</text>
   <!-- IDT limited -->
-  <circle
-     cx="860"
-     cy="269"
-     r="8"
-     fill="none"
-     stroke="#2d6a4f"
-     stroke-width="2"
-     stroke-dasharray="4 4"
-     id="circle38" />
-  <text
-     class="text-note"
-     x="878"
-     y="276"
-     id="text39">limited data</text>
   <!-- ELISpot: not indicated -->
-  <text
-     class="text-note"
-     x="1295"
-     y="276"
-     text-anchor="middle"
-     id="text40">— not indicated</text>
   <!-- ==================== AGEP (y=375) ==================== -->
   <!-- Patch 58–64, mid 61 → 220+61*4.1=470 -->
-  <line
-     x1="458"
-     y1="375"
-     x2="483"
-     y2="375"
-     stroke="#4c86c5"
-     class="range-bar"
-     id="line40" />
-  <circle
-     cx="470"
-     cy="375"
-     r="10"
-     fill="#4c86c5"
-     id="circle40" />
-  <text
-     class="text-val"
-     x="495"
-     y="382"
-     id="text41">61%</text>
   <!-- IDT ~60 → 655+60*4.1=901 -->
-  <circle
-     cx="901"
-     cy="375"
-     r="10"
-     fill="#2d6a4f"
-     id="circle41" />
-  <text
-     class="text-val"
-     x="919"
-     y="382"
-     id="text42">60%</text>
   <!-- ELISpot: not indicated -->
-  <text
-     class="text-note"
-     x="1295"
-     y="382"
-     text-anchor="middle"
-     id="text43">— not indicated</text>
   <!-- ==================== DRESS (y=481) ==================== -->
   <!-- Patch 32–80, mid 50 → 220+50*4.1=425; lo=351; hi=548 -->
-  <line
-     x1="351"
-     y1="481"
-     x2="548"
-     y2="481"
-     stroke="#4c86c5"
-     class="range-bar"
-     id="line43" />
-  <circle
-     cx="425"
-     cy="481"
-     r="10"
-     fill="#4c86c5"
-     id="circle43" />
-  <text
-     class="text-val"
-     x="558"
-     y="488"
-     id="text44">32–80%</text>
   <!-- IDT ~65 → 655+65*4.1=922 -->
-  <circle
-     cx="922"
-     cy="481"
-     r="10"
-     fill="#2d6a4f"
-     id="circle44" />
-  <text
-     class="text-val"
-     x="940"
-     y="488"
-     id="text45">65%</text>
   <!-- ELISpot ~75 → 1090+75*4.1=1398 -->
-  <circle
-     cx="1398"
-     cy="481"
-     r="10"
-     fill="#8e44ad"
-     id="circle45" />
-  <text
-     class="text-val"
-     x="1416"
-     y="488"
-     id="text46">75%</text>
   <!-- ==================== SJS/TEN (y=587) ==================== -->
   <!-- Patch 9–24, mid 17 → 220+17*4.1=290; lo=257; hi=318 -->
-  <line
-     x1="257"
-     y1="587"
-     x2="318"
-     y2="587"
-     stroke="#4c86c5"
-     class="range-bar"
-     id="line46" />
-  <circle
-     cx="290"
-     cy="587"
-     r="10"
-     fill="#4c86c5"
-     id="circle46" />
-  <text
-     class="text-val"
-     x="328"
-     y="594"
-     id="text47">9–24%</text>
   <!-- IDT CONTRAINDICATED -->
-  <text
-     class="text-contra"
-     x="860"
-     y="594"
-     text-anchor="middle"
-     id="text48">✕ Contraindicated</text>
   <!-- ELISpot IFN-γ ~75 acutely → 1090+75*4.1=1398 -->
-  <circle
-     cx="1398"
-     cy="587"
-     r="10"
-     fill="#8e44ad"
-     id="circle48" />
-  <text
-     class="text-val"
-     x="1416"
-     y="582"
-     id="text49">75%</text>
-  <text
-     class="text-note"
-     x="1416"
-     y="604"
-     id="text50">acute preferred</text>
   <!-- ==================== SUMMARY BARS ==================== -->
   <!-- Patch: overall ~17–61% → x: 220+17*4.1=290 to 220+61*4.1=470 -->
-  <rect
-     x="290"
-     y="708"
-     width="180"
-     height="16"
-     rx="4"
-     fill="#4c86c5"
-     opacity="0.25"
-     id="rect50" />
-  <line
-     x1="290"
-     y1="716"
-     x2="470"
-     y2="716"
-     stroke="#4c86c5"
-     stroke-width="3"
-     stroke-linecap="round"
-     id="line50" />
-  <circle
-     cx="380"
-     cy="716"
-     r="5"
-     fill="#4c86c5"
-     id="circle50" />
-  <text
-     class="text-summary-val"
-     x="425"
-     y="748"
-     text-anchor="middle"
-     fill="#4c86c5"
-     id="text51">~40–55%</text>
   <!-- IDT: overall ~60–70% → x: 655+60*4.1=901 to 655+70*4.1=942 -->
-  <rect
-     x="901"
-     y="708"
-     width="41"
-     height="16"
-     rx="4"
-     fill="#2d6a4f"
-     opacity="0.25"
-     id="rect51" />
-  <line
-     x1="901"
-     y1="716"
-     x2="942"
-     y2="716"
-     stroke="#2d6a4f"
-     stroke-width="3"
-     stroke-linecap="round"
-     id="line51" />
-  <circle
-     cx="921"
-     cy="716"
-     r="5"
-     fill="#2d6a4f"
-     id="circle51" />
-  <text
-     class="text-summary-val"
-     x="860"
-     y="748"
-     text-anchor="middle"
-     fill="#2d6a4f"
-     id="text52">~60–70%*</text>
   <!-- ELISpot: overall ~60–75% → x: 1090+75*4.1=1398 (only DRESS/SJS data) -->
-  <rect
-     x="1336"
-     y="708"
-     width="62"
-     height="16"
-     rx="4"
-     fill="#8e44ad"
-     opacity="0.25"
-     id="rect52" />
-  <line
-     x1="1336"
-     y1="716"
-     x2="1398"
-     y2="716"
-     stroke="#8e44ad"
-     stroke-width="3"
-     stroke-linecap="round"
-     id="line52" />
-  <circle
-     cx="1367"
-     cy="716"
-     r="5"
-     fill="#8e44ad"
-     id="circle52" />
-  <text
-     class="text-summary-val"
-     x="1295"
-     y="748"
-     text-anchor="middle"
-     fill="#8e44ad"
-     id="text53">~60–75%†</text>
   <!-- Summary label -->
-  <text
-     class="text-summary-label"
-     x="200"
-     y="720"
-     text-anchor="end"
-     id="text54">Overall</text>
   <!-- Footnotes -->
-  <text
-     class="text-note"
-     x="860"
-     y="770"
-     text-anchor="middle"
-     id="text55">*excludes SJS/TEN (contraindicated)</text>
-  <text
-     class="text-note"
-     x="1295"
-     y="770"
-     text-anchor="middle"
-     id="text56">†severe phenotypes only (DRESS, SJS/TEN)</text>
   <!-- ==================== RANKING ARROW ==================== -->
   <defs
      id="defs56">
@@ -699,32 +151,558 @@
          id="polygon56" />
     </marker>
   </defs>
-  <line
-     x1="320"
-     y1="800"
-     x2="1440"
-     y2="800"
-     stroke="#212529"
-     stroke-width="2"
-     marker-end="url(#arrow)"
-     id="line56" />
-  <text
-     class="text-summary-label"
-     x="880"
-     y="822"
-     text-anchor="middle"
-     id="text57">Patch  &lt;  IDT  ≤  ELISpot</text>
   <!-- ==================== CAVEAT ==================== -->
-  <text
-     class="text-caveat"
-     x="860"
-     y="858"
-     text-anchor="middle"
-     id="text58">Representative estimates from heterogeneous studies. Reference standard is clinical attribution, not drug provocation.</text>
-  <text
-     class="text-caveat"
-     x="860"
-     y="880"
-     text-anchor="middle"
-     id="text59">Dashed circles = insufficient data. Sensitivity varies by drug, timing, and methodology.</text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layer1"
+     style="display:inline">
+    <rect
+       x="220"
+       y="30"
+       width="410"
+       height="50"
+       rx="6"
+       fill="#4c86c5"
+       id="rect4" />
+    <text
+       class="text-panel-title"
+       x="425"
+       y="63"
+       text-anchor="middle"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Patch Testing</text>
+    <text
+       class="text-panel-spec"
+       x="425"
+       y="114"
+       text-anchor="middle"
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Specificity ≥95%</text>
+    <rect
+       x="220"
+       y="124"
+       width="410"
+       height="530"
+       fill="none"
+       stroke="#b3b3b3"
+       stroke-width="1"
+       id="rect9" />
+    <text
+       class="text-pheno"
+       x="200"
+       y="184"
+       text-anchor="end"
+       id="text19"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MPE</text>
+    <text
+       class="text-pheno"
+       x="200"
+       y="290"
+       text-anchor="end"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">FDE</text>
+    <text
+       class="text-pheno"
+       x="200"
+       y="396"
+       text-anchor="end"
+       id="text21"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">AGEP</text>
+    <text
+       class="text-pheno"
+       x="200"
+       y="502"
+       text-anchor="end"
+       id="text22"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">DRESS</text>
+    <text
+       class="text-pheno"
+       x="200"
+       y="608"
+       text-anchor="end"
+       id="text23"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">SJS/TEN</text>
+    <text
+       class="text-tick"
+       x="220"
+       y="674"
+       text-anchor="middle"
+       id="text24"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">0</text>
+    <text
+       class="text-tick"
+       x="425"
+       y="678"
+       text-anchor="middle"
+       id="text25"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">50</text>
+    <text
+       class="text-tick"
+       x="602.43408"
+       y="678.5943"
+       text-anchor="middle"
+       id="text26"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">100</text>
+    <text
+       class="text-axis"
+       x="428.95612"
+       y="709.04962"
+       text-anchor="middle"
+       id="text33-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529">Sensitivity</text>
+    <circle
+       cx="433"
+       cy="177"
+       r="10"
+       fill="#4c86c5"
+       id="circle33" />
+    <text
+       class="text-val"
+       x="451"
+       y="184"
+       id="text34"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">52%</text>
+    <circle
+       cx="425"
+       cy="283"
+       r="10"
+       fill="#4c86c5"
+       id="circle36" />
+    <text
+       class="text-note"
+       x="443"
+       y="278"
+       id="text37"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">~50%</text>
+    <text
+       class="text-note"
+       x="443"
+       y="300"
+       id="text38"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">(lesion site)</text>
+    <line
+       x1="458"
+       y1="389"
+       x2="483"
+       y2="389"
+       stroke="#4c86c5"
+       class="range-bar"
+       id="line40" />
+    <circle
+       cx="470"
+       cy="389"
+       r="10"
+       fill="#4c86c5"
+       id="circle40" />
+    <text
+       class="text-val"
+       x="495"
+       y="396"
+       id="text41"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">61%</text>
+    <line
+       x1="351"
+       y1="495"
+       x2="548"
+       y2="495"
+       stroke="#4c86c5"
+       class="range-bar"
+       id="line43" />
+    <circle
+       cx="425"
+       cy="495"
+       r="10"
+       fill="#4c86c5"
+       id="circle43" />
+    <text
+       class="text-val"
+       x="437.10916"
+       y="474.42841"
+       id="text44"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">32–80%</text>
+    <line
+       x1="257"
+       y1="601"
+       x2="318"
+       y2="601"
+       stroke="#4c86c5"
+       class="range-bar"
+       id="line46" />
+    <circle
+       cx="290"
+       cy="601"
+       r="10"
+       fill="#4c86c5"
+       id="circle46" />
+    <text
+       class="text-val"
+       x="328"
+       y="608"
+       id="text47"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9–24%</text>
+    <rect
+       x="290"
+       y="722"
+       width="180"
+       height="16"
+       rx="4"
+       fill="#4c86c5"
+       opacity="0.25"
+       id="rect50" />
+    <line
+       x1="290"
+       y1="730"
+       x2="470"
+       y2="730"
+       stroke="#4c86c5"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="line50" />
+    <circle
+       cx="380"
+       cy="730"
+       fill="#4c86c5"
+       id="circle50"
+       r="5" />
+    <text
+       class="text-summary-val"
+       x="380.27484"
+       y="775.612"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text51"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">~40–55%</text>
+    <text
+       class="text-summary-label"
+       x="200"
+       y="734"
+       text-anchor="end"
+       id="text54"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;fill:#212529">Overall</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2"
+     style="display:inline">
+    <rect
+       x="655"
+       y="30"
+       width="410"
+       height="50"
+       rx="6"
+       fill="#2d6a4f"
+       id="rect5" />
+    <text
+       class="text-panel-title"
+       x="860"
+       y="63"
+       text-anchor="middle"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Delayed IDT</text>
+    <text
+       class="text-panel-spec"
+       x="860"
+       y="114"
+       text-anchor="middle"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Specificity ≥95%</text>
+    <rect
+       x="655"
+       y="124"
+       width="410"
+       height="530"
+       fill="none"
+       stroke="#b3b3b3"
+       stroke-width="1"
+       id="rect10" />
+    <text
+       class="text-tick"
+       x="664.1886"
+       y="678.5943"
+       text-anchor="middle"
+       id="text27"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">0</text>
+    <text
+       class="text-tick"
+       x="860"
+       y="674"
+       text-anchor="middle"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">50</text>
+    <text
+       class="text-tick"
+       x="1028.2455"
+       y="678.5943"
+       text-anchor="middle"
+       id="text29"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">100</text>
+    <text
+       class="text-axis"
+       x="879.08801"
+       y="711.12091"
+       text-anchor="middle"
+       id="text33"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Sensitivity</text>
+    <circle
+       cx="942"
+       cy="177"
+       r="10"
+       fill="#2d6a4f"
+       id="circle34" />
+    <text
+       class="text-val"
+       x="960"
+       y="184"
+       id="text35"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">70%</text>
+    <circle
+       cx="860"
+       cy="283"
+       r="8"
+       fill="none"
+       stroke="#2d6a4f"
+       stroke-width="2"
+       stroke-dasharray="4, 4"
+       id="circle38" />
+    <text
+       class="text-note"
+       x="878"
+       y="290"
+       id="text39"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">limited data</text>
+    <circle
+       cx="901"
+       cy="389"
+       r="10"
+       fill="#2d6a4f"
+       id="circle41" />
+    <text
+       class="text-val"
+       x="919"
+       y="396"
+       id="text42"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">60%</text>
+    <circle
+       cx="922"
+       cy="495"
+       r="10"
+       fill="#2d6a4f"
+       id="circle44" />
+    <text
+       class="text-val"
+       x="940"
+       y="502"
+       id="text45"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">65%</text>
+    <text
+       class="text-contra"
+       x="860"
+       y="608"
+       text-anchor="middle"
+       id="text48"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">✕ Contraindicated</text>
+    <rect
+       x="901"
+       y="722"
+       width="41"
+       height="16"
+       rx="4"
+       fill="#2d6a4f"
+       opacity="0.25"
+       id="rect51" />
+    <line
+       x1="901"
+       y1="730"
+       x2="942"
+       y2="730"
+       stroke="#2d6a4f"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="line51" />
+    <circle
+       cx="921"
+       cy="730"
+       r="5"
+       fill="#2d6a4f"
+       id="circle51" />
+    <text
+       class="text-summary-val"
+       x="916.39258"
+       y="773.66742"
+       text-anchor="middle"
+       fill="#2d6a4f"
+       id="text52"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">~60–70%</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layer3"
+     style="display:inline">
+    <rect
+       x="1090"
+       y="30"
+       width="410"
+       height="50"
+       rx="6"
+       fill="#8e44ad"
+       id="rect7" />
+    <text
+       class="text-panel-title"
+       x="1295"
+       y="63"
+       text-anchor="middle"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ELISpot</text>
+    <text
+       class="text-panel-spec"
+       x="1295"
+       y="114"
+       text-anchor="middle"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Specificity ~100%</text>
+    <rect
+       x="1090"
+       y="124"
+       width="410"
+       height="530"
+       fill="none"
+       stroke="#b3b3b3"
+       stroke-width="1"
+       id="rect11" />
+    <text
+       class="text-tick"
+       x="1090"
+       y="676"
+       text-anchor="middle"
+       id="text30"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">0</text>
+    <text
+       class="text-tick"
+       x="1295"
+       y="678"
+       text-anchor="middle"
+       id="text31"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">50</text>
+    <text
+       class="text-tick"
+       x="1477.0284"
+       y="680.89148"
+       text-anchor="middle"
+       id="text32"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">100</text>
+    <text
+       class="text-axis"
+       x="1299.6282"
+       y="712.55548"
+       text-anchor="middle"
+       id="text33-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529">Sensitivity</text>
+    <text
+       class="text-note"
+       x="1295"
+       y="184"
+       text-anchor="middle"
+       id="text36"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">— not indicated</text>
+    <text
+       class="text-note"
+       x="1295"
+       y="290"
+       text-anchor="middle"
+       id="text40"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">— not indicated</text>
+    <text
+       class="text-note"
+       x="1295"
+       y="396"
+       text-anchor="middle"
+       id="text43"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">— not indicated</text>
+    <circle
+       cx="1398"
+       cy="495"
+       r="10"
+       fill="#8e44ad"
+       id="circle45" />
+    <text
+       class="text-val"
+       x="1416"
+       y="502"
+       id="text46"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">75%</text>
+    <circle
+       cx="1398"
+       cy="601"
+       r="10"
+       fill="#8e44ad"
+       id="circle48" />
+    <text
+       class="text-val"
+       x="1416"
+       y="596"
+       id="text49"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">75%</text>
+    <text
+       class="text-note"
+       x="1307.999"
+       y="637.83691"
+       id="text50"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a">acute preferred</text>
+    <rect
+       x="1336"
+       y="722"
+       width="62"
+       height="16"
+       rx="4"
+       fill="#8e44ad"
+       opacity="0.25"
+       id="rect52" />
+    <line
+       x1="1336"
+       y1="730"
+       x2="1398"
+       y2="730"
+       stroke="#8e44ad"
+       stroke-width="3"
+       stroke-linecap="round"
+       id="line52" />
+    <circle
+       cx="1367"
+       cy="730"
+       r="5"
+       fill="#8e44ad"
+       id="circle52" />
+    <text
+       class="text-summary-val"
+       x="1368.8937"
+       y="779.50116"
+       text-anchor="middle"
+       fill="#8e44ad"
+       id="text53"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">~60–75%</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="layer4">
+    <line
+       x1="320"
+       y1="814"
+       x2="1440"
+       y2="814"
+       stroke="#212529"
+       stroke-width="2"
+       marker-end="url(#arrow)"
+       id="line56" />
+    <text
+       class="text-summary-label"
+       x="875.57684"
+       y="847.05786"
+       text-anchor="middle"
+       id="text57"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#212529">Patch &lt; IDT ≤ ELISpot</text>
+  </g>
 </svg>
