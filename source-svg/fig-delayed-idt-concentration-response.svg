@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.43774776"
-     inkscape:cx="254.7129"
+     inkscape:cx="253.57069"
      inkscape:cy="223.87322"
      inkscape:window-width="1512"
      inkscape:window-height="823"
@@ -69,7 +69,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="layer1">
+     inkscape:label="layer1"
+     style="display:inline">
     <path
        class="skin-fill"
        d="m 1.5000423,31.5 c 19.9999997,0 79.9999997,-10 139.9999977,-15 l 40,-5 c 40,-5 80,-10 120,-10 v 560 c -40,10 -80,15 -120,20 l -40,5 c -59.999998,5 -119.999998,10 -139.9999977,15 z"
@@ -164,7 +165,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="layer2"
-     style="display:none">
+     style="display:inline">
     <line
        class="leader-line"
        x1="157.5"
@@ -205,7 +206,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="layer3"
-     style="display:none">
+     style="display:inline">
     <line
        class="leader-line"
        x1="157.5"

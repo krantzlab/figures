@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.48561298"
-     inkscape:cx="780.45691"
+     inkscape:cx="781.48652"
      inkscape:cy="322.2731"
      inkscape:window-width="1512"
      inkscape:window-height="746"
      inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6">
+     inkscape:current-layer="layer3">
     <sodipodi:guide
        position="-18.5,29.615234"
        orientation="-1,0"
@@ -108,7 +108,7 @@
   <!-- ============================================================== -->
   <g
      inkscape:groupmode="layer"
-     id="layer4"
+     id="layer1"
      inkscape:label="layer1">
     <text
        class="label-md"
@@ -215,7 +215,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
+     id="layer2"
      inkscape:label="layer2">
     <text
        class="label-md"
@@ -634,7 +634,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer6"
+     id="layer3"
      inkscape:label="layer3"
      style="display:inline">
     <line
