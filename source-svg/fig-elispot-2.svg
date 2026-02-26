@@ -1,22 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg version="1.1" viewBox="0 0 1600 900" width="1600" height="900"
+<svg
+   version="1.1"
+   viewBox="0 0 1307.0021 506.67731"
+   width="1307.0021"
+   height="506.67731"
    sodipodi:docname="fig-elispot-2.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   id="svg156"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg">
-  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25"
-     inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" inkscape:zoom="0.5" inkscape:cx="800" inkscape:cy="450"
-     inkscape:window-width="1512" inkscape:window-height="746" inkscape:window-x="0"
-     inkscape:window-y="75" inkscape:window-maximized="0" inkscape:current-layer="svg1">
-    <sodipodi:guide position="80,0" orientation="-1,0" id="gl" inkscape:locked="false" inkscape:label="left-margin" inkscape:color="rgb(0,134,229)"/>
-    <sodipodi:guide position="1520,0" orientation="-1,0" id="gr" inkscape:locked="false" inkscape:label="right-margin" inkscape:color="rgb(0,134,229)"/>
-    <sodipodi:guide position="0,880" orientation="0,1" id="gt" inkscape:locked="false" inkscape:label="top-margin" inkscape:color="rgb(0,134,229)"/>
-    <sodipodi:guide position="0,20" orientation="0,1" id="gb" inkscape:locked="false" inkscape:label="bottom-margin" inkscape:color="rgb(0,134,229)"/>
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.48561298"
+     inkscape:cx="780.45691"
+     inkscape:cy="322.2731"
+     inkscape:window-width="1512"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer6">
+    <sodipodi:guide
+       position="-18.5,29.615234"
+       orientation="-1,0"
+       id="gl"
+       inkscape:locked="false"
+       inkscape:label="left-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1421.5,29.615234"
+       orientation="-1,0"
+       id="gr"
+       inkscape:locked="false"
+       inkscape:label="right-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-98.5,909.61523"
+       orientation="0,1"
+       id="gt"
+       inkscape:locked="false"
+       inkscape:label="top-margin"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-98.5,49.615234"
+       orientation="0,1"
+       id="gb"
+       inkscape:locked="false"
+       inkscape:label="bottom-margin"
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
-  <defs>
-    <style>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .well-ring { fill: none; stroke: #a89888; stroke-width: 3; }
       .well-fill { fill: #f5f0e8; }
       .spot-drug { fill: #c0392b; opacity: 0.6; }
@@ -29,242 +74,963 @@
       .note { font-family: ArialMT, Arial; font-size: 20px; fill: #555; }
     </style>
   </defs>
-
   <!-- ============================================================== -->
   <!-- THREE-PANEL: Neg Control | Drug Well (Raw) | Drug Well (Adj)    -->
   <!-- Well centers: 260, 800, 1340                                    -->
   <!-- Well radius: 160                                                -->
   <!-- ============================================================== -->
-
   <!-- ====== WELL 1: Negative Control ====== -->
-  <text class="label-md" x="260" y="50" text-anchor="middle" fill="#4c86c5">Negative Control</text>
-  <text class="label-sm" x="260" y="76" text-anchor="middle">(cell media only)</text>
-
   <!-- Well -->
-  <circle cx="260" cy="280" r="160" class="well-fill"/>
-  <circle cx="260" cy="280" r="160" class="well-ring"/>
-
   <!-- ~10 background spots (blue, scattered) -->
-  <circle cx="220" cy="230" r="5" class="spot-bg"/>
-  <circle cx="290" cy="210" r="4.5" class="spot-bg"/>
-  <circle cx="310" cy="310" r="5.5" class="spot-bg"/>
-  <circle cx="200" cy="330" r="4" class="spot-bg"/>
-  <circle cx="250" cy="370" r="5" class="spot-bg"/>
-  <circle cx="330" cy="260" r="4.5" class="spot-bg"/>
-  <circle cx="180" cy="270" r="5" class="spot-bg"/>
-  <circle cx="270" cy="170" r="4" class="spot-bg"/>
-  <circle cx="340" cy="350" r="5" class="spot-bg"/>
-  <circle cx="230" cy="310" r="4.5" class="spot-bg"/>
-
   <!-- Count -->
-  <text class="label-count" x="260" y="500" text-anchor="middle" fill="#4c86c5">10 SFU</text>
-  <text class="label-unit" x="260" y="528" text-anchor="middle">Background</text>
-
   <!-- ====== ARROW 1: minus sign ====== -->
   <!-- Between well 1 and well 2 -->
-  <line x1="440" y1="280" x2="560" y2="280" stroke="#999" stroke-width="2" stroke-dasharray="6 4"/>
-
   <!-- ====== WELL 2: Drug Well (Raw) ====== -->
-  <text class="label-md" x="800" y="50" text-anchor="middle" fill="#c0392b">Drug Well</text>
-  <text class="label-sm" x="800" y="76" text-anchor="middle">(raw count)</text>
-
   <!-- Well -->
-  <circle cx="800" cy="280" r="160" class="well-fill"/>
-  <circle cx="800" cy="280" r="160" class="well-ring"/>
-
   <!-- ~110 spots total: ~10 blue (background) + ~100 red (drug-specific) -->
   <!-- Background spots (blue) — same positions offset to well 2 center -->
-  <circle cx="760" cy="230" r="5" class="spot-bg"/>
-  <circle cx="830" cy="210" r="4.5" class="spot-bg"/>
-  <circle cx="850" cy="310" r="5.5" class="spot-bg"/>
-  <circle cx="740" cy="330" r="4" class="spot-bg"/>
-  <circle cx="790" cy="370" r="5" class="spot-bg"/>
-  <circle cx="870" cy="260" r="4.5" class="spot-bg"/>
-  <circle cx="720" cy="270" r="5" class="spot-bg"/>
-  <circle cx="810" cy="170" r="4" class="spot-bg"/>
-  <circle cx="880" cy="350" r="5" class="spot-bg"/>
-  <circle cx="770" cy="310" r="4.5" class="spot-bg"/>
-
   <!-- Drug-specific spots (red) — many more, scattered throughout -->
-  <circle cx="755" cy="195" r="4.5" class="spot-drug"/>
-  <circle cx="785" cy="185" r="5" class="spot-drug"/>
-  <circle cx="815" cy="190" r="4" class="spot-drug"/>
-  <circle cx="845" cy="200" r="5.5" class="spot-drug"/>
-  <circle cx="710" cy="220" r="4.5" class="spot-drug"/>
-  <circle cx="740" cy="215" r="5" class="spot-drug"/>
-  <circle cx="800" cy="205" r="4" class="spot-drug"/>
-  <circle cx="860" cy="225" r="4.5" class="spot-drug"/>
-  <circle cx="890" cy="235" r="5" class="spot-drug"/>
-  <circle cx="700" cy="250" r="4" class="spot-drug"/>
-  <circle cx="730" cy="245" r="5.5" class="spot-drug"/>
-  <circle cx="780" cy="240" r="4.5" class="spot-drug"/>
-  <circle cx="820" cy="245" r="5" class="spot-drug"/>
-  <circle cx="855" cy="240" r="4" class="spot-drug"/>
-  <circle cx="895" cy="260" r="5" class="spot-drug"/>
-  <circle cx="910" cy="280" r="4.5" class="spot-drug"/>
-  <circle cx="690" cy="275" r="5" class="spot-drug"/>
-  <circle cx="680" cy="300" r="4" class="spot-drug"/>
-  <circle cx="750" cy="265" r="5.5" class="spot-drug"/>
-  <circle cx="790" cy="255" r="4" class="spot-drug"/>
-  <circle cx="830" cy="265" r="5" class="spot-drug"/>
-  <circle cx="865" cy="275" r="4.5" class="spot-drug"/>
-  <circle cx="700" cy="295" r="5" class="spot-drug"/>
-  <circle cx="730" cy="290" r="4" class="spot-drug"/>
-  <circle cx="775" cy="285" r="5.5" class="spot-drug"/>
-  <circle cx="815" cy="290" r="4.5" class="spot-drug"/>
-  <circle cx="850" cy="295" r="5" class="spot-drug"/>
-  <circle cx="885" cy="295" r="4" class="spot-drug"/>
-  <circle cx="905" cy="310" r="5" class="spot-drug"/>
-  <circle cx="690" cy="320" r="4.5" class="spot-drug"/>
-  <circle cx="720" cy="315" r="5.5" class="spot-drug"/>
-  <circle cx="760" cy="305" r="4" class="spot-drug"/>
-  <circle cx="800" cy="310" r="5" class="spot-drug"/>
-  <circle cx="835" cy="320" r="4.5" class="spot-drug"/>
-  <circle cx="870" cy="330" r="5" class="spot-drug"/>
-  <circle cx="900" cy="340" r="4" class="spot-drug"/>
-  <circle cx="700" cy="345" r="5.5" class="spot-drug"/>
-  <circle cx="735" cy="340" r="4.5" class="spot-drug"/>
-  <circle cx="770" cy="340" r="5" class="spot-drug"/>
-  <circle cx="810" cy="345" r="4" class="spot-drug"/>
-  <circle cx="845" cy="350" r="5" class="spot-drug"/>
-  <circle cx="755" cy="360" r="4.5" class="spot-drug"/>
-  <circle cx="790" cy="355" r="5.5" class="spot-drug"/>
-  <circle cx="825" cy="365" r="4" class="spot-drug"/>
-  <circle cx="860" cy="370" r="5" class="spot-drug"/>
-  <circle cx="715" cy="365" r="4.5" class="spot-drug"/>
-  <circle cx="895" cy="360" r="4" class="spot-drug"/>
-  <circle cx="680" cy="345" r="5" class="spot-drug"/>
-  <circle cx="750" cy="385" r="5.5" class="spot-drug"/>
-  <circle cx="800" cy="380" r="4.5" class="spot-drug"/>
-  <circle cx="840" cy="385" r="5" class="spot-drug"/>
-  <circle cx="875" cy="380" r="4" class="spot-drug"/>
-
   <!-- Count -->
-  <text class="label-count" x="800" y="500" text-anchor="middle" fill="#c0392b">110 SFU</text>
-  <text class="label-unit" x="800" y="528" text-anchor="middle">Raw count</text>
-
   <!-- ====== SUBTRACTION ARROW ====== -->
-  <line x1="990" y1="280" x2="1110" y2="280" stroke="#2d6a4f" stroke-width="3"/>
-  <polygon points="1110,272 1130,280 1110,288" fill="#2d6a4f"/>
   <!-- Minus background label -->
-  <rect x="1000" y="236" width="100" height="36" rx="8" fill="#ccddec" stroke="#4c86c5" stroke-width="1.5"/>
-  <text x="1050" y="260" text-anchor="middle" style="font-family: Arial-BoldMT, Arial; font-weight:700; font-size:18px; fill:#4c86c5;">− 10 SFU</text>
-  <text x="1050" y="315" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:16px; fill:#888;">subtract</text>
-  <text x="1050" y="335" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:16px; fill:#888;">background</text>
-
   <!-- ====== WELL 3: Drug Well (Background Removed) ====== -->
-  <text class="label-md" x="1340" y="50" text-anchor="middle" fill="#2d6a4f">Drug Well</text>
-  <text class="label-sm" x="1340" y="76" text-anchor="middle">(background removed)</text>
-
   <!-- Well -->
-  <circle cx="1340" cy="280" r="160" class="well-fill"/>
-  <circle cx="1340" cy="280" r="160" class="well-ring"/>
-
   <!-- ~100 red spots only (no blue background spots) -->
-  <circle cx="1295" cy="195" r="4.5" class="spot-drug"/>
-  <circle cx="1325" cy="185" r="5" class="spot-drug"/>
-  <circle cx="1355" cy="190" r="4" class="spot-drug"/>
-  <circle cx="1385" cy="200" r="5.5" class="spot-drug"/>
-  <circle cx="1250" cy="220" r="4.5" class="spot-drug"/>
-  <circle cx="1280" cy="215" r="5" class="spot-drug"/>
-  <circle cx="1340" cy="205" r="4" class="spot-drug"/>
-  <circle cx="1400" cy="225" r="4.5" class="spot-drug"/>
-  <circle cx="1430" cy="235" r="5" class="spot-drug"/>
-  <circle cx="1240" cy="250" r="4" class="spot-drug"/>
-  <circle cx="1270" cy="245" r="5.5" class="spot-drug"/>
-  <circle cx="1320" cy="240" r="4.5" class="spot-drug"/>
-  <circle cx="1360" cy="245" r="5" class="spot-drug"/>
-  <circle cx="1395" cy="240" r="4" class="spot-drug"/>
-  <circle cx="1435" cy="260" r="5" class="spot-drug"/>
-  <circle cx="1450" cy="280" r="4.5" class="spot-drug"/>
-  <circle cx="1230" cy="275" r="5" class="spot-drug"/>
-  <circle cx="1220" cy="300" r="4" class="spot-drug"/>
-  <circle cx="1290" cy="265" r="5.5" class="spot-drug"/>
-  <circle cx="1330" cy="255" r="4" class="spot-drug"/>
-  <circle cx="1370" cy="265" r="5" class="spot-drug"/>
-  <circle cx="1405" cy="275" r="4.5" class="spot-drug"/>
-  <circle cx="1240" cy="295" r="5" class="spot-drug"/>
-  <circle cx="1270" cy="290" r="4" class="spot-drug"/>
-  <circle cx="1315" cy="285" r="5.5" class="spot-drug"/>
-  <circle cx="1355" cy="290" r="4.5" class="spot-drug"/>
-  <circle cx="1390" cy="295" r="5" class="spot-drug"/>
-  <circle cx="1425" cy="295" r="4" class="spot-drug"/>
-  <circle cx="1445" cy="310" r="5" class="spot-drug"/>
-  <circle cx="1230" cy="320" r="4.5" class="spot-drug"/>
-  <circle cx="1260" cy="315" r="5.5" class="spot-drug"/>
-  <circle cx="1300" cy="305" r="4" class="spot-drug"/>
-  <circle cx="1340" cy="310" r="5" class="spot-drug"/>
-  <circle cx="1375" cy="320" r="4.5" class="spot-drug"/>
-  <circle cx="1410" cy="330" r="5" class="spot-drug"/>
-  <circle cx="1440" cy="340" r="4" class="spot-drug"/>
-  <circle cx="1240" cy="345" r="5.5" class="spot-drug"/>
-  <circle cx="1275" cy="340" r="4.5" class="spot-drug"/>
-  <circle cx="1310" cy="340" r="5" class="spot-drug"/>
-  <circle cx="1350" cy="345" r="4" class="spot-drug"/>
-  <circle cx="1385" cy="350" r="5" class="spot-drug"/>
-  <circle cx="1295" cy="360" r="4.5" class="spot-drug"/>
-  <circle cx="1330" cy="355" r="5.5" class="spot-drug"/>
-  <circle cx="1365" cy="365" r="4" class="spot-drug"/>
-  <circle cx="1400" cy="370" r="5" class="spot-drug"/>
-  <circle cx="1255" cy="365" r="4.5" class="spot-drug"/>
-  <circle cx="1435" cy="360" r="4" class="spot-drug"/>
-  <circle cx="1220" cy="345" r="5" class="spot-drug"/>
-  <circle cx="1290" cy="385" r="5.5" class="spot-drug"/>
-  <circle cx="1340" cy="380" r="4.5" class="spot-drug"/>
-  <circle cx="1380" cy="385" r="5" class="spot-drug"/>
-  <circle cx="1415" cy="380" r="4" class="spot-drug"/>
-
   <!-- Count + result -->
-  <text class="label-count" x="1340" y="500" text-anchor="middle" fill="#2d6a4f">100 SFU</text>
-  <text class="label-unit" x="1340" y="528" text-anchor="middle">Drug-specific response</text>
-
   <!-- POSITIVE result badge -->
-  <rect x="1240" y="545" width="200" height="44" rx="10" fill="#2d6a4f" opacity="0.12" stroke="#2d6a4f" stroke-width="2"/>
-  <text x="1340" y="574" text-anchor="middle" style="font-family: Arial-BoldMT, Arial; font-weight:700; font-size:24px; fill:#2d6a4f;">POSITIVE</text>
-
   <!-- ============================================================== -->
   <!-- LEGEND                                                           -->
   <!-- ============================================================== -->
-  <line x1="80" y1="630" x2="1520" y2="630" stroke="#ddd" stroke-width="1"/>
-
   <!-- Spot legend -->
-  <circle cx="120" cy="665" r="8" class="spot-drug"/>
-  <text x="140" y="672" style="font-family: ArialMT, Arial; font-size:20px; fill:#555;">Drug-specific IFN-γ spot</text>
-
-  <circle cx="480" cy="665" r="8" class="spot-bg"/>
-  <text x="500" y="672" style="font-family: ArialMT, Arial; font-size:20px; fill:#555;">Non-specific background spot</text>
-
   <!-- Formula -->
-  <rect x="880" y="645" width="620" height="44" rx="8" fill="#f5f5f5" stroke="#ddd" stroke-width="1.5"/>
-  <text x="1190" y="674" text-anchor="middle" style="font-family: ArialMT, Arial; font-size:20px; fill:#333;">
-    <tspan style="font-weight:700; fill:#c0392b;">Drug well (110)</tspan>
-    <tspan> − </tspan>
-    <tspan style="font-weight:700; fill:#4c86c5;">Neg control (10)</tspan>
-    <tspan> = </tspan>
-    <tspan style="font-weight:700; fill:#2d6a4f;">100 SFU</tspan>
-  </text>
-
   <!-- ============================================================== -->
   <!-- BOTTOM NOTES                                                     -->
   <!-- ============================================================== -->
-
-  <text class="note" x="100" y="730">
-    <tspan style="font-weight:700; fill:#333;">Background subtraction:</tspan>
-    <tspan> Each spot = one T cell secreting IFN-γ. Negative control captures non-specific activation.</tspan>
-  </text>
-  <text class="note" x="100" y="758">
-    <tspan x="100" dy="0">Subtracting the negative control count from the drug well count isolates the </tspan>
-    <tspan style="font-weight:700;">drug-specific T-cell response.</tspan>
-  </text>
-  <text class="note" x="100" y="798">
-    <tspan style="font-weight:700; fill:#e67e22;">Positivity criteria:</tspan>
-    <tspan> ≥50 SFU/10⁶ cells (background-subtracted) </tspan>
-    <tspan style="font-weight:700;">and/or</tspan>
-    <tspan> stimulation index ≥3× negative control (here: 110/10 = 11×).</tspan>
-  </text>
-  <text class="note" x="100" y="828">
-    <tspan style="font-weight:700; fill:#333;">Duplicate or triplicate wells</tspan>
-    <tspan> are run for each condition; results averaged before interpretation.</tspan>
-  </text>
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="layer1">
+    <text
+       class="label-md"
+       x="161.5"
+       y="20.384766"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Negative Control</text>
+    <text
+       class="label-sm"
+       x="161.5"
+       y="46.384766"
+       text-anchor="middle"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">(cell media only)</text>
+    <circle
+       cx="161.5"
+       cy="250.38477"
+       r="160"
+       class="well-fill"
+       id="circle2" />
+    <circle
+       cx="161.5"
+       cy="250.38477"
+       r="160"
+       class="well-ring"
+       id="circle3" />
+    <circle
+       cx="121.5"
+       cy="200.38477"
+       r="5"
+       class="spot-bg"
+       id="circle4" />
+    <circle
+       cx="191.5"
+       cy="180.38477"
+       r="4.5"
+       class="spot-bg"
+       id="circle5" />
+    <circle
+       cx="211.5"
+       cy="280.38477"
+       r="5.5"
+       class="spot-bg"
+       id="circle6" />
+    <circle
+       cx="101.5"
+       cy="300.38477"
+       r="4"
+       class="spot-bg"
+       id="circle7" />
+    <circle
+       cx="151.5"
+       cy="340.38477"
+       r="5"
+       class="spot-bg"
+       id="circle8" />
+    <circle
+       cx="231.5"
+       cy="230.38477"
+       r="4.5"
+       class="spot-bg"
+       id="circle9" />
+    <circle
+       cx="81.5"
+       cy="240.38477"
+       r="5"
+       class="spot-bg"
+       id="circle10" />
+    <circle
+       cx="171.5"
+       cy="140.38477"
+       r="4"
+       class="spot-bg"
+       id="circle11" />
+    <circle
+       cx="241.5"
+       cy="320.38477"
+       r="5"
+       class="spot-bg"
+       id="circle12" />
+    <circle
+       cx="131.5"
+       cy="280.38477"
+       r="4.5"
+       class="spot-bg"
+       id="circle13" />
+    <text
+       class="label-count"
+       x="161.5"
+       y="470.38477"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text13"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10 SFU</text>
+    <text
+       class="label-unit"
+       x="161.5"
+       y="498.38477"
+       text-anchor="middle"
+       id="text14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Background</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="layer2">
+    <text
+       class="label-md"
+       x="605.50208"
+       y="22.784714"
+       text-anchor="middle"
+       fill="#c0392b"
+       id="text15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Drug Well</text>
+    <text
+       class="label-sm"
+       x="605.50208"
+       y="48.784714"
+       text-anchor="middle"
+       id="text16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">(raw count)</text>
+    <circle
+       cx="605.50208"
+       cy="252.7847"
+       r="160"
+       class="well-fill"
+       id="circle16" />
+    <circle
+       cx="605.50208"
+       cy="252.7847"
+       r="160"
+       class="well-ring"
+       id="circle17" />
+    <circle
+       cx="565.50208"
+       cy="202.78471"
+       r="5"
+       class="spot-bg"
+       id="circle18" />
+    <circle
+       cx="635.50208"
+       cy="182.78471"
+       r="4.5"
+       class="spot-bg"
+       id="circle19" />
+    <circle
+       cx="655.50208"
+       cy="282.7847"
+       r="5.5"
+       class="spot-bg"
+       id="circle20" />
+    <circle
+       cx="545.50208"
+       cy="302.7847"
+       r="4"
+       class="spot-bg"
+       id="circle21" />
+    <circle
+       cx="595.50208"
+       cy="342.7847"
+       r="5"
+       class="spot-bg"
+       id="circle22" />
+    <circle
+       cx="675.50208"
+       cy="232.7847"
+       r="4.5"
+       class="spot-bg"
+       id="circle23" />
+    <circle
+       cx="525.50208"
+       cy="242.7847"
+       r="5"
+       class="spot-bg"
+       id="circle24" />
+    <circle
+       cx="615.50208"
+       cy="142.78471"
+       r="4"
+       class="spot-bg"
+       id="circle25" />
+    <circle
+       cx="685.50208"
+       cy="322.7847"
+       r="5"
+       class="spot-bg"
+       id="circle26" />
+    <circle
+       cx="575.50208"
+       cy="282.7847"
+       r="4.5"
+       class="spot-bg"
+       id="circle27" />
+    <circle
+       cx="560.50208"
+       cy="167.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle28" />
+    <circle
+       cx="590.50208"
+       cy="157.78471"
+       r="5"
+       class="spot-drug"
+       id="circle29" />
+    <circle
+       cx="620.50208"
+       cy="162.78471"
+       r="4"
+       class="spot-drug"
+       id="circle30" />
+    <circle
+       cx="650.50208"
+       cy="172.78471"
+       r="5.5"
+       class="spot-drug"
+       id="circle31" />
+    <circle
+       cx="515.50208"
+       cy="192.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle32" />
+    <circle
+       cx="545.50208"
+       cy="187.78471"
+       r="5"
+       class="spot-drug"
+       id="circle33" />
+    <circle
+       cx="605.50208"
+       cy="177.78471"
+       r="4"
+       class="spot-drug"
+       id="circle34" />
+    <circle
+       cx="665.50208"
+       cy="197.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle35" />
+    <circle
+       cx="695.50208"
+       cy="207.78471"
+       r="5"
+       class="spot-drug"
+       id="circle36" />
+    <circle
+       cx="505.50208"
+       cy="222.78471"
+       r="4"
+       class="spot-drug"
+       id="circle37" />
+    <circle
+       cx="535.50208"
+       cy="217.78471"
+       r="5.5"
+       class="spot-drug"
+       id="circle38" />
+    <circle
+       cx="585.50208"
+       cy="212.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle39" />
+    <circle
+       cx="625.50208"
+       cy="217.78471"
+       r="5"
+       class="spot-drug"
+       id="circle40" />
+    <circle
+       cx="660.50208"
+       cy="212.78471"
+       r="4"
+       class="spot-drug"
+       id="circle41" />
+    <circle
+       cx="700.50208"
+       cy="232.7847"
+       r="5"
+       class="spot-drug"
+       id="circle42" />
+    <circle
+       cx="715.50208"
+       cy="252.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle43" />
+    <circle
+       cx="495.50208"
+       cy="247.7847"
+       r="5"
+       class="spot-drug"
+       id="circle44" />
+    <circle
+       cx="485.50208"
+       cy="272.7847"
+       r="4"
+       class="spot-drug"
+       id="circle45" />
+    <circle
+       cx="555.50208"
+       cy="237.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle46" />
+    <circle
+       cx="595.50208"
+       cy="227.7847"
+       r="4"
+       class="spot-drug"
+       id="circle47" />
+    <circle
+       cx="635.50208"
+       cy="237.7847"
+       r="5"
+       class="spot-drug"
+       id="circle48" />
+    <circle
+       cx="670.50208"
+       cy="247.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle49" />
+    <circle
+       cx="505.50208"
+       cy="267.7847"
+       r="5"
+       class="spot-drug"
+       id="circle50" />
+    <circle
+       cx="535.50208"
+       cy="262.7847"
+       r="4"
+       class="spot-drug"
+       id="circle51" />
+    <circle
+       cx="580.50208"
+       cy="257.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle52" />
+    <circle
+       cx="620.50208"
+       cy="262.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle53" />
+    <circle
+       cx="655.50208"
+       cy="267.7847"
+       r="5"
+       class="spot-drug"
+       id="circle54" />
+    <circle
+       cx="690.50208"
+       cy="267.7847"
+       r="4"
+       class="spot-drug"
+       id="circle55" />
+    <circle
+       cx="710.50208"
+       cy="282.7847"
+       r="5"
+       class="spot-drug"
+       id="circle56" />
+    <circle
+       cx="495.50208"
+       cy="292.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle57" />
+    <circle
+       cx="525.50208"
+       cy="287.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle58" />
+    <circle
+       cx="565.50208"
+       cy="277.7847"
+       r="4"
+       class="spot-drug"
+       id="circle59" />
+    <circle
+       cx="605.50208"
+       cy="282.7847"
+       r="5"
+       class="spot-drug"
+       id="circle60" />
+    <circle
+       cx="640.50208"
+       cy="292.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle61" />
+    <circle
+       cx="675.50208"
+       cy="302.7847"
+       r="5"
+       class="spot-drug"
+       id="circle62" />
+    <circle
+       cx="705.50208"
+       cy="312.7847"
+       r="4"
+       class="spot-drug"
+       id="circle63" />
+    <circle
+       cx="505.50208"
+       cy="317.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle64" />
+    <circle
+       cx="540.50208"
+       cy="312.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle65" />
+    <circle
+       cx="575.50208"
+       cy="312.7847"
+       r="5"
+       class="spot-drug"
+       id="circle66" />
+    <circle
+       cx="615.50208"
+       cy="317.7847"
+       r="4"
+       class="spot-drug"
+       id="circle67" />
+    <circle
+       cx="650.50208"
+       cy="322.7847"
+       r="5"
+       class="spot-drug"
+       id="circle68" />
+    <circle
+       cx="560.50208"
+       cy="332.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle69" />
+    <circle
+       cx="595.50208"
+       cy="327.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle70" />
+    <circle
+       cx="630.50208"
+       cy="337.7847"
+       r="4"
+       class="spot-drug"
+       id="circle71" />
+    <circle
+       cx="665.50208"
+       cy="342.7847"
+       r="5"
+       class="spot-drug"
+       id="circle72" />
+    <circle
+       cx="520.50208"
+       cy="337.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle73" />
+    <circle
+       cx="700.50208"
+       cy="332.7847"
+       r="4"
+       class="spot-drug"
+       id="circle74" />
+    <circle
+       cx="485.50208"
+       cy="317.7847"
+       r="5"
+       class="spot-drug"
+       id="circle75" />
+    <circle
+       cx="555.50208"
+       cy="357.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle76" />
+    <circle
+       cx="605.50208"
+       cy="352.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle77" />
+    <circle
+       cx="645.50208"
+       cy="357.7847"
+       r="5"
+       class="spot-drug"
+       id="circle78" />
+    <circle
+       cx="680.50208"
+       cy="352.7847"
+       r="4"
+       class="spot-drug"
+       id="circle79" />
+    <text
+       class="label-count"
+       x="605.50208"
+       y="472.7847"
+       text-anchor="middle"
+       fill="#c0392b"
+       id="text79"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">110 SFU</text>
+    <text
+       class="label-unit"
+       x="605.50208"
+       y="500.78473"
+       text-anchor="middle"
+       id="text80"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Raw count</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="layer3"
+     style="display:inline">
+    <line
+       x1="795.50208"
+       y1="252.7847"
+       x2="915.50208"
+       y2="252.7847"
+       stroke="#2d6a4f"
+       stroke-width="3"
+       id="line80" />
+    <polygon
+       points="1110,288 1110,272 1130,280 "
+       fill="#2d6a4f"
+       id="polygon80"
+       transform="translate(-194.49792,-27.215286)" />
+    <rect
+       x="787.94281"
+       y="202.59843"
+       width="140.80492"
+       height="41.975307"
+       rx="11.264394"
+       fill="#ccddec"
+       stroke="#4c86c5"
+       stroke-width="1.92198"
+       id="rect80" />
+    <text
+       x="855.50208"
+       y="232.7847"
+       text-anchor="middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c86c5"
+       id="text81">− 10 SFU</text>
+    <text
+       x="855.50208"
+       y="287.7847"
+       text-anchor="middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="text82">subtract</text>
+    <text
+       x="855.50208"
+       y="307.7847"
+       text-anchor="middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+       id="text83">background</text>
+    <text
+       class="label-md"
+       x="1145.5021"
+       y="22.784714"
+       text-anchor="middle"
+       fill="#2d6a4f"
+       id="text84"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Drug Well</text>
+    <text
+       class="label-sm"
+       x="1145.5021"
+       y="48.784714"
+       text-anchor="middle"
+       id="text85"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">(background removed)</text>
+    <circle
+       cx="1145.5021"
+       cy="252.7847"
+       r="160"
+       class="well-fill"
+       id="circle85" />
+    <circle
+       cx="1145.5021"
+       cy="252.7847"
+       r="160"
+       class="well-ring"
+       id="circle86" />
+    <circle
+       cx="1100.5021"
+       cy="167.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle87" />
+    <circle
+       cx="1130.5021"
+       cy="157.78471"
+       r="5"
+       class="spot-drug"
+       id="circle88" />
+    <circle
+       cx="1160.5021"
+       cy="162.78471"
+       r="4"
+       class="spot-drug"
+       id="circle89" />
+    <circle
+       cx="1190.5021"
+       cy="172.78471"
+       r="5.5"
+       class="spot-drug"
+       id="circle90" />
+    <circle
+       cx="1055.5021"
+       cy="192.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle91" />
+    <circle
+       cx="1085.5021"
+       cy="187.78471"
+       r="5"
+       class="spot-drug"
+       id="circle92" />
+    <circle
+       cx="1145.5021"
+       cy="177.78471"
+       r="4"
+       class="spot-drug"
+       id="circle93" />
+    <circle
+       cx="1205.5021"
+       cy="197.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle94" />
+    <circle
+       cx="1235.5021"
+       cy="207.78471"
+       r="5"
+       class="spot-drug"
+       id="circle95" />
+    <circle
+       cx="1045.5021"
+       cy="222.78471"
+       r="4"
+       class="spot-drug"
+       id="circle96" />
+    <circle
+       cx="1075.5021"
+       cy="217.78471"
+       r="5.5"
+       class="spot-drug"
+       id="circle97" />
+    <circle
+       cx="1125.5021"
+       cy="212.78471"
+       r="4.5"
+       class="spot-drug"
+       id="circle98" />
+    <circle
+       cx="1165.5021"
+       cy="217.78471"
+       r="5"
+       class="spot-drug"
+       id="circle99" />
+    <circle
+       cx="1200.5021"
+       cy="212.78471"
+       r="4"
+       class="spot-drug"
+       id="circle100" />
+    <circle
+       cx="1240.5021"
+       cy="232.7847"
+       r="5"
+       class="spot-drug"
+       id="circle101" />
+    <circle
+       cx="1255.5021"
+       cy="252.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle102" />
+    <circle
+       cx="1035.5021"
+       cy="247.7847"
+       r="5"
+       class="spot-drug"
+       id="circle103" />
+    <circle
+       cx="1025.5021"
+       cy="272.7847"
+       r="4"
+       class="spot-drug"
+       id="circle104" />
+    <circle
+       cx="1095.5021"
+       cy="237.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle105" />
+    <circle
+       cx="1135.5021"
+       cy="227.7847"
+       r="4"
+       class="spot-drug"
+       id="circle106" />
+    <circle
+       cx="1175.5021"
+       cy="237.7847"
+       r="5"
+       class="spot-drug"
+       id="circle107" />
+    <circle
+       cx="1210.5021"
+       cy="247.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle108" />
+    <circle
+       cx="1045.5021"
+       cy="267.7847"
+       r="5"
+       class="spot-drug"
+       id="circle109" />
+    <circle
+       cx="1075.5021"
+       cy="262.7847"
+       r="4"
+       class="spot-drug"
+       id="circle110" />
+    <circle
+       cx="1120.5021"
+       cy="257.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle111" />
+    <circle
+       cx="1160.5021"
+       cy="262.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle112" />
+    <circle
+       cx="1195.5021"
+       cy="267.7847"
+       r="5"
+       class="spot-drug"
+       id="circle113" />
+    <circle
+       cx="1230.5021"
+       cy="267.7847"
+       r="4"
+       class="spot-drug"
+       id="circle114" />
+    <circle
+       cx="1250.5021"
+       cy="282.7847"
+       r="5"
+       class="spot-drug"
+       id="circle115" />
+    <circle
+       cx="1035.5021"
+       cy="292.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle116" />
+    <circle
+       cx="1065.5021"
+       cy="287.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle117" />
+    <circle
+       cx="1105.5021"
+       cy="277.7847"
+       r="4"
+       class="spot-drug"
+       id="circle118" />
+    <circle
+       cx="1145.5021"
+       cy="282.7847"
+       r="5"
+       class="spot-drug"
+       id="circle119" />
+    <circle
+       cx="1180.5021"
+       cy="292.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle120" />
+    <circle
+       cx="1215.5021"
+       cy="302.7847"
+       r="5"
+       class="spot-drug"
+       id="circle121" />
+    <circle
+       cx="1245.5021"
+       cy="312.7847"
+       r="4"
+       class="spot-drug"
+       id="circle122" />
+    <circle
+       cx="1045.5021"
+       cy="317.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle123" />
+    <circle
+       cx="1080.5021"
+       cy="312.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle124" />
+    <circle
+       cx="1115.5021"
+       cy="312.7847"
+       r="5"
+       class="spot-drug"
+       id="circle125" />
+    <circle
+       cx="1155.5021"
+       cy="317.7847"
+       r="4"
+       class="spot-drug"
+       id="circle126" />
+    <circle
+       cx="1190.5021"
+       cy="322.7847"
+       r="5"
+       class="spot-drug"
+       id="circle127" />
+    <circle
+       cx="1100.5021"
+       cy="332.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle128" />
+    <circle
+       cx="1135.5021"
+       cy="327.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle129" />
+    <circle
+       cx="1170.5021"
+       cy="337.7847"
+       r="4"
+       class="spot-drug"
+       id="circle130" />
+    <circle
+       cx="1205.5021"
+       cy="342.7847"
+       r="5"
+       class="spot-drug"
+       id="circle131" />
+    <circle
+       cx="1060.5021"
+       cy="337.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle132" />
+    <circle
+       cx="1240.5021"
+       cy="332.7847"
+       r="4"
+       class="spot-drug"
+       id="circle133" />
+    <circle
+       cx="1025.5021"
+       cy="317.7847"
+       r="5"
+       class="spot-drug"
+       id="circle134" />
+    <circle
+       cx="1095.5021"
+       cy="357.7847"
+       r="5.5"
+       class="spot-drug"
+       id="circle135" />
+    <circle
+       cx="1145.5021"
+       cy="352.7847"
+       r="4.5"
+       class="spot-drug"
+       id="circle136" />
+    <circle
+       cx="1185.5021"
+       cy="357.7847"
+       r="5"
+       class="spot-drug"
+       id="circle137" />
+    <circle
+       cx="1220.5021"
+       cy="352.7847"
+       r="4"
+       class="spot-drug"
+       id="circle138" />
+    <text
+       class="label-count"
+       x="1145.5021"
+       y="472.7847"
+       text-anchor="middle"
+       fill="#2d6a4f"
+       id="text138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">100 SFU</text>
+    <text
+       class="label-unit"
+       x="1145.5021"
+       y="500.78473"
+       text-anchor="middle"
+       id="text139"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Drug-specific response</text>
+  </g>
 </svg>
