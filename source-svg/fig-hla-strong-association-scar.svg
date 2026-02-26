@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.38507992"
-     inkscape:cx="644.02216"
-     inkscape:cy="375.24678"
+     inkscape:zoom="0.25818977"
+     inkscape:cx="474.45721"
+     inkscape:cy="304.03993"
      inkscape:window-width="1512"
      inkscape:window-height="838"
      inkscape:window-x="0"
@@ -58,327 +58,295 @@
        letter-spacing="1"
        id="text1"
        style="fill:#000000">Number Needed to Test to Prevent 1 Case</text>
-    <g
-       transform="translate(0.228,44.544)"
-       id="g5">
-      <text
-         x="0"
-         y="34"
-         font-size="38px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text2">Abacavir</text>
-      <text
-         x="0"
-         y="62"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text3">B*57:01 · Abacavir HSR · PPV 55% · 100% NPV</text>
-      <text
-         x="0"
-         y="88"
-         font-size="20px"
-         font-weight="500"
-         fill="#4c86c5"
-         id="text4">★ Universal pre-prescription screening</text>
-      <rect
-         x="420"
-         y="16"
-         width="8"
-         height="30"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.8"
-         id="rect4" />
-      <text
-         x="436"
-         y="40"
-         font-size="32px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text5">13</text>
-    </g>
+    <text
+       x="0.228"
+       y="78.543999"
+       font-size="38px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text2">Abacavir</text>
+    <text
+       x="0.228"
+       y="106.544"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text3">B*57:01 · Abacavir HSR · PPV 55% · 100% NPV</text>
+    <text
+       x="0.228"
+       y="132.54401"
+       font-size="20px"
+       font-weight="500"
+       fill="#4c86c5"
+       id="text4">★ Universal pre-prescription screening</text>
+    <rect
+       x="420.228"
+       y="60.543999"
+       width="8"
+       height="30"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.8"
+       id="rect4" />
+    <text
+       x="436.228"
+       y="84.543999"
+       font-size="32px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text5">13</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="layer2"
      style="display:inline">
-    <g
-       transform="translate(0.228,159.544)"
-       id="g8">
-      <text
-         x="0"
-         y="30"
-         font-size="32px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text6">Vancomycin</text>
-      <text
-         x="0"
-         y="56"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text7">A*32:01 · DRESS · PPV 20%</text>
-      <rect
-         x="420"
-         y="12"
-         width="17"
-         height="28"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.55"
-         id="rect7" />
-      <text
-         x="445"
-         y="34"
-         font-size="28px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text8">75</text>
-    </g>
+    <text
+       x="0.228"
+       y="189.54401"
+       font-size="32px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text6">Vancomycin</text>
+    <text
+       x="0.228"
+       y="215.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text7">A*32:01 · DRESS · PPV 20%</text>
+    <rect
+       x="420.228"
+       y="171.54401"
+       width="17"
+       height="28"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.55"
+       id="rect7" />
+    <text
+       x="445.228"
+       y="193.54401"
+       font-size="28px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text8">75</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="layer3"
      style="display:inline">
-    <g
-       transform="translate(0.228,239.544)"
-       id="g11">
-      <text
-         x="0"
-         y="30"
-         font-size="31px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text9">Dapsone</text>
-      <text
-         x="0"
-         y="56"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text10">B13*01 · DRESS / SJS-TEN · PPV 7.8%</text>
-      <rect
-         x="420"
-         y="12"
-         width="18"
-         height="28"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.5"
-         id="rect10" />
-      <text
-         x="446"
-         y="34"
-         font-size="28px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text11">84</text>
-    </g>
+    <text
+       x="0.228"
+       y="269.54401"
+       font-size="31px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text9">Dapsone</text>
+    <text
+       x="0.228"
+       y="295.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text10">B13*01 · DRESS / SJS-TEN · PPV 7.8%</text>
+    <rect
+       x="420.228"
+       y="251.54401"
+       width="18"
+       height="28"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.5"
+       id="rect10" />
+    <text
+       x="446.228"
+       y="273.54401"
+       font-size="28px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text11">84</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="layer4"
      style="display:inline">
-    <g
-       transform="translate(0.228,319.544)"
-       id="g14">
-      <text
-         x="0"
-         y="28"
-         font-size="28px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text12">Nevirapine</text>
-      <text
-         x="0"
-         y="54"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text13">C*04:01 · SJS/TEN · PPV 2.5%</text>
-      <rect
-         x="420"
-         y="10"
-         width="44"
-         height="26"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.4"
-         id="rect13" />
-      <text
-         x="472"
-         y="32"
-         font-size="26px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text14">200</text>
-    </g>
+    <text
+       x="0.228"
+       y="347.54401"
+       font-size="28px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text12">Nevirapine</text>
+    <text
+       x="0.228"
+       y="373.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text13">C*04:01 · SJS/TEN · PPV 2.5%</text>
+    <rect
+       x="420.228"
+       y="329.54401"
+       width="44"
+       height="26"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.4"
+       id="rect13" />
+    <text
+       x="472.228"
+       y="351.54401"
+       font-size="26px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text14">200</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="layer5"
      style="display:inline">
-    <g
-       transform="translate(0.228,395.544)"
-       id="g17">
-      <text
-         x="0"
-         y="28"
-         font-size="28px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text15">TMP-SMX</text>
-      <text
-         x="0"
-         y="54"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text16">B*13:01 · DRESS / SJS-TEN · PPV 3–4%</text>
-      <rect
-         x="420"
-         y="10"
-         width="46"
-         height="26"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.38"
-         id="rect16" />
-      <text
-         x="474"
-         y="32"
-         font-size="26px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text17">211</text>
-    </g>
+    <text
+       x="0.228"
+       y="423.54401"
+       font-size="28px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text15">TMP-SMX</text>
+    <text
+       x="0.228"
+       y="449.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text16">B*13:01 · DRESS / SJS-TEN · PPV 3–4%</text>
+    <rect
+       x="420.228"
+       y="405.54401"
+       width="46"
+       height="26"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.38"
+       id="rect16" />
+    <text
+       x="474.228"
+       y="427.54401"
+       font-size="26px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text17">211</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="layer6"
      style="display:inline">
-    <g
-       transform="translate(0.228,471.544)"
-       id="g20">
-      <text
-         x="0"
-         y="28"
-         font-size="27px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text18">Allopurinol</text>
-      <text
-         x="0"
-         y="54"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text19">B*58:01 · DRESS / SJS-TEN · PPV 3%</text>
-      <rect
-         x="420"
-         y="10"
-         width="55"
-         height="26"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.35"
-         id="rect19" />
-      <text
-         x="483"
-         y="32"
-         font-size="26px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text20">250</text>
-    </g>
+    <text
+       x="0.228"
+       y="499.54401"
+       font-size="27px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text18">Allopurinol</text>
+    <text
+       x="0.228"
+       y="525.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text19">B*58:01 · DRESS / SJS-TEN · PPV 3%</text>
+    <rect
+       x="420.228"
+       y="481.54401"
+       width="55"
+       height="26"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.35"
+       id="rect19" />
+    <text
+       x="483.228"
+       y="503.54401"
+       font-size="26px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text20">250</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="layer7"
      style="display:inline">
-    <g
-       transform="translate(0.228,547.544)"
-       id="g23">
-      <text
-         x="0"
-         y="26"
-         font-size="25px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text21">Carbamazepine</text>
-      <text
-         x="0"
-         y="52"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text22">B*15:02 · SJS/TEN only · PPV 3%</text>
-      <rect
-         x="420"
-         y="8"
-         width="220"
-         height="26"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.22"
-         id="rect22" />
-      <text
-         x="648"
-         y="30"
-         font-size="25px"
-         font-weight="700"
-         fill="#1a1a1a"
-         id="text23">1,000</text>
-    </g>
+    <text
+       x="0.228"
+       y="573.54401"
+       font-size="25px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text21">Carbamazepine</text>
+    <text
+       x="0.228"
+       y="599.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text22">B*15:02 · SJS/TEN only · PPV 3%</text>
+    <rect
+       x="420.228"
+       y="555.54401"
+       width="220"
+       height="26"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.22"
+       id="rect22" />
+    <text
+       x="648.22803"
+       y="577.54401"
+       font-size="25px"
+       font-weight="700"
+       fill="#1a1a1a"
+       id="text23">1,000</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="layer8"
      style="display:inline">
-    <g
-       transform="translate(0.228,623.544)"
-       id="g26">
-      <text
-         x="0"
-         y="26"
-         font-size="24px"
-         font-weight="600"
-         fill="#1a1a1a"
-         id="text24">Carbamazepine</text>
-      <text
-         x="0"
-         y="52"
-         font-size="20px"
-         font-weight="400"
-         fill="#1a1a1a"
-         id="text25">A*31:01 · DRESS &gt;&gt;&gt; SJS-TEN · PPV &lt;0.5%</text>
-      <rect
-         x="420"
-         y="8"
-         width="1100"
-         height="26"
-         rx="3"
-         fill="#4c86c5"
-         opacity="0.12"
-         id="rect25" />
-      <text
-         x="1528"
-         y="30"
-         font-size="24px"
-         font-weight="700"
-         fill="#1a1a1a"
-         text-anchor="end"
-         id="text26">5,000</text>
-    </g>
+    <text
+       x="0.228"
+       y="649.54401"
+       font-size="24px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text24">Carbamazepine</text>
+    <text
+       x="0.228"
+       y="675.54401"
+       font-size="20px"
+       font-weight="400"
+       fill="#1a1a1a"
+       id="text25">A*31:01 · DRESS &gt;&gt;&gt; SJS-TEN · PPV &lt;0.5%</text>
+    <rect
+       x="420.228"
+       y="631.54401"
+       width="1100"
+       height="26"
+       rx="3"
+       fill="#4c86c5"
+       opacity="0.12"
+       id="rect25" />
+    <text
+       x="1528.228"
+       y="653.54401"
+       font-size="24px"
+       font-weight="700"
+       fill="#1a1a1a"
+       text-anchor="end"
+       id="text26">5,000</text>
   </g>
 </svg>
