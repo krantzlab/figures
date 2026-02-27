@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Krantz Lab Figures & Visuals"
+message: "If you use these figures in your work, please cite this repository."
+type: dataset
+authors:
+  - family-names: Krantz
+    given-names: Matt
+    email: matt@krantzlab.org
+repository-code: "https://github.com/krantzlab/figures"
+url: "https://github.com/krantzlab/figures"
+keywords:
+  - adverse drug reactions
+  - clinical research
+  - scientific figures
+  - SVG
+  - dermatology
+version: "1.0.0"
+license: CC-BY-NC-4.0
+date-released: "2026-02-27"

@@ -1,73 +1,142 @@
 # Krantz Lab Figures & Visuals
+
 A single source of truth for diagrams, scientific figures, and branding assets used by the Krantz Lab.
 
 ## Table of Contents
+
 - [Branches & Workflow](#branches--workflow)
 - [Usage](#usage)
-    - [Web / Quarto](#web--quarto)
-    - [Local Use](#local-use)
+- [Creating & Editing SVGs](#creating--editing-svgs)
 - [Adding Headshots](#adding-headshots)
 - [Contributing](#contributing)
 - [Automation](#automation)
-- [License & Contact](#license--contact)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
+- [Citation](#citation)
 
 ## Branches & Workflow
-- **`main` (Source):** Contains editable source files.
-    - Edit files in `source-svg/` and `source-people/`.
-- **`dist` (Build output):** Contains auto-generated, optimized assets:
-    - `web/` → optimized SVGs for websites and Quarto
-    - `print/` → high-resolution PDFs for manuscripts and posters
 
-Workflow: edit source on `main`, push changes, and the automation pipeline updates `dist`.
+- **`main` (Source):** Contains editable source files.
+  - `source-svg/` → source SVG figures
+  - `source-people/` → headshot photos
+- **`dist` (Build output):** Contains auto-generated, optimized assets. **Do not edit directly.**
+  - `web/` → SVGO-optimized SVGs for websites and Quarto
+  - `print/` → high-resolution PDFs for manuscripts and posters
+
+**Workflow:** Edit source files on `main` → push → GitHub Actions builds and deploys optimized assets to `dist`.
 
 ## Usage
 
-### Web / Quarto (recommended)
-Use the CDN link that serves optimized SVGs from the `dist` branch.
+### Web / Quarto (Recommended)
 
-Pattern:
-`https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg`
+Use the jsDelivr CDN link that serves optimized SVGs from the `dist` branch:
 
-Example (Quarto / Markdown):
-
-```markdown
-![Krantz Lab Navbar Logo](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}
+```
+https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/[FILENAME].svg
 ```
 
-### Local Use
-- Edit files in `source-svg/` with your vector editor (Inkscape recommended).
-- After editing, push to `main`. CI will build and update `dist` automatically.
+Example in Quarto / Markdown:
 
-Document Properties = 1600px x 900px (16:9)
-- Use Document Properties -> Grid -> Create 80px top, bottom, and sides margins so SVG fits into slide
+```markdown
+![Krantz Lab Logo](https://cdn.jsdelivr.net/gh/krantzlab/figures@dist/web/navbar-logo-krantzlab.svg){width="200"}
+```
 
-- Save as Plain SVG
-- To be able to utilize animate in Revealjs group SVG into layers (i.e. fragments)
-- The svgo.config.js automatically uses the file name to create prefixes so that SVG elements are unique (if use multiple SVG with same element ID, this will cause rendering issues)
-- You right click on the layer -> Object Properties -> update the ID to "layer1" (this is the name for the first layer of what appears immediately on slide); then "layer2". The svgo.config.js will append a prefix "fig-name_". Therefore in the .qmd for the revealjs you would use "fig-name_layer2"
+Example for a website figure page:
 
-**It seems that layer1, layer2 are named by the svgo.config.js file from the bottom up as the order they are in the layers**
+```markdown
+![](/figures/fig-elispot.svg){fig-align="center" style="max-width:min(100%, 600px); height:auto;"}
+```
 
-📄 PDF Generation & Decktape Troubleshooting
-Issue: If the final slide of the presentation contains a complex SVG (specifically one with many vector paths or "sketch" style drawings), the PDF generation process via Decktape may hang or generate dozens of duplicate pages.
+### RevealJS Slides (Animated SVGs)
 
-Cause: This is a known issue where the Reveal.js animation plugin interprets loose SVG paths as individual animation steps. If this occurs on the last slide, Decktape can enter an infinite loop trying to capture the "final" state of the animation, as there is no "Next Slide" event to force it to terminate.
+Figures with multiple layers can be animated using the RevealJS `animate` plugin:
 
-Solution: The "Dummy Slide" To ensure smooth PDF export, always include a final slide at the end of the presentation (e.g., References, Thank You, or a blank slide). This gives Decktape a clear exit target, forcing it to skip intermediate animation steps on the complex SVG and finish the export successfully.
+````markdown
+{{< animate fig-elispot.svg >}}
+````
+
+The animate plugin targets layers by their SVGO-prefixed IDs. See [Creating & Editing SVGs](#layer-setup-for-animation) below for layer conventions.
+
+## Creating & Editing SVGs
+
+### Canvas Sizing
+
+**Fit the canvas to your content** — do not use a fixed canvas size. In Inkscape, use **Edit → Resize Page to Selection** to trim the canvas to the drawing bounds after you finish your figure.
+
+A typical figure ends up around 1000–1400 px wide and 500–700 px tall, but the exact dimensions should be dictated by the content. Display sizing is controlled externally by CSS:
+
+| Context | CSS Rule | Effect |
+|---------|----------|--------|
+| Slides | `max-height: 700px; max-width: 1500px` | Scales to fit within the slide |
+| Website | `max-width: min(100%, 600px)` | Scales to 600 px wide max, responsive |
+
+### File Conventions
+
+- **File prefix**: `fig-` for figures, `topic-` for header illustrations
+- **Naming**: kebab-case (e.g., `fig-patch-testing-sites.svg`)
+- **Location**: `source-svg/` on the `main` branch only
+- **Save as**: Plain SVG (not Inkscape SVG)
+
+### Layer Setup for Animation
+
+To use layer-based animation in RevealJS slides, organize your SVG content into Inkscape layers:
+
+1. In Inkscape, create layers via **Layer → Add Layer**
+2. Right-click each layer → **Object Properties** → set the ID:
+   - `layer1` — base layer (visible immediately when the slide loads)
+   - `layer2` — first fragment (revealed on advance)
+   - `layer3`, `layer4`, etc. — subsequent fragments
+3. The `svgo.config.js` automatically prefixes all IDs with the filename during CI. For example, `layer2` in `fig-elispot.svg` becomes `fig-elispot_layer2` in the optimized output.
+4. In your `.qmd` slide file, reference the **prefixed** ID: `"#fig-elispot_layer2"`
+
+**Layer ordering is bottom-up in Inkscape:** `layer1` is at the bottom of the Layers panel and renders first (behind everything). Higher-numbered layers appear on top.
+
+> ⚠️ **Do not manually prefix layer IDs with the filename** — this causes double-prefixing (e.g., `fig-elispot_fig-elispot_layer1`). Use simple IDs like `layer1`, `layer2`.
+
+### ID Prefixing
+
+The SVGO pipeline prefixes **every** ID in the SVG (not just layers) with the filename. This prevents ID collisions when multiple SVGs are embedded on the same page. Internal references like `url(#gradient1)` are updated automatically.
 
 ## Adding Headshots
-1. Crop the photo to square (1:1) and center the face.
+
+1. Crop the photo to **square (1:1)** and center the face.
 2. Minimum resolution: **600×600 px**.
-3. Filename: `lastname-firstname.png` (example: `krantz-matt.png`).
+3. Filename: `lastname-firstname.png` (e.g., `krantz-matt.png`).
 4. Upload to `source-people/`.
 
-The automation pipeline will optimize and resize images for web use.
+The automation pipeline will convert and resize images to 600×600 WebP for web use.
 
 ## Contributing
-- Edit source SVGs in `source-svg/` (use Inkscape or another vector editor).
-- For headshots, add files to `source-people/`.
-- Open a pull request against `main` with a short description of your change.
-- The automated build will update `dist` after your PR is merged.
+
+1. Edit source SVGs in `source-svg/` (Inkscape recommended) or add headshots to `source-people/`.
+2. Open a pull request against `main` with a short description of your change.
+3. The automated build will update `dist` after your PR is merged.
 
 ## Automation
-> ⚠️ IMPORTANT: Do not manually create PDFs or web-optimized versions. Edit only the source files — the automation pipeline generates the Web and Print outputs for you.
+
+> ⚠️ **Do not manually create PDFs or web-optimized versions.** Edit only the source files — the GitHub Actions pipeline generates all outputs automatically.
+
+The workflow (`.github/workflows/optimize-web-print.yml`) triggers on pushes to `main` that modify `source-svg/`, `svgo.config.js`, or `source-people/`. It:
+
+1. Optimizes each SVG via SVGO with filename-based ID prefixing → `dist/web/`
+2. Converts each SVG to PDF via Inkscape → `dist/print/`
+3. Converts headshots to 600×600 WebP → `dist/web/`
+4. Deploys the `dist/` directory to the `dist` branch
+
+## Troubleshooting
+
+### Decktape PDF Export Hangs
+
+**Symptom:** Decktape hangs or generates dozens of duplicate pages when exporting slides to PDF.
+
+**Cause:** The RevealJS `animate` plugin interprets loose (ungrouped) SVG paths as individual animation steps. If a complex SVG with many ungrouped paths is on the last slide, Decktape enters an infinite loop.
+
+**Solution:** Always include a dummy final slide at the end of every presentation (e.g., `## {visibility="hidden"}`). This gives Decktape a clear exit target. Also ensure all paths in your SVGs are grouped inside layers rather than left as loose elements.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). See [LICENSE](LICENSE) for details.
+
+## Citation
+
+If you use these figures in your work, please cite this repository. See [CITATION.cff](CITATION.cff) for a machine-readable citation.
