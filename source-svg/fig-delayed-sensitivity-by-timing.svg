@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-  version="1.1"
-  viewBox="0 0 1100 550"
-  width="1100"
-  height="550"
-  id="svg1"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:svg="http://www.w3.org/2000/svg">
-
-  <defs>
-    <style>
+   version="1.1"
+   viewBox="0 0 799.08435 365"
+   width="799.08435"
+   height="365"
+   id="svg1"
+   sodipodi:docname="fig-delayed-sensitivity-by-timing.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74304274"
+     inkscape:cx="382.2122"
+     inkscape:cy="117.75904"
+     inkscape:window-width="1512"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .title { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 26px; fill: #212529; }
       .subtitle { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
       .col-header { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; fill: #212529; }
@@ -27,110 +48,286 @@
       .row-bg { fill: #f8f9fa; }
     </style>
   </defs>
-
   <!-- Layer 1: Framework + labels -->
-  <g inkscape:groupmode="layer" id="layer1" inkscape:label="layer1">
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layer1"
+     style="display:inline"
+     transform="translate(-227.71254,-80)">
     <!-- Title -->
-    <text class="title" x="550" y="30" text-anchor="middle">Delayed Hypersensitivity Test Sensitivity by Timing</text>
-    <text class="subtitle" x="550" y="56" text-anchor="middle">Approximate sensitivity ranges by time from index drug reaction</text>
-
     <!-- Column headers (centers: 310, 515, 720, 925) -->
-    <text class="col-header" x="310" y="95" text-anchor="middle">&lt; 6 weeks</text>
-    <text class="col-header" x="515" y="95" text-anchor="middle">6 wk – 6 mo</text>
-    <text class="col-header" x="720" y="95" text-anchor="middle">6 mo – 1 yr</text>
-    <text class="col-header" x="925" y="95" text-anchor="middle">&gt; 1 year</text>
-
+    <text
+       class="col-header"
+       x="515"
+       y="95"
+       text-anchor="middle"
+       id="text4">6 wk – 6 mo</text>
     <!-- Optimal window bracket over column 2 -->
-    <path class="bracket" d="M420,108 L420,118 L610,118 L610,108" />
-    <text class="bracket-label" x="515" y="138" text-anchor="middle">Optimal window</text>
-
+    <path
+       class="bracket"
+       d="m 420,108 v 10 h 190 v -10"
+       id="path6" />
+    <text
+       class="bracket-label"
+       x="515"
+       y="138"
+       text-anchor="middle"
+       id="text7">Optimal window</text>
     <!-- Column dividers -->
-    <line class="divider" x1="210" y1="80" x2="210" y2="445" />
-    <line class="divider" x1="415" y1="80" x2="415" y2="445" />
-    <line class="divider" x1="620" y1="80" x2="620" y2="445" />
-    <line class="divider" x1="825" y1="80" x2="825" y2="445" />
-    <line class="divider" x1="1030" y1="80" x2="1030" y2="445" />
-
+    <line
+       class="divider"
+       x1="415"
+       y1="80"
+       x2="415"
+       y2="445"
+       id="line8" />
+    <line
+       class="divider"
+       x1="620"
+       y1="80"
+       x2="620"
+       y2="445"
+       id="line9" />
+    <line
+       class="divider"
+       x1="825"
+       y1="80"
+       x2="825"
+       y2="445"
+       id="line10" />
     <!-- Alternating row backgrounds -->
-    <rect class="row-bg" x="12" y="152" width="1065" height="86" rx="6" />
-    <rect class="row-bg" x="12" y="352" width="1065" height="86" rx="6" />
-
+    <rect
+       class="row-bg"
+       x="231.32784"
+       y="152"
+       width="793.88452"
+       height="86"
+       rx="4.472589"
+       id="rect11"
+       style="stroke-width:0.863384" />
+    <rect
+       class="row-bg"
+       x="227.71254"
+       y="352"
+       width="799.08435"
+       height="86"
+       rx="4.5018835"
+       id="rect12"
+       style="stroke-width:0.866207" />
     <!-- Row labels -->
-    <text class="row-label" x="20" y="195" text-anchor="start" fill="#e67e22">Patch Test</text>
-    <text class="row-desc" x="20" y="214" text-anchor="start">Epicutaneous</text>
-
-    <text class="row-label" x="20" y="295" text-anchor="start" fill="#4c86c5">Delayed IDT</text>
-    <text class="row-desc" x="20" y="314" text-anchor="start">Intradermal</text>
-
-    <text class="row-label" x="20" y="395" text-anchor="start" fill="#8e44ad">ELISpot / LTT</text>
-    <text class="row-desc" x="20" y="414" text-anchor="start">In vitro T-cell</text>
-
+    <text
+       class="row-label"
+       x="251.37881"
+       y="195"
+       text-anchor="start"
+       fill="#e67e22"
+       id="text12">Patch Test</text>
+    <text
+       class="row-label"
+       x="251.37881"
+       y="295"
+       text-anchor="start"
+       fill="#4c86c5"
+       id="text14">Delayed IDT</text>
+    <text
+       class="row-label"
+       x="251.37881"
+       y="395"
+       text-anchor="start"
+       fill="#8e44ad"
+       id="text16">ELISpot</text>
+    <rect
+       fill="#e67e22"
+       x="465"
+       y="178"
+       width="100"
+       height="26"
+       rx="4"
+       id="rect19"
+       style="display:inline" />
+    <text
+       class="pct"
+       x="515"
+       y="218"
+       text-anchor="middle"
+       fill="#e67e22"
+       id="text20"
+       style="display:inline">40–55%</text>
+    <rect
+       fill="#4c86c5"
+       x="445"
+       y="278"
+       width="140"
+       height="26"
+       rx="4"
+       id="rect24"
+       style="display:inline" />
+    <text
+       class="pct"
+       x="515"
+       y="318"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text25"
+       style="display:inline">60–70%</text>
+    <rect
+       fill="#8e44ad"
+       opacity="0.85"
+       x="450"
+       y="378"
+       width="130"
+       height="26"
+       rx="4"
+       id="rect29"
+       style="display:inline" />
+    <text
+       class="pct"
+       x="515"
+       y="418"
+       text-anchor="middle"
+       fill="#8e44ad"
+       id="text30"
+       style="display:inline">55–70%</text>
   </g>
-
   <!-- Layer 2: Sensitivity bars + takeaway -->
-  <g inkscape:groupmode="layer" id="layer2" inkscape:label="layer2">
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2"
+     style="display:inline"
+     transform="translate(-227.71254,-80)">
     <!-- ===== PATCH TEST ROW ===== -->
     <!-- <6wk: ~30-40%, bar 74px centered -->
-    <rect fill="#e67e22" opacity="0.4" x="273" y="178" width="74" height="26" rx="4" />
-    <text class="pct" x="310" y="218" text-anchor="middle" fill="#e67e22">~30–40%</text>
-    <text class="cell-note" x="310" y="232" text-anchor="middle">May be too early</text>
-
     <!-- 6wk-6mo: 40-55%, bar 100px -->
-    <rect fill="#e67e22" x="465" y="178" width="100" height="26" rx="4" />
-    <text class="pct" x="515" y="218" text-anchor="middle" fill="#e67e22">40–55%</text>
-
     <!-- 6mo-1yr: 30-45%, bar 80px -->
-    <rect fill="#e67e22" opacity="0.65" x="680" y="178" width="80" height="26" rx="4" />
-    <text class="pct" x="720" y="218" text-anchor="middle" fill="#e67e22">30–45%</text>
-
+    <rect
+       fill="#e67e22"
+       opacity="0.65"
+       x="680"
+       y="178"
+       width="80"
+       height="26"
+       rx="4"
+       id="rect20" />
+    <text
+       class="pct"
+       x="720"
+       y="218"
+       text-anchor="middle"
+       fill="#e67e22"
+       id="text21">30–45%</text>
     <!-- >1yr: ≤30%, bar 55px -->
-    <rect fill="#e67e22" opacity="0.35" x="898" y="178" width="55" height="26" rx="4" />
-    <text class="pct" x="925" y="218" text-anchor="middle" fill="#e67e22">≤30%</text>
-
     <!-- ===== DELAYED IDT ROW ===== -->
     <!-- <6wk: ~40-50%, bar 95px -->
-    <rect fill="#4c86c5" opacity="0.5" x="262" y="278" width="95" height="26" rx="4" />
-    <text class="pct" x="310" y="318" text-anchor="middle" fill="#4c86c5">~40–50%</text>
-    <text class="cell-note" x="310" y="332" text-anchor="middle">May be too early</text>
-
     <!-- 6wk-6mo: 60-70%, bar 140px -->
-    <rect fill="#4c86c5" x="445" y="278" width="140" height="26" rx="4" />
-    <text class="pct" x="515" y="318" text-anchor="middle" fill="#4c86c5">60–70%</text>
-
     <!-- 6mo-1yr: 50-60%, bar 115px -->
-    <rect fill="#4c86c5" opacity="0.7" x="662" y="278" width="115" height="26" rx="4" />
-    <text class="pct" x="720" y="318" text-anchor="middle" fill="#4c86c5">50–60%</text>
-
+    <rect
+       fill="#4c86c5"
+       opacity="0.7"
+       x="662"
+       y="278"
+       width="115"
+       height="26"
+       rx="4"
+       id="rect25" />
+    <text
+       class="pct"
+       x="720"
+       y="318"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text26">50–60%</text>
     <!-- >1yr: ~30-40%, bar 75px -->
-    <rect fill="#4c86c5" opacity="0.4" x="888" y="278" width="75" height="26" rx="4" />
-    <text class="pct" x="925" y="318" text-anchor="middle" fill="#4c86c5">~30–40%</text>
-
     <!-- ===== ELISPOT / LTT ROW ===== -->
     <!-- <6wk: 60-80%, bar 150px -->
-    <rect fill="#8e44ad" x="235" y="378" width="150" height="26" rx="4" />
-    <text class="pct" x="310" y="418" text-anchor="middle" fill="#8e44ad">60–80%</text>
-    <text class="cell-note" x="310" y="432" text-anchor="middle">Best in acute phase</text>
-
     <!-- 6wk-6mo: 55-70%, bar 130px -->
-    <rect fill="#8e44ad" opacity="0.85" x="450" y="378" width="130" height="26" rx="4" />
-    <text class="pct" x="515" y="418" text-anchor="middle" fill="#8e44ad">55–70%</text>
-
     <!-- 6mo-1yr: 40-55%, bar 100px -->
-    <rect fill="#8e44ad" opacity="0.6" x="670" y="378" width="100" height="26" rx="4" />
-    <text class="pct" x="720" y="418" text-anchor="middle" fill="#8e44ad">40–55%</text>
-
+    <rect
+       fill="#8e44ad"
+       opacity="0.6"
+       x="670"
+       y="378"
+       width="100"
+       height="26"
+       rx="4"
+       id="rect30" />
+    <text
+       class="pct"
+       x="720"
+       y="418"
+       text-anchor="middle"
+       fill="#8e44ad"
+       id="text31">40–55%</text>
     <!-- >1yr: ≤40%, bar 75px -->
-    <rect fill="#8e44ad" opacity="0.35" x="888" y="378" width="75" height="26" rx="4" />
-    <text class="pct" x="925" y="418" text-anchor="middle" fill="#8e44ad">≤40%</text>
-
     <!-- Key takeaway -->
-    <line stroke="#e0e0e0" stroke-width="1" x1="12" y1="460" x2="1077" y2="460" />
-    <text class="note-em" x="550" y="490" text-anchor="middle">ENDA/EAACI: Skin test 6 weeks – 6 months from reaction when possible</text>
-    <text class="note" x="550" y="516" text-anchor="middle">In vitro assays (ELISpot, LTT) can be performed earlier; all modalities decline over time</text>
-    <text class="note" x="550" y="540" text-anchor="middle" style="font-style: italic; fill: #999">Ranges approximate — limited formal longitudinal data for delayed-type reactions</text>
-
+    <text
+       class="col-header"
+       x="720"
+       y="95"
+       text-anchor="middle"
+       id="text5"
+       style="display:inline">6 mo – 1 yr</text>
   </g>
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="layer3"
+     style="display:inline"
+     transform="translate(-227.71254,-80)">
+    <text
+       class="col-header"
+       x="925"
+       y="95"
+       text-anchor="middle"
+       id="text6">&gt; 1 year</text>
+    <rect
+       fill="#e67e22"
+       opacity="0.35"
+       x="898"
+       y="178"
+       width="55"
+       height="26"
+       rx="4"
+       id="rect21" />
+    <text
+       class="pct"
+       x="925"
+       y="218"
+       text-anchor="middle"
+       fill="#e67e22"
+       id="text22">≤30%</text>
+    <rect
+       fill="#4c86c5"
+       opacity="0.4"
+       x="888"
+       y="278"
+       width="75"
+       height="26"
+       rx="4"
+       id="rect26" />
+    <text
+       class="pct"
+       x="925"
+       y="318"
+       text-anchor="middle"
+       fill="#4c86c5"
+       id="text27">~30–40%</text>
+    <rect
+       fill="#8e44ad"
+       opacity="0.35"
+       x="888"
+       y="378"
+       width="75"
+       height="26"
+       rx="4"
+       id="rect31" />
+    <text
+       class="pct"
+       x="925"
+       y="418"
+       text-anchor="middle"
+       fill="#8e44ad"
+       id="text32">≤40%</text>
+  </g>
 </svg>
