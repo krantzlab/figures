@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="1.1"
+  viewBox="0 0 1200 580"
+  width="1200"
+  height="580"
+  id="svg1"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      .title { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 26px; fill: #212529; }
+      .subtitle { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .col-header { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; fill: #4c86c5; }
+      .col-sub { font-family: ArialMT, Arial; font-size: 17px; fill: #999; }
+      .row-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; fill: #212529; }
+      .row-desc { font-family: ArialMT, Arial; font-size: 17px; fill: #666; }
+      .morph-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 18px; fill: #212529; }
+      .morph-desc { font-family: ArialMT, Arial; font-size: 16px; fill: #999; font-style: italic; }
+      .arrow-label { font-family: ArialMT, Arial; font-size: 17px; fill: #999; }
+      .result-pos { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #8e44ad; }
+      .result-neg { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #2d6a4f; }
+      .result-desc { font-family: ArialMT, Arial; font-size: 18px; }
+      .skin-bg { fill: #d0c4b5; }
+      .wheal-flare { fill: #e74c3c; }
+      .wheal-inner { fill: #fab1a0; stroke: #c0392b; stroke-width: 1.5; }
+      .papule-outer { fill: #8e44ad; }
+      .papule-inner { fill: #d2b4de; stroke: #8e44ad; stroke-width: 2; }
+      .flat-ring { fill: none; stroke: #a89888; stroke-width: 1.5; stroke-dasharray: 4 3; }
+      .flat-dot { fill: #a89888; }
+      .arrow-line { fill: none; stroke: #bbb; stroke-width: 1.5; }
+      .arrow-head { fill: #bbb; }
+      .threshold { fill: none; stroke: #e67e22; stroke-width: 2; stroke-dasharray: 8 5; }
+      .threshold-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 16px; fill: #e67e22; }
+      .conc-arrow { fill: none; stroke: #212529; stroke-width: 2; }
+      .conc-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 16px; fill: #212529; }
+      .divider { fill: none; stroke: #e0e0e0; stroke-width: 1; }
+      .row-bg { fill: #f8f9fa; }
+      .takeaway { font-family: ArialMT, Arial; font-size: 18px; fill: #666; }
+      .takeaway-bold { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 18px; fill: #212529; }
+    </style>
+  </defs>
+
+  <!-- Layer 1: Framework + Standard concentration row -->
+  <g inkscape:groupmode="layer" id="layer1" inkscape:label="layer1">
+
+    <!-- Title -->
+    <text class="title" x="600" y="30" text-anchor="middle">IDT Concentrations: Immediate vs Delayed Detection</text>
+    <text class="subtitle" x="600" y="54" text-anchor="middle">Standard concentrations optimized for non-irritating immediate (IgE) testing</text>
+
+    <!-- Column headers -->
+    <text class="col-header" x="410" y="90" text-anchor="middle">15–20 min</text>
+    <text class="col-sub" x="410" y="110" text-anchor="middle">Immediate read</text>
+
+    <text class="col-header" x="790" y="90" text-anchor="middle">24–48 hr</text>
+    <text class="col-sub" x="790" y="110" text-anchor="middle">Delayed read</text>
+
+    <!-- Concentration arrow (left edge) -->
+    <line class="conc-arrow" x1="28" y1="420" x2="28" y2="145" />
+    <polygon fill="#212529" points="23,150 33,150 28,138" />
+    <text class="conc-label" x="30" y="440" text-anchor="middle" transform="rotate(-90, 30, 310)">Concentration</text>
+
+    <!-- ===== ROW 1: Standard IDT concentration ===== -->
+    <rect class="row-bg" x="55" y="125" width="1090" height="170" rx="8" />
+
+    <!-- Row label -->
+    <text class="row-label" x="70" y="200" text-anchor="start">Standard</text>
+    <text class="row-label" x="70" y="222" text-anchor="start">IDT conc.</text>
+    <text class="row-desc" x="70" y="244" text-anchor="start">Non-irritating</text>
+    <text class="row-desc" x="70" y="262" text-anchor="start">(IgE-optimized)</text>
+
+    <!-- 15 min: Wheal/flare (MRGPRX2-driven for vancomycin) -->
+    <circle class="skin-bg" cx="410" cy="210" r="50" />
+    <circle class="wheal-flare" cx="410" cy="210" r="42" opacity="0.25" />
+    <circle class="wheal-inner" cx="410" cy="210" r="26" />
+    <text class="morph-label" x="410" y="280" text-anchor="middle">Wheal / flare</text>
+    <text class="morph-desc" x="410" y="298" text-anchor="middle">e.g. vancomycin via MRGPRX2</text>
+
+    <!-- Arrow: resolves -->
+    <line class="arrow-line" x1="520" y1="210" x2="640" y2="210" />
+    <polygon class="arrow-head" points="640,205 640,215 652,210" />
+    <text class="arrow-label" x="580" y="198" text-anchor="middle">Resolves</text>
+
+    <!-- 48 hr: Nothing (flat, resolved) -->
+    <circle class="skin-bg" cx="790" cy="210" r="50" />
+    <circle class="flat-ring" cx="790" cy="210" r="22" />
+    <circle class="flat-dot" cx="790" cy="210" r="3" />
+    <text class="morph-label" x="790" y="280" text-anchor="middle">Flat — no reaction</text>
+
+    <!-- Result -->
+    <text class="result-neg" x="960" y="200" text-anchor="start">(−)</text>
+    <text class="result-desc" x="960" y="224" text-anchor="start" fill="#2d6a4f">Delayed</text>
+    <text class="result-desc" x="960" y="244" text-anchor="start" fill="#2d6a4f">missed</text>
+
+    <!-- Threshold line between rows -->
+    <line class="threshold" x1="55" y1="310" x2="1145" y2="310" />
+    <text class="threshold-label" x="1148" y="306" text-anchor="start">Non-irritating</text>
+    <text class="threshold-label" x="1148" y="322" text-anchor="start">threshold</text>
+
+  </g>
+
+  <!-- Layer 2: Higher concentration row + key takeaway -->
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="layer2">
+
+    <!-- ===== ROW 2: Higher concentration ===== -->
+
+    <!-- Row label -->
+    <text class="row-label" x="70" y="385" text-anchor="start">Higher</text>
+    <text class="row-label" x="70" y="407" text-anchor="start">conc.</text>
+    <text class="row-desc" x="70" y="429" text-anchor="start">Needed for</text>
+    <text class="row-desc" x="70" y="447" text-anchor="start">delayed detection</text>
+
+    <!-- 15 min: Same wheal/flare (MRGPRX2 still fires) -->
+    <circle class="skin-bg" cx="410" cy="395" r="50" />
+    <circle class="wheal-flare" cx="410" cy="395" r="42" opacity="0.25" />
+    <circle class="wheal-inner" cx="410" cy="395" r="26" />
+    <text class="morph-label" x="410" y="465" text-anchor="middle">Wheal / flare</text>
+    <text class="morph-desc" x="410" y="483" text-anchor="middle">Same MRGPRX2 response</text>
+
+    <!-- Arrow: resolves, then papule appears -->
+    <line class="arrow-line" x1="520" y1="395" x2="640" y2="395" />
+    <polygon class="arrow-head" points="640,390 640,400 652,395" />
+    <text class="arrow-label" x="580" y="383" text-anchor="middle">Resolves,</text>
+    <text class="arrow-label" x="580" y="400" text-anchor="middle">then...</text>
+
+    <!-- 48 hr: Indurated papule (T-cell mediated) -->
+    <circle class="skin-bg" cx="790" cy="395" r="50" />
+    <circle class="papule-outer" cx="790" cy="395" r="38" opacity="0.22" />
+    <circle class="papule-inner" cx="790" cy="395" r="24" />
+    <text class="morph-label" x="790" y="465" text-anchor="middle">Indurated papule</text>
+    <text class="morph-desc" x="790" y="483" text-anchor="middle">T-cell mediated infiltration</text>
+
+    <!-- Result -->
+    <text class="result-pos" x="960" y="385" text-anchor="start">(+)</text>
+    <text class="result-desc" x="960" y="409" text-anchor="start" fill="#8e44ad">Delayed</text>
+    <text class="result-desc" x="960" y="429" text-anchor="start" fill="#8e44ad">detected</text>
+
+    <!-- Key takeaway -->
+    <line stroke="#e0e0e0" stroke-width="1" x1="55" y1="510" x2="1145" y2="510" />
+    <text class="takeaway-bold" x="600" y="540" text-anchor="middle">
+      Standard IDT concentrations may miss delayed hypersensitivity —
+    </text>
+    <text class="takeaway" x="600" y="564" text-anchor="middle">
+      higher concentrations needed to provoke T-cell–mediated reactions at 24–48 hr
+    </text>
+
+  </g>
+
+</svg>
