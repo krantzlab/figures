@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 874.42261 708.27472"
+   id="svg22"
+   sodipodi:docname="fig-delayed-idt-sites.svg"
+   width="874.42261"
+   height="708.27472"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55712796"
+     inkscape:cx="494.5004"
+     inkscape:cy="540.27086"
+     inkscape:window-width="1512"
+     inkscape:window-height="837"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke-dasharray: 3;
+      }
+
+      .st1, .st2, .st3, .st4, .st5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st3, .st5 {
+        fill: none;
+      }
+
+      .st2, .st3 {
+        stroke-width: 2px;
+      }
+
+      .st2, .st4 {
+        fill: #999;
+      }
+
+      .st6 {
+        display: none;
+      }
+
+      .st4, .st5 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layer1"
+     transform="translate(-341.56787,-102.63708)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2"
+     style="display:inline"
+     transform="translate(-341.56787,-102.63708)">
+    <path
+       style="fill:#d0c4b5;fill-opacity:1;stroke:none;stroke-width:4.37;paint-order:fill markers stroke"
+       d="m 351.68549,740.44642 90.43341,-4.06007 394.15444,8.45349 0.59458,-101.7578 c 0,0 8.6127,-27.27357 10.04815,-40.19263 1.43545,-12.91906 0,-63.15984 -4.30635,-73.208 -4.30635,-10.04816 -27.27357,-53.11169 -27.27357,-53.11169 0,0 -20.09631,-7.17725 -28.70902,-7.17725 -8.6127,0 -48.80533,-20.09632 -48.80533,-20.09632 l -68.90165,-28.70902 c 0,0 -11.4836,-12.91905 -15.78996,-18.66086 -4.30635,-5.7418 -7.17725,-11.48361 -7.17725,-11.48361 l -107.65883,4.30636 c 0,0 1.43546,12.91906 -7.17725,17.22541 -8.61271,4.30635 -48.80533,30.14447 -63.15984,34.45082 -14.35451,4.30636 -38.75718,11.48361 -54.54714,15.78996 -15.78996,4.30636 -22.96722,7.17726 -28.70902,8.61271 -5.7418,1.43545 -18.66086,11.48361 -22.96722,21.53176 -4.30635,10.04816 -17.22541,55.98259 -18.66086,67.4662 -1.43545,11.48361 4.30636,28.70902 5.74181,40.19263 1.43545,11.4836 1.43545,45.93443 2.8709,63.15984 1.43545,17.22541 0,77.26807 0,77.26807 z"
+       id="path1"
+       sodipodi:nodetypes="ccccsscsccsccssssssssc" />
+    <path
+       class="st5"
+       d="m 555.84243,574.63319 c 0,0 2.83706,60.69896 0,72.91252 -2.83706,12.21356 -18.44091,19.29203 -18.44091,19.29203"
+       id="path3" />
+    <path
+       class="st5"
+       d="m 633.86167,580.30731 c 0,0 1.41853,65.25246 5.67413,73.76365 4.25559,8.51119 13.10723,12.76678 13.10723,12.76678"
+       id="path4" />
+    <path
+       class="st5"
+       d="m 777.84263,592.36483 c -4.2556,26.9521 -5.67413,55.32274 -18.44091,80.8563 -1.41854,1.41854 -4.2556,1.41854 -5.67413,2.83707 -5.67413,22.6965 -2.83706,45.39301 -8.0147,67.2384"
+       id="path5" />
+    <path
+       class="st5"
+       d="m 409.83297,592.36483 c 2.0285,25.53357 10.53969,51.06714 19.05088,75.18218 1.41854,4.25559 5.67413,5.67412 7.09266,9.92972 2.83706,21.27797 2.83706,41.13742 6.45432,60.72734"
+       id="path6" />
+    <path
+       class="st5"
+       d="m 540.77763,394.21015 c -1.24831,15.16411 -16.85216,22.25676 -28.20041,29.34942 -34.04476,18.44091 -66.67099,32.62623 -103.55281,42.55595 -7.09266,2.83706 -15.60385,2.83706 -22.6965,4.2556 -4.2556,1.41853 -8.51119,4.25559 -11.34826,8.51118 -19.85944,31.2077 -35.46329,62.4154 -31.20769,99.29722 4.25559,26.9521 7.09266,52.48567 8.51119,78.01923 2.83706,28.37064 -1.41853,56.74127 0,85.1119"
+       id="path7" />
+    <path
+       class="st5"
+       d="m 648.92648,392.64977 c 5.5039,28.07274 38.13012,35.1654 60.82663,46.51365 2.83706,1.41853 4.2556,0 7.09266,1.41853 22.6965,11.34825 46.81154,21.27798 70.92658,29.78917 5.67412,1.41853 12.76678,-1.41854 18.44091,1.41853 9.92972,5.67412 15.60385,15.60384 19.85944,25.53357 8.51119,18.44091 18.44091,36.88182 19.85944,58.15979 1.41854,28.37063 2.83707,58.1598 -8.51119,85.1119 0,34.04476 0,66.67098 0.62416,100.71574"
+       id="path8" />
+    <path
+       class="st5"
+       d="m 595.56132,635.63005 c 0,0 -1.95758,13.83068 -1.41854,24.11503 0.53905,10.28436 1.8441,78.45899 1.8441,78.45899"
+       id="path14" />
+    <text
+       class="st0"
+       id="text15"
+       x="548.26746"
+       y="805.7829"
+       style="stroke-width:1.41853"><tspan
+         x="548.26746"
+         y="805.7829"
+         id="tspan15"
+         style="stroke-width:1.41853">Back</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layer3"
+     style="display:inline"
+     transform="translate(-341.56787,-102.63708)">
+    <text
+       class="st0"
+       id="text16"
+       x="1018.227"
+       y="805.7829"
+       style="stroke-width:1.41853"><tspan
+         x="1018.227"
+         y="805.7829"
+         id="tspan16"
+         style="stroke-width:1.41853">Volar forearm</tspan></text>
+    <text
+       class="st0"
+       id="text19"
+       x="887.01282"
+       y="805.7829"
+       style="stroke-width:1.41853"><tspan
+         x="887.01282"
+         y="805.7829"
+         id="tspan19"
+         style="stroke-width:1.41853">or</tspan></text>
+  </g>
+</svg>
