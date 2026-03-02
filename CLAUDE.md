@@ -145,6 +145,8 @@ Use semantic class names. Common patterns from existing figures:
 | Small label | `.label-sm` | 20px | 400 |
 | Axis label | `.ax-label` | 22px | 700 |
 | Axis tick | `.ax-tick` | 20px | 400 |
+
+> **Axis legibility on projectors**: Use `#212529` (body text color) for axis ticks and labels — not `#999`. Light grays wash out on projected slides.
 | Data value | `.bar-value` | 28px | 700 |
 | Notes | `.note` | 20px | 400 |
 | Notes emphasis | `.note-em` | 20px | 700 |
@@ -160,7 +162,7 @@ Use these established project colors consistently:
 | Brand blue | `#4c86c5` | Headers, accent, time labels, column headers |
 | Body text | `#212529` | Primary text |
 | Secondary text | `#666` | Lighter labels, descriptions |
-| Tertiary text | `#999` | Axis ticks, subtle elements |
+| Tertiary text | `#999` | Decorative elements only — NOT axis ticks (see note above) |
 | Note text | `#555` | Footnotes, aside text |
 | Background | `#f8f9fa` | Slide/page background |
 | Positive/alert | `#c0392b` | Drug reactions, positive results |
