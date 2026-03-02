@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="1.1"
+  viewBox="0 0 1100 520"
+  width="1100"
+  height="520"
+  id="svg1"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      .title { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 28px; fill: #212529; }
+      .subtitle { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .well-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 20px; fill: #212529; }
+      .well-ring { fill: none; stroke: #a89888; stroke-width: 2.5; }
+      .well-fill { fill: #f5f0e8; }
+      .cell-dot { fill: #999; }
+      .step-label { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 18px; fill: #4c86c5; }
+      .step-num { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 16px; fill: #fff; }
+      .result-pos { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #c0392b; }
+      .result-neg { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #2d6a4f; }
+      .result-label { font-family: ArialMT, Arial; font-size: 18px; }
+      .conclusion { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 24px; fill: #212529; }
+      .conclusion-detail { font-family: ArialMT, Arial; font-size: 20px; fill: #666; }
+      .hla-ref { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; }
+      .note { font-family: ArialMT, Arial; font-size: 18px; fill: #666; }
+    </style>
+  </defs>
+
+  <!-- Layer 1: CDC assay setup -->
+  <g inkscape:groupmode="layer" id="layer1" inkscape:label="layer1">
+
+    <!-- Title -->
+    <text class="title" x="550" y="32" text-anchor="middle">Complement-Dependent Cytotoxicity (CDC) Assay</text>
+    <text class="subtitle" x="550" y="58" text-anchor="middle">Serologic typing → Field 1 (antigen group)</text>
+
+    <!-- Process steps -->
+    <circle fill="#4c86c5" cx="135" cy="95" r="12" />
+    <text class="step-num" x="135" y="100" text-anchor="middle">1</text>
+    <text class="step-label" x="155" y="100">Patient lymphocytes</text>
+
+    <circle fill="#4c86c5" cx="420" cy="95" r="12" />
+    <text class="step-num" x="420" y="100" text-anchor="middle">2</text>
+    <text class="step-label" x="440" y="100">Add typing antisera</text>
+
+    <circle fill="#4c86c5" cx="700" cy="95" r="12" />
+    <text class="step-num" x="700" y="100" text-anchor="middle">3</text>
+    <text class="step-label" x="720" y="100">Add complement + dye</text>
+
+    <!-- Arrow -->
+    <line stroke="#ccc" stroke-width="1.5" x1="100" y1="120" x2="1000" y2="120" />
+
+    <!-- Five wells (top-down view of Terasaki plate) -->
+    <!-- Well 1: Anti-B7 -->
+    <circle class="well-fill" cx="140" cy="220" r="55" />
+    <circle class="well-ring" cx="140" cy="220" r="55" />
+    <text class="well-label" x="140" y="145" text-anchor="middle">Anti-B7</text>
+    <!-- Lymphocyte dots -->
+    <circle class="cell-dot" cx="125" cy="205" r="4" />
+    <circle class="cell-dot" cx="145" cy="210" r="4" />
+    <circle class="cell-dot" cx="155" cy="225" r="4" />
+    <circle class="cell-dot" cx="130" cy="235" r="4" />
+    <circle class="cell-dot" cx="148" cy="240" r="4" />
+
+    <!-- Well 2: Anti-B27 -->
+    <circle class="well-fill" cx="380" cy="220" r="55" />
+    <circle class="well-ring" cx="380" cy="220" r="55" />
+    <text class="well-label" x="380" y="145" text-anchor="middle">Anti-B27</text>
+    <circle class="cell-dot" cx="365" cy="205" r="4" />
+    <circle class="cell-dot" cx="385" cy="210" r="4" />
+    <circle class="cell-dot" cx="395" cy="225" r="4" />
+    <circle class="cell-dot" cx="370" cy="235" r="4" />
+    <circle class="cell-dot" cx="388" cy="240" r="4" />
+
+    <!-- Well 3: Anti-B44 -->
+    <circle class="well-fill" cx="620" cy="220" r="55" />
+    <circle class="well-ring" cx="620" cy="220" r="55" />
+    <text class="well-label" x="620" y="145" text-anchor="middle">Anti-B44</text>
+    <circle class="cell-dot" cx="605" cy="205" r="4" />
+    <circle class="cell-dot" cx="625" cy="210" r="4" />
+    <circle class="cell-dot" cx="635" cy="225" r="4" />
+    <circle class="cell-dot" cx="610" cy="235" r="4" />
+    <circle class="cell-dot" cx="628" cy="240" r="4" />
+
+    <!-- Well 4: Anti-B57 -->
+    <circle class="well-fill" cx="860" cy="220" r="55" />
+    <circle class="well-ring" cx="860" cy="220" r="55" />
+    <text class="well-label" x="860" y="145" text-anchor="middle">Anti-B57</text>
+    <circle class="cell-dot" cx="845" cy="205" r="4" />
+    <circle class="cell-dot" cx="865" cy="210" r="4" />
+    <circle class="cell-dot" cx="875" cy="225" r="4" />
+    <circle class="cell-dot" cx="850" cy="235" r="4" />
+    <circle class="cell-dot" cx="868" cy="240" r="4" />
+
+  </g>
+
+  <!-- Layer 2: Results -->
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="layer2">
+
+    <!-- Well 5: Anti-B58 (the positive one) -->
+    <circle class="well-fill" cx="1000" cy="220" r="55" />
+    <circle class="well-ring" cx="1000" cy="220" r="55" />
+    <text class="well-label" x="1000" y="145" text-anchor="middle">Anti-B58</text>
+    <circle class="cell-dot" cx="985" cy="205" r="4" />
+    <circle class="cell-dot" cx="1005" cy="210" r="4" />
+    <circle class="cell-dot" cx="1015" cy="225" r="4" />
+    <circle class="cell-dot" cx="990" cy="235" r="4" />
+    <circle class="cell-dot" cx="1008" cy="240" r="4" />
+
+    <!-- Negative result overlays: green tint + "−" -->
+    <circle fill="#2d6a4f" opacity="0.12" cx="140" cy="220" r="55" />
+    <text class="result-neg" x="140" y="300" text-anchor="middle">−</text>
+    <text class="result-label" x="140" y="322" text-anchor="middle" fill="#2d6a4f">Alive</text>
+
+    <circle fill="#2d6a4f" opacity="0.12" cx="380" cy="220" r="55" />
+    <text class="result-neg" x="380" y="300" text-anchor="middle">−</text>
+    <text class="result-label" x="380" y="322" text-anchor="middle" fill="#2d6a4f">Alive</text>
+
+    <circle fill="#2d6a4f" opacity="0.12" cx="620" cy="220" r="55" />
+    <text class="result-neg" x="620" y="300" text-anchor="middle">−</text>
+    <text class="result-label" x="620" y="322" text-anchor="middle" fill="#2d6a4f">Alive</text>
+
+    <circle fill="#2d6a4f" opacity="0.12" cx="860" cy="220" r="55" />
+    <text class="result-neg" x="860" y="300" text-anchor="middle">−</text>
+    <text class="result-label" x="860" y="322" text-anchor="middle" fill="#2d6a4f">Alive</text>
+
+    <!-- Positive result: Anti-B58 well turns red -->
+    <circle fill="#c0392b" opacity="0.18" cx="1000" cy="220" r="55" />
+    <circle fill="none" stroke="#c0392b" stroke-width="3" cx="1000" cy="220" r="55" />
+    <text class="result-pos" x="1000" y="300" text-anchor="middle">+</text>
+    <text class="result-label" x="1000" y="322" text-anchor="middle" fill="#c0392b">Dead</text>
+
+    <!-- Conclusion -->
+    <line stroke="#c0392b" stroke-width="1.5" stroke-dasharray="5 4" x1="1000" y1="340" x2="1000" y2="380" />
+    <rect fill="#c0392b" opacity="0.06" x="350" y="390" width="700" height="80" rx="10" />
+    <text class="conclusion" x="700" y="425" text-anchor="middle">
+      Patient is <tspan fill="#e67e22">B58</tspan> → Field 1 resolved
+    </text>
+    <text class="conclusion-detail" x="700" y="452" text-anchor="middle">
+      HLA-B*<tspan font-weight="700" fill="#e67e22">58</tspan>:__
+    </text>
+
+    <!-- Note -->
+    <text class="note" x="550" y="500" text-anchor="middle">Antibodies define antigen group but cannot distinguish alleles within a group</text>
+
+  </g>
+
+</svg>
