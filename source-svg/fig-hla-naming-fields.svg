@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-  version="1.1"
-  viewBox="0 0 960 300"
-  width="960"
-  height="300"
-  id="svg1"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:svg="http://www.w3.org/2000/svg">
-
-  <defs>
-    <style>
+   version="1.1"
+   viewBox="0 0 960 300"
+   width="960"
+   height="300"
+   id="svg1"
+   sodipodi:docname="fig-hla-naming-fields.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.9183158"
+     inkscape:cx="386.03278"
+     inkscape:cy="225.95713"
+     inkscape:window-width="1512"
+     inkscape:window-height="838"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .name { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 72px; }
       .lbl { font-family: Arial-BoldMT, Arial; font-weight: 700; font-size: 22px; }
       .desc { font-family: ArialMT, Arial; font-size: 18px; fill: #666; }
@@ -23,58 +44,213 @@
       .sep { fill: #999; }
     </style>
   </defs>
-
   <!-- Layer 1: Name + structural annotations (Prefix, Gene) -->
-  <g inkscape:groupmode="layer" id="layer1" inkscape:label="layer1">
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layer1"
+     style="display:inline">
     <!-- HLA name with color-coded segments -->
-    <text class="name" x="480" y="80" text-anchor="middle">
-      <tspan class="prefix">HLA</tspan><tspan class="sep">-</tspan><tspan class="gene">B</tspan><tspan class="sep">*</tspan><tspan class="f1">58</tspan><tspan class="sep">:</tspan><tspan class="f2">01</tspan>
-    </text>
-
+    <text
+       class="name"
+       x="481.19669"
+       y="102.73682"
+       text-anchor="middle"
+       id="text7"><tspan
+         class="prefix"
+         id="tspan1">HLA</tspan><tspan
+         class="sep"
+         id="tspan2">-</tspan><tspan
+         class="gene"
+         id="tspan3">B</tspan><tspan
+         class="sep"
+         id="tspan4">*</tspan><tspan
+         class="f1"
+         id="tspan5">58</tspan><tspan
+         class="sep"
+         id="tspan6">:</tspan><tspan
+         class="f2"
+         id="tspan7">01</tspan></text>
     <!-- Separator annotations -->
-    <text class="sep-note" x="370" y="46" text-anchor="middle">hyphen</text>
-    <text class="sep-note" x="470" y="46" text-anchor="middle">asterisk</text>
-    <text class="sep-note" x="620" y="46" text-anchor="middle">colon</text>
-    <line stroke="#ddd" stroke-width="1" x1="340" y1="38" x2="650" y2="38" />
-
+    <line
+       stroke="#dddddd"
+       stroke-width="0.764906"
+       x1="426.39951"
+       y1="34.128937"
+       x2="607.7749"
+       y2="34.128937"
+       id="line10"
+       style="stroke:#999999;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
     <!-- Prefix annotation -->
-    <line stroke="#4c86c5" stroke-width="1.5" x1="310" y1="95" x2="180" y2="135" />
-    <circle fill="#4c86c5" cx="180" cy="140" r="3" />
-    <text class="lbl prefix" x="180" y="165" text-anchor="middle">Prefix</text>
-    <text class="desc" x="180" y="187" text-anchor="middle">HLA system</text>
-
     <!-- Gene annotation -->
-    <line stroke="#2d6a4f" stroke-width="1.5" x1="430" y1="95" x2="370" y2="135" />
-    <circle fill="#2d6a4f" cx="370" cy="140" r="3" />
-    <text class="lbl gene" x="370" y="165" text-anchor="middle">Gene</text>
-    <text class="desc" x="370" y="187" text-anchor="middle">B locus</text>
-
+    <text
+       class="desc"
+       x="501.87946"
+       y="20.355589"
+       text-anchor="middle"
+       id="text14-7"
+       style="font-size:18px;font-family:ArialMT, Arial;fill:#666666">Separators</text>
+    <path
+       style="fill:#d0c4b5;stroke:#999999;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 425.99029,33.437975 V 46.123287"
+       id="path23" />
+    <path
+       style="fill:#d0c4b5;stroke:#999999;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 500.28447,33.680912 V 46.366224"
+       id="path23-6" />
+    <path
+       style="fill:#d0c4b5;stroke:#999999;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 606.88789,33.530199 V 46.215511"
+       id="path23-5" />
   </g>
-
   <!-- Layer 2: Resolution annotations (Field 1, Field 2) -->
-  <g inkscape:groupmode="layer" id="layer2" inkscape:label="layer2">
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2"
+     style="display:inline">
     <!-- Field 1 annotation -->
-    <line stroke="#e67e22" stroke-width="1.5" x1="540" y1="95" x2="590" y2="135" />
-    <circle fill="#e67e22" cx="590" cy="140" r="3" />
-    <text class="lbl f1" x="590" y="165" text-anchor="middle">Field 1</text>
-    <text class="desc" x="590" y="187" text-anchor="middle">Antigen group</text>
-    <text class="desc" x="590" y="209" text-anchor="middle">(serologic)</text>
-
     <!-- Field 2 annotation -->
-    <line stroke="#c0392b" stroke-width="1.5" x1="650" y1="95" x2="770" y2="135" />
-    <circle fill="#c0392b" cx="770" cy="140" r="3" />
-    <text class="lbl f2" x="770" y="165" text-anchor="middle">Field 2</text>
-    <text class="desc" x="770" y="187" text-anchor="middle">Specific protein</text>
-    <text class="desc" x="770" y="209" text-anchor="middle">(molecular)</text>
-
     <!-- Low vs high resolution note -->
-    <text class="desc" x="590" y="252" text-anchor="middle">Low resolution</text>
-    <text class="desc" x="770" y="252" text-anchor="middle">High resolution</text>
-    <line stroke="#e67e22" stroke-width="1" stroke-dasharray="4 3" x1="590" y1="218" x2="590" y2="236" />
-    <line stroke="#c0392b" stroke-width="1" stroke-dasharray="4 3" x1="770" y1="218" x2="770" y2="236" />
-
+    <line
+       stroke="#4c86c5"
+       stroke-width="1.5"
+       x1="311.19669"
+       y1="117.73682"
+       x2="181.19667"
+       y2="157.73683"
+       id="line11" />
+    <text
+       class="lbl prefix"
+       x="181.19667"
+       y="187.73683"
+       text-anchor="middle"
+       id="text11">Prefix</text>
+    <text
+       class="desc"
+       x="181.19667"
+       y="209.73683"
+       text-anchor="middle"
+       id="text12">HLA system</text>
   </g>
-
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layer3"
+     style="display:inline">
+    <line
+       stroke="#2d6a4f"
+       stroke-width="1.5"
+       x1="431.19669"
+       y1="117.73682"
+       x2="371.19669"
+       y2="157.73683"
+       id="line12" />
+    <text
+       class="lbl gene"
+       x="371.19669"
+       y="187.73683"
+       text-anchor="middle"
+       id="text13">Gene</text>
+    <text
+       class="desc"
+       x="371.19669"
+       y="209.73683"
+       text-anchor="middle"
+       id="text14">B locus</text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="layer4"
+     style="display:inline">
+    <line
+       stroke="#e67e22"
+       stroke-width="1.5"
+       x1="541.19666"
+       y1="117.73682"
+       x2="591.19666"
+       y2="157.73683"
+       id="line14" />
+    <text
+       class="lbl f1"
+       x="591.19666"
+       y="187.73683"
+       text-anchor="middle"
+       id="text15">Field 1</text>
+    <text
+       class="desc"
+       x="591.19666"
+       y="209.73683"
+       text-anchor="middle"
+       id="text16">Antigen group</text>
+    <text
+       class="desc"
+       x="591.19666"
+       y="231.73683"
+       text-anchor="middle"
+       id="text17">(serologic)</text>
+    <text
+       class="desc"
+       x="591.19666"
+       y="274.73682"
+       text-anchor="middle"
+       id="text21">Low resolution</text>
+    <line
+       stroke="#e67e22"
+       stroke-width="1"
+       stroke-dasharray="4, 3"
+       x1="591.19666"
+       y1="240.73683"
+       x2="591.19666"
+       y2="258.73682"
+       id="line22" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="layer5"
+     style="display:inline">
+    <text
+       class="lbl f2"
+       x="771.19666"
+       y="187.73683"
+       text-anchor="middle"
+       id="text18">Field 2</text>
+    <text
+       class="desc"
+       x="771.19666"
+       y="209.73683"
+       text-anchor="middle"
+       id="text19">Specific protein</text>
+    <text
+       class="desc"
+       x="771.19666"
+       y="231.73683"
+       text-anchor="middle"
+       id="text20">(molecular)</text>
+    <text
+       class="desc"
+       x="771.19666"
+       y="274.73682"
+       text-anchor="middle"
+       id="text22">High resolution</text>
+    <line
+       stroke="#c0392b"
+       stroke-width="1"
+       stroke-dasharray="4, 3"
+       x1="771.19666"
+       y1="240.73683"
+       x2="771.19666"
+       y2="258.73682"
+       id="line23" />
+    <line
+       stroke="#c0392b"
+       stroke-width="1.5"
+       x1="651.19666"
+       y1="117.73682"
+       x2="771.19666"
+       y2="157.73683"
+       id="line17" />
+  </g>
 </svg>
