@@ -3,16 +3,38 @@
    version="1.1"
    viewBox="0 0 1600 900"
    id="svg1"
-   sodipodi:docname="fig-hla-testing-comparison.svg"
+   sodipodi0:docname="fig-hla-testing-comparison.svg"
    width="1600"
    height="900"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+   sodipodi:docname="fig-hla-testing-comparison.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.0"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+   xmlns:sodipodi0="http://sodipodi.sourceforge.net/DTD/sodipodi-0.0">
+  <defs
+     id="defs23" />
   <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.33330988"
+     inkscape:cx="871.56133"
+     inkscape:cy="498.03504"
+     inkscape:window-width="1440"
+     inkscape:window-height="807"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <sodipodi0:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -30,89 +52,278 @@
      inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1">
-    <sodipodi:guide position="0,820" orientation="0,1" id="guide1" inkscape:locked="false" inkscape:label="" inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide position="1520,900" orientation="-1,0" id="guide2" inkscape:locked="false" inkscape:label="" inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide position="1600,80" orientation="0,1" id="guide3" inkscape:locked="false" inkscape:label="" inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide position="80,0" orientation="-1,0" id="guide4" inkscape:locked="false" inkscape:label="" inkscape:color="rgb(0,134,229)" />
-  </sodipodi:namedview>
-
+    <sodipodi0:guide
+       position="0,820"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi0:guide
+       position="1520,900"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi0:guide
+       position="1600,80"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi0:guide
+       position="80,0"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi0:namedview>
   <!-- Layer 1: Structure — divider + column headers -->
   <g
      inkscape:groupmode="layer"
      inkscape:label="layer1"
      id="layer1">
-
     <!-- Center divider -->
-    <line x1="800" y1="60" x2="800" y2="840" stroke="#ddd" stroke-width="1.5"/>
-
+    <line
+       x1="800"
+       y1="60"
+       x2="800"
+       y2="840"
+       stroke="#ddd"
+       stroke-width="1.5"
+       id="line1" />
     <!-- Left header: High-resolution sequencing -->
-    <text x="400" y="90" font-size="32" font-weight="700" fill="#999" text-anchor="middle">High-Resolution Sequencing</text>
-    <text x="400" y="124" font-size="22" font-weight="400" fill="#bbb" text-anchor="middle">PCR sequencing of Exon 2 &amp; 3</text>
-
+    <text
+       x="400"
+       y="90"
+       font-size="32"
+       font-weight="700"
+       fill="#999"
+       text-anchor="middle"
+       id="text1"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">High-Resolution Sequencing</text>
+    <text
+       x="400"
+       y="124"
+       font-size="22"
+       font-weight="400"
+       fill="#bbb"
+       text-anchor="middle"
+       id="text2"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">PCR sequencing of Exon 2 &amp; 3</text>
     <!-- Right header: Single-allele assay -->
-    <text x="1200" y="90" font-size="32" font-weight="700" fill="#4c86c5" text-anchor="middle">Single-Allele Assay</text>
-    <text x="1200" y="124" font-size="22" font-weight="400" fill="#7eadd4" text-anchor="middle">PCR with allele-specific primers</text>
+    <text
+       x="1200"
+       y="90"
+       font-size="32"
+       font-weight="700"
+       fill="#4c86c5"
+       text-anchor="middle"
+       id="text3"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Single-Allele Assay</text>
+    <text
+       x="1200"
+       y="124"
+       font-size="22"
+       font-weight="400"
+       fill="#7eadd4"
+       text-anchor="middle"
+       id="text4"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">PCR with allele-specific primers</text>
   </g>
-
   <!-- Layer 2: Resolution row -->
   <g
      inkscape:groupmode="layer"
      inkscape:label="layer2"
      id="layer2">
-
     <!-- Left: complex -->
-    <text x="400" y="230" font-size="24" font-weight="400" fill="#999" text-anchor="middle" letter-spacing="2">RESOLUTION</text>
-    <text x="400" y="280" font-size="36" font-weight="600" fill="#1a1a1a" text-anchor="middle">4-digit (2-field)</text>
-    <text x="400" y="316" font-size="22" font-weight="400" fill="#999" text-anchor="middle">HLA-B*57:01, B*58:01, B*15:02 ...</text>
-    <text x="400" y="350" font-size="20" font-weight="400" fill="#bbb" text-anchor="middle">Determines zygosity</text>
-
+    <text
+       x="400"
+       y="230"
+       font-size="24"
+       font-weight="400"
+       fill="#999"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text5"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RESOLUTION</text>
+    <text
+       x="400"
+       y="280"
+       font-size="36"
+       font-weight="600"
+       fill="#1a1a1a"
+       text-anchor="middle"
+       id="text6"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Semi-Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4-digit (2-field)</text>
+    <text
+       x="400"
+       y="316"
+       font-size="22"
+       font-weight="400"
+       fill="#999"
+       text-anchor="middle"
+       id="text7"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HLA-B*57:01, B*58:01, B*15:02 ...</text>
+    <text
+       x="400"
+       y="350"
+       font-size="20"
+       font-weight="400"
+       fill="#bbb"
+       text-anchor="middle"
+       id="text8"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Determines zygosity</text>
     <!-- Right: simple -->
-    <text x="1200" y="230" font-size="24" font-weight="400" fill="#4c86c5" text-anchor="middle" letter-spacing="2">RESOLUTION</text>
-    <text x="1200" y="280" font-size="36" font-weight="600" fill="#1a1a1a" text-anchor="middle">Present or Absent</text>
-    <text x="1200" y="316" font-size="22" font-weight="400" fill="#7eadd4" text-anchor="middle">Is HLA-B*58:01 here? Yes / No</text>
+    <text
+       x="1200"
+       y="230"
+       font-size="24"
+       font-weight="400"
+       fill="#4c86c5"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text9"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">RESOLUTION</text>
+    <text
+       x="1200"
+       y="280"
+       font-size="36"
+       font-weight="600"
+       fill="#1a1a1a"
+       text-anchor="middle"
+       id="text10">Present or Absent</text>
+    <text
+       x="1200"
+       y="316"
+       font-size="22"
+       font-weight="400"
+       fill="#7eadd4"
+       text-anchor="middle"
+       id="text11"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Is HLA-B*58:01 here? Yes / No</text>
   </g>
-
   <!-- Layer 3: Use case row — the punchline -->
   <g
      inkscape:groupmode="layer"
      inkscape:label="layer3"
      id="layer3">
-
-    <text x="400" y="440" font-size="24" font-weight="400" fill="#999" text-anchor="middle" letter-spacing="2">USE CASE</text>
-    <text x="400" y="498" font-size="30" font-weight="500" fill="#1a1a1a" text-anchor="middle">Transplant typing</text>
-    <text x="400" y="536" font-size="30" font-weight="500" fill="#1a1a1a" text-anchor="middle">Research</text>
-
-    <text x="1200" y="440" font-size="24" font-weight="400" fill="#4c86c5" text-anchor="middle" letter-spacing="2">USE CASE</text>
-    <text x="1200" y="490" font-size="42" font-weight="700" fill="#1a1a1a" text-anchor="middle">Pharmacogenomics</text>
-    <text x="1200" y="536" font-size="26" font-weight="400" fill="#4c86c5" text-anchor="middle">HLA-B*58:01 → allopurinol</text>
-    <text x="1200" y="568" font-size="26" font-weight="400" fill="#4c86c5" text-anchor="middle">HLA-B*57:01 → abacavir</text>
+    <text
+       x="400"
+       y="440"
+       font-size="24"
+       font-weight="400"
+       fill="#999"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text12"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">USE CASE</text>
+    <text
+       x="400"
+       y="498"
+       font-size="30"
+       font-weight="500"
+       fill="#1a1a1a"
+       text-anchor="middle"
+       id="text13"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Semi-Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Transplant typing</text>
+    <text
+       x="400"
+       y="536"
+       font-size="30"
+       font-weight="500"
+       fill="#1a1a1a"
+       text-anchor="middle"
+       id="text14"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Semi-Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Research</text>
+    <text
+       x="1200"
+       y="440"
+       font-size="24"
+       font-weight="400"
+       fill="#4c86c5"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text15"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">USE CASE</text>
+    <text
+       x="1200"
+       y="490"
+       font-size="42"
+       font-weight="700"
+       fill="#1a1a1a"
+       text-anchor="middle"
+       id="text16"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#1a1a1a">Pharmacogenomics</text>
+    <text
+       x="1200"
+       y="536"
+       font-size="26"
+       font-weight="400"
+       fill="#4c86c5"
+       text-anchor="middle"
+       id="text17"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HLA-B*58:01 → allopurinol</text>
+    <text
+       x="1200"
+       y="568"
+       font-size="26"
+       font-weight="400"
+       fill="#4c86c5"
+       text-anchor="middle"
+       id="text18"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HLA-B*57:01 → abacavir</text>
   </g>
-
   <!-- Layer 4: Cost/time row -->
   <g
      inkscape:groupmode="layer"
      inkscape:label="layer4"
      id="layer4">
-
-    <text x="400" y="660" font-size="24" font-weight="400" fill="#999" text-anchor="middle" letter-spacing="2">COST / TIME</text>
-
+    <text
+       x="400"
+       y="660"
+       font-size="24"
+       font-weight="400"
+       fill="#999"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text19"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">COST / TIME</text>
     <!-- Left: heavy dots suggesting more -->
-    <text x="400" y="720" font-size="48" font-weight="700" fill="#ccc" text-anchor="middle">$$$ · Weeks</text>
-
-    <text x="1200" y="660" font-size="24" font-weight="400" fill="#4c86c5" text-anchor="middle" letter-spacing="2">COST / TIME</text>
-
+    <text
+       x="400"
+       y="720"
+       font-size="48"
+       font-weight="700"
+       fill="#ccc"
+       text-anchor="middle"
+       id="text20">$$$ · Weeks</text>
+    <text
+       x="1200"
+       y="660"
+       font-size="24"
+       font-weight="400"
+       fill="#4c86c5"
+       text-anchor="middle"
+       letter-spacing="2"
+       id="text21"
+       style="-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">COST / TIME</text>
     <!-- Right: light, fast -->
-    <text x="1200" y="720" font-size="48" font-weight="700" fill="#4c86c5" text-anchor="middle">$ · Days</text>
+    <text
+       x="1200"
+       y="720"
+       font-size="48px"
+       font-weight="700"
+       fill="#4c86c5"
+       text-anchor="middle"
+       id="text22">$ · Hours to Days</text>
   </g>
-
   <!-- Layer 5: Bottom line -->
   <g
      inkscape:groupmode="layer"
      inkscape:label="layer5"
-     id="layer5">
-
-    <rect x="860" y="790" width="680" height="60" rx="8" fill="#4c86c5" opacity="0.08"/>
-    <text x="1200" y="828" font-size="26" font-weight="600" fill="#4c86c5" text-anchor="middle">Right test for the right question</text>
-  </g>
-
+     id="layer5" />
 </svg>
