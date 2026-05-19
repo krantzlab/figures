@@ -38,11 +38,17 @@ jobs:
         with:
           path: ~/.u2net
           key: rembg-birefnet-portrait-v1
+      
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-rembg-cli-cpu-v1
 
       # --- INSTALL rembg + Pillow (background removal for headshots) ---
       - name: Install rembg
         run: |
-          python3 -m pip install --user "rembg[cpu]" Pillow
+          python3 -m pip install --user "rembg[cli,cpu]" Pillow
           # Put ~/.local/bin on PATH for subsequent steps so the rembg CLI is found
           echo "$HOME/.local/bin" >> $GITHUB_PATH
 
@@ -98,7 +104,7 @@ jobs:
             # Resize and encode to WebP with high-quality alpha preserved
             cwebp -q 80 -alpha_q 90 "/tmp/headshots/${name}.png" -resize 600 600 -o "dist/web/${name}.webp"
           done
-          
+
       # --- DEPLOY ---
       - name: Deploy to 'dist' branch
         uses: peaceiris/actions-gh-pages@v3
