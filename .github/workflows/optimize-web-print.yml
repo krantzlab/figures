@@ -43,6 +43,8 @@ jobs:
       - name: Install rembg
         run: |
           python3 -m pip install --user "rembg[cpu]" Pillow
+          # Put ~/.local/bin on PATH for subsequent steps so the rembg CLI is found
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
 
       # --- PREPARE FOLDERS ---
       - name: Create Web and Print Directories
@@ -90,15 +92,13 @@ jobs:
 
             echo "Processing $filename..."
 
-            # Strip background -> transparent PNG
-            python3 -m rembg i -m birefnet-portrait "$file" "/tmp/headshots/${name}.png"
+            # Strip background -> transparent PNG (CLI binary, not -m)
+            rembg i -m birefnet-portrait "$file" "/tmp/headshots/${name}.png"
 
             # Resize and encode to WebP with high-quality alpha preserved
-            # -q 80:        lossy quality for RGB channels
-            # -alpha_q 90:  higher quality for alpha channel (compresses well)
             cwebp -q 80 -alpha_q 90 "/tmp/headshots/${name}.png" -resize 600 600 -o "dist/web/${name}.webp"
           done
-
+          
       # --- DEPLOY ---
       - name: Deploy to 'dist' branch
         uses: peaceiris/actions-gh-pages@v3
