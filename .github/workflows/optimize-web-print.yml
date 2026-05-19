@@ -6,6 +6,7 @@ on:
       - 'source-svg/**.svg'
       - 'svgo.config.js'
       - 'source-people/**'
+      - '.github/workflows/*.yml'
 
 permissions:
   contents: write
@@ -31,6 +32,18 @@ jobs:
           # Install both at once to save time
           sudo apt-get install -y --no-install-recommends inkscape webp
 
+      # --- CACHE rembg MODEL (avoids re-downloading the ~200MB model every run) ---
+      - name: Cache rembg Model
+        uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: rembg-birefnet-portrait-v1
+
+      # --- INSTALL rembg + Pillow (background removal for headshots) ---
+      - name: Install rembg
+        run: |
+          python3 -m pip install --user "rembg[cpu]" Pillow
+
       # --- PREPARE FOLDERS ---
       - name: Create Web and Print Directories
         run: |
@@ -44,9 +57,9 @@ jobs:
           for file in source-svg/*.svg; do
             # 1. Get the filename without extension (e.g. "fig-hla")
             filename=$(basename "$file" .svg)
-            
+
             echo "Optimizing $filename..."
-            
+
             # 2. Run SVGO
             # We pass SVG_FILENAME as an environment variable so svgo.config.js can read it.
             # We explicitly point to your config file.
@@ -62,21 +75,28 @@ jobs:
             echo "Converting $filename to PDF..."
             inkscape "$file" --export-filename="dist/print/$filename.pdf"
           done
-      
-      # --- PROCESS PEOPLE (Square JPG -> Standardized WebP) ---
-      - name: Convert Headshots to WebP
+
+      # --- PROCESS PEOPLE (Background Removal -> Transparent WebP) ---
+      - name: Process Headshots
+        # 1. rembg strips the background using birefnet-portrait (handles hair + glasses well)
+        # 2. cwebp resizes to 600x600 and encodes WebP preserving the alpha channel
+        # Transparent output adapts to both light and dark mode cards on the site
         run: |
-          # enable nullglob to handle case where no images exist
+          mkdir -p /tmp/headshots
           shopt -s nullglob
           for file in source-people/*.{jpg,jpeg,png,JPG,JPEG,PNG}; do
             filename=$(basename "$file")
             name="${filename%.*}"
-            
+
             echo "Processing $filename..."
-            
-            # -q 80: Quality 80%
-            # -resize 600 600: Force image to exactly 600x600px
-            cwebp -q 80 "$file" -resize 600 600 -o "dist/web/$name.webp"
+
+            # Strip background -> transparent PNG
+            python3 -m rembg i -m birefnet-portrait "$file" "/tmp/headshots/${name}.png"
+
+            # Resize and encode to WebP with high-quality alpha preserved
+            # -q 80:        lossy quality for RGB channels
+            # -alpha_q 90:  higher quality for alpha channel (compresses well)
+            cwebp -q 80 -alpha_q 90 "/tmp/headshots/${name}.png" -resize 600 600 -o "dist/web/${name}.webp"
           done
 
       # --- DEPLOY ---

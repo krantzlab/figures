@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1606.0216 509.93762"
+   id="svg46"
+   sodipodi:docname="fig-scar-timeline.svg"
+   width="1606.0216"
+   height="509.93762"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55"
+     inkscape:cx="848.18182"
+     inkscape:cy="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg46" />
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0, .st1, .st2 {
+        font-size: 52px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st4 {
+        stroke-width: 10px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 6px;
+      }
+
+      .st7 {
+        stroke-width: 86px;
+      }
+
+      .st8 {
+        stroke-width: 14px;
+      }
+
+      .st9 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+  </defs>
+  <circle
+     class="st8"
+     cx="427.44153"
+     cy="176.99744"
+     r="10"
+     id="circle1" />
+  <circle
+     class="st8"
+     cx="821.44153"
+     cy="176.99744"
+     r="10"
+     id="circle2" />
+  <line
+     class="st4"
+     x1="437.44153"
+     y1="176.99744"
+     x2="811.44153"
+     y2="176.99744"
+     id="line2" />
+  <text
+     class="st0"
+     id="text4"
+     x="410.01154"
+     y="144.10742"><tspan
+       class="st3"
+       x="410.01154"
+       y="144.10742"
+       id="tspan2">SJS/TEN</tspan><tspan
+       class="st9"
+       x="641.19153"
+       y="144.10742"
+       id="tspan3">(10-50%)</tspan><tspan
+       class="st3"
+       x="855.06152"
+       y="144.10742"
+       id="tspan4" /></text>
+  <text
+     class="st0"
+     id="text6"
+     x="575.21155"
+     y="37.857422"><tspan
+       class="st3"
+       x="575.21155"
+       y="37.857422"
+       id="tspan5">DRESS</tspan><tspan
+       class="st9"
+       x="768.81152"
+       y="37.857422"
+       id="tspan6">(up to 10%)</tspan></text>
+  <text
+     class="st0"
+     id="text8"
+     x="353.61157"
+     y="249.85742"><tspan
+       class="st3"
+       x="353.61157"
+       y="249.85742"
+       id="tspan7">AGEP</tspan><tspan
+       class="st9"
+       x="500.98157"
+       y="249.85742"
+       xml:space="preserve"
+       id="tspan8"> (2-3.5%)</tspan></text>
+  <circle
+     class="st8"
+     cx="370.17157"
+     cy="274.64746"
+     r="10"
+     id="circle8" />
+  <circle
+     class="st8"
+     cx="586.44153"
+     cy="274.99744"
+     r="10"
+     id="circle9" />
+  <line
+     class="st4"
+     x1="380.17157"
+     y1="275.64746"
+     x2="577.94153"
+     y2="275.64746"
+     id="line9" />
+  <circle
+     class="st8"
+     cx="585.17157"
+     cy="65.647461"
+     r="10"
+     id="circle10" />
+  <circle
+     class="st8"
+     cx="1292.4417"
+     cy="65.997437"
+     r="10"
+     id="circle11" />
+  <line
+     class="st4"
+     x1="595.17157"
+     y1="65.647461"
+     x2="1282.9417"
+     y2="65.497437"
+     id="line11" />
+  <text
+     class="st0"
+     id="text18"
+     x="61.851562"
+     y="139.48743"><tspan
+       class="st3"
+       id="tspan16"><tspan
+         x="61.851562"
+         y="139.48743"
+         id="tspan15">SCAR</tspan></tspan><tspan
+       class="st9"
+       x="-3.1484375"
+       y="201.88745"
+       id="tspan17">(% morality)</tspan><tspan
+       class="st3"
+       x="274.19153"
+       y="201.88745"
+       id="tspan18" /></text>
+  <line
+     class="st7"
+     x1="345.02155"
+     y1="370.76746"
+     x2="1533.6716"
+     y2="370.76746"
+     id="line19"
+     style="fill:#4c86c5;fill-opacity:1;stroke:#4c86c5;stroke-opacity:1" />
+  <polygon
+     points="1634.44,797.42 1634.44,964.58 1718,881 "
+     id="polygon19"
+     style="fill:#4c86c5;fill-opacity:1"
+     transform="translate(-111.97844,-510.23254)" />
+  <line
+     class="st5"
+     x1="349.52155"
+     y1="413.26746"
+     x2="349.52155"
+     y2="454.26746"
+     id="line20" />
+  <line
+     class="st5"
+     x1="471.52155"
+     y1="413.76746"
+     x2="471.52155"
+     y2="454.76746"
+     id="line21" />
+  <line
+     class="st5"
+     x1="590.52155"
+     y1="411.76746"
+     x2="590.52155"
+     y2="452.76746"
+     id="line22" />
+  <line
+     class="st5"
+     x1="710.52155"
+     y1="413.76746"
+     x2="710.52155"
+     y2="454.76746"
+     id="line23" />
+  <line
+     class="st5"
+     x1="829.52155"
+     y1="412.76746"
+     x2="829.52155"
+     y2="453.76746"
+     id="line24" />
+  <line
+     class="st5"
+     x1="949.52155"
+     y1="413.76746"
+     x2="949.52155"
+     y2="454.76746"
+     id="line25" />
+  <line
+     class="st5"
+     x1="1066.5216"
+     y1="413.76746"
+     x2="1066.5216"
+     y2="454.76746"
+     id="line26" />
+  <line
+     class="st5"
+     x1="1188.5216"
+     y1="413.76746"
+     x2="1188.5216"
+     y2="454.76746"
+     id="line27" />
+  <line
+     class="st5"
+     x1="1301.5216"
+     y1="413.76746"
+     x2="1301.5216"
+     y2="454.76746"
+     id="line28" />
+  <line
+     class="st5"
+     x1="1422.5216"
+     y1="412.76746"
+     x2="1422.5216"
+     y2="453.76746"
+     id="line29" />
+  <text
+     class="st2"
+     id="text29"
+     x="340.81158"
+     y="502.74744"><tspan
+       x="340.81158"
+       y="502.74744"
+       id="tspan29">0</tspan></text>
+  <text
+     class="st2"
+     id="text30"
+     x="457.38153"
+     y="506.50745"><tspan
+       x="457.38153"
+       y="506.50745"
+       id="tspan30">1</tspan></text>
+  <text
+     class="st2"
+     id="text31"
+     x="575.11157"
+     y="505.05743"><tspan
+       x="575.11157"
+       y="505.05743"
+       id="tspan31">2</tspan></text>
+  <text
+     class="st2"
+     id="text32"
+     x="697.85156"
+     y="505.66748"><tspan
+       x="697.85156"
+       y="505.66748"
+       id="tspan32">3</tspan></text>
+  <text
+     class="st2"
+     id="text33"
+     x="812.12152"
+     y="506.20746"><tspan
+       x="812.12152"
+       y="506.20746"
+       id="tspan33">4</tspan></text>
+  <text
+     class="st2"
+     id="text34"
+     x="935.65155"
+     y="506.24744"><tspan
+       x="935.65155"
+       y="506.24744"
+       id="tspan34">5</tspan></text>
+  <text
+     class="st2"
+     id="text35"
+     x="1051.8616"
+     y="506.30743"><tspan
+       x="1051.8616"
+       y="506.30743"
+       id="tspan35">6</tspan></text>
+  <text
+     class="st2"
+     id="text36"
+     x="1174.8317"
+     y="506.14746"><tspan
+       x="1174.8317"
+       y="506.14746"
+       id="tspan36">7</tspan></text>
+  <text
+     class="st2"
+     id="text37"
+     x="1282.5416"
+     y="505.27747"><tspan
+       x="1282.5416"
+       y="505.27747"
+       id="tspan37">8</tspan></text>
+  <text
+     class="st2"
+     id="text38"
+     x="1408.2716"
+     y="507.27747"><tspan
+       x="1408.2716"
+       y="507.27747"
+       id="tspan38">9</tspan></text>
+  <text
+     class="st1"
+     id="text40"
+     x="363.91156"
+     y="390.82745"><tspan
+       x="363.91156"
+       y="390.82745"
+       id="tspan40">Weeks</tspan></text>
+</svg>

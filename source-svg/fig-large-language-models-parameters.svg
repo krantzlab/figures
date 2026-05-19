@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1500 750"
+   id="svg46"
+   sodipodi:docname="fig-large-language-models-parameters.svg"
+   width="1500"
+   height="750"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55"
+     inkscape:cx="866.36364"
+     inkscape:cy="539.09091"
+     inkscape:window-width="1920"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg46" />
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0, .st1, .st2 {
+        font-size: 52px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st4 {
+        stroke-width: 10px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 6px;
+      }
+
+      .st7 {
+        stroke-width: 86px;
+      }
+
+      .st8 {
+        stroke-width: 14px;
+      }
+
+      .st9 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="1021.5665"
+       y1="18.505585"
+       x2="1189.3423"
+       y2="479.46585"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#4c86c5;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#4c86c5;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <text
+     class="st0"
+     id="text6-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(509.61944,-175.50532)"><tspan
+       class="st3"
+       x="269.75699"
+       y="494.22107"
+       id="tspan5-5">JSON adherence</tspan></text>
+  <text
+     class="st0"
+     id="text6-7-6"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(514.12582,-272.34962)"><tspan
+       class="st3"
+       x="269.75699"
+       y="494.22107"
+       id="tspan5-5-4">GPU memory</tspan></text>
+  <text
+     class="st0"
+     id="text6-7-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(511.58037,26.468567)"><tspan
+       class="st3"
+       x="269.75699"
+       y="494.22107"
+       id="tspan5-5-1">Reasoning</tspan></text>
+  <text
+     class="st0"
+     id="text6-7-7-0"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(511.16488,-73.705975)"><tspan
+       class="st3"
+       x="269.75699"
+       y="494.22107"
+       id="tspan5-5-1-6">Feature extraction</tspan></text>
+  <text
+     class="st0"
+     id="text6-7-7-5"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0.497869;display:inline"
+     transform="translate(346.34671,-15.433247)"
+     xml:space="preserve"><tspan
+       x="269.75699"
+       y="494.22107"
+       id="tspan7"><tspan
+         style="font-weight:700;font-family:Arial-BoldMT, Arial"
+         id="tspan6">R</tspan></tspan></text>
+  <path
+     sodipodi:type="star"
+     style="fill:url(#linearGradient4);fill-opacity:1;stroke:#ffffff;stroke-width:3.7;paint-order:fill markers stroke"
+     id="path2"
+     inkscape:flatsided="false"
+     sodipodi:sides="3"
+     sodipodi:cx="1105.4545"
+     sodipodi:cy="178.18182"
+     sodipodi:r1="279.51553"
+     sodipodi:r2="139.75777"
+     sodipodi:arg1="1.5707963"
+     sodipodi:arg2="2.6179939"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 1105.4545,457.69736 984.42069,248.0607 863.38691,38.424063 l 242.06759,-6e-6 242.0675,-6e-6 -121.0338,209.636659 z"
+     inkscape:transform-center-y="109.74023"
+     transform="matrix(0.88523378,0,0,1.5704349,-457.00816,-11.346261)"
+     inkscape:transform-center-x="9.2185164e-06" />
+  <text
+     class="st0"
+     id="text6"
+     x="679.64496"
+     y="108.76653"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="519.02972"
+       y="108.76653"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle"><tspan
+         class="st3"
+         x="519.02972"
+         y="108.76653"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">Parameters</tspan></tspan><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="519.02972"
+       y="159.22957"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">(model weights)</tspan></text>
+</svg>

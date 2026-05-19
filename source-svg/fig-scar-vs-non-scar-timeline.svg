@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        font-size: 52px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st4 {
+        stroke-width: 10px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 6px;
+      }
+
+      .st7 {
+        stroke-width: 86px;
+      }
+
+      .st8 {
+        stroke-width: 14px;
+      }
+
+      .st9 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2">
+    <circle class="st8" cx="539.42" cy="261.23" r="10"/>
+    <circle class="st8" cx="933.42" cy="261.23" r="10"/>
+    <line class="st4" x1="549.42" y1="261.23" x2="923.42" y2="261.23"/>
+    <text class="st0" transform="translate(521.99 228.34)"><tspan class="st3" x="0" y="0">SJS/TEN </tspan><tspan class="st9" x="231.18" y="0">(10-50%)</tspan><tspan class="st3" x="445.05" y="0"> </tspan></text>
+    <text class="st0" transform="translate(687.19 122.09)"><tspan class="st3" x="0" y="0">DRESS </tspan><tspan class="st9" x="193.6" y="0">(up to 10%)</tspan></text>
+    <text class="st0" transform="translate(465.59 334.09)"><tspan class="st3" x="0" y="0">AGEP</tspan><tspan class="st9" x="147.37" y="0" xml:space="preserve"> (2-3.5%)</tspan></text>
+    <circle class="st8" cx="482.15" cy="358.88" r="10"/>
+    <circle class="st8" cx="698.42" cy="359.23" r="10"/>
+    <line class="st4" x1="492.15" y1="359.88" x2="689.92" y2="359.88"/>
+    <circle class="st8" cx="697.15" cy="149.88" r="10"/>
+    <circle class="st8" cx="1404.42" cy="150.23" r="10"/>
+    <line class="st4" x1="707.15" y1="149.88" x2="1394.92" y2="149.73"/>
+    <g>
+      <line class="st6" x1="422.36" y1="90" x2="422.36" y2="384"/>
+      <rect x="402.86" y="87" width="39" height="6"/>
+      <rect x="402.86" y="381" width="39" height="6"/>
+    </g>
+    <g>
+      <line class="st6" x1="422.29" y1="411" x2="422.29" y2="815"/>
+      <rect x="402.79" y="408" width="39" height="6"/>
+      <rect x="402.79" y="812" width="39" height="6"/>
+    </g>
+    <text class="st0" transform="translate(173.83 223.72)"><tspan class="st3"><tspan x="0" y="0">SCAR</tspan></tspan><tspan class="st9" x="-65" y="62.4">(% morality)</tspan><tspan class="st3" x="212.34" y="62.4"> </tspan></text>
+    <text class="st2" transform="translate(116.58 626.72)"><tspan x="0" y="0">Non-severe</tspan></text>
+  </g>
+  <g id="Layer_1">
+    <g>
+      <line class="st7" x1="457" y1="881" x2="1645.65" y2="881"/>
+      <polygon points="1634.44 797.42 1634.44 964.58 1718 881 1634.44 797.42"/>
+    </g>
+    <line class="st5" x1="461.5" y1="923.5" x2="461.5" y2="964.5"/>
+    <line class="st5" x1="583.5" y1="924" x2="583.5" y2="965"/>
+    <line class="st5" x1="702.5" y1="922" x2="702.5" y2="963"/>
+    <line class="st5" x1="822.5" y1="924" x2="822.5" y2="965"/>
+    <line class="st5" x1="941.5" y1="923" x2="941.5" y2="964"/>
+    <line class="st5" x1="1061.5" y1="924" x2="1061.5" y2="965"/>
+    <line class="st5" x1="1178.5" y1="924" x2="1178.5" y2="965"/>
+    <line class="st5" x1="1300.5" y1="924" x2="1300.5" y2="965"/>
+    <line class="st5" x1="1413.5" y1="924" x2="1413.5" y2="965"/>
+    <line class="st5" x1="1534.5" y1="923" x2="1534.5" y2="964"/>
+    <text class="st2" transform="translate(452.79 1012.98)"><tspan x="0" y="0">0</tspan></text>
+    <text class="st2" transform="translate(569.36 1018.74)"><tspan x="0" y="0">1</tspan></text>
+    <text class="st2" transform="translate(687.09 1015.29)"><tspan x="0" y="0">2</tspan></text>
+    <text class="st2" transform="translate(809.83 1015.9)"><tspan x="0" y="0">3</tspan></text>
+    <text class="st2" transform="translate(924.1 1016.44)"><tspan x="0" y="0">4</tspan></text>
+    <text class="st2" transform="translate(1047.63 1016.48)"><tspan x="0" y="0">5</tspan></text>
+    <text class="st2" transform="translate(1163.84 1016.54)"><tspan x="0" y="0">6</tspan></text>
+    <text class="st2" transform="translate(1286.81 1016.38)"><tspan x="0" y="0">7</tspan></text>
+    <text class="st2" transform="translate(1394.52 1015.51)"><tspan x="0" y="0">8</tspan></text>
+    <text class="st2" transform="translate(1520.25 1019.51)"><tspan x="0" y="0">9</tspan></text>
+    <text class="st2" transform="translate(509.17 455.87)"><tspan x="0" y="0">Maculopapular drug exanthem</tspan></text>
+    <circle class="st8" cx="529.73" cy="490.65" r="10"/>
+    <circle class="st8" cx="643" cy="491" r="10"/>
+    <line class="st4" x1="539.73" y1="491.65" x2="634.5" y2="491.65"/>
+    <text class="st1" transform="translate(475.89 901.06)"><tspan x="0" y="0">Weeks</tspan></text>
+    <circle class="st8" cx="478.06" cy="595.76" r="10"/>
+    <circle class="st8" cx="593.56" cy="595.58" r="10"/>
+    <line class="st4" x1="488.5" y1="595.4" x2="583.5" y2="595.4"/>
+    <circle class="st8" cx="548.5" cy="693.28" r="10"/>
+    <circle class="st8" cx="646.99" cy="693.21" r="10"/>
+    <line class="st4" x1="558.5" y1="693.4" x2="639.5" y2="693.4"/>
+    <text class="st2" transform="translate(464.08 560.71)"><tspan x="0" y="0">Fixed Drug Eruption</tspan></text>
+    <text class="st2" transform="translate(534.08 661.71)"><tspan x="0" y="0">SSLR</tspan></text>
+    <circle class="st8" cx="479" cy="793" r="10"/>
+    <circle class="st8" cx="540.72" cy="793.78" r="10"/>
+    <line class="st4" x1="478.5" y1="793.19" x2="532.78" y2="793.19"/>
+    <text class="st2" transform="translate(459.83 760.38) rotate(-.39)"><tspan x="0" y="0">SDRIFE</tspan></text>
+  </g>
+</svg>

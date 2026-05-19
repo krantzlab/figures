@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1500 750"
+   id="svg46"
+   sodipodi:docname="fig-drug-reaction-timeline-historical.svg"
+   width="1500"
+   height="750"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55"
+     inkscape:cx="826.36364"
+     inkscape:cy="544.54545"
+     inkscape:window-width="1920"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg46" />
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <rect
+       x="361.81818"
+       y="630.90909"
+       width="221.81818"
+       height="54.545455"
+       id="rect12" />
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23" />
+    </marker>
+    <style
+       id="style1">
+      .st0, .st1, .st2 {
+        font-size: 52px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st4 {
+        stroke-width: 10px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 6px;
+      }
+
+      .st7 {
+        stroke-width: 86px;
+      }
+
+      .st8 {
+        stroke-width: 14px;
+      }
+
+      .st9 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-6-5-2" />
+    </marker>
+  </defs>
+  <text
+     class="st0"
+     id="text6"
+     x="269.75699"
+     y="494.22107"
+     style="white-space:pre;inline-size:0"
+     transform="translate(-53.454525,76.545477)"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Historical drug reaction</tspan></text>
+  <text
+     class="st0"
+     id="text6-0-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(-154.30085,-44.362046)"><tspan
+       id="tspan3-3-0"
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">EHR</tspan></text>
+  <text
+     class="st0"
+     id="text6-7-7-5"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0.497869;display:inline"
+     transform="translate(346.34671,-15.433247)"
+     xml:space="preserve"><tspan
+       x="269.75699"
+       y="494.22107"
+       id="tspan4"><tspan
+         style="font-weight:700;font-family:Arial-BoldMT, Arial"
+         id="tspan2">R</tspan></tspan></text>
+  <rect
+     style="fill:#000000;stroke:#000000;stroke-width:0.829918;paint-order:fill markers stroke"
+     id="rect6-0"
+     width="306.12466"
+     height="53.397354"
+     x="858.11951"
+     y="406.66495"
+     rx="0.65631002" />
+  <rect
+     style="fill:#000000;stroke:#000000;stroke-width:1.13232;paint-order:fill markers stroke"
+     id="rect6-3-6"
+     width="573.09497"
+     height="53.094959"
+     x="276.83893"
+     y="405.56622"
+     rx="1.2286761" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:3.43076;stroke-dasharray:none;marker-start:url(#Stop);marker-end:url(#Stop);paint-order:fill markers stroke"
+     d="M 308.84997,494.72728 H 655.87731"
+     id="path10" />
+  <text
+     class="st0"
+     id="text6-5-5-3-5"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(59.140394,-333.63476)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan1">Follow-up care for </tspan><tspan
+       x="269.75699"
+       y="559.823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan5">drug reaction</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(710.03327,-332.72567)"><tspan
+       id="tspan3-0-3-7-5-0"
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line">Establish care</tspan><tspan
+       x="269.75699"
+       y="559.823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan1-3">for other health issue</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-7-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(512.30605,-292.81658)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan1-3-5">and/or</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text12"
+     style="font-size:26px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#000000;stroke:#000000;stroke-width:3.7;stroke-dasharray:none;paint-order:fill markers stroke" />
+  <text
+     class="st0"
+     id="text6-5-2-0"
+     x="291.09198"
+     y="447.72104"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;fill:#ffffff;stroke:#ffffff"><tspan
+       sodipodi:role="line"
+       id="tspan3-0-38-9"
+       x="291.09198"
+       y="447.72104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff">Care site #1</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-2-0-1"
+     x="269.75699"
+     y="494.22107"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:0;fill:#ffffff;stroke:#ffffff"
+     transform="translate(597.33499,-46.863646)"><tspan
+       sodipodi:role="line"
+       id="tspan3-0-38-9-7"
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff">Care site #2</tspan></text>
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:4.71079;stroke-dasharray:none;marker-end:url(#Triangle-8-8-0);paint-order:fill markers stroke"
+     d="M 860.04386,249.81818 V 374.38474"
+     id="path12-2-8-1"
+     sodipodi:nodetypes="cc" />
+</svg>

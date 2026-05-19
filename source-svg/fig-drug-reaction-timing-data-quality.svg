@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1500 750"
+   id="svg46"
+   sodipodi:docname="fig-drug-reaction-timing-data-quality.svg"
+   width="1500"
+   height="750"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55"
+     inkscape:cx="914.54545"
+     inkscape:cy="442.72727"
+     inkscape:window-width="1920"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg46" />
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#4c86c5;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#4c86c5;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <rect
+       x="96.363636"
+       y="523.63636"
+       width="480"
+       height="161.81818"
+       id="rect2" />
+    <rect
+       x="361.81818"
+       y="630.90909"
+       width="221.81818"
+       height="54.545455"
+       id="rect12" />
+    <style
+       id="style1">
+      .st0, .st1, .st2 {
+        font-size: 52px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st4 {
+        stroke-width: 10px;
+      }
+
+      .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 6px;
+      }
+
+      .st7 {
+        stroke-width: 86px;
+      }
+
+      .st8 {
+        stroke-width: 14px;
+      }
+
+      .st9 {
+        font-family: ArialMT, Arial;
+      }
+    </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="1021.5665"
+       y1="18.505585"
+       x2="1189.3423"
+       y2="479.46585"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     class="st0"
+     id="text6-7-7-5"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0.497869;display:inline"
+     transform="translate(346.34671,-15.433247)"
+     xml:space="preserve"><tspan
+       x="269.75699"
+       y="494.22107"
+       id="tspan6"><tspan
+         style="font-weight:700;font-family:Arial-BoldMT, Arial"
+         id="tspan2">R</tspan></tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-8"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(162.92022,-41.636375)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan1">Follow-up care for </tspan><tspan
+       x="269.75699"
+       y="559.823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan5-8">drug reaction</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-1"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(162.68281,-339.36205)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5-3">Single care site</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-1-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(-74.456566,-287.72729)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5-3-8">Acute</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-1-7-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(-117.22627,72.728863)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5-3-8-4">Historical</tspan></text>
+  <text
+     class="st0"
+     id="text6-5-5-3-5-1-5"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(162.54344,-235.27274)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       id="tspan5-3-9">Multiple care sites</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text12"
+     style="font-size:26px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#000000;stroke:#000000;stroke-width:3.7;stroke-dasharray:none;paint-order:fill markers stroke" />
+  <text
+     class="st0"
+     id="text6-5-5-3-5-7"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(161.48787,132.09249)"><tspan
+       id="tspan3-0-3-7-5-0"
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line">Establish care</tspan><tspan
+       x="269.75699"
+       y="559.823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan1-3">for other health issue</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2"
+     style="font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#ffffff;stroke:#ffffff;stroke-width:3.7;paint-order:fill markers stroke" />
+  <path
+     sodipodi:type="star"
+     style="fill:url(#linearGradient4);fill-opacity:1;stroke:#ffffff;stroke-width:3.7;paint-order:fill markers stroke"
+     id="path2"
+     inkscape:flatsided="false"
+     sodipodi:sides="3"
+     sodipodi:cx="1105.4545"
+     sodipodi:cy="178.18182"
+     sodipodi:r1="279.51553"
+     sodipodi:r2="139.75777"
+     sodipodi:arg1="1.5707963"
+     sodipodi:arg2="2.6179939"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 1105.4545,457.69736 984.42069,248.0607 863.38691,38.424063 l 242.06759,-6e-6 242.0675,-6e-6 -121.0338,209.636659 z"
+     inkscape:transform-center-y="109.74023"
+     transform="matrix(0.88523378,0,0,1.5704349,170.50518,-0.21196036)"
+     inkscape:transform-center-x="9.2185164e-06" />
+  <text
+     class="st0"
+     id="text6-5-5-3-5-8-1"
+     x="269.75699"
+     y="494.22107"
+     style="font-size:52px;white-space:pre;inline-size:0"
+     transform="translate(773.01112,-212.54546)"><tspan
+       x="269.75699"
+       y="494.22107"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan5-8-9">EHR data </tspan><tspan
+       x="269.75699"
+       y="559.823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:role="line"
+       id="tspan3">quality</tspan></text>
+</svg>

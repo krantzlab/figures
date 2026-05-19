@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   viewBox="0 0 680 320"
+   role="img"
+   style=""
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="hla_full_classical_vs_cyp2d6_linear.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview54"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5529412"
+     inkscape:cx="340"
+     inkscape:cy="160.01894"
+     inkscape:window-width="1536"
+     inkscape:window-height="940"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg54" />
+  <defs
+     id="defs26">
+    <mask
+       id="imagine-text-gaps-j3fdle"
+       maskUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="680"
+         height="320"
+         fill="white"
+         id="rect1" />
+      <rect
+         x="76"
+         y="18"
+         width="166.15625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect2" />
+      <rect
+         x="33.71875"
+         y="40"
+         width="44.28125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect3" />
+      <rect
+         x="39.53125"
+         y="93"
+         width="38.46875"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect4" />
+      <rect
+         x="38.671875"
+         y="145"
+         width="39.328125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect5" />
+      <rect
+         x="38.953125"
+         y="198"
+         width="39.046875"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect6" />
+      <rect
+         x="62.75"
+         y="250"
+         width="15.25"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect7" />
+      <rect
+         x="92.9296875"
+         y="238"
+         width="34.140625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect8" />
+      <rect
+         x="82.671875"
+         y="264"
+         width="54.65625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect9" />
+      <rect
+         x="151.53125"
+         y="230"
+         width="36.9375"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect10" />
+      <rect
+         x="135.96875"
+         y="264"
+         width="68.0625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect11" />
+      <rect
+         x="211.5"
+         y="228"
+         width="37"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect12" />
+      <rect
+         x="197.53125"
+         y="264"
+         width="64.9375"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect13" />
+      <rect
+         x="266.5234375"
+         y="195"
+         width="46.953125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect14" />
+      <rect
+         x="257.3984375"
+         y="264"
+         width="65.203125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect15" />
+      <rect
+         x="326.6328125"
+         y="188"
+         width="46.734375"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect16" />
+      <rect
+         x="316.171875"
+         y="264"
+         width="67.65625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect17" />
+      <rect
+         x="386.7890625"
+         y="161"
+         width="46.421875"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect18" />
+      <rect
+         x="376.96875"
+         y="264"
+         width="66.0625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect19" />
+      <rect
+         x="446.921875"
+         y="84"
+         width="46.15625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect20" />
+      <rect
+         x="447.109375"
+         y="264"
+         width="45.78125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect21" />
+      <rect
+         x="506.9375"
+         y="77"
+         width="46.125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect22" />
+      <rect
+         x="507.4375"
+         y="264"
+         width="45.125"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect23" />
+      <rect
+         x="566.40625"
+         y="44"
+         width="47.1875"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect24" />
+      <rect
+         x="567.7421875"
+         y="264"
+         width="44.515625"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect25" />
+      <rect
+         x="338.3125"
+         y="126"
+         width="83.375"
+         height="19"
+         fill="black"
+         rx="2"
+         id="rect26" />
+    </mask>
+  </defs>
+  <title
+     style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="title26">Allele counts at all classical HLA loci vs CYP2D6</title>
+  <desc
+     style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="desc26">Linear-scale bar chart with reference line at CYP2D6 level showing all classical HLA loci including alpha chains DQA1 and DPA1.</desc>
+  <text
+     x="80"
+     y="32"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="text26">Number of alleles described</text>
+  <line
+     x1="80"
+     y1="40"
+     x2="80"
+     y2="265"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line26" />
+  <line
+     x1="78"
+     y1="50"
+     x2="80"
+     y2="50"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line27" />
+  <line
+     x1="80"
+     y1="50"
+     x2="620"
+     y2="50"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     opacity="0.12"
+     mask="url(#imagine-text-gaps-j3fdle)"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line28" />
+  <text
+     x="74"
+     y="54"
+     text-anchor="end"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto"
+     id="text28">10,000</text>
+  <line
+     x1="78"
+     y1="103"
+     x2="80"
+     y2="103"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line29" />
+  <line
+     x1="80"
+     y1="103"
+     x2="620"
+     y2="103"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     opacity="0.12"
+     mask="url(#imagine-text-gaps-j3fdle)"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line30" />
+  <text
+     x="74"
+     y="107"
+     text-anchor="end"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto"
+     id="text30">7,500</text>
+  <line
+     x1="78"
+     y1="155"
+     x2="80"
+     y2="155"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line31" />
+  <line
+     x1="80"
+     y1="155"
+     x2="620"
+     y2="155"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     opacity="0.12"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line32" />
+  <text
+     x="74"
+     y="159"
+     text-anchor="end"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto"
+     id="text32">5,000</text>
+  <line
+     x1="78"
+     y1="208"
+     x2="80"
+     y2="208"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line33" />
+  <line
+     x1="80"
+     y1="208"
+     x2="620"
+     y2="208"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     opacity="0.12"
+     mask="url(#imagine-text-gaps-j3fdle)"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.12;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line34" />
+  <text
+     x="74"
+     y="212"
+     text-anchor="end"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto"
+     id="text34">2,500</text>
+  <line
+     x1="78"
+     y1="260"
+     x2="80"
+     y2="260"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line35" />
+  <text
+     x="74"
+     y="264"
+     text-anchor="end"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto"
+     id="text35">0</text>
+  <line
+     x1="80"
+     y1="260"
+     x2="620"
+     y2="260"
+     stroke="var(--t)"
+     stroke-width="0.5"
+     style="fill:rgb(0, 0, 0);stroke:rgb(115, 114, 108);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="line36" />
+  <rect
+     x="89"
+     y="257"
+     width="42"
+     height="3"
+     fill="#888780"
+     rx="1"
+     style="fill:rgb(136, 135, 128);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect36" />
+  <text
+     x="110"
+     y="252"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text36">~150</text>
+  <text
+     x="110"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text37">CYP2D6</text>
+  <rect
+     x="149"
+     y="249"
+     width="42"
+     height="11"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect37" />
+  <text
+     x="170"
+     y="244"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text38">~500</text>
+  <text
+     x="170"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text39">HLA-DQA1</text>
+  <rect
+     x="209"
+     y="247"
+     width="42"
+     height="13"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect39" />
+  <text
+     x="230"
+     y="242"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text40">~600</text>
+  <text
+     x="230"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text41">HLA-DPA1</text>
+  <rect
+     x="269"
+     y="214"
+     width="42"
+     height="46"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect41" />
+  <text
+     x="290"
+     y="209"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text42">~2,200</text>
+  <text
+     x="290"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text43">HLA-DPB1</text>
+  <rect
+     x="329"
+     y="207"
+     width="42"
+     height="53"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect43" />
+  <text
+     x="350"
+     y="202"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text44">~2,500</text>
+  <text
+     x="350"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text45">HLA-DQB1</text>
+  <rect
+     x="389"
+     y="180"
+     width="42"
+     height="80"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect45" />
+  <text
+     x="410"
+     y="175"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text46">~3,800</text>
+  <text
+     x="410"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text47">HLA-DRB1</text>
+  <rect
+     x="449"
+     y="103"
+     width="42"
+     height="157"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect47" />
+  <text
+     x="470"
+     y="98"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text48">~7,500</text>
+  <text
+     x="470"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text49">HLA-C</text>
+  <rect
+     x="509"
+     y="96"
+     width="42"
+     height="164"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect49" />
+  <text
+     x="530"
+     y="91"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text50">~7,800</text>
+  <text
+     x="530"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text51">HLA-A</text>
+  <rect
+     x="569"
+     y="63"
+     width="42"
+     height="197"
+     fill="#185FA5"
+     rx="2"
+     style="fill:rgb(24, 95, 165);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
+     id="rect51" />
+  <text
+     x="590"
+     y="58"
+     text-anchor="middle"
+     fill="#185FA5"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text52">~9,400</text>
+  <text
+     x="590"
+     y="278"
+     text-anchor="middle"
+     style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto"
+     id="text53">HLA-B</text>
+</svg>
