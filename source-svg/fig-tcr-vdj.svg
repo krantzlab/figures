@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.20683591"
-     inkscape:cx="650.27394"
-     inkscape:cy="485.89242"
+     inkscape:zoom="0.49216259"
+     inkscape:cx="672.54198"
+     inkscape:cy="409.41755"
      inkscape:window-width="1504"
      inkscape:window-height="790"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_2">
     <sodipodi:guide
@@ -84,247 +84,321 @@
       }
     </style>
   </defs>
-  <g
-     id="g35"
-     transform="matrix(0.58006679,0,0,0.58006679,159.35005,131.24663)">
-    <text
-       class="st0"
-       transform="translate(126.73,263.62)"
-       id="text2"><tspan
-         x="0"
-         y="0"
-         id="tspan1">α­ chain</tspan><tspan
-         x="0"
-         y="86.400002"
-         id="tspan2">Chr 14</tspan></text>
-    <text
-       class="st0"
-       transform="translate(132.9,517.71)"
-       id="text4"><tspan
-         x="0"
-         y="0"
-         id="tspan3">β chain</tspan><tspan
-         x="0"
-         y="86.400002"
-         id="tspan4">chr 7</tspan></text>
-    <text
-       class="st1"
-       transform="translate(138,1023.23)"
-       id="text5"><tspan
-         x="0"
-         y="0"
-         id="tspan5">10</tspan></text>
-    <text
-       class="st1"
-       transform="matrix(0.58,0,0,0.58,195.84,1005.92)"
-       id="text6"><tspan
-         x="0"
-         y="0"
-         id="tspan6">15</tspan></text>
-    <text
-       class="st1"
-       transform="translate(229.56,1023.23)"
-       id="text7"><tspan
-         x="0"
-         y="0"
-         xml:space="preserve"
-         id="tspan7"> - 10</tspan></text>
-    <text
-       class="st1"
-       transform="matrix(0.58,0,0,0.58,333.61,1005.92)"
-       id="text8"><tspan
-         x="0"
-         y="0"
-         id="tspan8">20</tspan></text>
-    <text
-       class="st1"
-       transform="translate(367.33,1023.23)"
-       id="text9"><tspan
-         x="0"
-         y="0"
-         xml:space="preserve"
-         id="tspan9"> unique TCR  combhinations</tspan></text>
-    <text
-       class="st1"
-       transform="rotate(0.08,-500782.2,765678.24)"
-       id="text12"><tspan
-         x="0"
-         y="0"
-         id="tspan10">combinatorial diversity</tspan><tspan
-         x="0"
-         y="62.400002"
-         id="tspan11">(germline)</tspan><tspan
-         x="0"
-         y="124.8"
-         id="tspan12">1 to 3 million upper limit)</tspan></text>
-    <text
-       class="st1"
-       transform="translate(-101.7,694.67)"
-       id="text17"><tspan
-         x="0"
-         y="0"
-         id="tspan13">junctional diversity</tspan><tspan
-         x="0"
-         y="62.400002"
-         id="tspan14">(non-germline)</tspan><tspan
-         x="0"
-         y="124.8"
-         id="tspan15">largest contributor to diversity</tspan><tspan
-         x="0"
-         y="187.2"
-         id="tspan16">P nucleotides (template after hairpin opening by Artemis)</tspan><tspan
-         x="0"
-         y="249.60001"
-         id="tspan17">N nucleotides (then nontemplate followed by DNA ligation) (20 by TdT) - more common in B chain</tspan></text>
-    <rect
-       class="st2"
-       x="562.5"
-       y="451.5"
-       width="247"
-       height="96"
-       id="rect17" />
-    <rect
-       class="st2"
-       x="878.5"
-       y="452.5"
-       width="247"
-       height="96"
-       id="rect18" />
-    <rect
-       class="st2"
-       x="1190.5"
-       y="454.5"
-       width="247"
-       height="96"
-       id="rect19" />
-    <rect
-       class="st2"
-       x="538.5"
-       y="199.5"
-       width="247"
-       height="96"
-       id="rect20" />
-    <rect
-       class="st2"
-       x="840.5"
-       y="197.5"
-       width="247"
-       height="96"
-       id="rect21" />
-    <text
-       class="st0"
-       transform="translate(652.34,520.85)"
-       id="text21"><tspan
-         x="0"
-         y="0"
-         id="tspan21">V</tspan></text>
-    <text
-       class="st0"
-       transform="translate(978.3,523.48)"
-       id="text22"><tspan
-         x="0"
-         y="0"
-         id="tspan22">D</tspan></text>
-    <text
-       class="st0"
-       transform="translate(1285.31,527.48)"
-       id="text23"><tspan
-         x="0"
-         y="0"
-         id="tspan23">J</tspan></text>
-    <text
-       class="st0"
-       transform="translate(642.3,271.48)"
-       id="text24"><tspan
-         x="0"
-         y="0"
-         id="tspan24">V</tspan></text>
-    <text
-       class="st0"
-       transform="translate(941.3,271.48)"
-       id="text25"><tspan
-         x="0"
-         y="0"
-         id="tspan25">J</tspan></text>
-    <text
-       class="st1"
-       transform="translate(622,604.74)"
-       id="text26"><tspan
-         x="0"
-         y="0"
-         id="tspan26">n=~50</tspan></text>
-    <text
-       class="st1"
-       transform="translate(979.76,605.61)"
-       id="text27"><tspan
-         x="0"
-         y="0"
-         id="tspan27">n=2</tspan></text>
-    <text
-       class="st1"
-       transform="translate(1276,603.61)"
-       id="text28"><tspan
-         x="0"
-         y="0"
-         id="tspan28">n=12</tspan></text>
-    <text
-       class="st1"
-       transform="translate(606.77,353.61)"
-       id="text29"><tspan
-         x="0"
-         y="0"
-         id="tspan29">n=~45</tspan></text>
-    <text
-       class="st1"
-       transform="translate(900.77,344.61)"
-       id="text30"><tspan
-         x="0"
-         y="0"
-         id="tspan30">n=~50</tspan></text>
-    <rect
-       class="st2"
-       x="1462.5"
-       y="188.5"
-       width="247"
-       height="96"
-       id="rect30" />
-    <text
-       class="st0"
-       transform="translate(1563.3,262.48)"
-       id="text31"><tspan
-         x="0"
-         y="0"
-         id="tspan31">C</tspan></text>
-    <rect
-       class="st2"
-       x="1491.5"
-       y="450.5"
-       width="247"
-       height="96"
-       id="rect31" />
-    <text
-       class="st0"
-       transform="translate(1592.3,524.48)"
-       id="text32"><tspan
-         x="0"
-         y="0"
-         id="tspan32">C</tspan></text>
-    <text
-       class="st1"
-       transform="translate(515.06,97.11)"
-       id="text33"><tspan
-         x="0"
-         y="0"
-         xml:space="preserve"
-         id="tspan33">CDR1 and CDR2 encoded by germline in V  </tspan></text>
-    <text
-       class="st1"
-       transform="translate(148,164.88)"
-       id="text34"><tspan
-         x="0"
-         y="0"
-         id="tspan34">CDR3 by DJ and junctional for VDJ B and J + VJ junctional for a</tspan></text>
-  </g>
+  <text
+     class="st0"
+     id="text2"
+     x="232.86191"
+     y="284.16385"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="232.86191"
+       y="284.16385"
+       id="tspan1"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">α­ chain</tspan><tspan
+       x="232.86191"
+       y="334.28162"
+       id="tspan2"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Chr 14</tspan></text>
+  <text
+     class="st0"
+     id="text4"
+     x="236.44093"
+     y="431.55301"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:248.232;display:inline;stroke-width:0.580067"
+     xml:space="preserve"><tspan
+       x="236.44093"
+       y="431.55301"
+       id="tspan4">β chain
+</tspan><tspan
+       x="236.44093"
+       y="476.55301"
+       id="tspan18">Chr 7</tspan></text>
+  <text
+     class="st1"
+     id="text5"
+     x="253.15396"
+     y="888.00513"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="253.15396"
+       y="888.00513"
+       id="tspan5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">10</tspan></text>
+  <text
+     class="st1"
+     id="text6"
+     x="286.70502"
+     y="877.96417"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.336439"><tspan
+       x="286.70502"
+       y="877.96417"
+       id="tspan6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.336439">15</tspan></text>
+  <text
+     class="st1"
+     id="text7"
+     x="306.26489"
+     y="888.00513"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="306.26489"
+       y="888.00513"
+       xml:space="preserve"
+       id="tspan7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"> - 10</tspan></text>
+  <text
+     class="st1"
+     id="text8"
+     x="366.62082"
+     y="877.96417"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.336439"><tspan
+       x="366.62082"
+       y="877.96417"
+       id="tspan8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.336439">20</tspan></text>
+  <text
+     class="st1"
+     id="text9"
+     x="386.18069"
+     y="888.00513"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="386.18069"
+       y="888.00513"
+       xml:space="preserve"
+       id="tspan9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"> unique TCR  combhinations</tspan></text>
+  <text
+     class="st1"
+     transform="rotate(0.08)"
+     id="text12"
+     x="793.94141"
+     y="699.38489"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="793.94141"
+       y="699.38489"
+       id="tspan10"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">combinatorial diversity</tspan><tspan
+       x="793.94141"
+       y="735.58105"
+       id="tspan11"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">(germline)</tspan><tspan
+       x="793.94141"
+       y="771.77722"
+       id="tspan12"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">1 to 3 million upper limit)</tspan></text>
+  <text
+     class="st1"
+     id="text17"
+     x="114.11195"
+     y="697.4184"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="114.11195"
+       y="697.4184"
+       id="tspan13"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">junctional diversity</tspan><tspan
+       x="114.11195"
+       y="733.61456"
+       id="tspan14"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">(non-germline)</tspan><tspan
+       x="114.11195"
+       y="769.81073"
+       id="tspan15"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">largest contributor to diversity</tspan><tspan
+       x="114.11195"
+       y="806.0069"
+       id="tspan16"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">P nucleotides (template after hairpin opening by Artemis)</tspan><tspan
+       x="114.11195"
+       y="842.20306"
+       id="tspan17"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">N nucleotides (then nontemplate followed by DNA ligation) (20 by TdT) - more common in B chain</tspan></text>
+  <rect
+     class="st2"
+     x="485.63763"
+     y="393.14679"
+     width="143.2765"
+     height="55.686413"
+     id="rect17" />
+  <rect
+     class="st2"
+     x="668.93872"
+     y="393.72687"
+     width="143.2765"
+     height="55.686413"
+     id="rect18" />
+  <rect
+     class="st2"
+     x="849.91956"
+     y="394.88699"
+     width="143.2765"
+     height="55.686413"
+     id="rect19" />
+  <rect
+     class="st2"
+     x="471.716"
+     y="246.96996"
+     width="143.2765"
+     height="55.686413"
+     id="rect20" />
+  <rect
+     class="st2"
+     x="663.15094"
+     y="247.84166"
+     width="143.2765"
+     height="55.686413"
+     id="rect21" />
+  <text
+     class="st0"
+     id="text21"
+     x="537.75079"
+     y="433.37442"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="537.75079"
+       y="433.37442"
+       id="tspan21"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">V</tspan></text>
+  <text
+     class="st0"
+     id="text22"
+     x="726.82941"
+     y="434.89999"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="726.82941"
+       y="434.89999"
+       id="tspan22"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">D</tspan></text>
+  <text
+     class="st0"
+     id="text23"
+     x="904.91571"
+     y="437.22025"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="904.91571"
+       y="437.22025"
+       id="tspan23"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">J</tspan></text>
+  <text
+     class="st0"
+     id="text24"
+     x="531.92694"
+     y="288.72318"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="531.92694"
+       y="288.72318"
+       id="tspan24"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">V</tspan></text>
+  <text
+     class="st0"
+     id="text25"
+     x="721.6217"
+     y="290.75504"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="721.6217"
+       y="290.75504"
+       id="tspan25"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">J</tspan></text>
+  <text
+     class="st1"
+     id="text26"
+     x="504.15161"
+     y="482.03622"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="504.15161"
+       y="482.03622"
+       id="tspan26"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">n=~50</tspan></text>
+  <text
+     class="st1"
+     id="text27"
+     x="711.67627"
+     y="482.54089"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="711.67627"
+       y="482.54089"
+       id="tspan27"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">n=2</tspan></text>
+  <text
+     class="st1"
+     id="text28"
+     x="883.51526"
+     y="485.38074"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="883.51526"
+       y="485.38074"
+       id="tspan28"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">n=12</tspan></text>
+  <text
+     class="st1"
+     id="text29"
+     x="499.31717"
+     y="336.36404"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="499.31717"
+       y="336.36404"
+       id="tspan29"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">n=~45</tspan></text>
+  <text
+     class="st1"
+     id="text30"
+     x="688.11157"
+     y="337.17532"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="688.11157"
+       y="337.17532"
+       id="tspan30"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">n=~50</tspan></text>
+  <rect
+     class="st2"
+     x="1015.8252"
+     y="252.7803"
+     width="143.2765"
+     height="55.686413"
+     id="rect30" />
+  <text
+     class="st0"
+     id="text31"
+     x="1074.2959"
+     y="295.69366"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="1074.2959"
+       y="295.69366"
+       id="tspan31"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">C</tspan></text>
+  <rect
+     class="st2"
+     x="1024.5197"
+     y="392.56671"
+     width="143.2765"
+     height="55.686413"
+     id="rect31" />
+  <text
+     class="st0"
+     id="text32"
+     x="1082.9904"
+     y="435.48007"
+     style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="1082.9904"
+       y="435.48007"
+       id="tspan32"
+       style="stroke-width:0.580067;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-family:Arial-BoldMT, Arial;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">C</tspan></text>
+  <text
+     class="st1"
+     id="text33"
+     x="456.0874"
+     y="201.79987"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="456.0874"
+       y="201.79987"
+       xml:space="preserve"
+       id="tspan33"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">CDR1 and CDR2 encoded by germline in V  </tspan></text>
+  <text
+     class="st1"
+     id="text34"
+     x="194.40372"
+     y="637.32153"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067"><tspan
+       x="194.40372"
+       y="637.32153"
+       id="tspan34"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.580067">CDR3 by DJ and junctional for VDJ B and J + VJ junctional for a</tspan></text>
   <text
      id="text35"
      x="159.35005"
