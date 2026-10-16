@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.27898015"
-     inkscape:cx="937.34269"
-     inkscape:cy="632.66151"
+     inkscape:cx="935.55043"
+     inkscape:cy="632.6615"
      inkscape:window-width="1512"
      inkscape:window-height="762"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs
      id="defs369">
@@ -2775,6 +2775,19 @@
          id="tspan10"
          x="896.28925"
          y="510.24847" /></text>
+    <text
+       class="st12"
+       id="text380-9"
+       x="1142.774"
+       y="110.37014"
+       style="font-weight:700;font-size:52px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:735.824;display:inline;stroke-width:1.13153"
+       transform="translate(-444.1875,9.6197833)"
+       xml:space="preserve"><tspan
+         x="1142.774"
+         y="110.37014"
+         id="tspan2"><tspan
+           style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan1">Fever</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2846,28 +2859,15 @@
        xml:space="preserve"><tspan
          x="1142.774"
          y="110.37014"
-         id="tspan7"><tspan
+         id="tspan4"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan5">Facial edema 
+           id="tspan3">Facial edema 
 </tspan></tspan><tspan
          x="1142.774"
          y="175.37014"
-         id="tspan12"><tspan
+         id="tspan8"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan11">(&gt;75% cases)</tspan></tspan></text>
-    <text
-       class="st12"
-       id="text380-9"
-       x="1142.774"
-       y="110.37014"
-       style="font-weight:700;font-size:52px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:735.824;display:inline;stroke-width:1.13153"
-       transform="translate(-444.1875,9.6197833)"
-       xml:space="preserve"><tspan
-         x="1142.774"
-         y="110.37014"
-         id="tspan14"><tspan
-           style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan13">Fever</tspan></tspan></text>
+           id="tspan6">(&gt;75% cases)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3171,15 +3171,15 @@
        xml:space="preserve"><tspan
          x="1173.9729"
          y="659.10699"
-         id="tspan21"><tspan
+         id="tspan12"><tspan
    style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-   id="tspan16">Polymorphic, evolving rash</tspan>
+   id="tspan11">Polymorphic, evolving rash</tspan>
 </tspan><tspan
          x="1173.9729"
          y="724.10699"
-         id="tspan35"><tspan
+         id="tspan14"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan34">(Usually &gt;50% BSA)</tspan></tspan></text>
+           id="tspan13">(Usually &gt;50% BSA)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3251,17 +3251,17 @@
        xml:space="preserve"><tspan
          x="1224.5746"
          y="347.91449"
-         id="tspan38"><tspan
+         id="tspan17"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan36">Mild mucosal involvement</tspan><tspan
+           id="tspan15">Mild mucosal involvement</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan37">
+           id="tspan16">
 </tspan></tspan><tspan
          x="1224.5746"
          y="412.91449"
-         id="tspan40"><tspan
+         id="tspan19"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan39">(~50% cases)</tspan></tspan></text>
+           id="tspan18">(~50% cases)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3330,17 +3330,17 @@
        xml:space="preserve"><tspan
          x="83.942436"
          y="702.36273"
-         id="tspan43"><tspan
+         id="tspan22"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan41">Lymphadenopathy</tspan><tspan
+           id="tspan20">Lymphadenopathy</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan42">
+           id="tspan21">
 </tspan></tspan><tspan
          x="83.942436"
          y="767.36273"
-         id="tspan45"><tspan
+         id="tspan24"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan44">(&gt;50% cases)</tspan></tspan></text>
+           id="tspan23">(&gt;50% cases)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3401,17 +3401,17 @@
        xml:space="preserve"><tspan
          x="145.73914"
          y="941.78699"
-         id="tspan48"><tspan
+         id="tspan27"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan46">Nikolsky negative</tspan><tspan
+           id="tspan25">Nikolsky negative</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan47">
+           id="tspan26">
 </tspan></tspan><tspan
          x="145.73914"
          y="1006.787"
-         id="tspan50"><tspan
+         id="tspan29"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan49">blistering</tspan></tspan></text>
+           id="tspan28">blistering</tspan></tspan></text>
     <path
        class="st8"
        d="m 889.13,897.62 c -3.59,4.48 2.08,9.03 0.12,12.66 -6.89,12.72 -19.96,-6.73 -20.01,-12.47 -0.05,-5.74 10.49,-9.14 14.61,-9.18 4.12,-0.04 9.31,3.98 5.28,8.99 z"
