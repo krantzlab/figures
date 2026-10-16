@@ -1,8 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   sodipodi:docname="fig-ehr-data-structure-accessibility.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3632377"
+     inkscape:cx="1079.1831"
+     inkscape:cy="582.26334"
+     inkscape:window-width="1512"
+     inkscape:window-height="844"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
   <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
-  <defs>
-    <style>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .st0, .st1, .st2 {
         fill: none;
       }
@@ -38,50 +67,444 @@
       }
     </style>
   </defs>
-  <text class="st3" transform="translate(188.12 345.64)"><tspan x="0" y="0">Structured</tspan></text>
-  <text class="st3" transform="translate(1302.77 350.9)"><tspan x="0" y="0">Unstructured</tspan></text>
-  <polygon class="st2" points="187 699 188.51 847.89 1706.84 684.01 187 699"/>
-  <text class="st4" transform="translate(215.15 781.12)"><tspan x="0" y="0">Ease of use</tspan></text>
-  <text class="st4" transform="translate(1300.85 806.12)"><tspan x="0" y="0">Amount of data</tspan></text>
-  <text class="st3" transform="translate(704.48 344.38)"><tspan x="0" y="0">Semi-structured</tspan></text>
-  <polygon class="st2" points="1722.2 846.72 1721 698 198.55 861.78 1722.2 846.72"/>
-  <rect class="st0" x="123.71" y="391.06" width="134.23" height="64.8"/>
-  <rect class="st0" x="257.94" y="391.06" width="241.9" height="64.8"/>
-  <rect class="st0" x="499.84" y="391.06" width="158.48" height="64.8"/>
-  <line class="st1" x1="257.94" y1="389.95" x2="257.94" y2="586.56"/>
-  <line class="st1" x1="499.84" y1="389.95" x2="499.84" y2="586.56"/>
-  <line class="st1" x1="122.6" y1="455.86" x2="659.43" y2="455.86"/>
-  <line class="st1" x1="122.6" y1="520.66" x2="659.43" y2="520.66"/>
-  <line class="st1" x1="123.71" y1="389.95" x2="123.71" y2="586.56"/>
-  <line class="st1" x1="658.32" y1="389.95" x2="658.32" y2="586.56"/>
-  <line class="st1" x1="122.6" y1="391.06" x2="659.43" y2="391.06"/>
-  <line class="st1" x1="122.6" y1="585.45" x2="659.43" y2="585.45"/>
-  <text class="st4" transform="translate(515.81 439.25)"><tspan x="0" y="0">Value</tspan></text>
-  <polyline class="st0" points="499.24 255.06 499.24 591.26 659.01 591.26 659.01 255.06"/>
-  <text class="st4" transform="translate(273.92 439.25)"><tspan x="0" y="0">Lab</tspan></text>
-  <polyline class="st0" points="257.35 255.06 257.35 591.26 500.35 591.26 500.35 255.06"/>
-  <text class="st4" transform="translate(139.69 439.25)"><tspan x="0" y="0">ID</tspan></text>
-  <polyline class="st0" points="123.1 255.06 123.1 591.26 258.46 591.26 258.46 255.06"/>
-  <text class="st6" transform="translate(515.81 503.6)"><tspan x="0" y="0">0.5</tspan></text>
-  <line class="st0" x1="499.24" y1="319.41" x2="499.24" y2="655.61"/>
-  <line class="st0" x1="659.01" y1="655.61" x2="659.01" y2="319.41"/>
-  <text class="st6" transform="translate(273.92 503.6)"><tspan x="0" y="0">Abs Eos</tspan></text>
-  <line class="st0" x1="257.35" y1="319.41" x2="257.35" y2="655.61"/>
-  <line class="st0" x1="500.35" y1="655.61" x2="500.35" y2="319.41"/>
-  <text class="st6" transform="translate(139.69 503.6)"><tspan x="0" y="0">555</tspan></text>
-  <line class="st0" x1="123.1" y1="319.41" x2="123.1" y2="655.61"/>
-  <line class="st0" x1="258.46" y1="655.61" x2="258.46" y2="319.41"/>
-  <text class="st6" transform="translate(515.81 569.07)"><tspan x="0" y="0">200</tspan></text>
-  <polyline class="st0" points="659.01 721.07 659.01 383.77 499.24 383.77 499.24 721.07"/>
-  <text class="st6" transform="translate(273.92 569.07) scale(.81 1)"><tspan x="0" y="0">ALT</tspan></text>
-  <polyline class="st0" points="500.35 702.07 500.35 364.77 257.35 364.77 257.35 702.07"/>
-  <text class="st6" transform="translate(139.69 569.07)"><tspan x="0" y="0">555</tspan></text>
-  <polyline class="st0" points="258.46 721.07 258.46 383.77 123.1 383.77 123.1 721.07"/>
-  <rect class="st2" x="1286.49" y="388.52" width="487.51" height="201.48"/>
-  <text class="st7" transform="translate(720.11 456.23)"><tspan class="st5"><tspan x="0" y="0">Allergy List</tspan></tspan><tspan class="st8"><tspan x="0" y="62.4">Vancomycin (DRESS)</tspan></tspan></text>
-  <text class="st6" transform="translate(1302.57 444.77)"><tspan x="0" y="0">“[Name] is a 40 </tspan><tspan x="0" y="62.4">year old male with </tspan><tspan x="0" y="124.8">a history of DRESS </tspan></text>
-  <rect class="st2" x="699" y="391.78" width="546" height="197.22"/>
-  <text class="st4" transform="translate(315.69 652.83)"><tspan x="0" y="0">Tables</tspan></text>
-  <text class="st4" transform="translate(1349 648.71)"><tspan x="0" y="0">Narrative texts</tspan></text>
-  <text class="st4" transform="translate(782.02 644.71)"><tspan x="0" y="0">Organized lists</tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="layer1">
+    <text
+       class="st3"
+       id="text1"
+       x="110.92352"
+       y="153.02888"
+       style="stroke-width:1.12268"><tspan
+         x="110.92352"
+         y="153.02888"
+         id="tspan1"
+         style="stroke-width:1.12268">Structured</tspan></text>
+    <rect
+       class="st0"
+       x="38.611794"
+       y="204.02097"
+       width="150.69714"
+       height="72.74958"
+       id="rect5"
+       style="stroke-width:1.12268" />
+    <rect
+       class="st0"
+       x="189.30896"
+       y="204.02097"
+       width="271.57596"
+       height="72.74958"
+       id="rect6"
+       style="stroke-width:1.12268" />
+    <rect
+       class="st0"
+       x="460.88489"
+       y="204.02097"
+       width="177.9221"
+       height="72.74958"
+       id="rect7"
+       style="stroke-width:1.12268" />
+    <line
+       class="st1"
+       x1="189.30896"
+       y1="202.77478"
+       x2="189.30896"
+       y2="423.50464"
+       id="line7" />
+    <line
+       class="st1"
+       x1="460.88489"
+       y1="202.77478"
+       x2="460.88489"
+       y2="423.50464"
+       id="line8" />
+    <line
+       class="st1"
+       x1="37.365608"
+       y1="276.77051"
+       x2="640.05316"
+       y2="276.77051"
+       id="line9" />
+    <line
+       class="st1"
+       x1="37.365608"
+       y1="349.52008"
+       x2="640.05316"
+       y2="349.52008"
+       id="line10" />
+    <line
+       class="st1"
+       x1="38.611794"
+       y1="202.77478"
+       x2="38.611794"
+       y2="423.50464"
+       id="line11" />
+    <line
+       class="st1"
+       x1="37.365608"
+       y1="204.02097"
+       x2="640.05316"
+       y2="204.02097"
+       id="line13" />
+    <line
+       class="st1"
+       x1="37.365608"
+       y1="422.25848"
+       x2="640.05316"
+       y2="422.25848"
+       id="line14" />
+    <text
+       class="st4"
+       id="text14"
+       x="478.81412"
+       y="258.12286"
+       style="stroke-width:1.12268"><tspan
+         x="478.81412"
+         y="258.12286"
+         id="tspan14"
+         style="stroke-width:1.12268">Value</tspan></text>
+    <polyline
+       class="st0"
+       points="499.24 255.06 499.24 591.26 659.01 591.26 659.01 255.06"
+       id="polyline14"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st4"
+       id="text15"
+       x="207.24933"
+       y="258.12286"
+       style="stroke-width:1.12268"><tspan
+         x="207.24933"
+         y="258.12286"
+         id="tspan15"
+         style="stroke-width:1.12268">Lab</tspan></text>
+    <polyline
+       class="st0"
+       points="257.35 255.06 257.35 591.26 500.35 591.26 500.35 255.06"
+       id="polyline15"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st4"
+       id="text16"
+       x="56.552193"
+       y="258.12286"
+       style="stroke-width:1.12268"><tspan
+         x="56.552193"
+         y="258.12286"
+         id="tspan16"
+         style="stroke-width:1.12268">ID</tspan></text>
+    <polyline
+       class="st0"
+       points="123.1 255.06 123.1 591.26 258.46 591.26 258.46 255.06"
+       id="polyline16"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st6"
+       id="text17"
+       x="478.81412"
+       y="330.36725"
+       style="stroke-width:1.12268"><tspan
+         x="478.81412"
+         y="330.36725"
+         id="tspan17"
+         style="stroke-width:1.12268">0.5</tspan></text>
+    <line
+       class="st0"
+       x1="460.21127"
+       y1="123.58103"
+       x2="460.21127"
+       y2="501.02554"
+       id="line17"
+       style="stroke-width:1.12268" />
+    <text
+       class="st6"
+       id="text18"
+       x="207.24933"
+       y="330.36725"
+       style="stroke-width:1.12268"><tspan
+         x="207.24933"
+         y="330.36725"
+         id="tspan18"
+         style="stroke-width:1.12268">Abs Eos</tspan></text>
+    <line
+       class="st0"
+       x1="188.64656"
+       y1="123.58103"
+       x2="188.64656"
+       y2="501.02554"
+       id="line19"
+       style="stroke-width:1.12268" />
+    <line
+       class="st0"
+       x1="461.45752"
+       y1="501.02554"
+       x2="461.45752"
+       y2="123.58103"
+       id="line20"
+       style="stroke-width:1.12268" />
+    <text
+       class="st6"
+       id="text20"
+       x="56.552193"
+       y="330.36725"
+       style="stroke-width:1.12268"><tspan
+         x="56.552193"
+         y="330.36725"
+         id="tspan20"
+         style="stroke-width:1.12268">555</tspan></text>
+    <line
+       class="st0"
+       x1="37.92696"
+       y1="123.58103"
+       x2="37.92696"
+       y2="501.02554"
+       id="line21"
+       style="stroke-width:1.12268" />
+    <line
+       class="st0"
+       x1="189.89273"
+       y1="501.02554"
+       x2="189.89273"
+       y2="123.58103"
+       id="line22"
+       style="stroke-width:1.12268" />
+    <text
+       class="st6"
+       id="text22"
+       x="478.81412"
+       y="403.86902"
+       style="stroke-width:1.12268"><tspan
+         x="478.81412"
+         y="403.86902"
+         id="tspan22"
+         style="stroke-width:1.12268">200</tspan></text>
+    <polyline
+       class="st0"
+       points="659.01 721.07 659.01 383.77 499.24 383.77 499.24 721.07"
+       id="polyline22"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st6"
+       transform="scale(0.9,1.1111111)"
+       id="text23"
+       x="230.27705"
+       y="363.48206"
+       style="stroke-width:1.01041"><tspan
+         x="230.27705"
+         y="363.48206"
+         id="tspan23"
+         style="stroke-width:1.01041">ALT</tspan></text>
+    <polyline
+       class="st0"
+       points="500.35 702.07 500.35 364.77 257.35 364.77 257.35 702.07"
+       id="polyline23"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st6"
+       id="text24"
+       x="56.552193"
+       y="403.86902"
+       style="stroke-width:1.12268"><tspan
+         x="56.552193"
+         y="403.86902"
+         id="tspan24"
+         style="stroke-width:1.12268">555</tspan></text>
+    <polyline
+       class="st0"
+       points="258.46 721.07 258.46 383.77 123.1 383.77 123.1 721.07"
+       id="polyline24"
+       transform="matrix(1.1226786,0,0,1.1226786,-100.27478,-235.01376)" />
+    <text
+       class="st4"
+       id="text32"
+       x="254.14362"
+       y="497.90451"
+       style="stroke-width:1.12268"><tspan
+         x="254.14362"
+         y="497.90451"
+         id="tspan32"
+         style="stroke-width:1.12268">Tables</tspan></text>
+    <line
+       class="st1"
+       x1="638.80701"
+       y1="202.77478"
+       x2="638.80701"
+       y2="423.50464"
+       id="line12" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer2">
+    <text
+       class="st3"
+       id="text5"
+       x="690.62988"
+       y="151.6143"
+       style="stroke-width:1.12268"><tspan
+         x="690.62988"
+         y="151.6143"
+         id="tspan5"
+         style="stroke-width:1.12268">Semi-structured</tspan></text>
+    <text
+       class="st7"
+       id="text28"
+       x="708.17737"
+       y="277.18594"
+       style="stroke-width:1.12268"><tspan
+         class="st5"
+         id="tspan26"
+         style="stroke-width:1.12268"><tspan
+           x="708.17737"
+           y="277.18594"
+           id="tspan25"
+           style="stroke-width:1.12268">Allergy List</tspan></tspan><tspan
+         class="st8"
+         id="tspan28"
+         style="stroke-width:1.12268"><tspan
+           x="708.17737"
+           y="347.24109"
+           id="tspan27"
+           style="stroke-width:1.12268">Vancomycin (DRESS)</tspan></tspan></text>
+    <rect
+       class="st2"
+       x="684.4776"
+       y="204.82932"
+       width="612.98254"
+       height="221.41467"
+       id="rect31" />
+    <text
+       class="st4"
+       id="text34"
+       x="777.68237"
+       y="488.78842"
+       style="stroke-width:1.12268"><tspan
+         x="777.68237"
+         y="488.78842"
+         id="tspan34"
+         style="stroke-width:1.12268">Organized lists</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="layer3">
+    <text
+       class="st3"
+       id="text2"
+       x="1384.3416"
+       y="153.42812"
+       style="stroke-width:1.12268"><tspan
+         x="1384.3416"
+         y="153.42812"
+         id="tspan2"
+         style="stroke-width:1.12268">Unstructured</tspan></text>
+    <rect
+       class="st2"
+       x="1344.04"
+       y="201.16934"
+       width="547.31708"
+       height="226.1973"
+       id="rect24" />
+    <text
+       class="st6"
+       id="text31"
+       x="1362.0928"
+       y="264.32004"
+       style="stroke-width:1.12268"><tspan
+         x="1362.0928"
+         y="264.32004"
+         id="tspan29"
+         style="stroke-width:1.12268">“[Name] is a 40</tspan><tspan
+         x="1362.0928"
+         y="334.37518"
+         id="tspan30"
+         style="stroke-width:1.12268">year old male with</tspan><tspan
+         x="1362.0928"
+         y="404.43036"
+         id="tspan31"
+         style="stroke-width:1.12268">a history of DRESS</tspan></text>
+    <text
+       class="st4"
+       id="text33"
+       x="1414.2188"
+       y="493.27908"
+       style="stroke-width:1.12268"><tspan
+         x="1414.2188"
+         y="493.27908"
+         id="tspan33"
+         style="stroke-width:1.12268">Narrative texts</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="layer4"
+     style="display:inline">
+    <polygon
+       class="st2"
+       points="188.51,847.89 1706.84,684.01 187,699 "
+       id="polygon2"
+       transform="matrix(1.1226786,0,0,1.1226786,-97.521762,-187.50772)" />
+    <text
+       class="st4"
+       id="text3"
+       x="144.02254"
+       y="689.43896"
+       style="stroke-width:1.12268"><tspan
+         x="144.02254"
+         y="689.43896"
+         id="tspan3"
+         style="stroke-width:1.12268">Ease of use</tspan></text>
+    <text
+       class="st4"
+       id="text3-3"
+       x="124.63832"
+       y="905.38208"
+       style="font-weight:700;font-size:52px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:400.104;display:inline;stroke-width:1.12268"
+       transform="translate(19.271127,-24.777164)"
+       sodipodi:insensitive="true"
+       xml:space="preserve"><tspan
+         x="124.63832"
+         y="905.38208"
+         id="tspan6">Rules-based
+</tspan><tspan
+         x="124.63832"
+         y="970.38208"
+         id="tspan7">criteria</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="layer5"
+     style="display:inline">
+    <text
+       class="st4"
+       id="text4"
+       x="1362.9147"
+       y="725.76501"
+       style="stroke-width:1.12268"><tspan
+         x="1362.9147"
+         y="725.76501"
+         id="tspan4"
+         style="stroke-width:1.12268">Amount of data</tspan></text>
+    <polygon
+       class="st2"
+       points="1721,698 198.55,861.78 1722.2,846.72 "
+       id="polygon5"
+       transform="matrix(1.1226786,0,0,1.1226786,-97.521762,-179.24867)" />
+    <text
+       class="st4"
+       id="text3-3-1"
+       x="124.63832"
+       y="905.38208"
+       style="font-weight:700;font-size:52px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:400.104;stroke-width:1.12268"
+       xml:space="preserve"
+       transform="translate(1272.429,-22.430547)"><tspan
+         x="124.63832"
+         y="905.38208"
+         id="tspan8">Large language </tspan><tspan
+         x="124.63832"
+         y="970.38208"
+         id="tspan9">models</tspan></text>
+  </g>
 </svg>
