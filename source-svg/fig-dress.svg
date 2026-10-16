@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.24921754"
-     inkscape:cx="786.46151"
-     inkscape:cy="627.96544"
+     inkscape:zoom="0.27898015"
+     inkscape:cx="937.34269"
+     inkscape:cy="632.66151"
      inkscape:window-width="1512"
      inkscape:window-height="762"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7" />
+     inkscape:current-layer="layer2" />
   <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs
      id="defs369">
@@ -2770,7 +2770,7 @@
          sodipodi:role="line"
          id="tspan9"
          x="896.28925"
-         y="476.44849"></tspan><tspan
+         y="476.44849" /><tspan
          sodipodi:role="line"
          id="tspan10"
          x="896.28925"
@@ -2841,20 +2841,33 @@
        id="text380"
        x="1142.774"
        y="110.37014"
-       style="font-size:52px;white-space:pre;inline-size:735.824;stroke-width:1.13153"
+       style="font-size:52px;white-space:pre;inline-size:735.824;display:inline;stroke-width:1.13153"
        transform="translate(-56.151936,-14.151936)"
        xml:space="preserve"><tspan
          x="1142.774"
          y="110.37014"
-         id="tspan2"><tspan
+         id="tspan7"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan1">Facial edema 
+           id="tspan5">Facial edema 
 </tspan></tspan><tspan
          x="1142.774"
          y="175.37014"
-         id="tspan4"><tspan
+         id="tspan12"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan3">(&gt;75% cases)</tspan></tspan></text>
+           id="tspan11">(&gt;75% cases)</tspan></tspan></text>
+    <text
+       class="st12"
+       id="text380-9"
+       x="1142.774"
+       y="110.37014"
+       style="font-weight:700;font-size:52px;font-family:Arial-BoldMT, Arial;white-space:pre;inline-size:735.824;display:inline;stroke-width:1.13153"
+       transform="translate(-444.1875,9.6197833)"
+       xml:space="preserve"><tspan
+         x="1142.774"
+         y="110.37014"
+         id="tspan14"><tspan
+           style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan13">Fever</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3153,20 +3166,20 @@
        id="text383"
        x="1173.9729"
        y="659.10699"
-       style="font-size:52px;white-space:pre;inline-size:656.357;fill:#550000;stroke-width:1.13153"
+       style="font-size:52px;white-space:pre;inline-size:656.357;display:inline;fill:#000000;stroke-width:1.13153"
        transform="translate(-42)"
        xml:space="preserve"><tspan
          x="1173.9729"
          y="659.10699"
-         id="tspan8"><tspan
+         id="tspan21"><tspan
    style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-   id="tspan6">Polymorphic, evolving rash</tspan>
+   id="tspan16">Polymorphic, evolving rash</tspan>
 </tspan><tspan
          x="1173.9729"
          y="724.10699"
-         id="tspan17"><tspan
+         id="tspan35"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan15">(Usually &gt;50% BSA)</tspan></tspan></text>
+           id="tspan34">(Usually &gt;50% BSA)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3233,22 +3246,22 @@
        id="text390"
        x="1224.5746"
        y="347.91449"
-       style="font-size:52px;white-space:pre;inline-size:721.742;stroke-width:1.13153"
+       style="font-size:52px;white-space:pre;inline-size:721.742;display:inline;stroke-width:1.13153"
        transform="translate(-42)"
        xml:space="preserve"><tspan
          x="1224.5746"
          y="347.91449"
-         id="tspan20"><tspan
+         id="tspan38"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan18">Mild mucosal involvement</tspan><tspan
+           id="tspan36">Mild mucosal involvement</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan19">
+           id="tspan37">
 </tspan></tspan><tspan
          x="1224.5746"
          y="412.91449"
-         id="tspan23"><tspan
+         id="tspan40"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan22">(~50% cases)</tspan></tspan></text>
+           id="tspan39">(~50% cases)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3312,22 +3325,22 @@
        id="text387"
        x="83.942436"
        y="702.36273"
-       style="font-size:52px;white-space:pre;inline-size:494.516;stroke-width:1.13153"
+       style="font-size:52px;white-space:pre;inline-size:494.516;display:inline;stroke-width:1.13153"
        transform="translate(85.36742,-209.92038)"
        xml:space="preserve"><tspan
          x="83.942436"
          y="702.36273"
-         id="tspan26"><tspan
+         id="tspan43"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan24">Lymphadenopathy</tspan><tspan
+           id="tspan41">Lymphadenopathy</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan25">
+           id="tspan42">
 </tspan></tspan><tspan
          x="83.942436"
          y="767.36273"
-         id="tspan28"><tspan
+         id="tspan45"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan27">(&gt;50% cases)</tspan></tspan></text>
+           id="tspan44">(&gt;50% cases)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3383,22 +3396,22 @@
        id="text388"
        x="145.73914"
        y="941.78699"
-       style="font-size:52px;white-space:pre;inline-size:483.483;stroke-width:1.13153"
+       style="font-size:52px;white-space:pre;inline-size:483.483;display:inline;stroke-width:1.13153"
        transform="translate(235.28437,-1.4082623)"
        xml:space="preserve"><tspan
          x="145.73914"
          y="941.78699"
-         id="tspan31"><tspan
+         id="tspan48"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan29">Nikolsky negative</tspan><tspan
+           id="tspan46">Nikolsky negative</tspan><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan30">
+           id="tspan47">
 </tspan></tspan><tspan
          x="145.73914"
          y="1006.787"
-         id="tspan33"><tspan
+         id="tspan50"><tspan
            style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan32">blistering</tspan></tspan></text>
+           id="tspan49">blistering</tspan></tspan></text>
     <path
        class="st8"
        d="m 889.13,897.62 c -3.59,4.48 2.08,9.03 0.12,12.66 -6.89,12.72 -19.96,-6.73 -20.01,-12.47 -0.05,-5.74 10.49,-9.14 14.61,-9.18 4.12,-0.04 9.31,3.98 5.28,8.99 z"
